@@ -1,0 +1,1534 @@
+<template>
+  <div class="search-result-page">
+    <div class="header">
+      <div class="back-icon-container" onclick="goBack">
+        <text static class="back-icon">←</text>
+      </div>
+    </div>
+
+    <div class="content-container">
+      <div class="search-info" if="{{ word }}">
+        <div class="search-word-container">
+          <text static class="search-mode-label">{{ searchMode }}: </text>
+          <text class="search-word-text">"{{ word }}"</text>
+        </div>
+        <div class="result-limit-inline" if="{{ showLimitNotice }}">
+          <text static class="limit-inline-text">结果过多(前{{ maxResults }}个)</text>
+        </div>
+      </div>
+
+      <div class="result-list" if="{{ results.length > 0 && !isLoadingAI }}">
+        <div class="result-item-wrapper" for="{{($idx, $item) in results}}">
+          <!-- 经典样式 -->
+          <div class="result-item result-item-list {{ $item.isAI ? 'ai-result' : '' }}" if="{{ uiStyle === 'classic' }}" onclick="goToDetail($item)">
+            <div class="item-content">
+              <text class="item-word">{{ $item.word }}</text>
+              <text class="item-definition">{{ $item.definition }}</text>
+              <text class="ai-badge" if="{{ $item.isAI }}">AI</text>
+            </div>
+            <div class="item-actions" onclick="toggleFavorite($item, $event)">
+              <text class="favorite-icon">{{ $item.isFavorited ? '⭐' : '☆' }}</text>
+            </div>
+          </div>
+          
+          <!-- 彩色卡片样式 -->
+          <div class="result-item result-item-card {{ $item.isAI ? 'ai-result' : '' }}" if="{{ uiStyle === 'colorful' }}" style="background-color: {{ getCardColor($idx) }}" onclick="goToDetail($item)">
+            <div class="item-content">
+              <text class="item-word">{{ $item.word }}</text>
+              <text class="item-definition">{{ $item.definition }}</text>
+              <text class="ai-badge" if="{{ $item.isAI }}">AI</text>
+            </div>
+            <div class="item-actions" onclick="toggleFavorite($item, $event)">
+              <text class="favorite-icon">{{ $item.isFavorited ? '⭐' : '☆' }}</text>
+            </div>
+          </div>
+          
+          <!-- 渐变卡片样式 -->
+          <div class="result-item result-item-gradient {{ $item.isAI ? 'ai-result' : '' }}" if="{{ uiStyle === 'gradient' }}" onclick="goToDetail($item)">
+            <image class="gradient-bg-image" src="{{ getGradientImage($idx) }}"></image>
+            <div class="gradient-content-overlay">
+              <div class="item-content">
+                <text class="item-word">{{ $item.word }}</text>
+                <text class="item-definition">{{ $item.definition }}</text>
+                <text class="ai-badge" if="{{ $item.isAI }}">AI</text>
+              </div>
+              <div class="item-actions" onclick="toggleFavorite($item, $event)">
+                <text class="favorite-icon">{{ $item.isFavorited ? '⭐' : '☆' }}</text>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- 问AI按钮放在列表底部 -->
+        <div class="ai-query-section-bottom" if="{{ !aiError }}">
+          <div class="ai-query-btn" onclick="performAIQuery">
+            <text static class="ai-query-btn-text">不满意？问AI</text>
+          </div>
+        </div>
+      </div>
+
+      <div class="ai-loading" if="{{ isLoadingAI }}">
+        <text static class="loading-text">AI正在查询中...</text>
+      </div>
+
+      <div class="ai-error" if="{{ aiError && !isLoadingAI && results.length === 0 }}">
+        <text static class="error-text">{{ aiError }}</text>
+        <div class="retry-btn" onclick="performAIQuery">
+          <text static class="retry-btn-text">重试</text>
+        </div>
+      </div>
+
+      <div class="no-result" if="{{ results.length === 0 && !isLoadingAI && !aiError }}">
+        <text static class="no-result-text">未找到相关单词</text>
+        <div class="ai-query-btn" onclick="performAIQuery">
+          <text static class="ai-query-btn-text">试试AI</text>
+        </div>
+        <div class="retry-btn" onclick="goBack">
+          <text static class="retry-btn-text">返回重新搜索</text>
+        </div>
+      </div>
+    </div>
+    
+    <!-- 捐赠提示 - 固定在底部 -->
+    <div class="donation-tip" if="{{ showDonation }}">
+      <text class="donation-text">AI功能价格昂贵，请各位帅哥美女捐赠一点吧~</text>
+    </div>
+  </div>
+</template>
+
+<script>
+import router from "@system.router"
+import storage from "../../storage"
+import { dictionary } from "../../common/dictionary"
+
+// 字典数据不需要响应式，移到data外
+const dictionaryData = dictionary;
+
+export default {
+  data: {
+    word: "",
+    results: [],
+    showLimitNotice: false,
+    maxResults: 0,
+    searchMode: "搜索",
+    isLoadingAI: false,
+    aiError: null,
+    showDonationAlert: false,
+    uiStyle: 'classic',
+    cardColors: [
+      '#4A3828', // 柔和深棕
+      '#2A3A3A', // 柔和深青灰
+      '#3A3050', // 柔和深紫灰
+      '#2A4A38', // 柔和深绿灰
+      '#5A4828', // 柔和深金灰
+      '#4A2848', // 柔和深洋红灰
+      '#3A4830', // 柔和橄榄灰
+      '#4A4038'  // 柔和深卡其灰
+    ],
+    gradientImages: [
+      '/common/lightblue.png',
+      '/common/lightgreen.png',
+      '/common/lightpurple.png',
+      '/common/lightpink.png',
+      '/common/lightyellow.png'
+    ]
+  },
+
+  onInit() {
+    console.log('=== 搜索结果页面初始化 ===');
+    console.log('完整的params对象:', this.params);
+    console.log('params.word:', this.params ? this.params.word : 'undefined');
+    
+    // 加载UI样式设置
+    this.loadUIStyle();
+    
+    // 从路由参数中获取搜索词
+    if (this.params && this.params.word) {
+      this.word = this.params.word;
+      console.log('搜索结果页面 - 接收到搜索词:', this.word);
+    } else {
+      console.log('搜索结果页面 - 未接收到搜索词参数');
+    }
+    
+    console.log('即将执行搜索，当前word:', this.word);
+    this.performSearch();
+  },
+
+  onShow() {
+    this.loadUIStyle();
+  },
+
+  loadUIStyle() {
+    storage.get({
+      key: 'ui_style',
+      default: 'classic',
+      success: (data) => {
+        this.uiStyle = data || 'classic';
+        console.log('加载UI样式:', this.uiStyle);
+      },
+      fail: () => {
+        this.uiStyle = 'classic';
+      }
+    });
+  },
+
+  getCardColor(idx) {
+    return this.cardColors[idx % this.cardColors.length];
+  },
+
+  getGradientImage(idx) {
+    return this.gradientImages[idx % this.gradientImages.length];
+  },
+
+  performSearch() {
+    const searchKey = (this.word || "").trim();
+    const matches = [];
+    
+    // 判断是否为中文输入
+    const isChinese = /[\u4e00-\u9fa5]/.test(searchKey);
+    
+    // 设置搜索模式标签
+    this.searchMode = isChinese ? "中→英" : "英→中";
+    
+    // 重置AI相关状态
+    this.isLoadingAI = false;
+    this.aiError = null;
+    
+    // 优化：减少不必要的console.log，减少内存占用
+    const dictionaryKeys = Object.keys(dictionaryData);
+    
+    if (searchKey) {
+      if (isChinese) {
+        // 中文翻译英文：在释义中搜索中文
+        this.searchChineseToEnglish(searchKey, matches, dictionaryKeys);
+      } else {
+        // 英文翻译中文：原有的英文搜索逻辑
+        this.searchEnglishToChinese(searchKey, matches, dictionaryKeys);
+      }
+      
+      // 同时搜索AI词典
+      this.searchFromAIDictionary(searchKey, isChinese);
+      
+      // 同时搜索手动词库
+      this.searchFromManualDictionary(searchKey, isChinese);
+    } else {
+      this.showLimitNotice = false;
+      this.maxResults = 0;
+    }
+
+    // 原地更新results数组，避免重新分配内存
+    this.results.length = 0;
+    for (let i = 0; i < matches.length; i++) {
+      this.results.push(matches[i]);
+    }
+    
+    // 检查每个结果的收藏状态
+    this.checkFavoritesStatus();
+    
+    console.log('搜索完成，找到', this.results.length, '个结果');
+  },
+
+  // 英文翻译中文的搜索逻辑
+  searchEnglishToChinese(searchKey, matches, dictionaryKeys) {
+    const searchKeyLower = searchKey.toLowerCase();
+    
+    // 1. 精确匹配
+    if (dictionaryData[searchKeyLower]) {
+      matches.push({
+        word: searchKeyLower,
+        definition: dictionaryData[searchKeyLower]
+      });
+    }
+
+    // 2. 模糊匹配 - 添加单字搜索限制
+    const isSingleChar = searchKeyLower.length === 1;
+    const maxResults = isSingleChar ? 75 : 200; // 单字限制75个结果，多字限制200个结果
+    let matchCount = 0;
+    
+    if (isSingleChar) {
+      // 单字搜索：优先显示以该字母开头的单词，然后是包含该字母的短单词
+      const startsWithMatches = [];
+      const containsMatches = [];
+      
+      for (let i = 0; i < dictionaryKeys.length && matchCount < maxResults; i++) {
+        const key = dictionaryKeys[i];
+        if (key !== searchKeyLower) {
+          if (key.startsWith(searchKeyLower)) {
+            startsWithMatches.push({
+              word: key,
+              definition: dictionaryData[key]
+            });
+            matchCount++;
+          } else if (key.includes(searchKeyLower) && key.length <= 8 && matchCount < maxResults) {
+            containsMatches.push({
+              word: key,
+              definition: dictionaryData[key]
+            });
+            matchCount++;
+          }
+        }
+      }
+      
+      // 先添加开头匹配的结果，再添加包含匹配的结果
+      matches.push(...startsWithMatches);
+      matches.push(...containsMatches.slice(0, maxResults - startsWithMatches.length));
+    } else {
+      // 多字搜索：正常模糊匹配
+      for (let i = 0; i < dictionaryKeys.length && matchCount < maxResults; i++) {
+        const key = dictionaryKeys[i];
+        if (key !== searchKeyLower && key.includes(searchKeyLower)) {
+          matches.push({
+            word: key,
+            definition: dictionaryData[key]
+          });
+          matchCount++;
+        }
+      }
+    }
+    
+    // 设置限制提示状态
+    this.showLimitNotice = matches.length >= maxResults;
+    this.maxResults = maxResults;
+  },
+
+  // 中文翻译英文的搜索逻辑
+  searchChineseToEnglish(searchKey, matches, dictionaryKeys) {
+    const maxResults = 100; // 中文搜索限制100个结果
+    const exactMatches = [];
+    const partialMatches = [];
+    
+    // 在所有英文单词的释义中搜索中文
+    for (let i = 0; i < dictionaryKeys.length; i++) {
+      const englishWord = dictionaryKeys[i];
+      const chineseDefinition = dictionaryData[englishWord];
+      
+      // 精确匹配中文（优先级最高）
+      if (chineseDefinition === searchKey) {
+        exactMatches.push({
+          word: englishWord,
+          definition: chineseDefinition
+        });
+      } else if (chineseDefinition.includes(searchKey)) {
+        // 模糊匹配中文（包含搜索词）
+        partialMatches.push({
+          word: englishWord,
+          definition: chineseDefinition
+        });
+      }
+    }
+    
+    // 先添加精确匹配的结果，再添加部分匹配的结果
+    matches.push(...exactMatches);
+    
+    // 限制部分匹配的数量
+    const remainingSlots = maxResults - exactMatches.length;
+    if (remainingSlots > 0) {
+      matches.push(...partialMatches.slice(0, remainingSlots));
+    }
+    
+    // 设置限制提示状态
+    this.showLimitNotice = (exactMatches.length + partialMatches.length) > maxResults;
+    this.maxResults = maxResults;
+  },
+
+  async performAIQuery() {
+    const searchKey = (this.word || "").trim();
+    if (!searchKey) {
+      return;
+    }
+    
+    const isChinese = /[\u4e00-\u9fa5]/.test(searchKey);
+    
+    this.isLoadingAI = true;
+    this.aiError = null;
+    
+    try {
+      console.log('开始AI查询:', searchKey);
+      
+      // 动态导入AI服务
+      const aiService = await import("../../common/aiService");
+      const aiResult = await aiService.queryAI(searchKey, isChinese);
+      
+      // 将AI结果添加到结果列表的开头
+      const aiItem = {
+        word: searchKey,
+        definition: aiResult,
+        isAI: true
+      };
+      
+      this.results.unshift(aiItem);
+      
+      // 检查AI结果的收藏状态
+      this.checkAIFavoriteStatus(aiItem);
+      
+      // 将AI查询结果存入本地词典
+      this.saveToAIDictionary(searchKey, aiResult);
+      
+      // 直接显示捐赠提示
+      this.showDonationAlert = true;
+      
+      console.log('AI查询成功，结果已添加并保存到词典');
+    } catch (error) {
+      console.error('AI查询失败:', error);
+      this.aiError = error.message || 'AI查询服务暂时不可用';
+    } finally {
+      this.isLoadingAI = false;
+    }
+  },
+
+  // 将AI查询结果保存到本地词典（异步）
+  saveToAIDictionary(word, definition) {
+    const wordKey = word.toLowerCase().trim();
+    
+    // 先获取现有词典
+    storage.get({
+      key: 'ai_dictionary',
+      default: '',
+      success: (savedData) => {
+        let aiDictionary = {};
+        
+        if (savedData) {
+          try {
+            aiDictionary = JSON.parse(savedData);
+          } catch (e) {
+            console.error('解析AI词典失败:', e);
+            aiDictionary = {};
+          }
+        }
+        
+        // 添加新单词
+        aiDictionary[wordKey] = definition;
+        
+        // 保存回存储
+        storage.set({
+          key: 'ai_dictionary',
+          value: JSON.stringify(aiDictionary),
+          success: () => {
+            console.log('AI词典已保存:', wordKey);
+          },
+          fail: (err) => {
+            console.error('保存AI词典失败:', err);
+          }
+        });
+      },
+      fail: (err) => {
+        console.error('读取AI词典失败:', err);
+        // 即使读取失败，也创建新的词典
+        const aiDictionary = {};
+        aiDictionary[wordKey] = definition;
+        
+        storage.set({
+          key: 'ai_dictionary',
+          value: JSON.stringify(aiDictionary),
+          success: () => {
+            console.log('AI词典已创建并保存:', wordKey);
+          },
+          fail: (err) => {
+            console.error('创建AI词典失败:', err);
+          }
+        });
+      }
+    });
+  },
+
+  // 从AI词典中搜索（异步）
+  searchFromAIDictionary(searchKey, isChinese) {
+    storage.get({
+      key: 'ai_dictionary',
+      default: '',
+      success: (savedData) => {
+        if (!savedData) return;
+        
+        try {
+          const aiDictionary = JSON.parse(savedData);
+          const searchKeyLower = searchKey.toLowerCase().trim();
+          
+          if (isChinese) {
+            // 中文搜索：在AI词典的释义中搜索
+            for (const word in aiDictionary) {
+              const definition = aiDictionary[word];
+              if (definition && definition.includes(searchKey)) {
+                const exists = this.results.some(m => m.word.toLowerCase() === word.toLowerCase());
+                if (!exists) {
+                  this.results.unshift({
+                    word: word,
+                    definition: definition,
+                    isAI: true
+                  });
+                }
+              }
+            }
+          } else {
+            // 英文搜索：精确匹配和模糊匹配
+            if (aiDictionary[searchKeyLower]) {
+              const exists = this.results.some(m => m.word.toLowerCase() === searchKeyLower);
+              if (!exists) {
+                this.results.unshift({
+                  word: searchKeyLower,
+                  definition: aiDictionary[searchKeyLower],
+                  isAI: true
+                });
+              }
+            }
+            
+            // 模糊匹配
+            for (const word in aiDictionary) {
+              if (word.toLowerCase() !== searchKeyLower && word.toLowerCase().includes(searchKeyLower)) {
+                const exists = this.results.some(m => m.word.toLowerCase() === word.toLowerCase());
+                if (!exists) {
+                  this.results.push({
+                    word: word,
+                    definition: aiDictionary[word],
+                    isAI: true
+                  });
+                }
+              }
+            }
+          }
+          
+          // 更新收藏状态
+          this.checkFavoritesStatus();
+          
+          console.log('从AI词典搜索完成');
+        } catch (e) {
+          console.error('解析AI词典失败:', e);
+        }
+      },
+      fail: (err) => {
+        console.log('AI词典不存在或读取失败');
+      }
+    });
+  },
+
+  // 从手动词库中搜索（异步）
+  searchFromManualDictionary(searchKey, isChinese) {
+    storage.get({
+      key: 'manual_dictionary',
+      default: '',
+      success: (savedData) => {
+        if (!savedData) return;
+        
+        try {
+          const manualDictionary = JSON.parse(savedData);
+          const searchKeyLower = searchKey.toLowerCase().trim();
+          
+          if (isChinese) {
+            // 中文搜索：在手动词库的释义中搜索
+            for (const word in manualDictionary) {
+              const definition = manualDictionary[word];
+              if (definition && definition.includes(searchKey)) {
+                const exists = this.results.some(m => m.word.toLowerCase() === word.toLowerCase());
+                if (!exists) {
+                  this.results.unshift({
+                    word: word,
+                    definition: definition,
+                    isManual: true
+                  });
+                }
+              }
+            }
+          } else {
+            // 英文搜索：精确匹配和模糊匹配
+            if (manualDictionary[searchKeyLower]) {
+              const exists = this.results.some(m => m.word.toLowerCase() === searchKeyLower);
+              if (!exists) {
+                this.results.unshift({
+                  word: searchKeyLower,
+                  definition: manualDictionary[searchKeyLower],
+                  isManual: true
+                });
+              }
+            }
+            
+            // 模糊匹配
+            for (const word in manualDictionary) {
+              if (word.toLowerCase() !== searchKeyLower && word.toLowerCase().includes(searchKeyLower)) {
+                const exists = this.results.some(m => m.word.toLowerCase() === word.toLowerCase());
+                if (!exists) {
+                  this.results.push({
+                    word: word,
+                    definition: manualDictionary[word],
+                    isManual: true
+                  });
+                }
+              }
+            }
+          }
+          
+          // 重新检查收藏状态
+          this.checkFavoritesStatus();
+          
+          console.log('从手动词库搜索完成');
+        } catch (e) {
+          console.error('解析手动词库失败:', e);
+        }
+      },
+      fail: (err) => {
+        console.log('手动词库不存在或读取失败');
+      }
+    });
+  },
+
+  checkAIFavoriteStatus(aiItem) {
+    try {
+      const favoritesData = storage.getSync({
+        key: 'favorites',
+        default: ''
+      });
+      
+      let favorites = [];
+      if (favoritesData) {
+        favorites = JSON.parse(favoritesData);
+      }
+      
+      // 更新AI结果的收藏状态
+      aiItem.isFavorited = favorites.some(item => item.word === aiItem.word);
+    } catch (e) {
+      console.error('检查AI结果收藏状态失败:', e);
+    }
+  },
+
+  showDonationTip() {
+    // 显示价格和捐赠提示
+    console.log('显示捐赠提示');
+  },
+
+  checkFavoritesStatus() {
+    try {
+      const favoritesData = storage.getSync({
+        key: 'favorites',
+        default: ''
+      });
+      
+      let favorites = [];
+      if (favoritesData) {
+        favorites = JSON.parse(favoritesData);
+      }
+      
+      // 更新每个结果的收藏状态
+      for (let i = 0; i < this.results.length; i++) {
+        this.results[i].isFavorited = favorites.some(item => item.word === this.results[i].word);
+      }
+    } catch (e) {
+      console.error('检查收藏状态失败:', e);
+    }
+  },
+
+  toggleFavorite(item, event) {
+    // 阻止事件冒泡，防止触发跳转
+    if (event && event.stopPropagation) {
+      event.stopPropagation();
+    }
+    
+    // 验证item参数
+    if (!item || !item.word) {
+      console.error('收藏失败：无效的item参数', item);
+      return;
+    }
+    
+    console.log('=== 收藏按钮被点击 ===');
+    console.log('单词:', item.word);
+    console.log('当前状态:', item.isFavorited);
+    
+    // 获取当前收藏列表
+    let favorites = [];
+    try {
+      const favoritesData = storage.getSync({
+        key: 'favorites',
+        default: ''
+      });
+      if (favoritesData) {
+        favorites = JSON.parse(favoritesData);
+      }
+      console.log('获取收藏列表成功，数量:', favorites.length);
+    } catch (e) {
+      console.log('获取收藏列表失败，使用空列表:', e);
+      favorites = [];
+    }
+    
+    // 查找当前单词在收藏列表中的索引
+    const existingIndex = favorites.findIndex(fav => fav.word === item.word);
+    console.log('单词在收藏列表中的位置:', existingIndex);
+    
+    if (existingIndex >= 0) {
+      // 取消收藏
+      favorites.splice(existingIndex, 1);
+      item.isFavorited = false;
+      console.log('取消收藏成功');
+    } else {
+      // 添加收藏
+      favorites.push({
+        word: item.word,
+        definition: item.definition || '',
+        addedTime: new Date().getTime()
+      });
+      item.isFavorited = true;
+      console.log('添加收藏成功');
+    }
+    
+    // 保存收藏列表
+    try {
+      storage.setSync({
+        key: 'favorites',
+        value: JSON.stringify(favorites)
+      });
+      console.log('保存收藏列表成功');
+    } catch (e) {
+      console.error('保存收藏失败:', e);
+      // 恢复原始状态
+      item.isFavorited = existingIndex >= 0;
+    }
+  },
+
+  goBack() {
+    router.back();
+  },
+
+  goToDetail(item) {
+    console.log('=== 开始跳转到详情页 ===');
+    console.log('单词:', item.word);
+    console.log('释义:', item.definition);
+    console.log('完整item对象:', JSON.stringify(item));
+    
+    // 确保参数存在
+    if (!item || !item.word) {
+      console.error('跳转失败：缺少必要参数');
+      return;
+    }
+    
+    // 确保全局变量对象存在
+    if (!this.$app.globalData) {
+      this.$app.globalData = {};
+    }
+    
+    // 设置全局变量
+    this.$app.globalData.word = item.word;
+    this.$app.globalData.definition = item.definition || '';
+    console.log('已设置全局变量:', this.$app.globalData);
+    
+    // 方法2：尝试标准跳转
+    try {
+      router.push({
+        uri: '/pages/detail',
+        params: {
+          word: item.word,
+          definition: item.definition || ''
+        }
+      });
+      
+      console.log('标准跳转调用成功');
+    } catch (error) {
+      console.error('标准跳转失败:', error);
+      
+      // 方法3：简化跳转
+      try {
+        router.push({
+          uri: '/pages/detail'
+        });
+        console.log('简化跳转调用成功');
+      } catch (simpleError) {
+        console.error('简化跳转也失败:', simpleError);
+      }
+    }
+    
+    console.log('=== 跳转方法调用完成 ===');
+  },
+
+  closeDonationTip() {
+    this.showDonation = false;
+  },
+
+  onDestroy() {
+    // 页面销毁时清理数据，避免内存泄漏
+    this.results.length = 0;
+    this.word = "";
+    // 释放字典数据的引用
+    if (typeof dictionaryData !== 'undefined') {
+      // 不设置为null，保持引用以便下次使用
+    }
+    // 调用垃圾回收
+    if (typeof global !== 'undefined' && global.runGC) {
+      global.runGC();
+    }
+  }
+}
+</script>
+
+<style>
+.search-result-page {
+  flex-direction: column;
+  background-color: #000000;
+  width: 100%;
+  height: 100%;
+}
+
+.header {
+  width: 100%;
+  height: 80px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 24px;
+}
+
+.back-icon-container {
+  width: 120px;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+  background-color: #1C1C1E;
+  border-radius: 25px;
+  border: 2px solid #2C2C2E;
+}
+
+.back-icon {
+  font-size: 30px;
+  color: #FFFFFF;
+}
+
+.page-title {
+  font-size: 28px;
+  color: #FFFFFF;
+  font-weight: bold;
+  margin-left: 16px;
+}
+
+.content-container {
+  flex: 1;
+  flex-direction: column;
+  width: 100%;
+  padding: 0 0 20px 0;
+}
+
+.search-info {
+  padding: 8px 20px 16px 20px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.search-word-container {
+  flex-direction: row;
+  align-items: center;
+}
+
+.search-mode-label {
+  font-size: 20px;
+  font-weight: bold;
+  color: #007AFF;
+}
+
+.result-limit-inline {
+  background-color: #2C2C2E;
+  padding: 4px 10px;
+  border-radius: 5px;
+  align-items: center;
+}
+
+.limit-inline-text {
+  font-size: 18px;
+  color: #FF9500;
+  font-weight: 500;
+}
+
+.search-word-text {
+  font-size: 20px;
+  color: #0A84FF;
+  margin-left: 6px;
+  font-weight: bold;
+}
+
+.result-list {
+  flex: 1;
+  width: 100%;
+  padding: 0 20px;
+  flex-direction: column;
+  overflow: scroll;
+  scrollable: true;
+}
+
+/* 列表项容器 */
+.result-item-wrapper {
+  width: 100%;
+  margin-bottom: 14px;
+}
+
+/* 卡片样式 (彩色小卡片) */
+.result-item-card {
+  width: 100%;
+  padding: 22px 20px;
+  border-radius: 14px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  box-sizing: border-box;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* 渐变卡片样式 */
+.result-item-gradient {
+  width: 100%;
+  border-radius: 14px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  box-sizing: border-box;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  position: relative;
+  overflow: hidden;
+}
+
+.gradient-bg-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.gradient-content-overlay {
+  width: 100%;
+  padding: 22px 20px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  z-index: 1;
+}
+
+/* 列表样式 (经典样式) */
+.result-item-list {
+  width: 100%;
+  padding: 20px 24px;
+  border-radius: 12px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  box-sizing: border-box;
+  background-color: #2D2D2D;
+}
+
+.item-content {
+
+  flex-direction: column;
+
+  flex: 1;
+
+  margin-right: 10px;
+
+}
+
+
+
+/* 通用文字样式 */
+
+.item-word {
+
+  font-size: 20px;
+
+  color: #FFFFFF;
+
+  font-weight: bold;
+
+  margin-bottom: 10px;
+
+  lines: 1;
+
+  text-overflow: ellipsis;
+
+}
+
+
+
+.item-definition {
+
+  font-size: 15px;
+
+  color: #F0F0F0;
+
+  lines: 2;
+
+  text-overflow: ellipsis;
+
+  line-height: 22px;
+
+}
+
+
+
+/* 经典样式文字颜色调整 */
+
+.result-item-list .item-word {
+
+  color: #007AFF;
+
+}
+
+
+
+.result-item-list .item-definition {
+
+  color: #DDDDDD;
+
+}
+
+.item-actions {
+  flex-direction: row;
+  align-items: center;
+  padding: 10px;
+  margin: -10px;
+}
+
+.arrow-icon {
+  font-size: 20px;
+  color: #3A3A3C;
+  margin-right: 10px;
+}
+
+.favorite-btn {
+  justify-content: center;
+  align-items: center;
+  min-width: 40px;
+  min-height: 40px;
+}
+
+.favorite-icon {
+  font-size: 22px;
+  color: #FFD700;
+}
+
+.no-result {
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.no-result-text {
+  font-size: 28px;
+  color: #8E8E93;
+  margin-bottom: 35px;
+}
+
+.retry-btn {
+  width: 230px;
+  height: 70px;
+  border-radius: 35px;
+  background-color: #1C1C1E;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #3A3A3C;
+}
+
+.retry-btn-text {
+  color: #FFFFFF;
+  font-size: 26px;
+}
+
+.donation-tip {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 8px 16px;
+  background-color: rgba(255, 215, 0, 0.9);
+  justify-content: center;
+  align-items: center;
+  z-index: 100;
+}
+
+.donation-text {
+  font-size: 14px;
+  color: #000000;
+  text-align: center;
+  font-weight: 500;
+}
+
+.ai-loading {
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.loading-text {
+  font-size: 24px;
+  color: #007AFF;
+  margin-bottom: 20px;
+}
+
+.ai-error {
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.error-text {
+  font-size: 20px;
+  color: #FF3B30;
+  margin-bottom: 20px;
+  text-align: center;
+  padding: 0 20px;
+}
+
+.ai-result {
+  border: 2px solid #007AFF;
+}
+
+.ai-badge {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: #007AFF;
+  color: #FFFFFF;
+  font-size: 12px;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+.ai-query-section-bottom {
+  width: 100%;
+  padding: 20px 0 10px 0;
+  justify-content: center;
+  align-items: center;
+}
+
+.ai-query-btn {
+  width: 200px;
+  height: 50px;
+  border-radius: 25px;
+  background-color: #007AFF;
+  justify-content: center;
+  align-items: center;
+}
+
+.ai-query-btn-text {
+  color: #FFFFFF;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/* 小米手环9 Pro 336*480 适配 */
+@media (min-width: 336px) and (max-width: 336px) {
+  .search-result-page {
+    width: 336px;
+    height: 480px;
+  }
+  
+  .header {
+    height: 70px;
+    padding: 0 18px;
+  }
+  
+  .back-icon-container {
+    width: 100px;
+    height: 45px;
+    border-radius: 22px;
+  }
+  
+  .back-icon {
+    font-size: 26px;
+  }
+  
+  .content-container {
+    padding: 0 0 15px 0;
+  }
+  
+  .search-info {
+    padding: 6px 12px 10px 12px;
+  }
+  
+  .search-mode-label {
+    font-size: 16px;
+  }
+  
+  .result-limit-inline {
+    padding: 3px 8px;
+    border-radius: 4px;
+  }
+  
+  .limit-inline-text {
+    font-size: 14px;
+  }
+  
+  .search-word-text {
+    font-size: 16px;
+    margin-left: 4px;
+  }
+  
+  .result-list {
+    padding: 0 12px;
+    overflow: scroll;
+    scrollable: true;
+  }
+  
+  .result-item-wrapper {
+    margin-bottom: 10px;
+  }
+  
+  .result-item-card {
+    padding: 16px 14px;
+    border-radius: 10px;
+  }
+  
+  .result-item-gradient {
+    border-radius: 10px;
+  }
+  
+  .gradient-content-overlay {
+    padding: 16px 14px;
+  }
+  
+  .result-item-list {
+    padding: 14px 16px;
+    border-radius: 10px;
+  }
+  
+  .item-word {
+    font-size: 17px;
+    margin-bottom: 6px;
+  }
+  
+  .item-definition {
+    font-size: 13px;
+    line-height: 18px;
+  }
+  
+  .favorite-icon {
+    font-size: 18px;
+  }
+  
+  .no-result-text {
+    font-size: 22px;
+    margin-bottom: 28px;
+  }
+  
+  .retry-btn {
+    width: 180px;
+    height: 55px;
+    border-radius: 27px;
+  }
+  
+  .retry-btn-text {
+    font-size: 20px;
+  }
+  
+  .loading-text {
+    font-size: 18px;
+  }
+  
+  .error-text {
+    font-size: 16px;
+  }
+  
+  .ai-badge {
+    font-size: 10px;
+    padding: 1px 4px;
+  }
+  
+  .ai-query-section-bottom {
+    padding: 15px 0 8px 0;
+  }
+  
+  .ai-query-btn {
+    width: 160px;
+    height: 40px;
+    border-radius: 20px;
+  }
+  
+  .ai-query-btn-text {
+    font-size: 15px;
+  }
+}
+
+/* 432*514 设备适配 */
+@media (min-width: 432px) and (max-width: 432px) {
+  .search-result-page {
+    width: 432px;
+    height: 514px;
+  }
+  
+  .header {
+    height: 90px;
+    padding: 0 24px;
+  }
+  
+  .back-icon-container {
+    width: 140px;
+    height: 55px;
+    border-radius: 28px;
+  }
+  
+  .back-icon {
+    font-size: 34px;
+  }
+  
+  .content-container {
+    padding: 0 0 24px 0;
+  }
+  
+  .search-info {
+    padding: 10px 24px 20px 24px;
+  }
+  
+  .search-mode-label {
+    font-size: 24px;
+  }
+  
+  .result-limit-inline {
+    padding: 6px 12px;
+    border-radius: 6px;
+  }
+  
+  .limit-inline-text {
+    font-size: 20px;
+  }
+  
+  .search-word-text {
+    font-size: 24px;
+    margin-left: 8px;
+  }
+  
+  .result-list {
+    padding: 0 24px;
+    overflow: scroll;
+    scrollable: true;
+  }
+  
+  .result-item-wrapper {
+    margin-bottom: 14px;
+  }
+  
+  .result-item-card {
+    padding: 24px 22px;
+    border-radius: 14px;
+  }
+  
+  .result-item-gradient {
+    border-radius: 14px;
+  }
+  
+  .gradient-content-overlay {
+    padding: 24px 22px;
+  }
+  
+  .result-item-list {
+    padding: 22px 26px;
+    border-radius: 14px;
+  }
+  
+  .item-word-card {
+    font-size: 20px;
+    margin-bottom: 8px;
+  }
+  
+  .item-definition-card {
+    font-size: 16px;
+    line-height: 22px;
+  }
+  
+  .item-word-list {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .item-definition-list {
+    font-size: 18px;
+    line-height: 24px;
+  }
+  
+  .favorite-icon {
+    font-size: 24px;
+  }
+  
+  .no-result-text {
+    font-size: 32px;
+    margin-bottom: 40px;
+  }
+  
+  .retry-btn {
+    width: 260px;
+    height: 80px;
+    border-radius: 40px;
+  }
+  
+  .retry-btn-text {
+    font-size: 30px;
+  }
+  
+  .loading-text {
+    font-size: 28px;
+  }
+  
+  .error-text {
+    font-size: 24px;
+  }
+  
+  .ai-badge {
+    font-size: 14px;
+    padding: 3px 8px;
+  }
+  
+  .ai-query-section-bottom {
+    padding: 25px 0 10px 0;
+  }
+  
+  .ai-query-btn {
+    width: 220px;
+    height: 55px;
+    border-radius: 28px;
+  }
+  
+  .ai-query-btn-text {
+    font-size: 20px;
+  }
+}
+
+/* 小米圆形手表 466*466 适配 */
+@media screen and (shape: circle) {
+  .header {
+    height: 70px;
+    padding: 0 20px;
+  }
+
+  .back-icon-container {
+    width: 105px;
+    height: 45px;
+    border-radius: 23px;
+  }
+
+  .back-icon {
+    font-size: 26px;
+  }
+
+  .page-title {
+    font-size: 20px;
+  }
+
+  .content-container {
+    padding: 0 18px;
+  }
+
+  .search-bar {
+    padding: 0 16px;
+    margin-bottom: 12px;
+    border-radius: 28px;
+  }
+
+  .search-input {
+    font-size: 22px;
+  }
+
+  .search-btn {
+    width: 60px;
+    height: 42px;
+    border-radius: 21px;
+  }
+
+  .search-btn-text {
+    font-size: 18px;
+  }
+
+  .results-list {
+    padding: 0 18px;
+  }
+
+  .result-item-wrapper {
+    margin-bottom: 12px;
+  }
+
+  .result-item-card {
+    padding: 18px 16px;
+    border-radius: 14px;
+  }
+
+  .result-item-gradient {
+    border-radius: 14px;
+  }
+
+  .gradient-content-overlay {
+    padding: 18px 16px;
+  }
+
+  .result-item-list {
+    padding: 18px 20px;
+    border-radius: 14px;
+  }
+
+  .item-word-card {
+    font-size: 18px;
+    margin-bottom: 7px;
+  }
+
+  .item-definition-card {
+    font-size: 15px;
+    line-height: 20px;
+  }
+
+  .item-word-list {
+    font-size: 18px;
+    margin-bottom: 9px;
+  }
+
+  .item-definition-list {
+    font-size: 16px;
+    line-height: 22px;
+  }
+
+  .favorite-icon {
+    font-size: 22px;
+  }
+
+  .no-result-text {
+    font-size: 24px;
+    margin-bottom: 30px;
+  }
+
+  .retry-btn {
+    width: 200px;
+    height: 60px;
+    border-radius: 30px;
+  }
+
+  .retry-btn-text {
+    font-size: 24px;
+  }
+
+  .loading-text {
+    font-size: 22px;
+  }
+
+  .error-text {
+    font-size: 20px;
+  }
+
+  .ai-badge {
+    font-size: 13px;
+    padding: 3px 7px;
+  }
+
+  .ai-query-section-bottom {
+    padding: 20px 0 10px 0;
+  }
+
+  .ai-query-btn {
+    width: 200px;
+    height: 52px;
+    border-radius: 26px;
+  }
+
+  .ai-query-btn-text {
+    font-size: 18px;
+  }
+
+  .keyboard-container {
+    height: 300px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+  }
+}
+</style>
