@@ -1,0 +1,2561 @@
+fire|火
+flower|花
+fish|鱼
+friend|朋友
+family|家庭
+food|食物
+fruit|水果
+four|四
+five|五
+forest|森林
+free|免费
+fever|发烧
+full|饱的
+fast|快的
+false|虚假的
+first|第一
+finish|完成
+failure|失败
+future|未来
+foolish|愚蠢的
+force|力
+frequency|频率
+formula|公式
+fossil|化石
+furniture|家具
+fan|风扇
+fitness|健身
+face|面对
+fail|失败
+fall|落下
+fear|害怕
+feed|喂养
+feel|感觉
+fight|战斗
+fill|填充
+find|找到
+fit|适合
+fix|修理
+fly|飞
+focus|专注
+follow|跟随
+forbid|禁止
+forgive|原谅
+forget|忘记
+freeze|冻结
+frighten|使害怕
+fair|公平的
+familiar|熟悉的
+famous|著名的
+fancy|花哨的
+fantastic|极好的
+far|远的
+fat|胖的
+favourite|最喜欢的
+federal|联邦的
+female|女性的
+fierce|凶猛的
+final|最终的
+fine|好的
+firm|坚定的
+fixed|固定的
+flat|平坦的
+flexible|灵活的
+following|以下的
+foreign|外国的
+formal|正式的
+former|以前的
+forth|第四的
+fortunate|幸运的
+frequent|频繁的
+fresh|新鲜的
+friendly|友好的
+frightened|受惊的
+fun|有趣的
+funny|好笑的
+further|进一步的
+farmer|农民
+firefighter|消防员
+flour|面粉
+fox|狐狸
+frog|青蛙
+factory|工厂
+finger|手指
+foot|脚
+father|父亲
+faith|信仰
+freedom|自由
+friendship|友谊
+facilitate|促进
+faint|昏厥
+fault|过错
+favor|偏爱
+fence|围栏
+ferry|渡运
+fetch|取来
+figure|计算
+film|拍摄
+filter|过滤
+finance|资助
+flash|闪现
+flee|逃跑
+flesh|肉体
+float|漂浮
+flood|洪水
+flow|流动
+fluctuate|波动
+fold|折叠
+forecast|预报
+foresee|预见
+forge|锻造
+form|形成
+formulate|制定
+forsake|抛弃
+fortify|加强
+forward|转发
+foster|培养
+found|建立
+frown|皱眉
+fry|油炸
+fulfill|履行
+function|运行
+fund|资助
+furnish|提供
+fluorine|元素周期表的第9个，氟，缩写F
+francium|元素周期表的第87个，鈁，缩写Fr
+fermium|元素周期表的第100个，鐨，缩写Fm
+flerovium|元素周期表的第114个，鈇，缩写Fl
+freely|自由地
+fullness|完整
+fully|完全地
+failing|失败的
+failingly|失败地
+fearful|害怕的
+fearfully|害怕地
+fearfulness|害怕
+forgetfulness|健忘
+forgetful|健忘的
+forgetfully|健忘地
+forgiveness|原谅
+forgiving|原谅的
+forgivingly|原谅地
+freshness|新鲜
+freshen|使新鲜
+friendlily|友好地
+freshly|新鲜地
+financial|金融的
+financially|金融地
+fitly|恰当地
+feelingly|感受地
+feeling|感觉
+fertilize|受精
+fertilization|受精
+fertilizing|受精的
+fertilizingly|受精地
+fungus|真菌
+fungi|真菌
+fungal|真菌的
+fungally|真菌地
+fern|蕨类
+ferns|蕨类
+ferny|蕨类的
+fernily|蕨类地
+flowering|开花
+flowerings|开花
+floweringly|开花地
+fossorial|穴居的
+fossorials|穴居生物
+fossorially|穴居地
+fragmentation|碎片化
+fragmentations|碎片化
+fragmentational|碎片化的
+fragmentationally|碎片化地
+fructose|果糖
+fructoses|果糖
+fructosic|果糖的
+fructosically|果糖地
+france|法国
+frances|法国
+french|法国的
+frenchly|法国地
+filipino|菲律宾的
+filipinoly|菲律宾地
+finland|芬兰
+finlands|芬兰
+finnish|芬兰的
+finnishly|芬兰地
+fiji|斐济
+fijis|斐济
+fijian|斐济的
+fijianly|斐济地
+francisco|弗朗西斯科
+franciscos|弗朗西斯科
+franciscan|圣弗朗西斯科的
+franciscanly|圣弗朗西斯科地
+franchise|特许经营
+fulfillment|成就感
+fiction|小说
+festival|节日
+formation|阵型
+foul|犯规
+field|场地
+football|足球
+fishing|钓鱼
+fencing|击剑
+flexibility|灵活性
+facility|设施
+funding|资金
+foundation|基金会
+federation|联合会
+feedback|反馈
+factor|因素
+finalist|决赛选手
+faithfulness|忠诚
+follower|追随者
+flattery|奉承
+folder|文件夹
+fuel|燃料
+fabric|织物
+fashion|时尚
+farewell|告别
+fling|猛扔
+fairy|仙女
+frozen|冰冻的
+fluid|流体
+fracture|骨折
+fiber|纤维
+flavor|味道
+fried|油炸的
+fermented|发酵的
+freeway|高速公路
+freight|货运
+fatigue|疲劳
+faculty|教员
+fade|褪色
+fame|名声
+fantasy|幻想
+fare|票价
+fascinate|着迷
+fatal|致命的
+fate|命运
+feasible|可行的
+feature|特征
+file|文件
+finding|发现
+fiscal|财政的
+flame|火焰
+fleet|舰队
+flight|航班
+flock|群
+flourish|繁荣
+flu|流感
+folk|民间
+format|格式
+fortune|财富
+forum|论坛
+fraction|分数
+fragment|碎片
+framework|框架
+friction|摩擦
+frontier|前沿
+frustrate|挫败
+fundamental|基本的
+funeral|葬礼
+furious|狂怒的
+furthermore|此外
+fuss|大惊小怪
+friends|朋友
+foods|食物
+fact|事实
+farming|农业
+felt|感觉
+for|为了
+followed|跟随
+finally|终于
+findings|调查结果
+from|从
+fans|粉丝
+forms|形式
+feelings|感情
+factors|因素
+few|很少的
+front|前面
+fathers|父亲
+funded|资助
+fewer|较少的
+families|家庭
+focused|注意力集中的
+fixture|固定装置
+frame|制定
+fake|假货
+formidable|可怕的
+footnote|注脚
+flaw|缺点
+fertility|多产
+fertilizer|肥料
+feasibility|可行
+fluently|流利地
+frankly|坦率地
+frantic|疯狂的
+forthcoming|即将来临的
+fearlessly|无畏地
+fabricate|捏造
+fabrication|捏造
+fore|在（或向）船头
+finite|有限的
+formerly|以前
+fort|要塞
+flush|脸红
+footpath|小路
+fragrant|香的
+filament|细丝
+fearless|无畏的
+faultless|无过失的
+filth|污秽
+fro|往
+ferrous|铁的
+fringe|穗
+fitting|适当的 n. 配件
+flask|瓶
+flake|片
+foam|泡沫塑料
+faction|派别
+feminine|女性的
+formulation|表述方式
+flux|流
+fission|裂开
+flank|肋
+fury|狂怒
+fastener|扣件
+frightful|可怕的
+fell|砍倒（树等）
+finely|精细地
+fright|惊吓
+firmness|坚固
+fowl|家禽
+fellowship|伙伴关系
+flavour|给…调味
+flatter|奉承
+flannel|法兰绒
+fighter|战斗机
+frail|脆弱的
+fragile|脆弱的
+fluctuation|波动
+fireplace|壁炉
+firework|爆竹
+fortress|堡垒
+fuse|保险丝
+flatten|把…弄平
+frock|（女）连衣裙
+flutter|（鸟）振翼
+fertile|（创造力）丰富的
+fret|（使）烦恼
+flap|拍打 n. 拍打
+flip|〈口〉无理的
+facet|一个方面
+foremost|最好的
+feast|vi. 尽情地吃
+fluorescent|荧光的
+famine|饥荒
+fusion|联合
+flare|vi. 闪耀
+femininity|女性气质
+foil|箔
+fragrance|芳香
+falsehood|谬误
+frustration|挫败
+fraud|欺诈
+feeble|虚弱的
+fisherman|渔夫
+fur|毛
+fellow|人
+fin|鱼鳍
+furnace|炉子
+fireman|消防队员
+forever|永远
+fee|费用
+fume|冒烟
+fashionable|流行的
+favorable|有利的
+fog|雾
+floor|地板
+fork|叉
+farther|更远地
+farm|种田
+frank|坦白的
+futile|无用的
+feather|羽毛 v. 用羽毛装饰
+foreigner|外地人
+faulty|有错误的
+feat|功绩
+friday|星期五
+fifty|五十
+fridge|电冰箱
+fasten|使固定
+frost|结霜于
+fool|欺骗
+fond|喜欢的
+fax|传真 n. 传真
+forehead|额
+fable|寓言
+fortnight|两星期
+fountain|喷泉
+february|二月
+fist|拳
+feudal|封建制度的
+fruitful|富有成效的
+fourteen|num. 十四
+fluent|流畅的
+flag|标记
+footstep|脚步
+faithful|守信的
+fantastical|奇异的
+fascinated|兴奋的
+fertiliser|肥料
+fulfil|vt. 完成
+fatigued|疲乏的
+favourable|赞许的
+fibre|纤维
+favorite|特别喜欢的
+fabulous|寓言式的
+faithfully|忠诚地
+freelance|自由职业的
+facial|脸部的
+fuller|漂洗工
+factual|事实的
+florida|佛罗里达(美国州名)
+functional|功能的
+flipper|鳍状肢
+fossilization|化石作用
+freezing|冰冻的
+fossilize|成化石
+freshwater|淡水
+footprint|足迹
+forage|草料
+fauna|动物群
+falcon|猎鹰
+fifteen|十五
+fourth|第四个
+fifteenth|第十五
+farmland|农田
+firn|粒雪
+fir|[植]冷杉
+figurine|小雕像
+frontality|正面描绘
+finch|雀类
+fluke|侥幸
+figurative|比喻的
+flora|[罗神]花神
+fundamentally|从根本上
+forerunner|先驱(者)
+financier|财政家
+faunal|动物区系的
+fifth|第五的
+flagellum|[动]鞭毛
+feminist|男女平等主义者
+fetus|胎儿
+feeder|饲养员
+foodstuff|食品
+frontal|前沿
+fingerboard|键盘
+freudian|n&a
+firmly|坚固地
+formalize|使正式
+fieldstone|散石
+forty|四十
+fahrenheit|华氏温度计
+foraminifera|有孔虫类
+farce|闹剧
+flax|亚麻
+fictional|虚构的
+fatty|脂肪的
+fortunately|幸运地
+fodder|饲料
+frigid|寒冷的
+fairground|游乐场
+firewood|木柴
+forager|强征(粮食)者
+formally|正式地
+farsighted|有先见之明的
+fatten|养肥
+flagpole|旗杆
+feldspar|[矿]长石
+firearm|火器
+figuratively|比喻地
+foliage|树叶
+flashbulb|[摄]闪光灯泡
+funnel|漏斗
+fastidious|过分讲究的
+fortification|防御工事
+floral|花的
+ford|浅滩 v徒涉
+fathom|长度单位(6英尺)
+functionalism|功能主义
+foresightedness|先见之明
+fanciful|想像的
+fishery|渔业
+founding|创办的 n. 资金
+fireball|火球
+franklin|小地主
+friendliness|友谊
+flicker|闪烁
+fletcher|<古>造箭者
+flute|长笛 v. 吹长笛
+facade|正面
+flowerbed|花床
+flexibly|易曲地
+fungicide|杀真菌剂
+figural|借喻的
+fortuitously|偶然地
+forbes|福布斯（美国著名财经杂志）
+flier|飞行者
+freighter|货船
+filmmaker|电影摄制者
+forester|林务官
+familiarity|熟悉
+fanwise|ad& adj. 呈扇形展开的
+faucet|龙头
+flyspeck|污点
+falconer|以鹰狩猎者
+firing|开火
+foreleg|前肢(指四肢或多肢动物的)前脚
+facelift|整容手术（除去面部皱纹）
+fluffy|绒毛似的
+fen|沼泽
+fidelity|忠实
+federalist|联邦党
+fend|保护
+fortuitous|偶然的
+fibrous|含纤维的
+floe|大浮冰
+fad|时尚
+fluidity|流动性
+flotation|浮选
+forebear|祖先
+favorably|赞同地
+forefront|最前部
+foresight|远见
+fleshy|肉的
+fallout|辐射微尘
+fray|吵架 v. 磨破
+fanners|电风扇
+flop|猛落
+flint|打火石
+flatboat|(浅水)平底船
+foothill|山麓小丘
+floodplain|泛洪平原
+fecund|生殖力旺盛的
+flout|轻视
+fiddler|拉提琴的人
+fiercely|猛烈地
+faultfinding|找茬
+fanner|通风机
+fallacy|谬误
+foe|敌人
+fiord|(尤指挪威的)海湾
+fixation|固定
+flatfish|比目鱼
+feverishly|兴奋地
+flashy|浮华的
+flaming|熊熊燃烧的
+fateful|重大的
+foment|[医]热敷
+faintly|微弱地
+feathery|生有羽毛的
+faraway|遥远的
+flyway|候鸟迁徙所经的路径
+folly|愚蠢
+facsimile|摹写
+fruitless|不结果实的
+foghorn|[航海]雾角
+fruitfulness|多产
+foray|突袭
+fresher|大学一年级新生
+frivolity|轻薄
+fragility|脆弱
+fervor|热情
+farmhand|农业工人
+folkloric|民间传说的
+frisky|活泼的
+fearsome|可怕的
+filmy|薄膜的
+furnishing|供给(装备)
+falsely|虚伪地
+forceful|有力的
+fragmentary|由碎片组成的
+featureless|无特色的
+flavin|[化]黄素
+flowerpot|花盆
+forelimb|前肢
+forefather|祖先
+florist|种花人
+frenzy|狂暴
+forte|长处
+forecaster|预报员
+fictive|虚构的
+frenetic|发狂的
+foreshadow|预示
+foundry|铸造
+flattish|有点平凡的
+frill|皱边
+facilitation|简易化
+fascination|魔力
+figurehead|装饰船头的雕像
+festive|庆祝的
+ferromagnetic|铁磁的
+forbearance|自制
+fresco|壁画 vt作壁画于
+feud|不和
+familiarization|亲密
+flamboyant|辉耀的
+forestall|之前
+folklore|民间传说
+fumigate|熏制
+flair|才能
+fanatical|狂热的
+flue|烟道
+furry|毛皮似的
+frivolous|琐碎的
+fiery|似火的
+fraudulent|欺诈的
+familiarize|使熟悉
+far-fetched|牵强的
+flick|轻拍
+finalize|使完成
+famish|饥饿
+frugal|节约的
+forfeit|被没收
+focalize|调节焦距
+fictitious|虚构的
+foreshorten|用透视法缩小
+filial|子女的
+folkway|社会风俗
+fascinating|迷人的
+focal|焦点的
+feign|装作
+ferment|发酵
+falter|衰退
+f|[计] 故障, 假, 法拉, 字段, 标记, 特征, 分数, 频率, 函数, 功能
+features|容貌；产品特点, 特征；嘴脸（feature的复数）
+forums|pl. 论坛, 讨论会, 座谈会, 广播专题讲话节目, 电视专题讲话节目, 法庭
+files|文件；文档（file的复数）
+faq|中等品, 码头交货(价格)
+feb|二月（February）
+facilities|工具, 设施, 设备
+fri|最终成品抽验（Final Random Inspection）
+featured|面貌秀丽的, 被作为特色的
+flowers|[医] 花; 升华制成的药物; 月经
+feet|pl. 脚
+fl|焦距（focal length）；外国语（foreign language）；[物]呎朗伯（亮度单位）；佛罗里达州（美国州名, Florida）
+funds|基金；资金, 现金（fund的复数）
+fees|规费；费用（fee的复数）
+functions|功能；函数（function的复数形式）
+fucking|该死的, 难完成的, 难做的, 低劣的, 讨厌的, 丑恶的, 混乱的, 乱糟糟的
+fi|[计] 格式标识码, 前端处理器接口
+fields|域, 字段；场设置（field复数形式）
+fuck|与...性交, 欺骗, 诅咒
+ft|英尺
+facts|设备管理控制与时间调度程序；Facilities Administration Control and Time Schedule
+follows|跟随；遵照（follow的复数）
+films|电影；薄膜；胶片（film的复数）
+forces|势力；兵力；武装力量（force的复数形式）
+falls|瀑布；陨石
+frequently|频繁, 经常地
+flights|（物体的）飞行( flight的名词复数 ); 航班; 飞翔; 楼梯的一段
+forgot|forget的过去式和过去分词
+feeds|饲料；一餐（feed的复数）
+faster|[计] 加快
+forced|被迫的, 强迫的, 用力的
+filed|[专利]申请；存档（file的过去分词形式）
+failed|已失败的
+fr|[医] 钫(87号元素)
+favorites|收藏夹；偏爱（favorite的复数）
+font|字体, 字形, 洗礼盘, 泉
+figures|图形, 图表；价格, 金额, 数字；规定动作；人物（figure的复数）
+frames|帧, 画面；框架；眼镜架（frame的复数）
+faqs|常见问题解答（Frequently Asked Questions）
+finished|完成的, 完结的, 精巧的, 完美的
+firms|公司, 厂商（firm的复数）
+filled|加满的；装满的；满的
+financing|融资, 理财, 筹集的资金
+fm|(英)陆军元帅, 外国使团, 调频, 频率调制
+ff|[计] 快进, 触发器, 换页
+featuring|feature的现在分词形式
+finder|发现者, 寻星镜
+fighting|战斗的, 容易引起争斗的, 适于格斗的, 好斗的, 好战的, 斗争的, 搏斗的
+favourites|特别喜爱的人（或物）( favourite的复数形式 ); 竞赛中被认为会获胜的马、竞争者等
+formed|成形的, 成形
+fig|无花果, 无价值的东西, 少许, 服装
+formats|幅度；格式（format的复数）
+flashing|闪光, 遮雨板, 防水板
+flying|飞的, 飘扬的, 飞速的
+ftp|[计] 文件传送协议, 固定项目设计
+fetish|物神, 偶像, 迷信
+filters|滤器, 滤波器；滤光片（filter的复数）
+finds|发现( find的第三人称单数 ); 找到; 到达; 发觉
+filing|锉, 琢磨, 锉屑
+firefox|火狐浏览器
+faces|脸面；脸色；表面（face的复数）
+flags|标记；旗帜（flag的复数）
+farmers|农民（farmer的复数）
+forgotten|forget的过去分词
+fairly|美观地, 公平地, 相当地, 清楚地
+foto|张紧振子的强制振动（Forced Oscillation of a Tightening Oscillator）
+folks|人们, 父母, 亲人, 家属
+fred|佛瑞德（男子名）
+founded|有基础的
+fe|[计] 现场工程师
+facing|贴边, 饰面
+functionality|[计] 功能性, 泛函性
+fits|合身的衣服；阵发；一阵（fit的复数）
+francis|弗朗西斯（男子名, 义为自由之人）
+firewall|[计] 放火墙, 隔离
+falling|落下的, 坠落的, 下降的
+feels|觉得；体会；触摸（feel的第三人称单数）
+fails|在…中失败( fail的第三人称单数 ); 衰退; 衰弱; 破产
+fed|feed的过去式和过去分词
+fisting|拳指性交
+fonts|字体（font的复数）
+framed|遭到陷害的；有构架的
+florists|花商, 花农, 花卉研究者( florist的复数形式 )
+feeding|饲养, 进料, 加料
+flickr|网络相簿
+fotos|德国著名摇滚乐队
+freeware|[计] 免费软件, 自由软件
+fucked|受骗的
+fy|[经] 会计年度
+founder|创立者, 建立者
+flows|现金流量
+fisher|渔夫, 食鱼动物, 渔船
+fc|消防, 火力控制, 足球俱乐部
+fw|给水（Feed Water）；磁场减弱；淡水；隔火墙
+fda|（美）食品及药物管理局（Food and Drug Administration）
+filename|文件名
+florence|佛罗伦萨(意大利城市)
+fs|[计] 字段分隔符, 文件结构, 有限态, 功能选择, 频移
+faced|有某种面孔或表情的
+farms|农场；庄园（farm的复数形式）
+filtering|[计] 过滤
+fx|外汇（Foreign Exchange）；固定电台（Fixed Station）
+finest|[总称]警察
+fingers|梳状剔除器；手指头, 指头（finger复数）
+fingering|用指摸弄, 抚弄, 用指弹奏, 细绒线
+footwear|鞋类, 靴类
+fa|(英国)足球协会, 战地救护车, 野战救护队, 野战炮, 野战炮兵, 美术, 急救
+filling|充填物, 填料
+focuses|pl. 焦点, 焦距, 对焦点, 聚焦, 活动中心, 集中点, 兴趣中心, 病灶, 震源, 疫源地
+focusing|[化] 调焦; 聚焦
+fisheries|渔场( fishery的名词复数 ); 渔业; 养鱼场
+forests|森林( forest的名词复数 ); 丛林; （森林似的）一丛; 一片
+folders|文件夹, 方法；折页, 档案夹（folder复数形式）
+females|雌性动物( female的复数形式 ); 女人
+floating|漂浮的, 浮动的, 移动的
+forecasts|预测, 预报( forecast的名词复数 )
+fastest|最快速的（far 的最高级）
+forestry|林学, 森林地
+furnishings|家具；供应；穿戴用品（furnishing的复数）
+festivals|节日( festival的复数形式 ); 节期; （音乐、戏剧、电影等的）会演
+freebsd|一种可免费使用的UNIX操作系统
+fired|因祸得福（电影名）
+fruits|[法] 孽息, 收益, 成果
+floors|楼地面；地板；楼层；层数（floor的复数）
+fitted|[表]配备的, 放在合适地位的
+fallen|堕落的, 落下来的, 陷落的
+forming|[电] 形成
+foundations|地基
+fg|悬浮式陀螺（Floated Gyro）；细粒（Fine-Grain）
+fixes|菲克斯类（一种烈酒）
+futures|期货
+floyd|弗洛伊德
+fujitsu|[计] 富士通
+frederick|弗雷德里克（男子名）
+fixtures|固定附物, 固定附着物；固定财产；卡具；固定装置（fixture的复数形式）
+flooring|地板, 地板材料, 铺地板
+furnished|家具, 有家具的
+folding|可折叠的
+fwd|forward 向前; front-wheel drive 前轮驱动（装置）; four-wheel drive 四轮驱动; freshwater damage 淡水破坏
+finishing|最后的, 终点的
+fighters|战士（ fighter的复数形式 ）; 战斗机; 打斗者; 奋斗者
+foo|富/夫（姓氏）
+footage|英尺长度, 英板尺, (影片的)连续镜头
+formatting|[计] 格式化
+funk|怯懦, 恐惧, 臭味
+fbi|美国联邦调查局
+finances|资金, 经费
+fp|总保单, 总保险单, 全部付讫, 冰点, 凝固点
+floppy|叭嗒叭嗒响的, 松软的
+fragrances|芳香, 香味( fragrance的复数形式 ); 香水
+fundraising|筹款, 募款
+fcc|[计] 联邦通信委员会
+failures|失败（failure的复数）
+fires|火灾, 点火；火力
+favors|好意；支持；帮忙（favor的复数）
+finals|决赛, 总决赛（final的复数）
+fd|[计] 文件定义, 文件描述, 软磁盘, 功能相关性
+fears|恐惧；担心
+ferrari|[计] 费拉里
+fu|[计] 字段单元, 功能部件
+framing|[计] 成帧
+fleece|羊毛, 羊毛制的覆盖物
+fuji|富士山（在日本本州岛上的死火山）
+fo|(英)空军中尉, (英国)外交部, 前进观察员, 校官, 野战命令
+flex|弯曲, 伸缩, 折曲
+flyer|飞鸟, 飞行物, 飞行员, 快车, 传单, 飞跳
+fairfield|费尔菲尔德（美国地名）
+functioning|运行, 运作；功能；机能；起酌（function的动名词）
+funky|畏缩的, 怯懦的, 恶臭的
+fought|fight的过去式和过去分词
+fundamentals|基本面；基本原理（fundamental的复数）
+fraser|弗雷则河（加拿大西南部河流）；弗雷泽（男子名）
+frontpage|网页制作, 首页；网页设计
+flashers|闪光
+forbidden|被禁止的, 严禁的
+figured|有形状的, 有图案的, 用图表表现的, 用图画表现的
+frequencies|频率（frequency的复数形式）；频数分析；次数分配表
+fuzzy|有微毛的, 模糊的
+forwarding|[计] 转发
+favour|好感, 偏爱, 喜爱, 相信, 庇护, 赞同, 支持, 信赖, 善行, 恩惠, 徽章, 礼物
+firmware|[计] 固件
+fabrics|纤维织物（fabric的复数）
+frankfurt|牛肉香肠, 猪牛肉混合香肠
+fares|照明弹；票价；车费（fare的复数）
+funnymen|(funnyman 的复数) n. 幽默者, 滑稽演员
+fluoranthene|荧蒽
+fargite|钠沸石, 红钠沸石
+footlights|脚灯, 舞台
+facilitated|促进( facilitate的过去式和过去分词 ); 使便利; 推进; 帮助（某人）进步
+fronted|移首的；前移的
+flailed|鞭打( flail的过去式和过去分词 ); 用连枷脱粒; （臂或腿）无法控制地乱动; 扫雷坦克
+firelock|以燧石发火的旧式枪, 燧发枪兵, 明火枪
+fluorate|氟酸盐
+felloes|(felloe 的复数) n.外轮, 圈轮
+faecula|淀粉
+fivefold|五重的, 五倍的
+forgetter|健忘者
+flaccidly|松散地、无力地
+fothergilla|[网络] 和塞纪属；佛塞纪木属；塞木属
+friezing|毛绒卷曲工艺
+firefang|(肥料、大麦等)受热变质
+fasciae|饰带, 招牌; 带( fascia的名词复数 ); <医>绷带; （店门上的）招牌; <解>筋膜
+flipping|adj .讨厌之极的
+flavored|给…调味( flavor的过去式和过去分词 ); 给…增添风趣
+frier|做油炸食品的人, 煎锅
+foraminose|穿孔
+foreboded|<正>预示（灾祸等）( forebode的过去式和过去分词 )
+fmt|[医][=fasiculus mammillothalamicus]（拉）乳头丘脑束
+faddle|开玩笑, 戏谑
+firers|(firer 的复数) n. 放火者, 开炮者, 发火器
+firs|[计] 先前的
+fenders|壁炉挡板( fender的复数形式 ); 挡泥板
+finesses|(finess 的复数) n. [复数]；【冶金学】粉末
+filmdom|电影界
+freest|自由的( free的最高级 ); 免费的; 空闲的; 摆脱…的
+feringi|欧洲人;葡和印人的混血
+fluxgraph|[电] 通量图
+fourhanded|adj. 有四只手的；(游戏)四人玩的；四人一组的
+fetishistic|崇拜物神的, 迷信的
+faultfinder|吹毛求疵的人
+fucoidin|[化] 岩藻多糖
+falcons|猎鹰；隼鹰队；猎鹰导弹（falcon的复数形式）
+figment|虚构的事
+fronton|山墙
+fakeer|託钵僧;行者
+foemen|敌兵, 敌人( foeman的名词复数 )
+fulleries|漂布工场
+firring|长条楔形木板
+forerunning|(石油的)初馏, 稳定
+forehammer|手用大锤, 先行锤
+foolhardily|foolhardy的变形
+frump|邋遢女人, 守旧者
+furnacite|铬砷铜铅矿
+finedrawing|细缝
+folia|folium 的复数
+fastnacht|(=fasnacht)传统上在忏悔日吃的用酵面做的炸面圈
+funerals|葬礼, 丧礼( funeral的复数形式 )
+franca|弗兰卡（男子名）
+fortified|加强的
+fibroadipose|[医] 纤维脂肪性的
+fables|寓言( fable的复数形式 ); 神话, 传说
+frilled|有饰边的
+fossette|小窝, 酒窝
+featherhead|愚蠢的人, 轻浮的人
+fibroglioma|[医] 纤维胶质瘤
+furca|[医] 叉, 牙根叉
+furan|呋喃
+folksongs|(folksong 的复数) 民歌
+furriest|毛皮的, 盖着毛皮的
+furring|毛皮, 水垢, 板条
+follyer|[英]一种小渔船, 拉网渔船横杆帆
+finnmark|芬兰马克（芬兰的货币单位）
+flimflammed|欺诈，骗，骗取( flimflam的过去式和过去分词 )
+faff|无事奔忙, 小题大做
+foreshowed|foreshow的过去式
+forlorn|孤独的, 悲惨的, 凄凉的
+flam|谎, 假话
+futilities|(futility 的复数) n. 无用, 无益, 无价值
+furrowy|有沟的, 皱的
+facies|(患某种疾病时特有的)面容, 外观, 表面
+falernian|(意大利)法勒那斯产的酒
+fluted|笛声的, 有凹槽的
+finial|尖顶饰, 顶尖
+fledge|喂养, 用羽毛盖上, 装上羽毛
+frig|冰箱
+forfeiting|（因违反协议、犯规、受罚等）丧失, 失去( forfeit的现在分词 )
+foreseeable|可预知的, 能预测的
+frolicking|嬉戏( frolic的现在分词 )
+fasciolae|[医]（单fasciola）小片, 小束, 小绷带
+fassaite|深绿辉石
+fortuitism|偶然论
+fungilliform|[医] 真菌样的, 蕈状的
+falchion|刀, 剑
+favi|六角瓦, 六角砖
+forepeak|艏尖舱
+fascinations|魅力( fascination的复数形式 ); 有魅力的东西; 迷恋; 陶醉
+fasti|[pl. ] [拉](古罗马的)行事旧历, 岁时纪, 年代表
+flanges|（机械等的）凸缘, （火车的）轮缘( flange的复数形式 )
+frails|(frail 的复数) a. 脆弱的, 虚弱的, 意志薄弱的
+fatherlands|祖国( fatherland的复数形式 ); 祖国（指二战期间的德国）
+fills|填充物；乱纹（fill的复数）
+feudalize|使形成封建制度
+flans|果馅饼, （轧制钱币的）坯子( flan的复数形式 )
+frameworks|构架( framework的复数形式 ); 结构; （体系的）结构; （作为判断、决定等基础的）信仰
+friedcake|油炸饼
+fuzzier|模糊的( fuzzy的比较级 ); 绒毛般的; 糊涂的; 紧鬈的
+floppiness|下垂;松懈;懒散
+freeways|高速公路, 快车道( freeway的复数形式 )
+fluidise|<主英>=fluidize
+funiculate|有细索的
+foamer|[化] 发泡剂; 起泡剂
+forbesite|纤砷钴镍矿
+familiarised|使众所周知（familiarise的过去式与过去分词形式）
+flashover|[电] 闪路
+fleetly|迅速地, 快速地
+franchising|给…以特许权, 出售特许权( franchise的现在分词 )
+flatfooting|(flatfoot 的现在分词) n. 扁平足, 警察
+fibroferrite|纤铁矾
+frees|解放（free的第三人称单数形式）
+filicin|绵马浸质, 失水绵马酸
+fiveling|五单体孪晶
+forgettable|容易被忘的, 可忘记的
+frosting|霜状白糖, 无光泽面, 装饰玻璃粉
+ferruled|装以金属铁( ferrule的过去式和过去分词 )
+federalize|使成联邦, 使同盟
+federated|联邦的；联合的；结成同盟的
+fossulae|[医] 小窝
+fleeing|逃走, 逃掉( flee的现在分词 ); 逃离, 逃避
+faunistic|动物区系的
+firsts|一等品；一级品（first的复数形式）
+formularies|公式集, 处方一览表, 公式( formulary的名词复数 )
+filigree|金银细丝工艺, 精致华丽而不很坚固的物品, 金丝的细工饰品
+familism|家庭主义
+fibrinosis|[医] 纤维蛋白过多[症]
+femmes|[法俚]女同性恋者；[法俚]妻子（femme的复数形式）
+furunculus|疖
+faithfuls|忠实的( faithful的复数形式 ); 守信的; 如实的; 忠贞的
+fels|(pl. falus) (=fals)费尔斯(一种阿拉伯铜币)
+floodlights|泛光灯( floodlight的名词复数 )
+fellies|外轮, 轮圈( felly的名词复数 )
+frequenters|(frequenter 的复数) n. 常常来访者, 常客
+fisheater|<美俚>天主教徒
+fructiferous|结果实的, 产果实的
+formulators|(formulator 的复数) 配方设计师
+forewarmer|预热器
+fiefdoms|(fiefdom 的复数) n. 封地, 采邑（等于fief）
+flamboyer|冒火焰, 熊熊燃烧；闪闪发光, 闪耀光芒
+frillies|(frilly 的复数) a. 有饰边的, 多饰边的
+foreparts|(forepart 的复数) n. 前部
+freewill|自由意志的, 任意的, 自愿的
+furcula|[解,动]叉突, 弹器
+futurism|未来派
+fledged|羽毛长齐的, 快会飞的, 成熟的, 独立的
+foretopsail|前桅中桅帆
+frisker|搜身器, 搜查器
+fannings|簸出物, 筛出的粗茶叶
+freemason|互济会会员
+fattening|正被养肥的；用于养肥禽畜的
+flipped|轻弹( flip的过去式和过去分词 ); 按（开关）; 快速翻转; 急挥
+feazings|拆散的绳端
+fideism|信仰主义
+fructescence|果实成熟期
+fangs|（尤指狗和狼的）长而尖的牙( fang的复数形式 ); （蛇的）毒牙; 罐座
+fingerlike|指状的
+frostbiting|驾滑冰船
+fetters|束缚；枷锁（fetter的复数）
+fantods|惊恐；烦燥，坐立不安
+floorboards|将汽车油门踏到底
+feterita|[植]非洲芦粟(产于温带地区)
+floodometer|潮洪水位测量仪
+fugue|赋格曲, 神游
+floutingly|flout的变形
+failsafe|破损安全
+fauxbourdon|<法>n.[音]假布尔东低音
+furbisher|抛光工, 磨工
+flees|逃走, 逃掉( flee的第三人称单数 ); 逃离, 逃避
+fou|傻人；笨人
+frills|臭架子, 虚饰
+fage|[人名] [英格兰人姓氏] 费奇绰号，奉承者，来源于中世纪英语，含义是“哄骗，恭维”(coaxing,flattery,deception)
+fondnesses|(fondness 的复数) n. 溺爱；爱好
+flangeless|[化] 无凸缘的
+fantastico|可笑的怪人
+fancily|空想地, 花哨地, 做作地
+formalizer|formalize的变形
+fibbed|撒小谎( fib的过去式和过去分词 )
+fanfold|复写簿
+fructivorous|吃果实为生的
+figureless|无数字的，无图形的
+frontalis|额的
+furnaces|熔炉, 火炉( furnace的复数形式 )
+flatuses|肠胃胀气( flatus的名词复数 ); 屁; 阵风; 气息
+figurable|能成形的, 能定形的
+foggier|有雾的( foggy的比较级 ); 雾气朦胧的; 模糊的; 混乱的
+foliages|(foliage 的复数) n. 树叶, 植物
+factionary|加入某一派别者
+flagstick|[高尔夫](指明洞穴号数的)标指旗
+fireless|没有火焰的, 无生气的
+flagfish|花尾汤鲤
+foresail|前桅帆
+fractionally|稍许, 一点点
+fanglomerate|[地质]扇积砾
+fitchet|[人名] 菲彻特
+floriparous|具花的
+flabellum|[动]扇形器官(结构), 教皇仪仗扇
+fores|(fore 的复数) a. 在前的, 以前的
+foilsman|(用钝头剑的)击剑手
+filicornia|丝角类
+flyswatter|苍蝇拍
+flavouring|调味料
+fossulate|具沟的, 有小窝的
+frowsy|霉臭的；难闻的；不整洁的（等于frowzy）
+faultiest|faulty的最高级
+forepiece|前部件
+folded|折叠；交叉合拢；失败垮台；把牲畜关在栏中（fold的过去分词）
+forehook|船首水平肘板
+faggotry|<俚> 男同性恋
+frigidity|寒冷, 冷淡
+forswornness|forsworn的变形
+fraughting|担心的, 忧虑的；充满…的
+fringes|（头发的）刘海( fringe的名词复数 ); （外衣, 小地毯等的）饰边; 毛边; 边缘
+fiords|(fiord 的复数) n. 峡湾
+fados|(fado 的复数) n.法多(葡萄牙民谣)
+fundulus|[医] 克鲤鱼属
+foremen|[经管] 工长
+femurs|股骨( femur的复数形式 )
+focometry|测焦距术
+fontinal|生长在水源或泉水附近的
+footwarmer|暖脚器(如脚炉等)
+fancying|想像（fancy的现在分词形式）
+fudges|乳脂（巧克力）软糖( fudge的名词复数 ); 敷衍, 装模作样（没有真正解决问题）
+fothering|海上堵漏；铅的重量单位；临时堵漏的用防水软垫
+flatfishes|比目鱼( flatfish的复数形式 )
+femaleness|女性特征, 女性特征女子本性
+finestiller|精馏器
+frate|<意>n.修道士(常用作称呼)[原义：brother]
+friesian|（荷兰种）弗里斯兰奶牛, 黑白花奶牛
+flatlets|套房；小公寓
+feis|(爱尔兰或其它地方的爱尔兰裔人一年一度的)文化艺术节
+facia|（英）仪表板；招牌（等于fascia）
+fleabite|蚤咬, 蚤咬疤痕, 稍微的损伤
+fates|[希神]命运三女神
+forfeiture|没收物, 罚金, 丧失
+fils|儿子；铜币（伊拉克、约旦、科威特等国的）
+federally|同盟地, 联邦地, 联邦政府地
+factorist|因素论者
+frenchless|不懂法语的
+facetious|滑稽的, 爱开玩笑的
+forecited|前面会引用的, 前述的
+frigidness|寒冷, 冷漠
+fraternizer|fraternize的变形
+forepoling|超前支护
+foolishness|愚蠢；可笑
+faulkner|福克纳（美国小说家, 曾获1949年诺贝尔文学奖）
+fortifiable|宜于设防的
+foodless|缺乏食物的
+fluorescein|[化] 荧烷二醇; 荧光黄; 荧光素
+fistful|一把, 相当大的数量
+fraughted|装货于（fraught的过去式与过去分词形式）
+farrago|混杂, 混杂物
+feria|(古罗马的)假日,喜庆日,(基督教的)平日(尤指基督教节日以外的日子)
+fabulosity|传说性质, 非现实性, 寓言性
+fairyland|仙境, 乐园
+filet|头带, 轮廓线, 带状物, 带子, 束发带, 肉片, 鱼片, 襻, 嵌条, 丘带, (内)圆角
+felicitously|恰当地, 适切地
+figurate|有固定形状的, 形成图案的
+firebombs|火焰炸弹（燃烧弹和凝固汽油弹的总称）( firebomb的名词复数 )
+flocculent|羊毛状的, 絮状的, 覆以绒毛的
+fetterless|fetter的变形
+formule|（法）格式；型；样式；公式
+fasciculus|小束, 纤维束, 分册
+fathering|[医]父爱
+frondeur|政治上的反叛者
+fingerless|无指的, 失去指的
+fazed|打扰, 使担忧, 烦扰( faze的过去式和过去分词 )
+furloughed|准…休假( furlough的过去式和过去分词 )
+freelancer|自由记者；自由作家
+futtock|复肋材
+fringing|边缘现象, 散射现象, 边缘通量(的形成)
+federalise|[英国英语] ＝ federalize
+ferrocyanic|[医] 亚铁氰化的
+ferlie|<苏格兰>奇异景象, 奇迹, 令人惊奇的事物, (幻觉中见到的)奇形怪状的人(或动物)
+fustians|(fustian 的复数) n. 棉麻粗布, 浮夸的话
+fibrinolysis|纤维蛋白溶解
+fido|有铸造缺陷的硬币；燃油加热驱雾器
+filiciform|形状像羊齿植物的
+fealties|忠诚( fealty的复数形式 )
+friskful|活泼的, 有生气的
+foursquare|正方形的, 直爽的, 坚定的
+fungo|为练习守备所击的飞球
+furnariidae|灶鸟科
+fleuret|小花,小花形装饰,[击剑]花剑
+flyaway|宽松的, 轻浮的, 轻率的, 逃走的, 翅状的
+flouncing|荷叶边
+fielders|外野手, 接球者( fielder的复数形式 )
+fascis|(fasces的单数形)束棒
+fathometer|音响测深仪
+faviform|蜂窝状
+firebird|北美黄鹂鸟
+frothily|起泡地, 如泡地, 浅薄地
+fluoroscopic|荧光镜的, 荧光检查法的
+ferric|铁的, 含铁的, 三价铁的
+finca|[西]种植园, 庄园, 地产
+fuhrer|元首；德国独裁者（纳粹统治时期对希特勒的称呼）
+floorward|朝地板的
+featherbed|担任闲职
+fumette|甲磺酰氟
+fecks|(Feck)人名；(英、德)费克
+fathomless|深不可测的, 难理解的, 不可思议的
+foamed|泡沫的
+freddie|弗雷迪（男子名, 等于Freddy）
+featherlight|轻如羽毛的
+foret|[人名] 福雷特
+fizzling|发嘶嘶声, 失败( fizzle的现在分词 )
+fabliau|(中世纪法国的)故事诗
+foxier|狡猾的( foxy的比较级 ); 奸诈的; （女子）性感的; 狐媚的（非正式美式英语）
+foamingly|foam的变形
+fluidization|使液化, 流化
+flecked|有斑点的, 有污点的
+florigenic|florigen的变形
+fenestration|(耳科手术中的)开窗术
+filles|(fille 的复数) n. （法）少女；女佣；姑娘
+freebooters|(freebooter 的复数) n. 海盗
+freethinkers|自由思想家
+fuelling|加燃料, 加油
+fibration|纤维化; 纤维形成
+fairgrounds|露天游乐场( fairground的复数形式 )
+folsom|福尔松（文化）的（落基山脉东部的史前文化遗迹）
+flustration|慌乱, 激动, 紧张不安, 喝醉
+frontignan|[地名] [法国] 弗龙蒂尼昂
+federate|同盟的, 联合的, 联邦制度下的
+fibrillation|纤维性颤动
+fetalization|胎型(指出生后某些胎象的存留)
+firecracker|爆竹, 鞭炮
+farmost|最远的
+fovilla|花粉内含物
+footler|[人名] 富特勒
+forts|堡垒, 要塞（fort的复数）
+flab|松弛
+fissionable|可分裂的, 可裂变的
+fica|（美国）联邦社会保险捐款法（Federal Insurance Contributions Act）
+forfeits|罚物游戏
+forgivable|可宽恕的
+fusspot|小题大做者, 吹毛求疵的人
+frayn|(Frayn)人名；(英)弗雷恩
+fasciolar|[医] 小片的, 小束的, 小绷带的
+flingers|(flinger 的复数)  投掷的人
+flaker|[化] 刨片机; 切片机
+feathertop|[网络] 羽毛冠；羽毛头
+finagle|欺骗, 哄骗, 欺瞒
+fadedly|色彩已褪地
+flajolotite|锑铁土
+footworks|(footwork 的复数) n. 脚的动作, 脚力, 现场采访活动
+fetidness|[医]恶臭
+fillips|[人名] 菲利普斯
+flaubertian|(法国小说家)福楼拜及其小说、作品风格的
+fullam|[人名] 富拉姆
+frictionally|摩擦地, 带有摩擦地
+favourer|宠爱者, 赞成者, 支持者
+fluids|液体；流体（fluid的复数形式）
+fruiting|[医]结果的, 具子实体的
+fascet|(退火用)玻璃瓶夹具
+fulah|[网络] 富拉语；拉文；富拉文
+fowled|捕鸟（fowl的过去式与过去分词形式）
+fishmeal|鱼粉
+frontals|(frontal 的复数) a. 前面的, 正面的, 额的
+fanciest|fancy（（构思者）奇特的）的最高级形式
+foreworn|极疲倦的
+fays|(fay 的复数) n. 小仙子
+fortunite|金云粗面岩
+fishtail|鱼尾状的
+fluidized|流态化的, 沸腾的
+facioplegia|面神经麻痹, 面瘫
+forgiven|forgive的过去分词
+ferninst|在...对面, 靠着..., 靠近...
+familarity|亲密,精通,亲密的行为
+freedwomen|自由妇女( freedwoman的名词复数 )
+flubdub|狂言, 蠢话
+formulise|<主英> = formulize
+fundholder|公债所有者
+fiberless|[医]无纤维的
+finity|有限（等于finitude）
+fragaria|草莓属
+fenrir|芬里厄(斯堪的纳维亚神话中被诸神用魔绳系住的狼形怪物)
+fibroglia|纤维胶质
+flexor|屈肌
+foots|沉淀物；渣滓；油滓
+formosan|台湾话的；台湾的；台湾人的
+fenestrae|[医] 窗
+fluffier|似绒毛的( fluffy的比较级 ); 有绒毛的; 蓬松的; 轻软状的
+funebre|（音乐术语）悲哀的，凄惨的，葬礼的
+frisson|<法>(因激动,恐惧等产生的)颤抖
+fainted|??人事的, 昏厥的
+flavanone|[化]黄烷酮 (衍生物)
+forwent|vbl.forgo的过去式
+fibrillar|纤丝状的, 纤维状的
+foliating|有叶的, 覆有叶的( foliate的现在分词 )
+founts|(fount 的复数) n. 泉, 源泉, 墨水缸, 一副铅字
+formalizing|使（协议、计划等）成书面文字形式( formalize的现在分词 ); 使成为正式, 使具有一定形式
+friulian|[网络] 弗留利语
+fodderless|没有饲料的
+formication|(皮肤上的)蚁走感
+formalising|(formalise 的现在分词) vt. 使（协议、计划等）成书面文字形式; 使成为正式, 使具有一定形式
+forequarters|(forequarter 的复数) n. 前四分之一胴体, 躯体前半部
+flavourer|[主英国英语]
+fibrinolytic|溶纤维蛋白药
+ferganite|[化] 水矾铀矿
+feculency|污物, 渣滓
+flossy|丝棉似的, 轻软的, 迷人的
+fibroplasia|[医] 纤维组织形成
+fellifluous|胆汁溢流的
+fetes|（常在室外为筹款举行的）游乐会( fete的名词复数 )
+flustering|使慌乱, 使不安( fluster的现在分词 )
+flibustier|小偷, 贼, 扒手；骗子
+footslogs|在泥泞中费劲地步行（footslog的第三人称单数形式）
+fraised|(16世纪欧洲人戴的)绉领, 高领；【军事】铁丝网(或木桩)构成的障碍物, 寨栅
+fuddle|灌醉, 使烂醉, 使迷糊
+fuguist|赋格曲之作曲家
+fogdog|雾虹
+flunks|<美><口>( flunk的第三人称单数 ); （使）（考试、某学科的成绩等）不及格; 评定（某人）不及格; （因不及格而） 退学
+fivesome|五个人一组，五件东西，有五人参加的游戏
+fracturing|[化] 压裂
+felon|重罪犯, 恶棍, 瘭疽
+flourishes|茂盛, 繁荣( flourish的第三人称单数 ); 兴旺发达; 挥动
+forepleasure|前奏快感
+fopperies|纨绔习气( foppery的名词复数 )
+ficelle|淡灰褐色
+ferret|白鼬, 雪貂, 侦探
+fidate|[国际象棋]稳固棋子使它不被对方吃掉
+ferly|奇异景象, 奇迹
+fibrils|(fibril 的复数) n. 小纤维, 须根
+follicle|小囊, 滤泡
+fellmonger|毛皮商, 去毛匠
+fossula|[解]小窝
+freewheeling|惯性滑行
+factionalist|搞派别活动者
+footlocker|军人用床脚柜
+floured|粉质的；撒上粉的；粉状的；磨碎的
+foresound|震前声
+fabaceous|豆的
+fructosan|聚果糖, 聚左旋糖
+foresworn|, vi. foreswear的变形
+fashioned|…式的
+fightingly|fighting的变形
+facultative|授权的, 机能上的, 才能上的, 能力上的, 兼性的, 可选择的, 任意的
+fondling|被溺爱的人, 爱子, 宠爱的动物
+flitting|翩翩飞起；高速移动（flit的现在分词）；调拨, 搬运, 搬移
+felonry|重罪犯
+frasier|(Frasier)人名；(英)弗雷泽
+feminism|女权主义, 男女平等主义
+fluorescer|荧光剂; 荧光增白剂
+facture|制作, 制作法
+furloughs|（军队的）休假( furlough的名词复数 )
+federates|（使）结成联邦( federate的第三人称单数 )
+firman|(昔时土耳其皇帝等的)敕令
+feoffor|采邑授与人, 不动产赠与人
+felafel|[单复同]n.=falafel
+feetless|feet的变形
+fertilizable|可施肥的, 可受精的
+fuzzed|绒毛, 轻柔的物质( fuzz的过去式和过去分词 ); 竖起来的短细的毛发
+focalized|调节…的焦距( focalize的过去式和过去分词 ); 使集中在焦点上; 聚焦; 调焦距
+flagellate|鞭打, 鞭挞
+fairish|还可以的, 相当的
+fairness|晴朗, 光明正大, 美丽
+futurity|将来, 未来, 未来的事, 远景
+foists|强迫接受, 把…强加于( foist的第三人称单数 )
+festivities|欢庆, 庆祝活动, 庆典( festivity的名词复数 ); 过节
+flaperon|[航空]襟副翼
+fornix|[解]穹窿,穹
+fleishig|用肉类制成的, 用肉制品制成的；(犹太饮食法令中)限于肉类(或肉制品)的
+foliaceous|叶状的, 叶质的, 叶的
+fevers|热（病）( fever的复数形式 ); 发烧; 一时的狂热; 激动不安
+felter|制毡工
+furlers|(furler 的复数)  卷起者
+freemen|自由民, 享有市民权的人( freeman的名词复数 )
+fibrosity|微丝性
+fumigators|(fumigator 的复数) n. 烟熏者, 烟熏器
+fatalness|危险性, 致命性
+fizzer|失败
+folium|薄层
+filiate|使加入；收作养子
+folkmoot|(旧时英国市、郡等的)群众大会
+forgoing|没有也行, 放弃( forgo的现在分词 )
+flutist|横笛吹奏者, 笛手
+filariae|filaria的复数形
+flares|喇叭裤
+forearming|前臂
+flapjack|烤饼, 煎饼, 小粉盒
+fishhooks|(fishhook 的第三人称 -s形式) n. 鱼钩, 钓钩
+foci|pl. 焦点, 焦距, 对焦点, 聚焦, 活动中心, 集中点, 兴趣中心, 病灶, 震源, 疫源地
+forcipate|钳形的
+finlike|鳍状的
+fink|破坏罢工的人, 告发人, 密告人
+flavorsome|有香味的
+floruit|在世期, 全盛时期
+famishes|使挨饿, 感到极饿( famish的第三人称单数 )
+fenianism|芬尼共和主义
+frogbit|马尿花（一种热带美洲水生飘浮植物）
+fructuous|多果实的, 会结果实的, 多产的, 有成果的
+furl|卷收, 叠, 收拢
+frisbees|飞盘(frisbee的复数 ）
+foreskin|包皮
+furbish|擦亮, 研磨, 磨光
+fip|(=fippenny bit)<美>五便士币(1857年前在美国流通的西班牙银白币)
+freestyle|自由式
+flechette|航空箭形弹; 剪弹
+follis|(folli 的第三人称 -s形式) n. (Folli)人名；(法、意)福利
+fetterer|fetter的变形
+fubsy|肥胖的, 矮胖的
+fadeaway|消退, 低速曲球
+faience|精巧彩色陶器
+faradize|用感应电流刺激(肌肉), 以感应电流治疗
+fenny|沼泽的, 长在沼泽地带的, 住在沼泽地的
+flavanthrone|[机] 黄烷士酮
+faltered|（嗓音）颤抖( falter的过去式和过去分词 ); 支吾其词; 蹒跚; 摇晃
+forestal|forest（森林）的变形
+fulminates|强烈批评( fulminate的名词复数 )
+furiousness|狂暴;勐然
+floatplane|飞行艇, 水上飞机
+francolite|细晶磷灰石
+fratercula|[网络] 角海鹦；海鹦属；范特库兰
+funicular|索状的
+fittage|装配任务
+frush|马蹄叉
+faradization|感应电疗法
+flambeau|火把, 有装饰的大烛台
+frenetical|<古>=frenetic
+fishhook|鱼钩, 钓钩
+fiddlestick|拉提琴的弓, 无价值的东西
+floccilation|[医] 摸空, 捉空摸床
+firmament|天空, 苍天
+foeman|敌兵, 敌人
+fascinatedly|出神地
+fulmar|[动]管鼻藿
+firmed|& vi. 使坚固（firm的过去式与过去分词形式）
+fumulus|一层薄雾
+fusile|可聚变的, 可聚变物质的
+fiz|发嘶嘶声, 有泡沫的饮料
+floatable|可漂浮的, 可浮起的, 可航行的
+finery|(华丽的)装饰, (华丽的)服饰, 鲜艳服装, 幽雅, 精炼炉
+forcefully|激烈地；强有力地；有说服力地
+fytte|诗歌的一节
+fanatism|[网络] 狂热主义；狂热崇拜
+foolhardy|愚勇的, 有勇无谋的
+fulfills|履行（诺言等）( fulfill的第三人称单数 ); 执行（命令等）; 达到（目的）; 使结束
+feudatory|受有封地的, 封地的, 封臣的
+foism|(中国的)佛教
+fiberizer|成纤器
+flashbulbs|闪光灯泡( flashbulb的复数形式 )
+frocked|女装；连衣裙；僧袍；罩袍
+formative|有助于形成的, 造型的, 形成的
+feil|费尔（人名）
+fulgently|fulgent的变形
+facile|容易的, 灵巧的, 温和的
+firstfruits|一个季节中最早的收获, (喻)最初的成果
+fahlband|[矿]黝矿带
+filtrated|过滤, 筛选( filtrate的过去式和过去分词 )
+foothot|毫不延迟地, 匆忙地
+fid|硬木钉, 桅栓
+folate|[医] 叶酸盐
+flawn|[人名] 弗劳恩
+fellness|残酷
+freetrader|自由贸易主义者, 走私者,自由贸易
+firefall|火瀑（游戏名称）
+fraxetin|皮亭
+forewarned|预先警告, 事先告知( forewarn的过去式和过去分词 )
+frosted|结霜的, 冻伤的, 无光泽的, 磨砂的, 因年老而变白的, 冷淡的
+flatters|向…奉承( flatter的第三人称单数 ); 阿谀; 给以愉快的感觉; 使显得更漂亮
+fornicated|私通( fornicate的过去式 )
+frequenting|常到, 光顾, 常与…交往( frequent的现在分词 )
+fillet|头带, 带子
+fertilisable|<主英>=fertilizable
+farruca|法鲁卡舞( 西班牙安德鲁西亚地区的一种吉卜赛舞)
+famuli|famulus的复数形
+filoplume|毛羽
+farcetta|短闹剧
+footnotes|脚注；附注；表下注释（footnote的复数）
+farrowing|产小猪
+flowstone|[地]流石
+fatalism|宿命论
+frostbit|冻伤( frostbite的过去式 )
+flamenco|弗拉曼柯舞, 弗拉曼柯舞曲
+fibula|腓骨, 搭扣, 扣针
+fatherhood|父亲的身分, 父性, 父权, 父道
+fissiped|[动] 裂趾类动物
+francolin|鹧鸪
+fluidly|流动地
+flawing|产生裂纹
+freebooter|海盗
+foliaged|有簇叶的, 叶饰的
+fulvene|[俗]富烯, 亚甲基环戊二烯
+floorage|楼面面积, 占地面积
+filum|[解]丝, 丝状部份
+frazzle|(使)磨损, (使)磨破, (使)破烂
+fandom|运动迷, 影迷
+flagged|（已醉得）不能再喝的
+folklorist|民俗学者
+friseur|<法>n.(为女子理发的)美发师
+foreganger|鱼镖绳
+fusarium|镰刀霉
+fomes|传毒物(如病人衣物床褥等)
+friers|(frier 的复数) n.做油炸食品的人, 煎锅
+fossilise|vi. 使成化石, 变成化石, 使(思想)陈旧, 使僵化
+fleerer|fleer的变形
+farkleberry|臼莓
+farrel|[人名] 法雷尔
+fumeless|无烟的
+flumes|(flume 的第三人称 -s形式) n. 峡沟, 引水槽, 水道
+flickery|闪烁的, 摆动的
+flameless|[机] 无火焰的, 不起火焰的
+flyswat|蝇拍
+fld|field 场; fluid 流体; flowered 花开着的; failed 失败了的
+frug|扭摆舞
+foraging|搜寻（食物）, 尤指动物觅（食）( forage的现在分词 ); （尤指用手）搜寻（东西）
+freaks|畸形人；怪胎（电影名）
+flasher|发出闪光之物, 闪光灯, 闪光信号
+forecourse|(船)前桅大横帆
+fruticulose|稍灌木状的
+flagellating|鞭打, 鞭挞( flagellate的现在分词 )
+floodgates|（江河或湖泊的）防洪闸（门）, （泄）水闸门( floodgate的复数形式 )
+freewheeler|可滑行的车辆, 挥金如土者
+ferrule|金属手杖, 金属环, 套圈
+flogging|鞭打
+floridean|红藻的
+forearm|前臂
+frap|缚紧, 收紧
+fatigable|易疲劳的
+fatsos|胖子，胖家伙（作称呼用，含贬意）( fatso的名词复数 )
+flightiest|（尤指女人或其行为）轻浮的, 朝三暮四的, 反复无常的( flighty的最高级 )
+felinely|feline的变形
+falconet|小鹰, 旧式小炮
+filch|偷窃, 窃取
+fathomable|深度可测明的, 可以了解的
+forniciform|弯曲状的
+fughetta|小赋格曲
+fleeceless|fleece的变形
+forecasted|forecast的过去式和过去分词
+ficiform|[医] 无花果状的
+forehearth|前炉[床]
+forgives|原谅( forgive的第三人称单数 ); 饶恕; 对不起; 请原谅
+frow|荷兰女人, 家庭主妇, 妻子
+folious|[医]具叶的
+frons|(昆虫的)额
+formulized|公式化, 用公式表示, 把…作成公式( formulize的过去式和过去分词 )
+fallible|易错的, 可能犯错的
+fleawort|亚麻籽车前, 旋复花
+fashionless|不时髦的；不成形的
+faddy|一时流行的, 喜爱时尚的
+furnacing|用炉子处理, 用炉子加热(包括熔炼、焙烧、焙解等操作)
+fripperies|便宜而俗艳的服装, 无用的东西( frippery的复数形式 )
+fluorimetric|使用荧光计的, 使用荧光测定法的
+fitzroy|菲茨罗伊（姓氏）
+foretaster|预尝者, 先尝者
+formylate|甲酰化
+foppish|浮华的, 矫饰的, 纨绔的, 傻的
+futuristic|未来派的
+fumingly|fume的变形
+fustet|黄栌属植物
+furmint|福尔明葡萄(法国酿酒用葡萄品种)
+fishplate|鱼尾板
+fiberfill|纤维填塞物
+fibroin|(丝心)蛋白
+fossicker|fossick的变形
+filthily|污秽地, 不洁地, 丑恶地
+frey|弗雷(兴旺、爱情、和平之神)
+flatfooted|adj. 平脚的
+fluorosis|[化] 氟中毒
+feigner|feign的变形
+fumarase|[生化]延胡索酸酶
+fidelities|忠诚，忠实（fidelity的复数形式）
+foddered|饲料；素材
+foxgloves|毛地黄( foxglove的复数形式 )
+floes|(floe 的复数) n. 大浮冰
+furbelows|(furbelow 的第三人称 -s形式) n. 褶子, 俗气的装饰, 边饰, 裙饰
+founds|创办, 成立, 建立( found的第三人称单数 )
+fornicators|(fornicator 的复数) n. 私通者
+fronded|frond的变形
+factitive|使役的
+fleury|饰以百合花纹的, 臂端有花纹的
+fuchsin|[化]品红, 洋红
+fusuma|日式房屋中的拉阖门
+frowners|(frowner 的复数) n. frown的变形
+footslogging|在泥泞中费劲地步行( footslog的现在分词 )
+flytier|假蝇制作者
+fissional|细胞分裂的
+ferula|阿魏(药用植物), 戒尺, 权杖
+feebly|柔弱地, 无力地, 微弱地
+freestone|[化] 易切砂岩; 易劈石; 离核; 离核果实
+fistulina|[网络] 瘘管
+flagroot|蒲根
+figurante|[芭蕾]女配角演员
+fedayeen|（尤指反对以色列的）阿拉伯突击队队员, 埃及游击队队员( fedayee的名词复数 )
+freyja|弗蕾亚
+fluster|慌乱, 激动, 紧张不安
+festooned|花彩（装饰）( festoon的过去式和过去分词 )
+familiars|熟悉的( familiar的复数形式 ); 通晓的; 冒昧的; 随便的
+farthest|最远的, 最久的
+formate|甲酸盐, 编队飞行
+fuligo|[医] 煤烟
+francophil|亲法者
+fourpenny|四便士的
+famousness|famous的变形
+flounders|比目鱼( flounder的名词复数 )
+famatinite|脆硫锑铜矿, 块硫锑铜矿
+fruticetum|(pl.-ta)灌木群落
+fezzed|非斯(摩洛哥北部城市)
+forges|锻造( forge的第三人称单数 ); 伪造; 艰苦干成; 努力加强
+fosterer|养育者, 鼓励者
+fillmore|菲尔莫尔（姓氏）
+fluphenazine|[药]氟非那嗪,羟哌氟丙嗪(一种安定药)
+floodway|泄洪道
+forswear|发誓抛弃, 发誓否定
+failings|弱点, 缺陷, 短处( failing的复数形式 )
+frogman|蛙人
+fanciness|空想, 花哨, 做作
+forzando|强调音符[音调]
+fowlerite|锌锰辉石
+fisk|国库；罗马皇帝王室财库
+foursome|四人的一组, 四人对抗赛
+functionals|(functional 的复数) a. 功能的
+fondu|蛋白乳酪酥
+favel|[人名] [英格兰人姓氏] 费弗尔来源于古法语, 含义是“黄褐色”(tawny)
+foreward|正转
+fluorides|[无化] 氟化物, 氰化物（fluoride的复数形式）
+fizzers|(fizzer 的复数)  失败
+flaxseed|亚麻子, 亚麻仁
+fuzziest|模糊的( fuzzy的最高级 ); 绒毛般的; 糊涂的; 紧鬈的
+fanging|木风管
+fishtailing|摇摆尾翼而减缓飞行速度( fishtail的现在分词 )
+forme|印版
+falsities|虚伪( falsity的名词复数 ); 虚假; 不老实; 不忠实
+furless|fur的变形
+furnacemen|(furnaceman 的复数) n. 炉前工; 炉工
+felix|菲力克斯（男子名）；费力克斯制导炸弹
+fluked|(fluke 的过去时) vt. 侥幸成功
+frizzler|frizzle的变形
+filibuster|阻挠议事的活动, 掠夺兵, 暴兵, 海盗
+farmyard|农家庭院
+flabellate|扇形的
+fourpence|四便士, 四便士银币
+foldaway|折叠式的
+flannelet|棉织法兰绒
+fonds|(fond 的第三人称 -s形式) a. 喜欢的, 宠爱的, 温柔的
+floundered|（常指在水中）挣扎( flounder的过去式和过去分词 ); 挣扎, 漫无目标
+frolicsome|嬉戏的, 爱闹着玩的
+fishlike|似鱼的, 冷淡的
+forehands|（网球等的）正手一击, 正手击球( forehand的复数形式 )
+fescennine|下流的
+firebirds|(firebird 的复数) n. 北美黄鹂鸟
+fieriest|燃烧的( fiery的最高级 ); 火似的; 火热的; 激烈的
+footmanship|徒步行走的速度
+fissurella|[网络] 裂缝
+foretriangle|(由帆船的甲板、 前桅及前支索组成的)三角形区
+forlornness|愁思
+fendering|防护物
+foreshower|预示, 预告, 是…的预兆
+felicitator|祝贺者
+fuegian|(南美洲南端)火地岛(印第安)人
+feaze|困扰, 折磨
+fakes|云母板状岩；赝品；假冒商品（fake的复数）
+fatties|<非正>（侮辱性用语）胖子( fatty的复数形式 )
+ferrets|雪貂, 白鼬( ferret的名词复数 ); （经常性的）搜索者
+feelers|（昆虫的）触须, 对他人观点或反应的试探( feeler的复数形式 )
+faraday|法拉第
+fleck|斑点, 雀斑, 斑纹
+fistnote|指示符号,所示注解(通常有一定的重要性)
+fogyish|守旧的, 旧头脑的
+frivolously|轻浮地, 愚昧地
+flaskful|[网络] 烧瓶
+falsifying|篡改, 伪造( falsify的现在分词 )
+flexors|(flexor 的复数) n. 屈肌
+formals|（学校教育或培训）正规的( formal的名词复数 ); 方式上的; 礼仪上的
+feriae|（古罗马的）假日, 喜庆日, （基督教的）平日（尤指基督教节日以外的日子）( feria的名词复数 )
+floodgate|水门, 水闸, 防潮水闸
+focalisation|[网络] 聚焦
+fundable|fund的变形
+falangist|长枪党党员
+footed|有脚的, 脚步...的, 有...脚的
+finn|芬兰人
+funiculi|pl. 索, 精索, 脐带
+fain|乐意的, 想要的, 愿意的, 不得不
+forepost|前哨, 边区村落
+foreshore|前滩, 海滩
+filaria|丝虫
+furcated|分叉( furcate的过去式和过去分词 )
+folial|小叶
+fatimid|法蒂玛（穆罕墨德之女）王朝君主, 法蒂玛的后裔
+flittern|嫩橡树皮
+faltering|犹豫的, 蹒跚的, 支吾的
+fishify|供应鱼, 准备鱼
+fornicating|私通( fornicate的现在分词 )
+flagger|野生鸢尾花
+fraenums|系带
+flueric|流体的,液体的, 射流的流控的,射流控制(或放大)的
+fourthly|第四(列举条目等时用)
+foamflower|[植]泡沫花
+froglet|[动]小蛙, 幼蛙
+frictionless|无摩擦的
+forked|成叉的, 叉的, 叉状的
+furred|长着软毛的, 毛皮制的, 穿毛皮的
+fervescence|[医] 发热, 体温升高
+fascista|[pl. ]法西斯蒂(1922-1943年统治意大利的法西斯党)
+fixates|视线移向( fixate的第三人称单数 ); 注视; 使固定
+feudalist|封建主义者
+fatuities|愚昧，昏庸( fatuity的名词复数 ); 愚蠢的言行
+fluviograph|河川水位自动记录器
+freibergite|银黝铜矿
+furfural|糠醛
+frostwork|霜花花纹, (银器等上的)霜花纹装饰
+fluorin|[化]氟
+fieldman|外务员
+fustian|棉麻粗布, 浮夸的话
+filings|锉屑
+funks|惊惶( funk的名词复数 ); 恐惧; 懦夫; 乡土爵士乐
+firebricks|耐火砖
+furcation|分叉, 叉形
+fabricators|(fabricator 的复数) n. 制作者, 假造者, 杜撰者
+frangipani|鸡蛋花
+facings|饰面, 覆盖（如墙壁的）表面的覆饰( facing的复数形式 ); （衣服的）贴边
+ferronickel|镍铁
+forties|四十( forty的名词复数 ); （尤指白天）打盹, 午睡
+faultful|缺点很多的
+fluorid|氟化物
+fumarin|氟乙酰胺
+fersmite|铌钙矿
+fancied|空想的, 虚构的, 受喜爱的
+fucose|海藻糖
+fetology|胎儿学
+fatting|去肠脂, 去内脏脂
+futureless|无前途的, 无希望的
+fergusonite|褐钇铌矿, 褐钇钽矿
+facepiece|[医] 面具, 面壳
+fingerfish|海盘车
+foretopmast|前中桅
+farawayness|[网络] 遥远
+fogeater|雾虹, 雾中升起的满月
+flowerlike|象花的
+fewtrils|小事, 少量, 琐碎东西
+faints|pl. 劣质酒精
+fibrin|纤维蛋白
+firings|开火；烧制；解雇；生火
+fatality|不幸, 厄运, 致命性, 死亡者, 厄运, 天命
+fruitery|果实, 贮存水果的地方
+fumbler|摸索者, 工作拙劣的人, 粗手笨脚的人
+freesia|小苍兰
+franchisees|(franchisee 的复数) n. 有代销权的人(或团体)
+fluidizing|使液化, 流（态）化( fluidize的现在分词 )
+frag|蓄意杀伤
+fomento|[地名] [古巴、乌拉圭] 福门托
+fugle|做向导, 做指导人
+forbiddance|禁止, 禁令
+flavescent|逐渐变黄的, 稍带黄色的
+fasciation|簇生, 扁化
+fauvism|野兽派
+formulistic|公式主义的
+feoffee|受采邑者, 封地受领人
+fizgig|发嘶嘶声的烟火
+filmically|filmic的变形
+falsest|false（虚伪的）的最高级形式
+freewheel|自由飞轮
+furcal|开叉的, 开叉形状的
+fillmass|(=massecuite) 糖膏
+fumago|烟霉属
+fluviation|流水作用
+furor|喧闹, 激怒, 感动, 狂热
+folds|皱褶；折痕（fold的复数形式）
+friendless|没有朋友的, 无依无靠的
+fixative|固定的, 定色的
+figo|国际妇产科联合会（International Federation of Gynecology and Obstetrics）
+fielden|[人名] [英格兰人姓氏] 菲尔登 Field的变体
+fluoridates|在饮水中加少量之氟（以防儿童蛀牙）( fluoridate的第三人称单数 )
+flickertail|美国北达科他州居民的绰号
+feirie|<苏格兰>灵活的, 健壮的
+forays|突袭, 袭击( foray的名词复数 ); 从事非本行的短暂尝试活动
+fragging|[美军俚]士兵(用手榴弹等杀伤性炸弹)杀伤军官的行为
+forbidder|forbid的变形
+freaky|(=freakish)畸形的, 捉摸不定的
+fibroblastic|[医] 成纤维细胞的, 纤维形成的
+fanion|测旗(测量用小旗)
+flamencos|弗拉曼柯舞曲（西班牙吉卜赛人的舞蹈）( flamenco的复数形式 )
+filippi|[人名] 菲利皮
+felling|二重接缝, 咬口折缝；伐木
+fayed|法耶德（姓氏）
+flaser|[地质]压扁
+flavorous|味浓的, 很有风趣的, 有香味的
+foredoom|预定命运, 注定
+frogged|青蛙；[铁路] 辙叉；饰扣
+fluky|侥幸的, 幸中的, 不可靠的
+flurr|飞起, 撒开
+flagellants|(flagellant 的复数) a. (言语)刺人的, 伤人的
+faggot|柴把, 束薪
+focuser|聚焦放大镜, 聚焦装置
+forecooler|食品预冷间
+fecaloid|[医] 粪样的
+formicine|蚁
+fittingness|适合
+foulmart|[网络] 犯规
+fief|封地, 采邑
+fuzz|细毛, 绒毛, 警察
+fiesta|祭典日, 喜庆日, 假日
+flangers|(flanger 的复数) n. 凸缘机, 除雪器, 凸缘工人
+floribunda|[植]花束月季
+flotilla|小舰队, 小型船队
+flogger|[体]结算分
+fragmentate|(使)裂成碎片
+factious|好搞派系的, 好结党营私的
+flighting|flight（飞行）的现在分词
+fickle|变幻无常的, 浮燥的, 薄情的
+fedora|男式浅顶软呢帽
+frittata|菜肉馅煎蛋饼
+fructokinase|[化] 果糖激酶
+feloniously|兇恶地;重罪地
+fenchyl|葑基
+fribble|浪费时间的人, 无聊行为
+fluidize|使流体化
+forestaysail|挂在前支索上的三角帆
+forebears|祖先, 祖宗( forebear的复数形式 )
+finickiness|finicky的变形
+firedrake|喷火龙
+freedwoman|女自由民
+fon|丰人, 丰语（西非洲达荷美, 多哥及象牙海岸）
+flannelly|法兰绒似的
+flooded|洪水浸没的；浸没的, 淹没的；灌溉；充斥
+finlander|芬兰人
+ferules|教鞭, 戒尺( ferule的名词复数 )
+fungibility|可替代性
+foaming|[计] 泡沫的
+fortin|[人名] 福廷
+fingerroot|[网络] 根
+flavorful|充满...味道的, 可口的
+fueled|加燃料（fuel的过去分词）
+farinose|粉末状的, 生淀粉的, 产粉的
+firesides|炉边( fireside的复数形式 )
+feodal|(=feudal)封建的, 领地的
+formants|特盏率；共振峰（formant的复数）
+formamide|甲酰胺
+flashforward|预叙
+fettles|（英）修补
+fasinite|橄云霞辉岩
+firebrands|火把( firebrand的复数形式 ); 燃烧的木柴; 放火者; 煽动叛乱者
+fastings|(fasting 的复数) a. 禁食的
+franked|（在信件上）盖邮资已付印记, 盖免付邮资印记( frank的过去式和过去分词 )
+frenchwoman|法国女人
+forerunners|先驱( forerunner的复数形式 ); 开路人; 先兆; 前兆
+frankfurter|法兰克福香肠
+fcp|final common pathway 最终功用路径; foolscap 滑稽帽, 圆锥形的纸帽
+feistier|(feisty 的比较级) a. 激动的, 活跃的, 好争吵的, 坐立不安的
+freeport|[经] 自由港
+fleadock|[植]菊科蜂斗菜属
+fezzes|土耳其毡帽( fez的复数形式 )
+feoffees|(feoffee 的复数) n. 受采邑者, 封地受领人
+fragmenting|[计] 分割
+fum|[医][=5-fluorouracil and methotrexate]5-氟脲嘧啶和氨甲喋啶
+flowery|多花的, 绚丽的, 华丽的
+filariidae|[医] 丝虫科
+fluctuating|波动（fluctuate的ing形式）
+flashguns|闪光操纵器( flashgun的复数形式 )
+footfall|脚声, 踏步, 脚步
+fibroblast|成纤维细胞
+fisheye|鱼眼石, 怀疑的注视
+flinch|畏缩, 退缩, 畏首畏尾
+flowerage|(总称)花, 开花
+fanlight|扇形窗
+fixedly|固定, 不变, 不动
+fibromyitis|[医] 纤维性肌炎
+furtive|秘密的, 隐密的, 偷偷摸摸的
+flics|(flic 的复数) n.<法口>警察
+forenoon|午前, 上午
+fusing|[计] 熔断, 熔化, 定影
+fulgurating|闪光的, 刺入的
+forestine|[地名] [美国] 福里斯廷
+fraternizes|结交, 交友, （尤指）亲敌( fraternize的第三人称单数 )
+fouter|无价值的东西
+fanged|有尖牙的, 有毒牙的, 有牙根的
+ferrary|(Ferrary)人名；(法)费拉里
+freesias|小苍兰属植物( freesia的复数形式 )
+flatness|平坦, 平滑
+fiscus|[法] 国库
+frotton|磨棒
+finecomb|仔细搜查
+forkfuls|(forkful 的复数) n.一叉的量
+furze|荆豆花
+forbear|忍耐, 克制, 容忍
+finalizes|完成（finalize的第三人称单数形式）
+fanatically|狂热地, 盲信地
+flintstone|燧石, 打火石
+floorless|无地板的
+factualistic|求实精神的, 尊重事实的
+fleckless|无斑点的, 无缺点的
+fellable|适于砍倒的, 可击倒的
+fugitively|fugitive的变形
+fusain|炭画笔, 炭笔画
+freedoms|（指权利或状态）自由自在( freedom的复数形式 ); 自由权; 没有…的情况; 不受…影响的状态
+flagstone|石板
+ferrymen|摆渡者, 渡船夫( ferryman的名词复数 )
+flon|(Flon)人名；(法)弗隆
+foundational|基础的, 基本的
+firefly|萤火虫
+forerake|前斜倾度
+flinty|燧石的, 含燧石的, 坚硬的, 冷酷的
+floc|絮状物, 棉丛
+fadelessly|不褪色地;不衰弱地
+formfitting|紧贴合身的
+floriculture|种花, 栽培花卉
+figitidae|环腹峰科
+fogyism|守旧, 保守思想(或行为)
+fluellite|[化] 氟铝石
+fissuriform|缝状的
+flunky|奉承者, 男仆, 厨师
+foreclosed|取消（抵押品）赎回权( foreclose的过去式和过去分词 ); 取消（抵押人的）赎回抵押品的权利; 排除; 阻止
+funereally|funereal的变形
+filthiness|污秽；肮脏, 不洁
+frilly|有饰边的, 多饰边的
+florins|弗罗林, 一种货币( florin的复数形式 )
+frequentable|频繁的；时常发生的；惯常的 (frequent的变形)
+fizzed|（液体, 通常指饮料）起泡, 发嘶嘶声( fizz的过去式和过去分词 )
+flabbier|肌肉松垂的, 肥胖的( flabby的比较级 )
+fellating|(fellate 的现在分词) v.吮吸(…的)阴茎,(与…)口交
+fount|泉, 源泉, 墨水缸, 一副铅字
+floppily|下垂地;懒散地
+foredate|倒填(契约)的日期
+fenner|芬纳（英国公司）
+frenzied|狂热的, 狂乱的, 激怒的
+flittering|飞来飞去, 匆忙来往( flitter的现在分词 )
+folles|(folle 的复数) n. (Folle)人名；(西)福列；(德、法)福勒
+faciend|被乘数
+fattrels|丝带梢, 丝带片
+faquir|托钵僧,行者
+floreat|<拉>vi.祝它繁荣昌盛,祝他(或她)事业兴旺
+fibroserous|[医] 纤维浆液性的
+fertileness|肥沃, 富饶, 多产
+fress|大吃的
+fasts|澳大利亚科技协会联盟
+fishtails|摇摆尾翼而减缓飞行速度( fishtail的第三人称单数 )
+fats|育肥待上市的家畜；（食用的）动植物油（fat的复数）
+finedraw|拉细丝, 细缝
+fracted|破裂的, 断裂的
+fritillaria|[植]贝母
+fimbriating|[生物] 有毛缘的；有须毛为缘的
+flawed|有缺陷的；有裂纹的；有瑕疵的
+ferroalloy|[化]铁合金
+footrests|(footrest 的复数) n. 搁脚物
+festering|（伤口/破口）化脓( fester的现在分词 ); 溃烂; （不快的思想或情感）更加苦恼; 愈益恶化
+fiendlike|魔鬼似的
+feeblest|虚弱的( feeble的最高级 ); 无效的; 缺乏决心的; 无力的
+furbishing|改进, 擦亮, 更新( furbish的现在分词 )
+fowling|捕鸟, 打鸟
+facedown|<美>直接对抗, 摊牌
+funnies|连环图画, 报上登载连环图画的版面; 滑稽的( funny的名词复数 ); 可疑的; 疯疯癫癫的; 稀奇的
+friendliest|友好的（friendly的最高级）
+foretooth|[解]前齿, 门牙
+flaunt|炫耀, 飘扬
+flaked|睡去的；精疲力竭的；失去知觉的
+foody|[人名] 富迪
+fusser|fuss的变形
+fouler|恶劣的( foul的比较级 ); 邪恶的; 难闻的; 下流的
+flophouses|(flophouse 的复数) 廉价的低级住所或旅馆, [俗]监狱
+feminise|使女性化, 女性化, 使带女子气
+filaments|（电灯泡的）灯丝( filament的复数形式 ); 丝极; 细丝; 丝状物
+footwork|脚的动作, 脚力, 现场采访活动
+fibroneuroma|[医] 纤维神经瘤
+fumigants|(fumigant 的复数) n. 薰剂
+flaccidity|软弱, 没气力
+fatiguing|使人劳累的
+foggage|<主苏格兰> =fog&{2}
+fondly|溺爱地, 怜爱地, 情柔地
+fielding|守备
+filtre|<法>n.(滤咖啡的)滤器, (用滤器的)滤过咖啡
+flenses|剥取脂肪, 剥皮( flense的第三人称单数 )
+freer|给予自由的人或事物
+follies|罪恶；时事讽刺剧（folly的复数形式）
+forefend|防止, 避免
+flashboard|闸板
+filming|摄影；拍摄；薄膜形成
+frauds|欺诈( fraud的复数形式 ); 骗子; 伪劣品; 冒牌货
+filigrees|(filigree 的复数) n. 金银细丝工艺, 精致华丽而不很坚固的物品, 金丝的细工饰品
+flattens|变平, 使（某物）变平( flatten的第三人称单数 ); 彻底打败某人, 使丢脸; 停止增长（或上升）; （把身体或身体部位）紧贴…
+ferritin|[化] 铁蛋白
+flandan|弗兰丹女帽
+foundrous|易使人摔倒的, 泥泞的
+filibusters|掠夺兵( filibuster的名词复数 ); 暴兵; <美>（用冗长的发言）阻挠议事的议员; 会议妨碍行为
+folksinging|民歌演唱
+flickers|电影制片业
+fluorocarbon|[建] 碳氟化合物
+frauleins|(fraulein 的复数) n. （德）小姐；未婚女子
+flosses|丝棉( floss的名词复数 ); 乱丝; 绣花丝线; 绒毛
+festal|节日的, 祭日的, 欢乐的
+flots|重叠牙边
+fasibitikite|负异花岗岩
+febricide|退烧剂
+fuggy|闷气的, 闷热的
+fuzzball|马勃科菌
+fisc|国库
+fantasm|幻觉
+forthrightly|直率地；言行坦诚地
+formanilide|N-甲酰苯胺
+feebler|虚弱的( feeble的比较级 ); 无效的; 缺乏决心的; 无力的
+fibrillae|[医] 原纤维, 纤丝
+filmsetting|照相排字; 薄膜排印
+fruiterers|(fruiterer 的复数) n. 水果商, 运水果船
+fashioning|[化] 精加工
+florulent|[医]花的
+finders|[计]维修排障手册
+fathership|父亲的身分, 最老成员的身分, 父性
+fallacious|使人误解的, 谬误的, 不合理的, 骗人的
+fatigueless|不知疲劳的
+fripper|旧衣商, 买卖旧衣者
+foresaw|foresee的过去式
+felstone|(=felsite)[矿]霏细岩
+flagships|（舰队的）旗舰( flagship的复数形式 )
+fluoridize|用氟化物处理
+fidelio|费德里奥（贝多芬的序曲名）
+frizette|发缨
+freddy|弗雷迪（男子名）
+forwearied|极疲倦的, 筋疲力尽的
+flagrante|——见  in flagrante
+fiddled|伪造( fiddle的过去式和过去分词 ); 篡改; 骗取; 修理或稍作改动
+flatterer|阿谀者, 谄媚者
+forgathering|聚会, 偶然遇见, 结交( forgather的现在分词 )
+forearms|前臂( forearm的名词复数 )
+finback|长须鲸
+foolproof|十分简单的, 十分安全的
+fisted|有拳头的, 握成拳头的
+fairest|最美的（fair最高级）
+foliate|生叶
+falsifiers|(falsifier 的复数) n. 伪造者, 撒谎的人, 伪证的人
+filipuncture|[医] 线刺法(治动脉瘤)
+foiling|叶形饰
+frontlash|<美>(抵消或中和政治上不利反应的)逆反应
+frowned|皱眉( frown的过去式和过去分词 )
+funder|投资者
+filiated|使加入；收作养子
+fretfulness|烦躁不安
+fifed|吹横笛( fife的过去式和过去分词 )
+freestyler|[体]自由泳运动员
+fruticous|灌木状的
+fluoresces|发荧光( fluoresce的第三人称单数 )
+febrific|产热的, 发烧的
+flashiest|俗丽的, 浮华的, 虚饰的( flashy的最高级 )
+frae|<苏> (=from)从, 自
+fraps|Farm Record Analysis Pilot Scheme 农场纪录分析试验计划
+fascistize|使法西斯化,使信仰法西斯主义
+farmhands|(farmhand 的复数) n. 农场工人
+forebreast|前胸
+forma|福马（环境科技公司名）
+fae|fetal alcohol effect 胎儿酒精效应; figural after-effect 形象化后效应; fine alignment equipment 微补偿仪器; forward air express 转寄运包裹
+funkiness|[美国俚语]；好；极好；绝妙；时髦
+fibrinoid|纤维蛋白样的
+fortitude|刚毅, 坚毅, 不屈不挠
+forgers|铁匠；伪造者
+fruitade|浓缩果汁
+fooleries|愚蠢的行为( foolery的名词复数 )
+fribbler|无聊的人；浪费时间的人；无聊行为 (fribble的变形)
+frisk|乱跳, 欢闹, 活跃
+feminisation|雌化
+fenestellid|窗格苔藓虫
+fetwa|判决
+filmstrip|幻灯影片
+fungaceous|真菌状的, 似真菌的
+forestaller|垄断者
+firebomb|火焰炸弹(燃烧弹和凝固汽油弹的总称)
+footled|<非正>闲混( footle的过去式和过去分词 )
+fielded|[棒球、板球等]担任外场员, 担任守队队员（field的过去式与过去分词形式）
+funked|发霉的
+fledgeless|羽毛未丰的
+foresheet|前桅帆角索
+finking|破坏罢工的人, 告发人, 密告人
+faveolus|小凹, 肺泡
+freckle|雀斑, 斑点
+fearlessness|无畏, 勇敢
+faro|法罗牌戏
+fondest|溺爱的
+foreshowing|预示, 预告, 预兆( foreshow的现在分词 )
+freehandedly|freehanded的变形
+falsettist|假嗓子歌手
+freaking|（用以加强语气）该死的, 使人憎厌的, 糟透的
+fluvial|河流的
+faunus|[罗神]福纳斯(畜牧农林神)
+fiddles|小提琴( fiddle的名词复数 ); 欺诈; （需要运用手指功夫的）细巧活动; 当第二把手
+flooey|乱套的, 不正常的, 不行的
+formulating|[机] 形成, 公式表示
+ferocity|凶猛, 残忍, 狂暴的行为
+focalizing|调节…的焦距( focalize的现在分词 ); 使集中在焦点上; 聚焦; 调焦距
+fantasticate|使变得奇形怪状, 使变得荒唐
+flexibleness|[机] 可挠性
+faena|[西](斗牛的)连续劈刺(斗牛士在击杀牛前炫示技能的劈刺动作)
+fascists|法西斯主义的支持者( fascist的复数形式 )
+farmeress|农人之妻, 农场女工
+faden|[人名] 法登
+filipinos|菲律宾人（Filipino的复数）
+fatwa|(伊斯兰教)法学家的裁决
+feints|佯攻( feint的名词复数 )
+foodlessness|食物；养料 (food的变形)
+fibromatous|[医] 纤维瘤的
+flocs|(floc 的复数) n.絮状物, 棉丛
+foamier|泡沫的；起泡沫的；全是泡沫的 (foamy的变形)
+ferreters|(ferreter 的复数)  [体]捕猎者
+fascicled|成束的, 簇生的
+foresting|森林, 林区
+foliation|生叶, 发叶
+felis|猫属; [人名] 费利斯
+frippery|便宜而俗艳的服装, 无用的东西
+fluorination|氟化作用
+fascinates|使着迷, 使极感兴趣( fascinate的第三人称单数 ); 慑住…使动弹不得
+fother|海上堵漏, 铅的重量单位(一个现代单位, 等于 19.5 英担)
+freightliner|集装箱货运列车
+foxed|变了色的, 有褐斑的, 变酸了的
+frieze|饰带, 带状物, 起绒粗呢
+faroff|遥远的
+feinting|佯攻, 声东击西( feint的现在分词 )
+fulvescent|变红肉桂褐色的, 变黄褐色的, 变微红黄色的
+formeret|[建]附在墙上的拱棱[拱肋]
+foreknow|预知, 预见
+feudalism|封建主义, 封建制度
+fleets|舰队( fleet的名词复数 ); 车队; 捕鱼船队; （同一机构或统一调度的）机群
+flotage|漂浮, 浮力, 漂浮物
+furiously|狂暴地；猛烈地
+fondues|溶化奶油, 干酪( fondue的复数形式 )
+fluorotic|[网络] 氟化
+flinchingly|flinch（退缩）的副词形式
+flagellated|[生物]生有鞭毛的, 生有匍匐茎的
+fireboat|救火船
+filtrate|过滤
+fluting|吹笛子, 笛声, 刻凹槽
+flounce|(衣裙上的)荷边装饰, 挣扎, 挣脱
+floria|[人名] 弗洛里亚
+fanning|铺开, 展开；形成气流
+forkful|一叉的量
+foraminule|小孔, 小胚孔
+flouter|嘲笑；轻视；愚弄 (flout的变形)
+feasters|(feaster 的复数)  欢宴者
+frailly|脆弱地, 不坚实地
+filliped|刺激；弹指
+fewest|[计] 最少的
+faker|骗子, (卖滑头货的)摊贩
+frostbitten|受霜害的, 生冻疮的
+foveolae|[医]（单foveola）小凹, 小凹的
+fonder|喜欢的；多情的；渴望的（fond的比较级）
+floccule|絮状物
+footstone|基石
+firebreaks|防火道( firebreak的复数形式 )
+fimbrial|fimbria的变形
+feminineness|feminine的变形
+flashflood|na. 暴洪
+footboards|(footboard 的复数) n. 踏脚板, 放脚台, 竖板
+freeholders|(freeholder 的复数) [法] 世袭地产保有人, 自由保有不动产权者
+foolishly|愚笨地, 无聊地
+fopped|(fop 的过去时) n. 自高自大的人, 花花公子
+frivoler|frivol的变形
+flavoprotein|[化]黄素蛋白
+festinately|festinate的变形
+frijoles|(frijole 的复数) n.[植]菜豆
+flatulence|肠胃气胀, 空虚, 自负, 浮夸
+floatboard|蹼板, 轮翼, 承水板
+faddists|(faddist 的复数) n. 趋于时尚者
+funnier|滑稽的
+fiefdom|封地, 采邑（等于fief）
+fakir|托钵僧, 苦行者
+fractures|（指状态）骨折( fracture的名词复数 ); 断裂; （指事实）骨折
+farinha|木薯粉
+friezes|（柱顶过梁和挑檐间的）雕带, （墙顶的）饰带( frieze的复数形式 )
+foiled|有叶形装饰的
+facette|[医] 小平面, 小面
+fiducial|基准的, 根据信仰的, 信托的
+fifteens|十五( fifteen的复数形式 ); 十五的; 十五岁
+floridness|鲜丽；脸色好
+flo|弗洛（女子名）
+flaying|痛打( flay的现在分词 ); 把…打得皮开肉绽; 剥（通常指动物）的皮; 严厉批评
+foreshadows|预示, 是…的先兆( foreshadow的第三人称单数 )
+foretaste|预尝, 先试
+flowing|流动的, 如流的, 平滑的
+fertilizes|施肥( fertilize的名词复数 )
+festination|[医](指某些精神病的症状)慌张步伐
+foumart|臭貂
+flaxman|弗拉克斯曼(①姓氏 ②John, 1755-1826, 英国雕刻家、素描画家)
+fossicking|(fossick 的现在分词) vi. 淘金, 翻寻, 采掘
+furioso|演奏得很有力的
+fianna|芬尼安运动员；爱尔兰勇士
+flavoring|调味料
+fakers|(faker 的复数) n. 骗子, (卖滑头货的)摊贩
+ferryage|摆渡;渡船业;渡费
+finessing|手腕, 手段, 技巧( finesse的现在分词 )
+faggoting|抽纱法
+fibrilliform|小纤维状的
+flambe|<法>在火上烧过的食物
+funereal|送葬的, 适合葬礼的, 悲哀的
+frogmen|蛙人, 潜水员( frogman的复数形式 )
+feazing|折磨；困扰
+forepole|打桩以防泥土崩落
+francophile|亲法者
+finnan|熏鳕鱼
+forcing|强迫, 培育, 夺取, 施加压力
+fulminic|爆炸的
+flybelt|受采采蝇侵扰的(非洲)地区,舌蝇带
+finality|终结, 定局, 终结性言行
+funniment|滑稽动作, 笑谈
+fingertips|指尖( fingertip的复数形式 ); 手头有某物随时可供应用
+fibrose|形成纤维性组织
+frisette|发缨
+fifo|先进先出
+fezzan|费赞[利比亚西南部一地区]
+fructus|[医] 果实
+fibrinogenic|纤维蛋白原的, 纤维蛋白原状的
+forgathers|聚会, 偶然遇见, 结交( forgather的第三人称单数 )
+fornicates|私通( fornicate的第三人称单数 )
+fines|细骨料；粉末；罚款（fine的复数）
+firearms|火器, 枪炮；轻武器（firearm的复数）
+fuliginous|煤烟的, 烟垢的, 煤烟色的
+fishberry|[医] 印防己
+feats|功绩, 伟业, 技艺( feat的复数形式 )
+faujasite|八面沸石
+floaty|能浮起的, 吃水浅的
+fleering|狞笑( fleer的现在分词 ); 讥笑; （做鬼脸表示轻蔑）嘲弄; 嘲笑
+faradmeter|[电] 法拉计
+filibranchia|丝鳃目
+firestone|燧石, 耐火石
+futilitarian|认为人的努力是徒然的
+foreshows|预示, 预告, 预兆( foreshow的第三人称单数 )
+fawner|乞怜者, 奉承者
+flowerless|无花的
+felwort|侧蕊属
+faille|罗缎
+fettuccine|意大利宽面条, 扁平细面条； （用意大利宽面条烹制的）白脱奶油面
+fetid|恶臭的
+frumpy|心地不良的, 不见世面的
+furrow|犁沟, 车辙, 皱纹
+foreplay|性交前的爱抚, 前奏, 前戏
+facelifts|(facelift 的复数) n. 除去面部皱纹的整容手术
+frats|fraternities 互助会，兄弟会
+fenestella|小窗, 小窗洞
+finochio|甘茴香（可食用）
+forecastle|前甲板下面的水手舱, 船头船楼, 前甲板
+futhark|北欧古字母
+fiend|魔鬼, 邪神, 能手, 成癖者
+fergusite|假白榴等色岩
+fluorated|氟酸盐
+factotums|杂工, 打杂的人( factotum的名词复数 )
+fruitlessly|不结果实的, 徒劳的, 无益的, 无效的, 无结果的
+formations|队形；形态；形成（formation的复数形式）
+fugally|fugal的变形
+fissural|[医] 裂的
+forepaw|前掌, 前爪
+favoured|受到优待的, 优惠的, 受优惠的, 有天赋的
+floosy|毛茸茸的
+farmable|可耕种的
+flysch|[地]复理层,厚砂页岩夹层
+footpads|(footpad 的复数) n. 拦路强盗
+flitch|腌熏猪肋肉, (大比目鱼)肉块, 背板, 料板
+flotations|（公开发行股票）开办新公司( flotation的复数形式 )
+frontlessly|没有前部地, 没有正面地
+flowered|花开着的, 用花装饰的
+financiered|欺骗；从事欺骗性金融活动
+frostweed|岩蔷薇
+futurology|未来学
+ferrety|雪貂似的, 爱窥探的, 搜索者般的
+fitter|裁剪和试样的服装工人/裁缝, 装配工, 钳工
+foreship|船的前部
+flirted|调情, 打情骂俏( flirt的过去式和过去分词 )
+fugard|[人名] 富加德
+fulgor|灿烂, 光亮
+flapped|（使）上下左右移动( flap的过去式和过去分词 ); 轻拍; 焦急, 焦虑; 振（翅）
+flabbiness|软弱, 无气力
+flail|连枷
+facilitative|使便利的
+fragments|碎片( fragment的名词复数 ); 片段; （将文件内容）分段; （文艺作品等）未完成的部分
+forbye|接近, 其他
+foliole|小叶
+fricative|由摩擦产生的, 摩擦音的
+fittedness|fitted的变形
+fingertip|指尖, 指套
+finials|(finial 的复数) n. 尖顶饰, 顶尖
+fascicles|(fascicle 的复数) n. 小束, (神经)束, (书籍的)分册, 一簇
+feigns|假装, 伪装( feign的第三人称单数 ); 捏造（借口、理由等）
+filamentary|细丝的, 单纤维的, 似丝的
+furthermost|最远方的, 最远的
+fishbone|鱼骨
+finitude|界限, 限制
+filefish|豚鱼
+flypast|空中分列, 低空编队飞行
+featherpated|愚蠢的, 轻浮的
+figbird|[鸟]裸眼鹂(嗜食无花果等果实的澳洲黄鹂)
+farced|笑剧( farce的过去式和过去分词 ); 闹剧; 笑剧剧目; 作假的可笑场面
+fletton|[亦作f-](英国)弗莱顿砖(原以英国Fletton地区的黏土作为原料)
+fustigate|用棍棒打, 抨击
+feudalists|(feudalist 的复数) n. 封建主义者
+fittest|胜任的；适当的（fit的最高级）
+facially|从脸部
+fibbing|撒小谎( fib的现在分词 )
+frenum|系带
+fauvist|野兽派的,野兽派风格的
+froise|大厚烙饼
+formulator|配方设计师
+fest|集会；节日
+filmer|菲尔默（人名）
+fermentology|发酵(工艺)学
+fieriness|猛烈, 火性子
+fecula|淀粉, 虫粪
+filmstrips|(filmstrip 的复数) n. 幻灯影片
+fass|Fine Alignment Sub-System 优良校校正分支系统; field-amplified sample stacking 扩大区域的样本堆集; foot and ankle severity scale 足和踝严重度量表; frequency agile signal simulator 捷变频信号模拟器
+faulting|[地]断层作用；[地]断层错动；[电]故障
+fluctuations|起伏现象；变动；波动（fluctuation的复数）
+fascism|法西斯主义, 极端国家主义
+feasted|享受；款待, 宴请
+footstock|[机]尾架,尾座,顶针座
+fragmented|成碎片的；片断的
+fatherless|无父的
+fells|砍倒, 打倒( fell的第三人称单数 ); 有叶的, 覆有叶的( foliate的过去式和过去分词 ); 来临; 成为
+flummox|使狼狈, 使失措, 使混乱, 挫败
+fornent|adj.  在 ... 对面(靠近)
+fetlow|(兽医)蹄冠炎
+fullmouthed|(牛等)牙长齐的, (狗)大声吠叫的, 声音响亮的
+fusillades|一齐射击, 快速连续射击, （批评等）连续猛烈的迸发( fusillade的名词复数 )
+feedstock|原料
+forasmuch|鉴于..., 所以
+froth|泡, 泡沫, 琐物
+fabricator|制作者, 假造者, 杜撰者
+fanon|披肩, 臂巾
+forswears|发誓抛弃( forswear的第三人称单数 ); 坚决放弃; 发伪誓; 作伪证
+flimflammery|胡说, 胡扯；欺骗；荒唐 (flimflam的变形)
+flameout|燃烧中断, 毁坏, 熄火
+fetching|动人的, 引人的, 迷人的
+floristry|花卉栽培技术
+frogmouth|蛙嘴夜鹰
+ferryman|渡船工人
+fulminate|使爆发, 以严词谴责
+flowingness|flowing的变形
+flumped|砰的摔下, 砰的倒下( flump的过去式和过去分词 )
+flatbread|大饼, 扁面包
+foppishness|foppish的变形
+folkland|国民有地, 国有地
+freebooting|强盗行为, 掠夺
+fumaria|紫堇
+faired|流线型的
+flavourless|无味的, 乏味的, 无风趣的
+fornications|(fornication 的复数) n. 通奸, 乱伦
+fretwork|回纹装饰, 浮凸雕工
+functor|起功能作用的东西, 函子, 功能词
+fuelled|（以…）作为燃料的
+fora|pl. 论坛, 讨论会, 座谈会, 广播专题讲话节目, 电视专题讲话节目, 法庭
+farmhouse|农舍
+fixations|<心>固着, 固恋( fixation的复数形式 )
+fussy|易怒的, 爱挑剔的, 难取悦的, 易烦恼的
+facete|滑稽的, 很有情趣的
+floatstone|浮石
+foreshortens|按照透视法缩短（描绘对象）( foreshorten的第三人称单数 )
+flyleaves|衬页, 章节后的空白( flyleaf的复数形式 )
+fasting|禁食的
+fone|词语快捷键
+fecit|(某某)画, (某某)作
+forecarriage|前导轮架
+feinted|佯攻, 声东击西( feint的过去式和过去分词 )
+footeite|铜氯矾
+foochow|福州(中国福建省的省会)
+fistulatome|[医] 瘘管刀
+fano|[人名] 法诺; [地名] [意大利] 法诺
+frustrates|使不成功( frustrate的第三人称单数 ); 挫败; 使受挫折; 令人沮丧
+fourchite|钛辉沸煌岩
+forgery|伪造, 伪造罪, 伪造物
+flores|[医] 花; 升华制剂
+fillies|小雌马, 小母马（通常未满四岁）；活泼的小姑娘
+facias|(facia 的复数) n. （英）仪表板；招牌（等于fascia）
+formulaic|(根据)公式的,用俗套话堆砌成的,刻板的
+footloose|自由自在的, 能做所要做的, 不受束缚的
+farted|<讳>放屁( fart的过去式和过去分词 )
+ferrimagnet|[电] 亚铁磁性材料
+foundling|弃儿, 拾来的孩儿
+fences|栅栏( fence的名词复数 ); （障碍赛马中的）障碍物; 买卖赃物者; 击剑（术）
+foxer|为皮鞋或胶鞋换新鞋面的工人
+fennec|[动]一种非洲产的大耳小狐
+frizzles|使卷缩, 使（卷曲）, 炸得吱吱响( frizzle的第三人称单数 )
+frigolabile|[医] 不耐寒的, 易受寒冷影响的
+fairfieldite|磷钙锰石
+fluxion|流动, 不断的变化
+footsteps|步距；脚步（footstep的复数形式）
+footstools|脚凳( footstool的复数形式 )
+fecundity|多产, 丰饶, 肥沃, 繁殖力
+furoin|糠偶姻, 联糠醛
+footglove|女套袜, 内套鞋, 内长袜
+frt|fruit 水果; freight 货物; fortnight 两周; free return trajectory 自由返回轨道
+fluosilicate|[机] 氟硅酸盐
+frenzies|狂乱( frenzy的名词复数 ); 极度的激动
+fishiest|鱼的；可疑的；似鱼的；呆滞的 (fishy的变形)
+fluoroscopy|荧光镜的使用, 荧光镜检查
+fleshment|<废>由于开端顺利而引起的兴奋, 由于初步成功而产生的兴奋
+forcemeat|五香碎肉
+fluxibility|熔性[度]
+flocculus|小絮状物, 一丛柔毛, 小谱斑
+fleshliness|肉体性, 肉欲性, 肉欲
+furthers|促进( further的第三人称单数 ); 对…给予援助; 赞助; 增进
+fairings|(fairing 的复数) n. 集市上卖的礼物, 减阻装置, 整流罩, 整流片, 集市上卖的纪念品
+fulmars|(fulmar 的复数) n.[动]管鼻藿
+fluoridation|[医] 氟化
+findable|可发现的, 可找到的
+featurette|短故事片, 短艺术片
+foreleech|前帆缘
+fellated|(fellate 的过去分词) v.吮吸(…的)阴茎,(与…)口交
+fevering|引起发热（fever的现在分词形式）
+frescos|壁画( fresco的名词复数 ); 温壁画技法, 湿壁画
+farthing|法寻(1/4便士), 不值钱的东西
+floccus|绒毛丛, 絮状云, 絮状物
+foretell|预言, 预告, 预示
+foreboot|前行李箱
+foreroom|起居室, 客厅
+fustic|黄木(美洲产), 黄木染料
+flapper|拍击者, 惊鸟器, 苍蝇拍, 拍击物, (英)未入社交界的少女
+fungibles|代替的；可取代的
+furlongs|弗隆, 浪（相当于0。2公里）( furlong的复数形式 )
+fabianist|费边主义者
+fraternity|友爱, 互助会, 大学生联谊会
+finkel|[人名] 芬克尔
+frigidaria|保持低温房间
+filers|锉磨工人；文件编档员；文件装钉员
+filtered|滤过的
+fostering|哺育；养育（foster的现在分词）
+fluxed|熔化（flux的过去式与过去分词形式）
+felonious|凶恶的, 极恶的, 重罪的
+fulminant|突然闪亮的, 轰响的, 爆炸的
+frescoes|壁画( fresco的名词复数 ); 温壁画技法, 湿壁画
+felsite|致密长石
+flayflint|吝啬鬼, 敲诈者
+footslogger|步兵, 长途步行者
+fetterbush|[植]绊脚灌木(产于美国)
+fauve|野兽派画家; (Fauve)人名；(法)福夫
+fissura|[医] 裂, 裂隙, 裂纹
+fibrinemia|[医] 纤维蛋白血症
+folkmote|[法] 平民集会
+findability|[网络] 可寻性；可查找性；寻获度
+fyce|<美> 小狗, 无用的人, 坏脾气的人
+foxhole|散兵坑
+furfurol|(=furfural)糠醛
+fidel|卡斯特罗（男子名）
+flota|<西>n.船队,舰队
+fungoid|真菌状的
+fortresses|堡垒, 要塞( fortress的名词复数 )
+fifteenthly|第15;1/15地
+freedman|自由民, 被解放的奴隶
+flamingoes|红鹳, 火烈鸟（羽毛粉红、长颈的大涉禽）( flamingo的名词复数 )
+fierasfer|潜鱼
+freeloaded|吃白食；不劳而获；一种离线浏览主页的工具软件
+fratricide|兄弟杀害的行为, 杀害兄弟者
+firmer|圆凿或凿子的；坚固的
+fimbriate|有毛缘的, 有须毛为缘的
+fibrinose|[医] 纤维蛋白ж
+felids|(felid 的复数) n. 猫科动物, 猫
+fraxinus|[医]？属
+fueler|供油船
+forficate|分叉的
+ferrate|高铁酸盐
+flowingly|流动地
+foamless|无泡沫的
+flecks|斑点, 小点( fleck的名词复数 ); 癍
+farmhouses|农舍, 农场的主要住房( farmhouse的复数形式 )
+foundress|女创立者
+fascia|带, 招牌
+feod|采邑, 封地
+fulminating|爆炸发光的, 暴发性的, 疾病暴发性的, 呵斥的, 起爆的
+fanjet|涡轮发动机
+forbids|禁止( forbid的第三人称单数 ); 妨碍; 阻碍; 阻止
+furlough|休假, 放假, 暂时解雇
+fiddlehead|提琴头状船首
+finless|无鳍的
+fieldmouse|na. 野鼠
+frostbite|冻伤, 冻疮
+flints|燧石, 火石( flint的复数形式 ); （打火机等的）打火石
+furtherer|更进一步的（further的比较级）; 更远的（further的比较级）
+ferberite|[矿]钨铁矿
+formating|使格式化；设计, 安排（format的现在分词）
+fiddlededee|无聊!胡说!瞎扯!
+fulguration|闪光, 电灼疗法
+froufrou|沙沙声
+ferriferous|含铁的
+fpm|feet per minute 每分钟…英尺
+floodage|淹没状态
+favourably|顺利地；有利地；好意地（等于favorably）
+fleshpots|美食, 物质享受, 满足肉欲的场所
+fiercest|（尤指人或动物）凶猛的
+friskiest|活泼的, 闹着玩的( frisky的最高级 )
+faceup|面部朝上地
+frit|玻璃原料, 软质瓷用料, 玻璃质的陶器原料
+fermions|费密子（费密系统的粒子）
+fedoras|(fedora 的复数) n. 男式浅顶软呢帽
+falconets|(falconet 的复数) n. 小鹰, 旧式小炮
+fluffing|[机] 磨里
+frolicker|frolic的变形
+fucks|性交；诅咒（fuck的第三人称单数形式）
+ferries|渡船( ferry的名词复数 ); 渡口; 摆渡; 飞机渡运
+frontbencher|（英国议会中的）前座议员（政府大臣或反对党领袖）
+familiarly|不拘礼地, 亲密地, 随意地
+familia|[法] 家族, 家长, 户主
+frighting|惊吓；惊骇
+finesse|策略, 手段, (桥牌中的)飞牌
+formularize|使公式化
+flakeboard|刨花板(用碎木片胶压成)
+footslog|费力地步行
+frugalness|节俭
+factotum|家务总管, 杂役, 爱管闲事者
+fives|墙手球
+fellowships|团体( fellowship的复数形式 ); 研究员职位; 伙伴关系; 学术奖金
+farad|法拉(电容单位)
+foreigners|外国人( foreigner的复数形式 ); 外来人, 外地人; 老外; 蕃
+frontiers|边界( frontier的名词复数 ); 边境; 开发地区的边缘; 尚待开发的领域
+forlornly|可怜地；孤苦伶仃地；没希望地；渺茫地
+fagins|(fagin 的复数) n. 费金(狄更斯小说中的人物), (教唆儿童犯罪的)教唆犯
+fidge|坐立不安, 寝食难安者
+fifers|(fifer 的复数) n. 吹横笛的人
+fretfully|烦躁不安地; 焦躁地, 焦急地
+ficin|[生化]无花果蛋白酶
+fendered|(fender 的过去分词) n. 防卫物, 挡泥板
+fluxible|可流动[出]的, 可熔化[解]的
+frison|长吐, 茧衣(从蚕外层剥下的废丝)
+filberts|榛子；榛树
+faze|打扰, 折磨, 使狼狈
+frosts|霜冻, 严寒天气( frost的名词复数 )
+flanning|窗框(或炉框)两侧斜边, 外张的, 八字形的
+factorial|因子的, 阶乘的, 代理商的
+frolicks|(frolick 的复数) vi. 嬉戏, 玩耍
+fishskin|鱼皮, (尤指)鲨皮
+fingernail|手指甲
+footwall|底帮, 下盘
+furbearer|长毛皮的动物(尤指其毛皮具有商业价值者)
+formulist|公式主义者
+friar|修道士
+fusilier|燧发枪手
+fluxmeter|磁通(量)计
+farle|一种薄的面包
+frieseite|[化] 杂硫银铁矿; 富硫银铁矿
+fiduciary|基于信用的, 信托的, 受信托的
+feasts|盛会( feast的名词复数 ); 宴会; 宗教节日; 使人欢快的事物（或活动）
+fraternities|同业工人( fraternity的名词复数 ); 兄弟会; （美国男学生的）大学联谊会; <正>兄弟关系
+fichtelite|[化] 朽松木烷
+facilitates|促进( facilitate的第三人称单数 ); 使便利; 推进; 帮助（某人）进步
+fluoridating|在饮水中加少量之氟（以防儿童蛀牙）( fluoridate的现在分词 )
+furibund|[医] 狂怒的, 狂暴的
+fiddly|需要手巧的, 要求高精度的
+fantasticism|奇想, 怪诞
+fash|使苦恼, 使生气
+fullhearted|满腔热情的, 勇敢的, 充满信心的, 十分激动的
+fourneau|[地名] [海地] 富尔诺
+favosites|蜂巢珊瑚
+frutescence|似灌木状的性质或状态
+flintlocks|燧石发火装置, 燧发枪( flintlock的复数形式 )
+fetichism|(=fetishism)物神崇拜, 物恋
+fainthearted|懦弱的, 无精神的, 胆小的
+foregone|预先决定的, 逝去的
+fatherliness|父亲的慈爱
+formose|甲醛聚糖
+fogginess|朦胧
+fruticose|灌木状的
+fondants|方旦糖（一种软糖）；软糖料
+fenestrate|有窗的, 有窗状小孔的
+funambulist|走绷索演员
+fluxility|流动性
+fandango|胡闹, 方丹戈舞
+factitiously|人为地;捏造地
+funneled|有漏斗的, 漏斗形的
+fishnets|(fishnet 的复数) n. 鱼网, 伪装网
+flanch|扩散, 变宽, 向外鼓出[裂开], 使逐渐向上收缩(up)
+fillings|填料；充填料；馅料（filling的复数形式）
+fiar|[计]= Fault Isolation Analysis Routine,故障隔离分析例程
+fervidor|热月(法兰西共和历的11月,相当于公历7月19日到8月17日)
+fluxional|流动的, 变动的
+fastigiated|倾斜的；锥形的；【植物学】(树枝)帚状的, 平行而起立的；有帚状树枝的
+furfuryl|[机] 喃甲基
+freshened|梳洗打扮( freshen的过去式和过去分词 ); 使某物新鲜; （使）洁净; 使清爽或鲜亮
+faucitis|[医] 咽门炎
+flection|弯曲, 屈曲, 弯曲的部分
+filariasis|丝虫病
+filature|缫丝, 缫丝机
+fader|音量控制器, 增益调节器, 混频电位器
+fillipeen|[美国英语] ＝ philopena
+flayed|痛打( flay的过去式和过去分词 ); 把…打得皮开肉绽; 剥（通常指动物）的皮; 严厉批评
+frappe|果汁刨冰,冰冻饮料
+feminal|女子气的
+fletcherism|弗莱彻主义(主张将食物细嚼慢咽)
+fettered|束缚（fetter的过去分词形式）
+fane|寺院, 神庙
+futurists|(futurist 的复数) n. 未来派画家, 未来主义者
+freelanced|当自由职业者( freelance的过去式和过去分词 )
+fritted|(玻璃)烧结的,熔块的
+faddishness|faddish（风行一时的, 一时流行的）的变形
+fricando|炖小牛肉
+fil|费尔（伊拉克的钱币）
+foramen|孔, 小孔, 胚孔
+foreside|前部, 上部
+fossate|凹的, 有窝的
+freeby|免费赠品(尤指戏院赠券)
+footer|墩基, 墙基, 足球比赛
+foreword|前言, 序
+fanega|法内格（墨西哥的土地测量单位）
+folio|对开纸, 页码, (原稿的)一页
+frere|兄弟；团友；修道士
+frillier|(frilly 的比较级) a. 有饰边的, 多饰边的
+fauteuil|<法>安乐椅,太师椅
+furies|复仇女神三姐妹（希腊神话中的形象）
+flakes|[化] 鳞片; 片状粉(粉末冶金); 白点; 发裂(钢缺陷); (纤维素塑料)干(片)坯料
+fidgeting|坐立不安, 烦躁( fidget的现在分词 )
+fattens|喂肥( fatten的第三人称单数 ); 养肥（牲畜）; 使（钱）增多; 使（公司）升值
+fere|伴侣, 配偶
+foremother|女祖先
+footfault|发球犯规
+fiasco|惨败, 大失败
+fumarolic|喷气孔的
+florentines|(Florentine 的复数) n. 佛罗伦萨人, 佛罗伦萨绸
+forewarm|预热
+fulica|[网络] 骨顶属；蹼鸡属；骨顶鸡属
+frescoed|壁画
+flatted|使变平（flat的过去式与过去分词形式）
+favose|形似蜂巢的
+funfairs|游乐场( funfair的复数形式 )
+fecklessly|没有价值地, 没有长远目标地, 不负责任地
+forecloses|取消（抵押品）赎回权( foreclose的第三人称单数 ); 取消（抵押人的）赎回抵押品的权利; 排除; 阻止
+falstaffian|像福斯塔夫(莎士比亚著<<温莎的风流娘们>>中的一个爱吹牛的骑士)的
+forking|分支；分叉；河流分岔作用（fork的ing形式）
+fishability|fishable的变形
+familiarizes|使（某人）熟悉, 使通晓( familiarize的第三人称单数 )
+flit|掠过, 迁徙
+famacide|[法] 诽谤, 诽谤者, 中伤者
+frustrations|挫折( frustration的复数形式 ); 失败; 挫败; 失意
+fleeces|羊毛( fleece的名词复数 ); （一只羊一次剪下的）毛; 羊毛状织物; 绒头织物短上衣
+flatwork|可用机器熨烫的洗涤物
+fibred|有纤维的, 纤维质的
+fino|（西）淡色干雪利酒
+flexions|(flexion 的复数) [医] 屈, 屈曲
+flan|果子或果酱露馅饼
+foraminulate|[医] 有小孔的
+forfend|防止, 防避, 防护
+fathoming|测量
+fosterling|养子, 养女
+flavescence|[植]变黄, 黄白病
+frontally|前面地
+fusillade|枪炮的齐射, 以连续齐发的炮火攻击, 猛射
+flintlock|燧石发火装置, 燧发机, 明火枪
+fauchards|(fauchard 的复数) n. (Fauchard)人名；(法)福沙尔
+frijole|[植]菜豆
+frogleg|蛙腿式
+fussbudget|大惊小怪的人
+fiddling|拉小提琴的, 微小的, 无用的
+featherbrain|愚蠢的人, 轻浮的人
+finishes|结束, 完成( finish的第三人称单数 )
+fungible|可取代的, 代替的
+frenchy|法国式的, 法国风味的
+forewords|前言, 序（言）( foreword的复数形式 )
+functionally|官能, 有功能, 职务, 机能, 在起作用, 从使用/实用的观点设计, 函数
+fruitiest|有果味的( fruity的最高级 ); （粗俗而常含色情内容）逗笑的
+fasciodesis|[医] 筋膜固定术

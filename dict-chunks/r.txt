@@ -1,0 +1,3176 @@
+read|读
+rice|米饭
+red|红色
+room|房间
+river|河
+restaurant|餐厅
+radio|收音机
+relaxing|令人放松的
+right|正确的
+rude|粗鲁的
+responsible|负责任的
+respiration|呼吸作用
+reaction|反应
+radiation|辐射
+renewable|可再生的
+recycle|回收
+rainforest|雨林
+register|注册
+refrigerator|冰箱
+remote|遥控器
+road|道路
+reservation|预订
+receipt|收据
+return|退货
+research|研究
+raise|提高
+reach|到达
+react|反应
+realize|意识到
+receive|接收
+recognize|认出
+recommend|推荐
+record|记录
+recover|恢复
+reduce|减少
+refer|参考
+reflect|反映
+refuse|拒绝
+regret|后悔
+reject|拒绝
+relax|放松
+release|释放
+remain|保持
+remember|记住
+remind|提醒
+remove|移除
+repair|修理
+repeat|重复
+replace|替换
+reply|回复
+report|报告
+request|请求
+require|要求
+respect|尊重
+respond|回应
+rest|休息
+risk|冒险
+rob|抢劫
+roll|滚动
+ruin|毁灭
+run|跑
+rush|冲
+random|随机的
+rapid|快速的
+rare|稀有的
+raw|生的
+ready|准备好的
+real|真实的
+realistic|现实的
+reasonable|合理的
+recent|最近的
+regular|规律的
+related|相关的
+relaxed|放松的
+relevant|相关的
+relieved|解脱的
+religious|宗教的
+reluctant|不情愿的
+remaining|剩余的
+remarkable|显著的
+removed|移除的
+repeated|重复的
+required|必需的
+residential|住宅的
+resistant|抵抗的
+respectable|可敬的
+respective|各自的
+retail|零售的
+retired|退休的
+reverse|相反的
+rich|富有的
+ridiculous|可笑的
+rigid|僵硬的
+ripe|成熟的
+rough|粗糙的
+round|圆的
+royal|皇家的
+rural|农村的
+receptionist|接待员
+reporter|记者
+rabbit|兔子
+ring|戒指
+reason|原因
+relationship|关系
+religion|宗教
+responsibility|责任
+race|比赛
+radiate|辐射
+rake|耙
+rally|集会
+ram|撞击
+range|排列
+rank|排名
+rap|敲击
+rate|评价
+ratify|批准
+realise|意识到
+reap|收获
+rebel|反叛
+rebuild|重建
+recall|回忆
+recite|背诵
+recognise|识别
+reconcile|和解
+recruit|招募
+redeem|赎回
+reform|改革
+refrain|避免
+regain|恢复
+regard|认为
+regulate|调节
+rehabilitate|康复
+reign|统治
+rejoice|高兴
+relate|联系
+rely|依赖
+render|渲染
+renew|更新
+reorganise|重组
+represent|代表
+repress|压制
+reproduce|繁殖
+rescue|救援
+resemble|相似
+resign|辞职
+resist|抵抗
+resolve|解决
+resort|诉诸
+restore|恢复
+restrain|约束
+restrict|限制
+result|导致
+resume|恢复
+retaliate|报复
+retire|退休
+retreat|撤退
+retrieve|检索
+reunite|重聚
+reveal|揭示
+review|审查
+revise|修订
+revive|复活
+revoke|撤销
+revolt|反叛
+reward|奖励
+rid|摆脱
+ride|骑
+ridicule|嘲笑
+rinse|冲洗
+rise|上升
+roam|漫游
+roar|咆哮
+rock|摇摆
+rotate|旋转
+roughen|使粗糙
+rouse|唤醒
+rub|摩擦
+rule|统治
+rumble|隆隆声
+rust|生锈
+rubidium|元素周期表的第37个，銣，缩写Rb
+ruthenium|元素周期表的第44个，釕，缩写Ru
+rhodium|元素周期表的第45个，銠，缩写Rh
+rhenium|元素周期表的第75个，錸，缩写Re
+radon|元素周期表的第86个，氡，缩写Rn
+radium|元素周期表的第88个，鐳，缩写Ra
+rutherfordium|元素周期表的第104个，鑪，缩写Rf
+roentgenium|元素周期表的第111个，𬬭，缩写Rg
+reality|现实
+really|真正地
+richness|丰富
+richly|丰富地
+rejuvenate|使年轻
+racial|种族的
+racially|种族地
+reading|阅读
+readable|可读的
+readably|可读地
+reasonably|合理地
+reception|接待
+receptive|接受的
+receptively|接受地
+recorded|记录的
+recordedly|记录地
+refusal|拒绝
+refusable|可拒绝的
+refusably|可拒绝地
+relaxation|放松
+relaxedly|放松地
+remembrance|记忆
+rememberable|可记住的
+rememberably|可记住地
+repetition|重复
+repetitive|重复的
+repetitively|重复地
+reportable|可报告的
+reportably|可报告地
+respectful|尊重的
+respectfully|尊重地
+restful|宁静的
+restfully|宁静地
+ruling|统治的
+rulingly|统治地
+researchable|可研究的
+researchably|可研究地
+recyclable|可回收的
+recyclably|可回收地
+recycling|回收
+reproduction|繁殖
+reproductive|生殖的
+reproductively|生殖地
+respirations|呼吸
+respiratory|呼吸的
+respiratorily|呼吸地
+restoration|恢复
+restorations|恢复
+restorational|恢复的
+restorationally|恢复地
+reforestation|重新造林
+reforestations|重新造林
+reforestationally|重新造林地
+renewables|可再生能源
+renewably|可再生地
+recyclables|可回收物
+russia|俄罗斯
+russias|俄罗斯
+russian|俄罗斯的
+russianly|俄罗斯地
+riyadh|利雅得
+riyadhs|利雅得
+riyadhly|利雅得地
+rome|罗马
+romes|罗马
+roman|罗马的
+romanly|罗马地
+reykjavik|雷克雅未克
+reykjaviks|雷克雅未克
+reykjavikly|雷克雅未克地
+revenue|收入
+recession|衰退
+regulation|法规
+renegotiation|重新谈判
+reasoning|推理
+recovery|康复
+resilience|韧性
+routine|例行公事
+renaissance|文艺复兴
+rhythm|节奏
+ritual|仪式
+role|角色
+referee|裁判
+rehabilitation|康复
+racket|球拍
+running|跑步
+rowing|划船
+retirement|退役
+reflex|反应
+regional|地区的
+response|回应
+rival|对手
+region|地区
+relief|救济
+reflection|反思
+reputation|声誉
+recognition|认可
+remark|评论
+router|路由器
+refugee|难民
+resource|资源
+resistance|电阻
+rubber|橡胶
+ruler|尺子
+reminder|提醒
+risky|冒险的
+retina|视网膜
+restriction|限制
+roasted|烤的
+rotten|腐烂的
+route|路线
+roundabout|环岛
+resin|树脂
+ribbon|色带
+refill|补充装
+receptacle|容器
+rack|架
+radical|激进的
+rage|愤怒
+raid|突袭
+rail|栏杆
+rational|理性的
+realm|领域
+regime|政权
+remedy|补救
+rent|租金
+republic|共和国
+reserve|保留
+reside|居住
+retain|保留
+revolution|革命
+ridge|山脊
+rifle|步枪
+riot|暴乱
+rocket|火箭
+romance|浪漫
+root|根
+reports|报告
+residents|居民
+risks|风险
+requires|需要
+rates|比率
+rules|规则
+resources|资源
+researchers|研究人员
+results|结果
+returned|归还
+refugees|难民
+relationships|关系
+reasons|理由
+rather|相当
+recently|最近
+remains|仍然是
+rum|朗姆酒
+recommended|被推荐的
+rights|权利
+responsibilities|责任
+reported|报告
+rustle|发出沙沙声
+rape|强奸
+revolutionize|革命化
+relieve|减轻
+regardless|不管
+recruiter|招聘者
+reunion|团聚
+robbery|抢劫
+robust|强健的
+reserved|保留意见的
+registration|注册
+row|划船
+representative|代表
+resident|居民
+reimbursement|返还费用
+refine|提炼
+resolute|坚定的
+recipe|食谱
+rigor|严格
+reckon|认为
+reflective|反映的
+regarding|关于
+rigorous|严格的
+redefine|重新定义
+romantic|爱情的
+responsive|灵敏的
+redundant|失业的
+restructure|调整
+readjust|重新调整
+rewarding|有意义的
+refreshing|新鲜的
+rebellion|叛逆
+reckless|鲁莽的
+reliable|可靠的
+replacement|代替
+reinforce|增强
+relay|接替
+reluctance|勉强
+rhetorical|修辞的
+recurrence|再次发生
+retailer|零售商
+randomly|随机地
+resultant|作为结果而发生的
+rebuke|指责
+retard|阻碍
+radiant|容光焕发的
+requisite|需要的
+regenerative|回授的
+recreation|消遣
+resemblance|相似
+reciprocal|相互的
+ramble|闲逛
+ruthless|无情的
+recommendation|推荐
+regiment|团
+resignation|听从
+rear|饲养
+rip|撕
+residual|剩余的
+remainder|剩余（物）
+rash|轻率的
+raisin|葡萄干
+reptile|爬行动物
+radiator|暖气片
+representation|描写
+reed|芦笛
+rascal|流氓
+ripple|涟漪
+rapture|狂喜
+rapidity|快
+reclaim|开垦
+reel|卷
+repel|使厌恶
+rectangle|矩形
+rectify|纠正
+refinery|精炼厂
+receiver|接待者
+reef|礁
+royalty|皇家
+ruby|红宝石
+roller|滚筒
+regularity|规则性
+radial|放射状的
+rooster|公鸡
+reactor|反应堆
+rattle|发出格格声
+resent|对…不满
+repeal|撤销
+reference|参考文献
+rim|边
+radius|半径距离
+realization|（理想等的）实现
+refreshment|（精力的）恢复
+ranch|（北美洲的）大牧场
+revolve|（使）旋转
+repay|偿还
+retort|反击
+rupture|破裂 n. 破裂
+reproach|n&vt. 责备
+rehearsal|排练
+rarely|不常
+restraint|抑制
+retention|保留
+refresh|振作精神
+reassess|vt. 再评价
+recipient|接受者
+regenerate|vi. 新生
+revenge|报复
+radioactive|放射性的
+relative|有关系的
+rivalry|竞争
+relish|vt. 享受
+recur|vi. 再发生
+rotary|旋转的
+reassure|vt. 使放心
+refuge|庇护所
+refund|退款 vt. 退还
+remnant|残留部分
+rejection|拒绝
+reconciliation|和解
+refute|vt. 驳斥
+rig|vt. 操纵
+rating|等级
+rot|腐烂
+repertoire|全部节目
+rein|缰绳 vt. 勒缰使停步
+reliance|依靠
+retrospect|回顾
+recede|vi. 退
+readily|乐意地
+revelation|被提示的真相
+relegate|vt. 使降位
+revolutionary|革命的
+rectangular|长方形的
+reaffirm|vt. 重申
+repression|压抑
+residence|住处
+recollect|回忆
+resolution|决定
+removal|移动
+reduction|减小
+railroad|由铁道运输
+reader|读者
+relation|关系
+rose|玫瑰
+requirement|要求
+rain|雨
+republican|共和国的
+repeatedly|反复地
+robot|机器人
+renovate|更新
+rag|破布
+riddle|解谜
+robe|长袍
+rod|棒
+rib|肋骨
+rug|小地毯
+rumor|谣言
+relativity|相对论
+rubbish|垃圾
+razor|剃
+rope|绳
+roof|屋顶
+reservoir|水库
+rainbow|彩虹
+roast|烤
+recorder|录音机
+radar|[雷达] 雷达
+ratio|比率
+railway|铁路 vt. 由铁道运输
+rehearse|排练
+rat|鼠 <
+restless|得不到休息的
+rumour|传闻
+reflexion|映像
+researcher|研究者
+rapidly|迅速地
+rainfall|降雨
+rocky|岩石的
+rite|仪式
+runoff|径流量
+ray|光线
+reclamation|开垦
+recharge|再充电
+rainwater|雨水
+realism|现实主义
+ruminant|反刍动物(的)
+realist|现实主义者
+roost|v& n. 栖息鸟巢
+relic|遗物
+reformer|改革家
+raft|木排(筏)
+robin|知更鸟
+reindeer|驯鹿
+rotation|旋转
+reconstruction|重建
+remarkably|非凡地
+reshape|改造
+radically|根本地
+rodent|啮齿类动物
+repudiate|批判
+reconstruct|重建
+rainy|下雨的
+rudimentary|基本的
+raven|大乌鸦
+reheat|再热
+rancher|大牧场主
+recruitment|征募新兵
+rental|租金额
+reptilian|爬行类动物
+renewal|更新
+replenish|补充
+reset|重新安排
+radiocarbon|放射性炭
+relocate|重新部署
+rhinoceros|[动]犀牛
+revival|复兴
+revitalize|新生
+recrystallize|( 使) 再结晶
+receptor|接受器
+rend|撕裂
+reversal|翻转
+retract|缩回
+retrieval|取回
+reelection|再选
+respectively|分别地
+romanticism|浪漫精神
+rodeo|马术竞技表演会
+rhetoric|雄辩言辞
+refreeze|再结冰
+recreational|娱乐的
+rift|裂口 v. 裂开
+rumen|瘤胃(反刍动物的第一胃)
+respondent|应答者
+regulatory|管理的
+raindrop|雨滴
+rigorously|严格地
+residency|居住
+refrigerate|使冷冻
+revere|尊敬
+rote|死记硬背
+rugged|高低不平的
+referent|指示物
+redwood|[植]红杉
+ravage|毁坏
+rye|裸麦
+reuse|再使用 n重新使用
+reddish|微红的
+reelect|重选
+raccoon|<美>[动]浣熊
+revitalization|新生 复兴
+redbud|紫荆属植物
+rebound|/v回弹
+rhythmical|节奏的
+reciprocate|互换
+regularize|使有规则
+regeneration|再生
+refractory|难控制的
+regolith|[地质]风化层
+rider|骑手
+remediation|补习
+realistically|现实地
+recess|(墙壁等的)凹进处 v. 使凹进
+rooftop|屋顶 adj. 屋顶上的
+receptiveness|感受性
+reabsorb|再吸附
+rawhide|生牛皮 vt. 用生牛皮鞭抽打 adj. 生牛皮的
+reaper|收割者
+roadbed|路基
+regulator|调整者
+readership|读者的身分
+resilient|帕特森（美国一座城市）
+rigidity|刻板
+riverbank|河堤
+rougher|粗切机
+revision|修订
+routinely|例行公事地
+rhyolite|[地]流纹岩
+rigidly|坚硬地
+renounce|宣布放弃
+refrigeration|冷藏
+reviewer|批评家
+ragtime|拉格泰姆音乐 adj. 使人发笑的
+reliability|可靠性
+resentment|怨恨
+revealingly|启发人地
+rearrange|再排列
+replicate|复制 adj. 复制的
+reappear|再出现
+reopen|重开
+riverbed|河床
+rennin|高血压蛋白原酶
+reenter|重进入
+rapport|和谐
+railhead|铺设中的铁路末端
+reflectivity|反射率
+roughness|粗糙
+responsiveness|响应能力
+rewrite|重写
+regionalization|分成地区
+recreate|(使)得到休养
+resonator|共鸣器
+remuneration|报酬
+refurbish|再磨光
+recital|朗诵
+rarity|稀有
+requisition|正式请求
+reprint|再版
+romanize|古罗马化
+radiometric|辐射测量的
+recurrent|再发生的
+reorganize|改组
+residue|残渣
+repute|名誉
+reradiate|再辐射(转播)
+resourcefulness|足智多谋
+redesign|重新设计
+rentable|可出租的
+ration|定额
+regurgitate|反刍
+ruminate|反刍
+reorient|重定的方向(或方位)
+rootless|无根的
+recount|叙述
+reactive|反应的
+rhythmic|节奏的
+redwing|[动](欧洲产的)红翼鸫
+radioactivity|放射能
+reluctantly|不情愿地
+regionalist|地方主义者
+reportedly|据传说
+reachable|可达成的
+restatement|再声明
+replenishment|补给
+rephrase|改述
+replica|复制品
+regrettable|可惜的
+rime|结晶
+restlessness|辗转不安
+rayon|人造丝
+religiously|虔诚地
+ritualize|使仪式化
+rhythmically|有节奏地
+rename|重新命名
+republish|再版
+retentive|有记忆力的
+reaumur|列氏温度计(的)
+rivet|铆钉  v固定
+romantically|浪漫地
+ravine|沟壑
+refiner|精炼者
+remodel|重新塑造
+reverently|恭敬地
+repertory|仓库
+resonance|共鸣
+rebellious|反抗的
+renunciation|放弃
+radish|[植]萝卜
+rosy|蔷薇色的
+reliant|信赖的
+reprieve|n& v. 缓刑
+replant|再植
+relict|残遗物
+rationalism|理性主义
+resale|再贩卖
+renowned|有名的
+ratchet|棘轮
+rejoin|再结合
+revert|回复
+rut|定例
+rationale|基本原理
+runway|飞机跑道
+rampant|猖獗的
+recognizable|可辨认的
+retrain|重新教育
+racetrack|(主要用于赛马
+rancho|大牧场(或大农场)工人住的棚屋
+reinterpretation|重新解释
+rubble|碎石
+rainer|人工降雨装置
+recoil|畏缩
+romancer|传奇小说作家
+reexamine|复试
+rustproof|不锈的
+rationally|理性地
+refinement|精致
+ruthlessly|冷酷地
+renter|租贷人
+rarefy|稀薄
+rehydrate|[化] 再水化
+restrictive|限制性的
+rook|白嘴鸦
+romanticize|浪漫化
+roadway|车行道
+reconstitute|重新组成
+regimentation|管辖
+rarer|稀罕的
+resettle|(使)重新定居
+relevance|中肯
+rebirth|复活
+roe|鱼卵
+retool|将机械重新整备
+relational|有关系的
+rattlesnake|<美>[动]响尾蛇
+rediscover|重新发现
+recline|向后倚靠
+rendition|表演
+reschedule|重新计划
+recoup|收回
+renown|名望
+ripen|成熟
+refraction|折射
+reversible|可逆的
+reiterate|反复说
+reliever|救济者
+recurring|往复的
+respire|呼吸
+rebate|回扣
+rekindle|重新点燃
+righteous|正直的
+rotational|旋转的
+readability|可读性
+rancorous|怨恨的
+retrospective|回顾的
+rationality|理性
+rustic|乡村的
+reciprocity|互惠
+rhyme|押韵
+realtor|房地产经纪人
+recollection|记忆力
+recessive|隐性的
+reapply|再申请
+racing|比赛的 n.  比赛
+racism|种族主义
+re|关于
+r|[计] 半径, 比例, 读, 接收, 寄存器, 复位, 电阻, 程式
+reviews|评论；综述；复核；复习（review的复数）
+rss|和的平方根（root-sum square）；[拉]英国皇家学会会员（Regiae Societatis Socius, 等于fellow of the royal society）
+records|记录, 录音；唱片, 档案（record的复数形式）
+requirements|调整需要量, 必需品；要求（requirement的复数）
+received|被一般承认的, 公认的
+registered|注册的, 登记过的, 记名的, 挂号的
+robert|[法] 警察
+returns|回报；收益；退货（return的复数）
+releases|释放；豁免；发泄（release的复数形式）
+rooms|空间；房间（room的复数）
+ratings|评级；等级（rating的复数形式）
+rentals|住房出租；租金收入（rental的复数形式）
+rated|[电] 额定的
+restaurants|饭店( restaurant的名词复数 ); 餐馆; 饭馆; 菜馆
+relations|交往, 关系, 事务
+released|已发布；释放（release的过去式）
+richard|理查德（男子名）
+references|参考文献；参照；推荐信（reference的复数）
+regulations|章则；条例；规程（regulation的复数）
+ringtones|铃声（ringtone的复数）
+replies|回复；回答；答复（reply的复数形式）
+rd|[计] 报表描述; DOS内部命令:该命令用于删除磁盘中的空白子目录
+reporting|报道
+requests|要求( request的名词复数 ); 需要; 所请求的事物; 申请书
+recommendations|推荐( recommendation的复数形式 ); 推荐信; 正式建议; 提议
+recipes|烹饪法( recipe的名词复数 ); 食谱; 方法; 秘诀
+readers|读者, 读物（reader的复数形式）
+rw|卢旺达（Rwanda）；辐射武器（radiation weapon）；辐射战（radiological warfare）；阁下（Right worshipful）
+reduced|减少的；简化的；缩减的
+reviewed|评估；复习；评论；检讨（review的过去分词形式）
+referred|归类, 谈及, 送交；参考, 查阅（refer的过去式）
+recording|记录的, 记录用的
+regions|地区；地域；领域（region的复数）
+rings|吊环（ring的复数）
+rs|[计] 实寄存器, 寄存器和存储器, 复位
+rom|只读存储器
+revised|改进的
+runs|顺串；泻肚子；流量（run的复数形式）
+receiving|[计] 接收
+reservations|保留；预定（reservation的复数形式）
+requested|要求的；被请求的
+raised|凸起的, 浮雕的, 发酵的
+responses|响应回应
+representatives|代表( representative的复数形式 ); 代理人; 典型人物; [常作 R-]（美国）众议院议员
+relating|关联；叙述；涉及（relate的ing形式）
+reached|到达( reach的过去式和过去分词 ); 联络; 伸出手臂, 延伸
+ref|裁判员
+resulting|[计] 结果的, 合成的
+resorts|度假村；度假胜地（resort复数）
+res|[计] 远程输入服务
+relatively|相对地, 比较地, 相当地, 相关地
+represents|表现( represent的第三人称单数 ); 代表; 体现; 作为…的代表
+registry|登记处, 登记名册
+recognized|经过验证的；公认的
+ryan|赖安（男子名）
+ringtone|铃声, 手机铃声
+represented|表现( represent的过去式和过去分词 ); 代表; 体现; 作为…的代表
+ran|run的过去式
+restrictions|限制；限制条件（restriction的复数形式）
+rhode|罗德岛
+richmond|里士满（美国弗吉尼亚首府）
+ron|研究法辛烷值（Research Octane Number）
+russell|拉塞尔（英国工程师, 整流器发明人）
+roger|interj. 对!, 行!, 好!
+riding|骑, 乘车, 乘, 骑术, 骑马
+roads|开敞或半开敞锚地；道路（road的复数）
+rolling|旋转的, 波动的, 起伏的
+reg|[计]注册表文件；寄存器（register ）
+replaced|取代；替换；放回（replace的过去分词）
+reducing|减低；减轻体重法, 减肥法
+ra|正规陆军(美国), (英国)皇家艺术学会, 常备军, 正规军
+rc|红十字, 红十字会
+rico|反诈骗腐败组织集团犯罪法（Racketeer Influenced and Corrupt Organizations Act）
+ranking|等级, 地位
+rep|棱纹平布, 浪荡子, 名声
+ross|罗丝（女性名）
+rm|[计] 识别方式, 资源管理程序, 删除
+rising|上升, 造反, 叛乱
+restricted|受限制的, 有限的
+ri|[化] 放射性同位素
+regularly|有规则地, 一丝不苟地, 正式地
+rt|[计] 实时, 接收终端, 运行时间
+rick|草堆
+roses|玫瑰（rose的复数）
+roberts|罗伯茨（姓氏）
+rf|射频, 测距计, 测远仪
+revenues|收入( revenue的复数形式 ); [复数]总收入; 收入来源; 税务局
+reserves|储量, 后备队
+raising|[机] 起油
+reads|读, 看懂, 理解( read的第三人称单数 ); 显示, 标明
+roles|人物；角色；任务, 作用（role的复数形式）
+revealed|透露（reveal的过去式）；显示
+rugby|橄榄球, 橄榄球赛
+regards|问候, 致意
+rpm|每分钟转数
+roots|乡土感情, 归根之情
+rev|一次回转
+rocks|岩石, 岩礁；岩石礁石（rock复数形式）
+rio|里约（巴西共和国的旧首都）
+rv|（设有床位、厨房等野营用的）娱乐车（Recreational Vehicle）；重返大气层飞行器（Reentry Vehicle）；《圣经》的修订本（Revised Version）
+representing|表现( represent的现在分词 ); 代表; 体现; 作为…的代表
+rica|黎加（人名）
+returning|归还, 返回, 回复（return的ing形式）
+ralph|拉尔夫（男子名）
+roy|罗伊（男子名）
+receives|受光面
+refers|提到( refer的第三人称单数 ); 针对; 关系到; 请教
+recordings|记录( recording的复数形式 ); 录音; 录像; 唱片
+romania|罗马尼亚
+requiring|要求( require的现在分词 ); 需要; 想要; 命令
+refinance|再为...筹钱, 再供...资金
+rankings|地位, 等级( ranking的复数形式 ); 某项体育运动的)最佳运动员排名表
+robinson|罗宾逊（男子名）
+remained|留下( remain的过去式和过去分词 ); 保持; 留待; 仍然是
+roulette|轮盘赌, 点线机, 骑缝线
+rivers|里弗斯（人名）；河流州（尼日利亚州名）；河水钻
+realized|实现的；已实现
+rr|无线电航向信标（Radio Range-beacon）；雷达测距（Radar Ranging）；无线电接受器（Radio Receptor）；连流继电器（Reverse Relay）；阻力比（Resistance Ratio）
+rfc|[计] 电子出版物请发表评论
+remarks|摘要；附注；评论（remark的复数）
+resulted|发生( result的过去式和过去分词 ); 导致; 随着发生; 结果发生
+resolved|下定决心的, 断然的
+referral|参照, 介绍, 被介绍人, 转诊病人
+reuters|路透社
+rogers|罗杰斯（姓氏）；乐爵士（英国一家音箱生产厂）
+ranging|距离修正, 广泛搜索
+repairs|备件；修理；修理费；修理工作（repair的复数形式）
+routing|[计] 路由选择; 布线
+rachel|雷切尔（女子名）
+reaching|到达( reach的现在分词 ); 联络; 伸出手臂, 延伸
+races|赛马会
+retailers|零售商, 零售店( retailer的复数形式 )
+realty|不动产, 房地产
+recruiting|招聘( recruit的现在分词 ); 吸收某人为新成员; 动员…（提供帮助）; 雇用
+ranked|& vi. 排列, 使成横排（rank的过去式与过去分词形式）
+routes|线路；路由, 路径
+reproduced|复制( reproduce的过去式和过去分词 ); 重现; 再版; 生殖
+respondents|<律>（尤指离婚案的）被告( respondent的名词复数 ); 回答问题的人, （尤指）调查对象
+raleigh|罗利（美国北卡罗来纳州首府）；罗利（英国的探险家、航海家及作家）
+removing|拆迁；消除
+ranges|量程, 范围；山脉（range的复数）
+refused|遭拒绝的
+rolls|面包卷；捆；卷轴；辊碎机；滚动（roll的复数）
+rochester|罗契斯特市（美国明尼苏达州一城市）；罗契斯特市（美国纽约州港市）；罗契斯特市（英国东南部一城市）
+rejected|被弃之物, 落选者
+relocation|再布置, 变换布置
+repository|贮藏所, 贮物器, 仓库, 博物馆, 店铺, 陈列室, 资源丰富地区, 墓地, 亲信, 知己
+reactions|反应（reaction的复数）
+readings|读物；文本；朗读（reading的复数）
+rats|int. [俚]胡说；瞎扯
+routers|路由器（router的复数）
+reflects|反射（光、热、声或影像）( reflect的第三人称单数 ); 考虑; 反照; 表达
+ruth|怜悯, 悲哀
+rover|漂泊者, 流浪者, 海盗
+recommends|托( recommend的第三人称单数 ); 推荐; 劝告; 使显得吸引人
+reload|再装
+rx|处方；治疗方案
+rec|[计] 接收, 记录, 恢复, 补偿, 娱乐
+registrar|记录者, 登记者, 登记官员
+reseller|分销商, 代理销售商
+randy|喧闹的, 大声的, 好色的
+reno|里诺（美国一城市名, 著名的“离婚城市”）
+rpg|[计] 报表程序的生成程序
+retro|制动火箭, 减速火箭；（服装式样等）重新流行
+reduces|减少；降低；将…归纳；折合（reduce的第三人称单数形式）
+rna|[医] 核糖核酸
+regulated|管制；管理；规定（regulate的过去分词）
+reflected|反射的；得自他人的
+rebecca|丽贝卡（女子名, 寓意迷人的美）
+riverside|河边, 河畔
+raymond|雷蒙德（男子名）
+retrieved|重新取回；恢复；补偿；挽救（retrieved的过去分词）
+replied|反响；报复；回答（reply的过去分词）
+rh|[计] 报表头
+rrp|建议零售价格（recommended retail price）
+recipients|收件人（recipient的复数）
+roster|花名册
+referring|谈及；提交；谘询（refer的ing形式）
+racks|货架；行李架；拷问台（rack的复数形式）
+reprints|重印书, 再版书( reprint的名词复数 )
+resolutions|分辨率；决心；解决；决议（resolution的复数）
+ronald|罗纳德（男子名）
+runner|跑步者, 赛跑者, 送信人, 走私船, 操作者, 滑槽
+rows|返回引用中的行数；行（row的复数形式）
+rewards|奖励；奖品（reward的复数）
+remembered|记得, 牢记( remember的过去式和过去分词 ); 纪念; 记着; 回想起
+ranks|队伍；用户等级, 级别（rank的复数）
+rugs|地毯；毯子（rug的复数）
+republicans|共和党, 共和党员（republican的复数形式）
+rn|(英国)皇家海军, 注册护士
+responded|回答, 回报, 响应( respond的过去式和过去分词 ); 有反应; 有效果; 有影响
+remix|使再混合；再搅拌；重新合成（乐曲等）
+rapids|湍流；急流
+refurbished|& vi. (refurbish的动词过去式或过去分词形式), 再磨光, 刷新
+reveals|显示( reveal的第三人称单数 ); 揭示; 泄露; [神学]启示
+regarded|关系( regard的过去式和过去分词 ); 注意; （尤指以某种方式）注视; 尊敬
+rj|交叉路口（road junction）
+relatives|亲属；[语法学]关系词（relative的复数）
+realtors|房地产经纪人（realtor 的复数）
+retained|保持( retain的过去式和过去分词 ); 拦住; 保存; 止住
+rp|[计] 阅读器/打印机
+rand|兰特, (非正式)边, 田埂, 缘
+rca|美国无线电公司（Radio Corporation of America）
+roughly|概略地, 粗糙地, 粗暴地
+responding|反应；作答（respond的ing形式）
+representations|陈述, 投诉, 抗议; 表现( representation的复数形式 ); 陈述; 表现…的事物; 有代理人
+reynolds|雷诺兹（姓氏）
+reaches|河段；流域；（上、中或下）游; （外）围；（远）处; （组织或机构中的）层级
+rl|[计] 现实社会
+richardson|理查森（姓氏）
+roommate|住在同室的人
+ro|[计] 只接收
+reggae|雷盖
+rides|座骑（ride的复数）
+rehab|修复（等于rehabilitation）
+recorders|录音机( recorder的复数形式 ); 记录员; （英国）刑事法院的临时法官; 竖笛
+reviewing|检验( review的现在分词 ); 复查; 写…的评论文章; 复习功课, 温习功课
+reforms|改革, 改良, 改造( reform的名词复数 )
+requesting|要求；请求
+regression|退步, 回归
+recognised|承认；认出；辨别（recognise的过去分词）
+relying|信任( rely的现在分词 ); 信赖; 依赖; 依靠
+refined|精炼的, 优雅的, 精细的
+rolled|辗压的, 辊轧的, 轧制的
+rays|射线；[俚]日光浴；光线（ray的复数）
+referenced|引用的, 参考的
+raises|举起；建造；饲养（raise的三单形式）
+remedies|救济方法（remedy的复数）
+rouge|口红, 胭脂
+routines|日常生活；日常活动；常规, 惯例（routine的复数）
+relates|使有联系；与…有关；叙述, 讲述（relate的三单形式）
+referrals|转交, 呈交, 提供( referral的复数形式 )
+rwanda|卢旺达（东非国家）；卢旺达语
+revisions|校订, 修正；复习（revision的复数形式）
+restored|精力充沛的；精力恢复的
+riders|骑（马、自行车等）的人( rider的名词复数 ); 乘客; 附文; 附加条款
+rendered|已渲染的
+replacing|替代；更换（replace的ing形式）
+religions|宗教, 宗教信仰（religion的复数）
+radios|收音机；无线电话；无线电广播设备（radio的复数）
+runtime|执行时间, 运行时间
+reid|里德（等于Read, 男子名）
+robertson|罗伯森（姓氏）
+rosa|[医] 蔷薇, 玫瑰
+rb|[计] 归偏制
+rangers|护林者( ranger的复数形式 ); <美>突击队员
+rounds|圆形物；旋转；巡视；循环（round的复数）
+receivers|接受者( receiver的复数形式 ); 听筒; 无限电接收机; （破产公司的）官方接管人
+removable|可移去的, 可免职的, 可移动的
+rebates|回扣；部分退款（rebate的复数）
+reporters|记者( reporter的复数形式 )
+rendering|翻译, 表现, 描写, 表演, 打底, 透视图
+ruled|有横隔线的；有直线行的；受统治的
+respected|受尊敬的
+ratios|比, 比率( ratio的复数形式 )
+recovered|重新获得；恢复（recover的过去分词）
+rg|角速度陀螺仪（Rate Gyroscope）；巴西航空（Brazilian Airlines）
+reflections|反光；反响, 回声；回旋曲
+robots|机器人（robot的复数形式）
+ru|[计] 请求回答单元
+richards|理查兹（姓氏）
+reductions|减少( reduction的复数形式 ); 降低; [数学]约简; [摄影术]减薄
+resumes|简历；个人履历（resume的复数）
+replication|回答, 反响, 复制, 第二次答辩, 折转, 弯回
+receptors|<生>感受器, 受体( receptor的复数形式 )
+roland|罗兰（男子名）
+roommates|<英>室友, 住在同室的人( roommate的复数形式 ); <美>同住一屋（一套公寓等）的人
+restructuring|[计] 重构的
+redhead|红发的人
+ranger|王室守林人, 骑警, 漫游者
+ricky|里基（男子名, 等于Rick, Rickie）
+robbie|罗比（男子名）
+raff|大量, 许多, 大批, (英)(非正式)废料, 垃圾
+recompiles|(recompile 的复数) v. 重新编译
+rewriting|改写；重写
+ribgrass|[植] 长叶车前草
+resound|回响, 鸣响, 反响, 驰名, 被传遍
+racketeers|干非法勾当者, 骗子( racketeer的名词复数 )
+rewinding|倒回（影片、录音带等）( rewind的现在分词 ); 复卷; 倒带
+roupy|患粘膜炎的, 声音沙哑的
+repiner|repine的变形
+renguera|[秘鲁]绵羊摇摆病
+renal|肾脏的, 肾的
+rubijervine|玉红杰尔碱, 红藜芦碱
+raptures|极度欢喜( rapture的复数形式 )
+reexperience|再体验, 二次体验, v再次经历
+reissuable|reissue的变形
+roentgenism|[医] X线疗法, 放射病(指由滥用X线而产生的疾患)
+rollway|滚木坡
+retentor|保持肌
+redolency|芳香
+rewiring|再接电线, 再打电报( rewire的现在分词 )
+ringlead|当…的头目
+recanting|撤回（声明）, 放弃（信仰或主张）( recant的现在分词 )
+radiographs|拍…的射线照片, 拍射线照片( radiograph的第三人称单数 )
+resigns|辞职, 放弃( resign的第三人称单数 ); (to)使顺从
+reexport|再输出, 再出口
+romanizes|古罗马化, 用罗马字书写（Romanize的第三人称单数形式）
+reprobance|<古>=reprobation
+rhamninose|鼠李三糖
+repayable|可偿还的, 该付还的, 可报恩的, 应报复的
+rebozo|长围巾
+rubies|红宝石( ruby的名词复数 ); 红宝石色, 深红色
+roentgens|(roentgen 的复数) n. 伦琴射线, X射线
+ramifies|使分枝, 使分叉( ramify的第三人称单数 ); 成枝杈状
+renewedness|renewed的变形
+rhinologic|[医] 鼻科学的
+runted|(runt 的过去分词) n. 小种牛, 小家畜, 大种家鸽
+raved|胡言乱语( rave的过去式和过去分词 ); 愤怒地说; 咆哮; 痴心地说
+roosting|栖息( roost的现在分词 ); 过去事情的恶果显现出来; 自食恶果; 得到报应
+reciprocals|(reciprocal 的复数) a. 互惠的, 相互的, 相等的, 倒数的, 彼此相反的
+redevelops|重建, 重新开发( redevelop的第三人称单数 )
+rhinolith|[医] 鼻石, 鼻结石
+reprocessing|[化] 再处理; 再加工
+regenerates|新生, 再生( regenerate的名词复数 )
+redecide|再决定, 重新决定
+rushing|急流的；旺盛的
+renerve|重新振作, 恢复勇气(精力)
+rebels|反叛者（rebel的复数形式）
+remonstrant|反对的, 抗议的, 忠告的
+realizer|realize的变形
+ruralists|(ruralist 的复数) n. 田园生活者, 精于农村事务的人
+rearticulate|再次阐明
+responsivity|[计] 响应率
+ruffler|傲慢的家伙
+rhamnetin|[化] 鼠李亭; 鼠李醚; 栎精-7-甲基醚
+radiographic|射线照相术的
+rectotome|[医] 直肠刀
+regenerately|regenerate的变形
+rozener|烈酒
+rhaetian|瑞提阶
+romana|罗曼娜
+ribbonlike|如带的, 带状的
+reeling|卷取；摇纱；矫直；轧管机均整
+reassembly|[计] 重组
+rivaling|对手；竞争者
+raptness|rapt的变形
+runts|发育不全的矮小动物, 矮子( runt的复数形式 )
+rept|[医][=repeat]重复, 反复
+robbed|抢夺( rob的过去式和过去分词 ); 抢劫; 掠夺; 使丧失
+rambouillet|兰布莱绵羊(一种改良型法国肉毛兼用细毛种羊)
+ratting|捕鼠（rat的现在分词形式）
+renowner|声誉；名望 (renown的变形)
+repainted|再次（重新）油漆, 再次（重新）画( repaint的过去式和过去分词 ); 恢复…原来的色彩
+redoubting|【军事】棱堡, 多面堡；胸墙；内堡；防御性障碍物
+rhipsalis|[网络] 仙人棒属；丝苇属；女仙苇
+renk|[人名] 伦克
+remediable|可治疗的, 可矫正的, 可补救的
+rayage|[医] 射线用量规定
+rabbinism|拉比用语, 拉比传统
+rachiodont|(蛇)具喉齿的,具脊齿的
+resinate|树脂酸盐
+rosehead|nail 玫瑰头装饰钉,圆花钉(有多边角锥头的装饰用钉子)
+ranatra|[网络] 水螳螂；水螳螂属；蝎蝽属
+revibrating|再震动
+relet|转租, 续租
+radicle|小根, 胚轴
+restage|重新上演；重演
+regenerators|(regenerator 的复数) n. 更生者, 更新者, 改革者
+regaled|盛情款待
+rheologist|流变学家
+romaine|长叶莴苣
+roset|& vt.<主苏格兰> = resin [变体]
+reentering|再进入( reenter的现在分词 ); 重返; 重新加入（团体、政党等）; 重新登入
+runnable|可追捕的；可猎取的；适合猎取的
+raptatorial|食肉的
+rumbullion|一杯朗姆酒
+reassume|再采取, 再接受, 再假定
+ricin|篦麻毒
+redbreast|红胸鸟
+rufflers|(ruffler 的复数) n. 傲慢的家伙
+rahul|拉胡尔（人名）
+rediscount|再打折扣, 重贴现
+radford|(Radford)人名；(德、意)拉德福德；(英)雷德福
+restiveness|难以驾御；倔强
+rodding|[机] 砂心骨
+ressentiment|<法>n.(经济上低水平阶层对经济上高水平阶层普遍抱有的)无名怨忿,(因自卑压抑引起的)愤慨
+rowdiness|吵闹；粗暴
+rewaken|再弄醒,再唤醒
+racketed|球拍；吵闹, 喧闹
+reasoner|[人名] 里森纳
+retirements|退休( retirement的复数形式 ); 退职; 退役; 退休的实例
+reactionist|反动分子
+rubbles|(rubble 的复数) n. 粗石, 碎砖, 粗石堆
+rechargeable|[电] 接充电
+rawer|adj. 刺痛的( raw的比较级 ); 真实的; 未经处理的; 未经过训练的
+rucked|（橄榄球）自由密集争球( ruck的过去式和过去分词 ); 普通人; 寻常事物; （使）起皱褶
+reconquering|再征服, 夺回( reconquer的现在分词 )
+rhizobia|rhizobium 的复数
+repressive|压抑的, 抑制的, 镇压的
+reaves|剥夺, 抢走( reave的第三人称单数 )
+relend|再借
+romanes|罗姆语,吉卜赛语
+rabbitlike|似兔的, 胆小的, 多产的
+resining|树脂；松香
+redsear|热脆, 红脆
+resorcin|间苯二酚
+resellers|(reseller 的复数) n. 分销商, 代理销售商
+rectus|[医] 直的, 直肌
+reembroider|在...上再刺绣, 加绣
+rapine|抢夺, 掠夺
+radicles|(radicle 的复数) n. 小根, 胚轴
+rhapsode|(古希腊的)史诗吟诵者, 荷马史诗吟诵者
+ropier|破旧的, 旧式的( ropey的比较级 )
+roselle|[植] 洛神葵(产于热带地区)
+recrosses|(recross 的第三人称 -s形式) v.再越过, 再穿过
+russophobia|恐俄症, 惧俄症
+rehandling|[化] 重复劳动; 返工
+respecter|尊敬者, 注重者
+rethinker|rethink的变形
+rusticates|罚（大学生）暂时停学离校( rusticate的第三人称单数 ); 在农村定居
+retreading|[化] 轮胎翻修
+runless|无得分的
+reemerge|再度出现
+reafforest|在...重新造林
+rantingly|rant的变形
+reddy|雷迪 Ready的变体
+rapturous|兴高采烈的, 狂喜的, 欢天喜地的
+ricinoleic|蓖麻油酸的
+rit|[计] 信息传输速率
+relit|重新燃点, 再点火( relight的过去式和过去分词 )
+rosalie|罗莎莉（女子名）
+remunerate|给与报酬, 赔偿, 酬劳
+rectilinear|[电] 成直线
+reenactment|再制定；再扮演
+rhizopod|根足虫
+resembles|像…, 类似于( resemble的第三人称单数 ); 效仿
+relent|变宽厚, 变温和, 动怜悯之心
+rupturewort|[网络] 破乳药
+restraints|抑制( restraint的复数形式 ); 克制; 控制; 约束力
+redo|再做, 重做, 改装
+remounting|再上, 重登, 重新安装( remount的现在分词 )
+recharging|充电( recharge的现在分词 ); 给（枪）再装弹药; 养精蓄锐; 休整
+racehorses|比赛用的马( racehorse的复数形式 )
+reflectance|反射比
+resinlike|resin（树脂, 松香；用树脂处理）的变形
+revenges|为…报仇, 报…之仇( revenge的第三人称单数 )
+rudolph|鲁道夫（男子名）
+rudderhead|舵轴的顶端
+reservists|预备役军人( reservist的复数形式 )
+reshear|(钢板)重剪机, 精剪机
+repeaters|中继器（repeater的复数）
+refectory|餐厅
+ruffing|亚麻除籽工艺
+riverhead|河源, 水源
+ratification|批准, 承认, 认可
+rebuttal|辩驳, 驳回, 反驳, 反驳的证据, 反证
+rehabilitant|治疗期间的残废者, 复原期间的残废者
+repapered|(repaper 的过去分词) v.重新用纸裱贴, 用纸重新包
+remonstrated|抗议( remonstrate的过去式和过去分词 ); 告诫
+ruminative|默想的, 沉思的
+reprieving|缓期执行（死刑）( reprieve的现在分词 )
+rhomboclase|板铁矿
+rathripe|早熟的,早生的
+revelled|作乐( revel的过去式和过去分词 ); 狂欢; 着迷; 陶醉
+reengagement|再联锁
+renovating|翻新, 修复, 整修( renovate的现在分词 )
+resojet|[空]共鸣式喷气发动机
+rivalries|敌对, 竞争, 对抗( rivalry的名词复数 )
+repassing|(repass 的现在分词) vt. 再经过, 再通过
+retrograded|向后的( retrograde的过去式和过去分词 ); 后退的; 退化的; 恶化的
+recta|pl. 直肠
+rondos|回旋曲( rondo的复数形式 )
+redelivery|转售交货；重新发还
+rooty|多根的, 根似的
+ribband|木桁
+rickrack|荷叶边
+ries|里斯（姓氏）
+radials|辐板
+recalescence|[机] 再织, 再辉
+rams|可靠性、可用性、可维护性和安全性（Reliability, Availability, Maintainability, and Safety）；随机存取测量系统（Random Access Measurement System）；地区性自动化管理系统（Random Access Measurement System）
+requester|[计] 请求者, 请求程序
+reerect|重新竖立,重新架设,再建造,再建立
+risklessness|[网络] 无风险
+revaluation|再评价
+retries|重试（retry的复数）
+rounders|圆场棒球
+ruckus|喧闹, 骚动
+rosefish|[动] 玫瑰鱼(产于北大西洋)
+reattach|再次附着（附属）, 附着（附属）于原处
+revokingly|revoke的变形
+raceabout|单桅赛艇
+ricochet|跳飞, 跳弹
+rebuking|责难或指责( rebuke的现在分词 )
+redactional|redaction的变形
+roofer|盖屋顶的人, (客人致主人的)道谢函
+redundancies|过多( redundancy的复数形式 ); （机器的）多余度; （尤指文字）冗长; （因劳动力过剩而造成的）裁员
+ragstone|质地粗糙的岩石
+rhombohedra|菱面体, 菱形体
+remediless|医治不好的, 不能挽回的
+remanded|<律>将…还押候审( remand的过去式和过去分词 ); 将…发回重审
+revolted|起来反抗的, 起义的, 反叛的
+remittances|汇寄( remittance的复数形式 ); 汇款, 汇款额
+rabidness|猛烈顽固, 患狂犬病
+repopulate|使人重新住入
+remen|[医]普拉西坦[脑功能改善药]
+revoked|[法]取消的
+rya|里亚毯, 里亚毯式样
+restoring|恢复的
+recheck|[计] 复查
+rata|——见 pro rata
+rottle|埃及重量单位(=0.449287公斤)
+reactivities|反应；反动
+repined|苦恼, 埋怨( repine的过去式和过去分词 )
+rhachides|rhachis的变形
+righted|纠正( right的过去式和过去分词 ); 公正对待; 整理; 补偿
+reptilia|[动] 爬虫类, 爬行动物
+remarket|重新上市
+reconnoitre|侦察, 勘探
+registrant|登记者
+reconvict|再判决, 重新判决
+rodden|[人名] 罗登
+repristinate|使复原
+ramus|[植][动][解]分支, 支
+rouille|<法> n.胡椒味大蒜酱[字面意义 rust,指其色]
+regrowth|再生长, 再生苗; 再生物
+reassumption|再接受, 再假定
+ratafia|果仁酒, 杏仁味的甜饼干
+rebukeful|充满责备的, 责骂性的
+renomination|再提名, 提名...连任
+rumps|（兽的）臀部( rump的复数形式 ); 残余部分; 牛臀肉; 余党
+rheotactic|微生物在水流中之行动的
+realised|实现（realise的过去分词）
+reticence|无言, 沉默, 勉强
+refitted|（尤指船）整修, 重新装置, 给…整修( refit的过去式和过去分词 )
+racialist|种族主义的, 种族歧视的, 种族迫害的, 种族隔离的, 种族主义者
+rurban|靠近都市之农村的
+rewet|再润湿
+repurpose|赋予新的用途
+repl|[医][=replace]取代, 更换
+rabot|(用于大理石雕刻磨光的)一种硬木板
+retinula|[昆]小网膜(指昆虫复眼中小眼的色素细胞)
+ramicorn|具分支触角的
+reparation|补偿, 赔偿, 弥补, 修复, 修理
+raimentless|[网络] 无情的
+resentive|resent的变形
+resaw|再锯, 解锯
+reliefer|(棒球)上场替换的投手
+roarings|(roaring 的复数) n. 吼声, 咆哮, 怒吼
+riffing|除砂
+radiators|（暖气设备的）散热器( radiator的复数形式 ); 汽车引擎的冷却器, 散热器
+reinoculate|再接种
+refit|整修, 改装
+reliably|可靠地, 可信赖地
+raccoons|浣熊( raccoon的复数形式 ); 浣熊毛皮
+relevancy|关联, 恰当, 中肯, 贴切
+roomette|小房间
+refractile|折射的, 能折射的,有折射力的
+reen|沟；排水沟
+rambutans|(rambutan 的复数) n.[植] 红毛丹树(产于马来西亚), 红毛丹果
+reediness|reedy的变形
+raffe|三角顶帆
+rebating|(rebate 的现在分词) n. 部分退款, 折扣
+reclosable|(打开后)能重新盖紧的
+revocatory|废止的, 取消的
+remit|宽恕, 赦免, 免除, 汇出, 缓解, 减轻, 把...提交, 使恢复原状, 推迟
+ranginess|rangy的变形
+ribonuclease|[生化]核糖核酸酶
+ruminantly|ruminant的变形
+reaggregate|使再聚集,使重新积聚
+ratal|征税额
+rocambole|[植] 小蒜, 胡蒜(产于欧洲)
+ravener|强夺者, 强盗, 贪食的人
+recitable|可吟诵的,适于吟诵的,可细说的
+radiometer|辐射计, 放射计
+refractively|refractive的变形
+rationable|[网络] 合情
+reappoint|再任命, 使复职, 重新约定
+roomettes|(roomette 的复数) n. 小房间
+restoral|恢复, 归还, 复位, 复职, 赔偿, 修补, 重建, 修复物
+rigatoni|[单复同]n.[食]波纹贝壳状通心粉
+reinsman|驾车人
+reprocess|[化] 后处理; 再处理
+reactology|反应学
+restuff|重新填塞
+rarifies|使成精细；使变稀薄
+roadblock|障碍, 障碍物
+rander|[人名] 兰德
+ritchey|[人名] 里奇
+ruined|毁灭的, 没落的, 荒废的
+rivulet|小河
+robalo|[动] (=snook) 锯盖鱼科鱼(产于大西洋热带地区)
+retinite|[矿] 树脂石
+rubied|红玉色的, 深红的
+rambling|漫步的, 布局零乱的, 散漫的
+romansh|罗曼什方言的
+reverted|恢复( revert的过去式和过去分词 ); 重提; 回到…上; <律>归还
+redissolved|(redissolve 的过去分词) v.再溶解, 再驱散
+regrowing|再生, 继续生长( regrow的现在分词 )
+resublime|再升华
+resumed|重新开始( resume的过去式和过去分词 ); 重新获得; 重新占用; 恢复
+recomfort|再安慰, 鼓励
+railmen|(railman 的复数) n. 铁路职工, 码头工人
+recumbent|斜靠着的, 躺着的, 不活泼的, 休息着的
+redfish|鲑鱼
+reassimilate|再吸收；再融合
+resumable|可恢复的, 能取回的, 能再开始的
+rips|扯破, 撕坏( rip的第三人称单数 ); 撕成; 锯; 猛地扯开
+rumbling|隆隆声, 辘辘声
+rationing|定量配给
+radiopaque|辐射不能显著穿透的
+reassuming|再假定( reassume的现在分词 )
+ramping|土堤斜坡( ramp的现在分词 ); 斜道; 斜路; （装车或上下飞机的）活动梯
+rests|其他
+recused|要求撤换( recuse的过去式和过去分词 )
+rivulose|具河道形线纹的
+rhomboid|长菱形
+readmissions|(readmission 的复数) n. 重新接纳
+rebarbarize|使重新变野蛮, 使回到野蛮时代
+riskful|危险万分的
+rubying|红宝石；红宝石色
+rowelled|(马剌上的)小齿轮；【兽医学】(给牲畜排脓用的)排脓条
+rheophore|[医] 电极
+rheometric|电流计的
+razzing|冷笑, 嘲弄( razz的现在分词 )
+redeploying|重新部署, 调遣（士兵）, 调配（工人、设备）( redeploy的现在分词 )
+reparability|可修复性
+refertilize|再施肥
+ratifying|批准, 签认（合约等）( ratify的现在分词 )
+ragbag|装碎布的袋
+reenforcing|增援, 增强( reenforce的现在分词 ); 再实施
+raps|（轻快的）敲击（声）( rap的名词复数 ); 说唱音乐; 说唱歌; 速度快的谈话
+rectitis|直肠炎
+reviviscence|复生, 复活, 恢复精神
+retentivity|保持力, 记忆力, 顽磁性
+rendrock|爆破炸药
+remodelled|改变…的结构[形状]( remodel的过去式和过去分词 )
+resins|树脂, 松香( resin的复数形式 ); 合成树脂
+retarder|阻滞物
+resonated|产生回声、共鸣或共振( resonate的过去式和过去分词 )
+reseal|[化] 再封; 再密封
+rectal|直肠的
+rattlebox|嘎嘎匣(玩具)
+regressions|(regression 的复数) n. 退步, 回归
+rawly|生疏地；不成熟地
+republics|共和国( republic的复数形式 ); 共和政体; 成员具有平等权利的)团体; 界
+regulars|正规军人( regular的复数形式 ); 主力（或正式）队员; 常客; 僧侣
+rallying|恢复( rally的现在分词 ); 价格回升; 集合起来; 嘲笑
+remorsefully|极为懊悔地
+restudies|(restudy 的复数) n. 再行检讨, 重新研究
+riels|(riel 的复数) n. 瑞尔(柬埔寨货币单位)
+relapser|relapse的变形
+raftman|[网络] 筏子
+reflexed|下弯的, 反折的
+roughhewn|粗削的, 粗制的, 粗野的
+retinues|一批随员( retinue的复数形式 )
+rectoscopy|[医] 直肠镜检查
+rendezvouses|约会, 会合( rendezvous的第三人称单数 )
+retell|再讲, 重复, 重说
+rowena|罗威娜(f.)
+repurchasing|重新买( repurchase的现在分词 )
+raman|拉曼（姓氏）；拉曼（印度物理学家）
+racquetball|[体]短网拍墙球,手球式墙球(比赛规则和场地都与有四面墙场地的墙手球相同,但击球用以皮带拴腕的短柄球拍,球较墙手球略大而软)
+replacers|(replacer 的复数) [法] 代替者, 代用品
+rotgut|劣质威士忌酒
+roadside|路旁, 路边
+rodeos|骑术表演, 放牧人竞技会( rodeo的复数形式 )
+reals|实在, 现实（real的复数形式）
+roseal|玫瑰色的
+runners|滑行装置；页边行数；奔跑者；走私船（runner的复数形式）
+romances|浪漫史( romance的名词复数 ); 爱情小说; 恋爱; 传奇色彩
+repressions|压抑( repression的复数形式 ); 约束; 抑制; 镇压
+referendums|（就某政治问题的）公民投票( referendum的复数形式 )
+returf|再铺绿草
+ringbone|[兽医]跗骨赘(一种马的病症), 环骨瘤
+reassumed|(reassume 的过去分词) vt. 再采取, 再接受, 再假定
+rejecter|拒绝者, 抛弃者, 否决者
+ramdohrite|辉锑银铅矿
+rester|雷斯特（人名）
+rheological|流变学的；液流学的
+rowdily|吵吵闹闹地
+reloaned|再贷款, 再借( reloan的过去式和过去分词 )
+requicken|重新振作
+relatable|有关系的(relate的形容词形式)
+rifleshot|步枪射手
+restartable|可重新开始的,可重新起动的
+redye|重染
+rabbi|拉比(犹太教圣职人员), 大师(对犹太学者的尊称)
+revolvers|左轮手枪( revolver的复数形式 )
+recursively|[计] 递归地
+resurface|重铺路面
+rosettes|玫瑰形标志( rosette的复数形式 ); 石制品等上雕刻的玫瑰形花样
+rotan|[地名] [美国] 罗坦
+reverting|恢复( revert的现在分词 ); 重提; 回到…上; <律>归还
+rile|搅浑, 惹怒, 使焦急
+remiss|怠慢的, 不小心的, 没精打采的, 疏忽的
+ruffe|[鱼]梅花鲈
+rightfully|正当地；正直地
+redeems|补偿( redeem的第三人称单数 ); 实践; 解救; 使…免受责难
+reconciles|使和好( reconcile的第三人称单数 ); 和解; 使一致; 使和谐
+rejoinders|回答, 反驳, 答辩( rejoinder的复数形式 )
+reynold|雷诺（男子名）
+rubberised|rubberise的变形
+redressal|调整, 修正
+rosaceae|[医] 蔷薇科
+revolute|外卷的, 后旋的
+rhodanate|[化] 硫氰酸盐; 硫氰酸酯
+ringbolt|带环螺栓
+rimpling|, vi. rimple的变形
+reuben|鲁宾（男子名）；流便（圣经人物）
+resettled|帮助（尤指难民）定居他国( resettle的过去式和过去分词 ); 使（土地、地区等）重新成为定居点
+ronquil|海水鲈类鱼
+repaste|再涂
+ribboner|打麻机, 碎茎打麻机
+reperusal|再读, 重新细读
+redemptive|赎回的, 救世的, 赎身的
+raffle|抽彩售货, 废物
+radiability|射线透过性
+reared|饲养( rear的过去式和过去分词 ); 养育; 抚养; 抬起
+rachis|脊椎, 脊柱, 花序轴
+retrorse|反弯的, 反向的, 向下弯的
+remises|(remise 的复数) n. 再刺, 重刺
+reductase|还原酶
+ringlike|似环的, 环状的; 环形
+ripcords|开伞索( ripcord的复数形式 )
+raggle|(尤指屋檐下的)(石)水槽
+rickstand|堆料架
+resurgences|(resurgence 的复数) n. 再起, 复活, 再现
+reticulum|网状质, 网状组织, 蜂巢胃
+refetch|[计] 重取
+rupial|[医] 蛎壳疮的
+retinol|[医] 维生素A醇, 维生素A1, 瑞叮醇, 松香油
+revellers|摆设酒宴者, 饮酒狂欢者( reveller的复数形式 )
+rices|稻( rice的名词复数 ); 稻米, 大米
+raininess|多雨
+revamped|将（某物）更新( revamp的过去式和过去分词 ); 翻新; 改变; 修改
+risibly|可笑的; 引人发笑的
+riboflavin|核黄素
+rightism|右派纲领, 右派观点, 右派言论
+remarked|谈论, 评论( remark的过去式和过去分词 ); 注意到…
+rapacity|抢夺, 贪欲, 贪婪
+restring|为...重新装弦
+roridula|[网络] 捕虫幌属；捕虫树；捕虫树属
+regrouped|（使）重新组合, （使）重新编组( regroup的过去式和过去分词 )
+roves|流浪( rove的第三人称单数 ); 漂泊; 徘徊; （指眼睛）环顾
+recordist|录音师
+reoriented|使适应, 再教育( reorient的过去式和过去分词 )
+renate|(Renate)人名；(罗)雷纳特
+resistors|电阻; 电阻器( resistor的复数形式 )
+rakehell|浪子, 放荡者
+revaluating|重新估价；重新评价；使升值
+roundness|圆, 圆形, 球形
+racialists|种族主义者
+rugae|[医] 皱褶
+recourse|求援, 求助, 追索权
+regretless|无悔的, 不后悔的, 没有遗憾的
+retrofitting|改装
+restiform|[解]绳状的,索状的
+rubricity|红色, 变红, 遵守教仪
+reoccurs|(reoccur 的第三人称 -s形式) vi. 重新发生, 重新出现
+repr|[医][=represent]代表，表示
+rhizoplast|根丝体
+rigolet|[地名] [加拿大] 里戈莱特
+recusal|[律]宣布不合格,取消资格
+rills|(rill 的复数) n. 小河, 细流, 小溪
+reometer|电流表
+razzle|混乱, 喧闹, 旋转木马
+reproved|<正>责骂, 指摘, 非难( reprove的过去式和过去分词 )
+releve|[医]群落汇总表
+racemate|[化]外消旋酸盐(或酯), 外消旋酒石酸盐(或酯),外消旋物
+reverential|虔诚的, 表示尊敬的, 充满崇敬心的
+rinforzando|突然增强的, 特别加重的
+roomiest|宽敞的, 宽大的( roomy的最高级 )
+regularities|规则性( regularity的复数形式 ); 正规; 有规律的事物; 端正
+retributive|报应的
+rufosity|赤褐色
+rouses|醒来, 唤醒( rouse的第三人称单数 ); 使…活跃起来[产生兴趣]
+reds|[俚]红胶丸（安眠药的俚称）；红色的物品（red的复数）
+reverser|反向器, 换向器；换向开关；倒转机构换向开关
+regularized|使有规则( regularize的过去式和过去分词 ); 使有秩序; 调整; 使系统化
+ruggedly|险峻地; 粗暴地; （面容）多皱纹地; 粗线条地
+rupert|鲁珀特（男子名）
+rerouting|[计] 重新选择路径, 重新选择布线
+routings|(routing 的复数) [计] 路由选择; 布线
+raincoats|雨衣( raincoat的复数形式 )
+radarman|雷达员
+ropp|[计] 电传打字接收机
+ribs|肋骨；排骨（rib的复数）
+rafale|[军] (“阵风”) 21世纪法国海空军的主力战斗机
+repaying|偿还( repay的现在分词 ); 付还; 报答; 酬报
+reallocate|[经] 重新分派
+rockbird|岩鸟(指于岩壁间孵卵的海鸟,如北极海鹦等)
+ruffianlike|像无赖的, 像恶汉的
+resoundingly|鸣响地; 回响地; 令人瞩目地; 轰动地
+rebutting|反驳, 驳回( rebut的现在分词 ); 击退
+reassures|消除恐惧或疑虑, 恢复信心( reassure的第三人称单数 )
+reconnoiter|侦察, 勘查
+rorschach|罗夏（墨迹）测验的（叫人解释墨水点绘的图形以判断其性格）
+reeled|把东西用卷轴卷起来, 从卷轴上放出来( reel的过去式和过去分词 ); 感到震惊; 发昏; 似乎在不停旋转
+rotula|轮
+radices|[医] 根
+redoubt|多面堡, 防御阵地
+rooseveltian|[网络] 罗斯福
+rotating|[医] 旋转的, 转动的
+realness|真诚；真实性
+rascals|流氓( rascal的复数形式 ); 无赖; （开玩笑说法）淘气的人（尤指小孩）; 恶作剧的人
+restbalk|不耕种的垄
+rever|作梦（歌名）
+rudy|鲁迪（男子名, Rudolf的昵称）
+resoling|给（鞋, 靴等）换鞋底( resole的现在分词 )
+rincon|河流弯曲区
+restamp|再[重新]盖印, 另贴邮票
+reciprocates|报答, 酬答( reciprocate的名词复数 ); （机器的部件）直线往复运动
+reorientate|使重定向
+regularness|规则
+roberta|罗伯塔（女子名）
+ripstop|(尼龙织品)防破裂的
+regales|(regale 的第三人称 -s形式) vt. 款待, 使快乐
+rednecks|乡下人, 农人( redneck的复数形式 )
+refits|（尤指船）整修, 重新装置, 给…整修( refit的名词复数 )
+rheumatismal|[医] 风湿病的
+reelable|可卷的, 可绕的
+reliquary|圣骨匣, 遗骨匣, 圣物箱
+rehearsing|排练, 排演( rehearse的现在分词 ); 详述
+receptacular|[医] 收容的, 接受的
+retorter|反驳, 顶嘴；曲颈瓶 (retort的变形)
+reflow|流回；再涨
+remarriage|再婚
+ramentaceous|被鳞秕的
+rushee|(用开舞会等方式)准备被拉进大学生联谊会的对象
+rotates|（使某物）旋转[转动]( rotate的第三人称单数 ); （使某人或某物）轮流[按顺序循环]
+rummier|甜酒的, 奇妙的, 危险的( rummy的比较级 )
+reverends|(reverend 的复数) n. 教士, 大人(对教士的尊称)
+regrouping|（使）重新组合, （使）重新编组( regroup的现在分词 )
+rosebuds|蔷薇花蕾, 妙龄少女, <美>初入社交界的少女( rosebud的复数形式 )
+reoil|[化] 再上油
+reimburse|付还, 偿还, 赔偿
+richens|(richen 的复数) vt. 使富
+rawest|(raw 的最高级) n. 擦伤处, 半成品
+resultative|表示结果的
+rimfire|(子弹)边缘发火的,(火器)发射边缘发火弹的
+rumanians|(Rumanian 的复数) n.罗马尼亚人, 罗马尼亚文
+reactiveness|反应性
+requited|报答( requite的过去式和过去分词 ); 酬谢; 回报; 报复
+rondo|-dos 回旋曲
+revocable|可废止的, 可取消的
+rabbler|刮刀, 搅拌器
+revel|作乐, 狂欢
+rachiometer|[医] 脊柱弯度计
+rifampicin|[药]利福平(抗结核药)
+rumbo|(Rumbo)人名；(意)伦博
+recessionary|(经济)衰退的, 衰退期的
+reboarded|(reboard 的过去时)  回舱
+rectilineal|直线的, (哥特式建筑)以垂直线条为特征的
+reticulose|网状的
+rooflet|小屋顶
+renditions|演唱, 表演( rendition的复数形式 )
+remotest|遥远的（remote的最高级）
+reinsures|再保险, 分保( reinsure的第三人称单数 )
+repiningly|repine的变形
+rabbiteye|[植](美国东南部产的)越橘,兔眼乌饭树
+rioted|暴动, 闹事( riot的过去式和过去分词 )
+reparable|可修缮的, 可赔偿的, 可补偿的
+rooting|[计] 求根
+remarrying|再婚( remarry的现在分词 ); 与某人复婚
+reveled|狂欢；陶醉
+retroverted|子宫后倾的
+redistribute|重新分配, 再分发
+ridgel|[医] 单睾丸动物
+redowa|雷多瓦舞（一种19世纪流行的快三步波希米亚舞）, 雷多瓦舞曲
+rockets|休斯敦火箭队（篮球队名）
+recaption|取回, 领回
+rasters|(raster 的复数) n. 光栅
+repossessor|repossess的变形
+romanian|罗马尼亚人, 罗马尼亚语
+reproducible|可再生的, 可复写的, 能繁殖的
+roseola|风疹, 蔷薇疹
+resinating|用树脂处理, 将树脂渗入( resinate的现在分词 )
+relicted|[古语]未亡人的；(尤指)寡妇的；【生物学】孑遗的
+rectiserial|[医]直行的
+reprover|reprove的变形
+righto|int. 好, 对
+raving|胡说的, 疯狂的, 狂暴的
+reassurances|消除恐惧或疑虑( reassurance的复数形式 ); 恢复信心; 使人消除恐惧或疑虑的事物; 使人恢复信心的事物
+rockless|无岩石的
+rerailer|复轨器
+retrofits|式样翻新, 花样翻新( retrofit的名词复数 )
+reinstalled|使重新正式就职, 重新设置( reinstall的过去式和过去分词 )
+resupinated|向后倾斜的；仰卧的；【植物学】(叶、花等)倒垂的；倒置的；倒生的(如兰花等)
+rayah|非穆斯林臣民
+resurveys|(resurvey 的复数) n.再测量, 再勘查
+repp|一种条花织品
+reincarnates|赋予新形体, 使转世化身( reincarnate的第三人称单数 )
+rhizotaxis|[医]根序
+rosiny|多松脂的, 像松脂的
+retrieves|取回( retrieve的第三人称单数 ); 恢复; 寻回; 检索（储存的信息）
+reinstall|使从新正式就职；重新设置, 重新安装
+repaid|repay的过去式和过去分词
+refutable|可驳倒的
+revanche|报复, 复仇
+reassurance|安心, 放心, 再保证
+repopulating|(repopulate 的现在分词) vt. 使人重新住入
+rigescence|僵化, 刻板, 生硬
+readjusts|再整理, 再调整( readjust的第三人称单数 )
+restraining|抑制的；遏制的；控制的
+reemit|重发射
+reagin|[生]反应素,梅毒反应素,变应性反应素
+rollock|int. [～s]<俚>胡扯!
+rebury|再埋葬, 重新埋葬
+rashing|煤层底板的软碳质页岩
+rumpus|喧闹, 吵闹
+rutaecarpine|[医] 吴茱萸硷
+rhizodermis|根被皮
+roomfuls|满房间, 全房间的人( roomful的名词复数 )
+rescissory|废除的, 撤销的
+refrigerates|冷藏( refrigerate的第三人称单数 ); 冷冻
+rhagades|[医] 皲裂
+rhymer|作诗者, 打油诗人
+ridgeway|山脊路
+religionary|宗教的,涉及宗教的
+reservative|储藏的
+rattling|格格作响的, 轻快的, 很好的
+remontoir|发条；上弦机构
+restr|restaurant 餐馆
+ratteen|=ratiné[变体]
+rerouted|变更旅程( reroute的过去式和过去分词 )
+rete|[医] 网
+rapports|(rapport 的复数) n. 关系, 融洽, 一致
+realignments|(realignment 的复数) n. 重新排列, 改组, 重新组合
+rogersite|六水铁钒
+retene|[化]惹烯,1-甲基-7-异丙基菲
+reinstitute|重新建立,再设立,再制订,再开创
+renwick|伦威克（美国地名）
+redarguing|驳斥；反驳
+recompense|报偿, 酬金, 赔偿
+repolarize|再极化
+recusation|[律] 反对
+reconviction|再判决, 重新判决
+restyle|改变…的风格(或格调),改变…的式样[款式]
+regorging|倒流( regorge的现在分词 )
+rallycross|汽车拉力赛
+requitable|有回报的, 可报复的
+risings|(rising 的复数) n. 上升, 造反, 叛乱
+romanced|传奇；浪漫史；风流韵事；冒险故事
+renipuncture|[医] 肾穿刺术
+ruskin|罗斯金（姓氏）
+risen|升起的, 复活的
+restriking|矫形锻压; 再闪击; 整形锻压
+retinoscope|视网膜镜
+rabbeted|开槽口于( rabbet的过去式和过去分词 ); 嵌接; 榫接
+repudiates|（正式地）否认( repudiate的第三人称单数 ); 拒绝接受; 拒绝与…往来; 拒不履行（法律义务）
+retroinsular|[医] 岛后的
+repand|[植] (叶缘)残波状的
+ringatu|[网络] 格图
+recollected|镇静的, 镇定的, 回忆到的
+ramification|分枝, 分叉, 枝状物, 支脉, 支流, 衍生物
+riparious|[医]河边的, 河岸的, 岸栖的, 河边生的
+rearguard|后卫
+rebreathe|再呼吸
+romaji|<日>n.罗马字(指用以拼写日语的罗马字母,亦作romazi,Romazi)
+reboarding|(reboard 的现在分词)  回舱
+resister|抵抗者, 反抗者
+ruddles|用红土做记号, 使发红( ruddle的第三人称单数 )
+refloats|使再浮起；打捞
+rescript|敕令, 诏书, 抄书
+reigns|君主的统治( reign的名词复数 ); 君主统治时期; 任期; 当政期
+railed|责备（rail的过去式与过去分词形式）
+rimosely|rimose的变形
+rhodinol|玫红醇, 左旋香茅醇
+reiterating|反复地说, 重申( reiterate的现在分词 )
+responsory|应答圣歌
+retaker|retake的变形
+refractive|折射的, 有折射力的
+roebuck|雄狍
+relentlessly|不仁慈, 严酷, 无情, 坚韧, 不懈, 不屈不挠
+reticulated|网状的, 小方格子状的
+resettlement|[法] 重新定居, 重予安置
+readaptation|重适应
+roundish|略圆的
+rushers|(rusher 的复数)  [体]猛攻运动员
+rotisserie|烤肉店, 烤肉铺, 轮转烤肉器
+rabin|拉宾（希伯来姓氏）
+rhamnite|[化] 鼠李糖醇
+ricker|脚手架立柱
+refinish|整修表面
+rosalind|罗莎琳德（女子名）
+radiophonic|radiophone的变形
+rebeck|(中世纪时弹奏的)三弦琴
+remissive|宽恕的, 减轻的
+resecting|切除, 割除( resect的现在分词 )
+resistible|可抵抗的, 抵抗得住的
+rok|大韩民国, 南朝鲜（Republic of Korea）
+reread|重读, 再读
+rhubarb|大黄, 大黄根
+redden|变红, 脸红
+rubberize|涂橡胶, 用橡胶处理
+reforest|重新造林
+restating|重述或以另一种方式重申（某事物）( restate的现在分词 )
+rodders|(rodder 的复数) n.开快车的人
+rotatable|可旋转的, 可转动的, 可循环的, 可轮流的
+rect|矩形（rectangular）；收据（receipt）
+revote|再拨款；重新投票
+reembark|（使）重新上船[机、车], 重新搭载
+retrogradely|后退地, 向后地, 颠倒地
+rhizosphere|[植]根围( 指围绕植物根系在土壤中的一个区域)
+relearn|再学习
+radiotron|真空管, 三极电子管
+reticulately|reticulate的变形
+redivide|再划分
+ratiocinated|（尤指用三段论法）推理( ratiocinate的过去式和过去分词 )
+rejuvenating|使变得年轻, 使恢复活力( rejuvenate的现在分词 )
+realizations|(realization 的复数) n. 实现, 领悟, 实得
+radioisotope|放射性同位素
+reglaze|再上釉, 重装玻璃
+replaying|重播, 重放( replay的现在分词 )
+reeding|小凸嵌线(装饰), (硬币周缘的)刻槽
+rheidae|[网络] 美洲鸵科；美洲鸵鸟科；鶆奥鸟科
+recuperated|恢复（健康、体力等）, 复原( recuperate的过去式和过去分词 )
+ricercare|寻觅曲(16-17世纪一种练习曲的意大利文标题)
+relievo|浮雕
+rudesby|, <古>粗人
+rubefacient|使发红的
+ratten|毁坏
+reproached|责备( reproach的过去式和过去分词 ); 内疚
+rigol|普源精电（电子仪器公司）
+refresher|使清新的事物, 使恢复记忆的事物, 饮料, 酒, 复习, 最新动态介绍, 补习材料
+rheumatism|风湿病
+retrofit|式样翻新
+renin|肾素, 高血压蛋白原酶, 高血压蛋白的酶原
+raunchy|不整洁的, 不修边幅的, 肮脏的, 淫秽的
+rheophile|[生态]急流生物(生活在流水中的动物或植物)
+richen|使富
+ringtail|[动] 浣熊
+redolently|redolent的变形
+raided|对…进行突然袭击（raid的过去式与过去分词形式）
+raffing|= riffraff；[英国方言]废料；垃圾
+reductively|有缩减趋势地; 减少地; 还原地
+respirator|口罩, 防毒面具, 人工呼吸装置
+romero|罗梅罗（人名）
+rehanging|(rehang 的现在分词) vt. 重新悬挂, 改挂
+riksmal|<挪威语>n.=Bokmal
+reimposed|再强加, 重新征收( reimpose的过去式和过去分词 )
+rotatively|rotative的变形
+radicals|激进分子( radical的复数形式 ); 根基; 基本原理; [数学]根数
+ratsbane|灭鼠药
+razzed|冷笑, 嘲弄( razz的过去式和过去分词 )
+reshuffling|对（某集体）作岗位或职责的调整, 改组（某集团）( reshuffle的现在分词 ); 重新洗（牌）
+realms|领域（realm的复数）
+robotistic|像机械人的, 机械式的
+resized|(resize 的过去分词) [计] 调整大小
+rebaptism|再洗礼, 新命名
+retan|[化] 复鞣
+rhymester|作打油诗的人, 蹩脚的诗人
+regale|款待, 使快乐
+ragabash|<英方> = riffraff
+roundtable|圆桌的, 圆台
+ramtil|[植] 盏金花
+recommences|（使）重新开始( recommence的第三人称单数 )
+remount|再骑上, 回溯
+reinsured|分保投保人
+ridotto|化装舞会, 舞蹈会
+revivalist|信仰复兴运动者, 领导宗教复兴运动者
+reintroduces|再引入, 再提出( reintroduce的第三人称单数 )
+raphael|拉斐尔（姓氏）；拉斐尔（意大利画家、建筑学家）
+rachischisis|脊柱裂, 先天性椎弓不连
+ribbonman|[英史]绿带会(Ribbon Society) 成员
+rhinenchysis|[医] 嗅觉
+rewarming|复温
+raggedy|有些破的, 有些参差不齐的, 有些刺耳的
+rattrap|捕鼠机, 绝境
+raffling|以抽彩方式售（物）( raffle的现在分词 )
+riziform|[医] 米粒形的
+rhizina|假根
+registrable|可登记的, 可挂号的, 可表示的
+rejiggering|<美俚>重新安排，重新装备，更改( rejigger的现在分词 )
+remissibly|remissible的变形
+regained|复得( regain的过去式和过去分词 ); 赢回; 重回; 复至某地
+rother|(Rother)人名；(德、西、瑞典)罗特尔；(英)罗瑟
+ratifies|批准, 签认（合约等）( ratify的第三人称单数 )
+ratbite|fever[医]鼠咬热(亦作ratbite disease)
+resumptive|取回的, 恢复的, 再开始的
+raddle|代赭石, 编篱笆用的细枝条
+remedial|治疗的, 补救的, 矫正的
+regelation|再胶凝
+retinued|在随员[待从]簇拥下的
+rainfalls|(rainfall 的复数) n. 降雨, 降雨量
+repellance|<主英>=repellence
+rimed|结霜的
+reprises|重新开始( reprise的名词复数 )
+risser|[人名] 里泽
+retuse|浅凹形的
+recopies|再抄写, 再复制（recopy的第三人称单数形式）
+rhexia|[网络] 鹿草
+ringneck|环颈动物
+roily|搅乱的, 搅浑的, 被激怒的
+reeks|恶臭( reek的名词复数 )
+reliableness|可靠,信赖
+receipts|进款, 收入
+raspings|锉屑
+reincarnate|使转世化身, 使重新体现
+roughscuff|下层人民, 大众
+rubbishes|垃圾( rubbish的名词复数 ); 无意义的东西; 废话; 劣质的东西
+rompish|乱跳的, 顽皮的
+reigned|当政, 统治（reign的过去式形式）
+recoction|再次烹煮
+revolves|（使）旋转( revolve的第三人称单数 ); 细想
+rackwork|齿条, 齿条加工, 齿条机构
+refilling|[化] 再充填
+refinishes|整修表面（refinish的第三人称单数形式）
+revisitation|revisit的变形
+rubescence|[医] 变红, 发红
+reiterative|反复的
+ringdove|斑尾林鸽, 斑鸠
+ricercar|寻觅曲(16-17世纪一种练习曲的意大利文标题)
+relearned|再学习( relearn的过去式和过去分词 )
+readopt|重新采取,再采纳
+refitment|修理, 改装
+ronggeng|<马来语>n.龙根舞(马来西亚的一种有伴唱的传统舞蹈)
+revetement|[网络] 覆叠空间
+roundheel|<美俚>容易被说服的人, <俚> 易上钩的女人, 性行为随便的女人
+rosalyn|[人名] 罗莎琳
+reoccur|重新发生, 重新出现
+redressing|改正( redress的现在分词 ); 重加权衡; 恢复平衡
+remould|重新塑造, 改造, 改铸
+rainstorms|暴风雨, 大暴雨( rainstorm的复数形式 )
+reefy|多暗礁的, 多暗滩的
+riskily|冒险地, 危险万分地
+rhinoscopic|[医] 鼻镜检查的
+reoccupy|再占领, 收复, 使再从事
+resected|切除, 割除( resect的过去式和过去分词 )
+relapsed|再度恶化, 故态复萌( relapse的过去式和过去分词 )
+redunca|小苇羚属
+retroaction|反动, 反作用, 溯及既往
+refastening|再次固定，再次稳固( refasten的现在分词 )
+regurgitates|使反胃( regurgitate的第三人称单数 ); 使反哺; 使反刍; 依样复述
+rightmost|[计] 最右边的
+remortgages|(remortgage 的复数) v.再抵押
+reit|Real Estate Investment Trust 不动产投资信托公司, 房地产投资信托公司
+reconfirm|再证实, 再确认
+rootlets|(rootlet 的复数) n. 小根
+rhizoidal|[医]根样的
+rhinal|鼻的, 鼻腔的
+radiodontist|[医] 牙放射学家
+resonators|(resonator 的复数) n. 共鸣器, 共鸣体, 共振器
+runelike|像北欧古文字的
+repelling|击退( repel的现在分词 ); 使厌恶; 排斥; 推开
+reduzate|[地质]还原沉积物
+rarest|最稀罕的；最珍贵的（rare的最高级）
+reshuffled|对（某集体）作岗位或职责的调整, 改组（某集团）( reshuffle的过去式和过去分词 ); 重新洗（牌）
+ragi|鸭脚粟
+recharged|充电( recharge的过去式和过去分词 ); 给（枪）再装弹药; 养精蓄锐; 休整
+radiolytic|辐射分解的
+reshipment|重装, 转载, 重装货物
+rotterdam|[经] 鹿特丹
+ratine|平纹结子花呢, 珠皮大衣呢
+rejoicing|欣喜, 高兴, 欢欣之事
+rhizoplane|[植]根面(指土粒岩屑等紧附的植物根部外表面)
+reallocation|[计] 再分配
+rigamarole|冗长的废话, 胡言乱语
+raceme|总状花序
+ravines|既深又狭、坡度很大的山谷( ravine的复数形式 )
+ranales|毛茛目
+rozzers|(rozzer 的复数) n.警察
+relitigation|[网络] 另行起诉
+roble|白栎树
+religiose|笃信宗教的, 过分虔诚的
+reassignment|[计] 重赋值, 再赋值
+routeman|按指定路线售货的推销员, 按指定路线发货的推销员
+rookery|海豹群, 群栖处, 企鹅群, 贫民窟, 同类人的集中处, 同类物的集中处
+rhymes|尾韵；押韵（rhyme的复数）
+repugner|ind.或v.i. (＋à) (使)厌恶, (使)反感；和…不一致
+ravages|劫掠后的残迹, 破坏的结果, 毁坏后的残迹
+retelling|（以不同的方式或语言）复述, 重述( retell的现在分词 )
+ramark|[电] 里标
+redline|对某社团进行经济歧视, 按安全飞行速度驾驶飞机
+rax|Remote Access Computing System 遥控存取计算系统
+resigned|服从的, 听任的, 已辞职的
+romanticise|使浪漫化, 夸张, 使幻想化
+recoupling|机械闭合与开断
+retroposed|[医] 后移的
+replicated|复制( replicate的过去式和过去分词 ); 重复; 再造; 再生
+reflower|再开花, 使再开花
+resting|静止的；休眠的
+reveres|崇敬, 尊崇, 敬畏( revere的第三人称单数 )
+rootstock|根茎, 根源, 起源
+redundantly|多余地, 冗余地
+reink|重新涂墨水于
+resurges|复活（resurge的第三人称单数形式）
+rusts|[植物学]锈菌类（rust的复数）
+riprapping|抛石
+remunerates|酬劳( remunerate的第三人称单数 )
+racemose|总状花序的, 总状排列的, 葡萄状的
+refashion|再做, 重制
+revelational|展现的, 揭露的, 启示的, 天启的
+ridgeboard|栋梁
+roques|[人名] 罗克斯
+refragable|可证明为妄想的
+ranted|夸夸其谈( rant的过去式和过去分词 ); 大叫大嚷地以…说教; 气愤地)大叫大嚷; 不停地大声抱怨
+rabbinates|(rabbinate 的复数) n.犹太法学博士的身份[职位], 犹太法学博士们
+retrad|向后地
+ruman|罗马尼亚人, 罗马尼亚文
+rillette|浓味罐装猪肉
+rwy|railway 铁路, 铁路系统; runway （飞机场的）跑道
+religieux|修道士, 和尚
+radiocast|用无线电广播
+roystonea|[网络] 王棕属；大王椰子属；大王椰属
+reinspected|重新视察，再考察( reinspect的过去式和过去分词 )
+reenergize|重供能; 重新激励
+regimentally|regimental的变形
+redrive|赶回, 再赶
+retentively|有记性地; 记性强地; 保持地; 记性好地
+rainily|下着雨, 多雨地
+riesling|雷司令（一种干白葡萄酒）（商标名称）
+reexpansion|再膨胀, 重复膨胀
+restes|（resris的复数）[解]索状体, 绳状体
+redoubtable|可怕的, 厉害的, 可敬的
+reaving|剥夺, 抢走( reave的现在分词 )
+recipiency|容纳
+renn|[人名] 雷恩
+radiode|盛镭器
+resolver|[计] 裁决器; 分解器
+reattempt|再尝试, 重新尝试
+richweed|[网络] 富饶
+reseating|使（自己或别人）再次就座( reseat的现在分词 ); 为…设新座位; （通过重新调整或修理）使（水龙头、钉子等）复位
+rhyolites|(rhyolite 的复数) n. 流纹岩
+reentrant|再进去的, 凹角的
+regin|雷金（男子名、女子名、姓氏）
+ruddy|红的, 红润的
+ruminantia|[医] 反刍亚目, 反刍类
+ricket|<俚>(黑社会用语)失风,大错
+renovator|革新者, 刷新者, 修理者
+reticulates|网状的
+retying|retie的现在分词
+rasped|易怒的；刺耳的（等于raspy）
+revenants|(revenant 的复数) n. 亡魂, 鬼
+rosedrop|玫瑰糖锭, 酒糟鼻
+relaxant|弛缓的
+redrawing|[化] 重拉伸
+rimless|无边的
+ruining|破坏( ruin的现在分词 ); 毁掉; 使破产; 使沦落
+rosinol|松香油
+ranella|蛙螺属
+rottweiler|（德国种）罗特韦尔犬
+ripplet|小涟漪, 小波纹
+rooters|啦啦队
+repulsive|排斥的, 可恶的, 击退的
+repost|vt .<主英>重新投寄
+rateen|=ratiné[变体]
+riancy|快乐, 兴高采烈
+rasophore|穿黑色宽袖长袍的教士
+reglowing|再炽热; 再辉
+romanticized|使浪漫化( romanticize的过去式和过去分词 ); 使传奇化; 夸张; 以浪漫手法处理
+rubbery|橡胶似的, 有弹力的
+refrains|抑制, 克制, 戒除( refrain的第三人称单数 )
+rampancy|猖獗, 蔓生
+recurved|内弯的, 后弯的
+ranidae|[医] 蛙科
+ruralized|使农村化, 在农村居住( ruralize的过去式和过去分词 )
+rowans|(rowan 的复数) n. 花楸树
+rollo|(=Rolf)罗洛(男子名)
+rickardite|碲铜矿
+reweave|重织
+recoloring|重新着色( recolor的现在分词 )
+rumpless|（家禽）无尾的, 无尾椎的
+redoing|再做, 改装( redo的现在分词 )
+rains|雨季
+relisted|(relist 的过去分词) vt. 重新刊登
+reproachful|申斥的, 非难的, 应责备的
+refunding|借新债还旧债, 再融资, 债务延展, 发行新债券取代旧债券
+reducibly|可简化的（reducible的变体）; 可还原的（reducible的变体）; 可缩小的（reducible的变体）
+rustler|活跃分子, 偷家畜贼
+rasbora|[动] 波鱼属
+recurvation|反屈, 反弯, 反向弯曲; 下弯
+rainwash|雨水的冲刷, 被雨冲走的东西
+romanizing|古罗马化, 用罗马字书写( Romanize的现在分词 )
+reneging|违约, 食言( renege的现在分词 )
+reargument|再争论, 重新辩论
+renardine|肾形(千里光)碱
+rainmakers|[电影]造雨者
+redshanks|(redshank 的复数) n. 红脚鹬
+reversals|反向( reversal的复数形式 ); 反转; 倒转; 运气不好
+rejecting|拒绝( reject的现在分词 ); （因质量差）不用; 排斥; 拒收
+regranting|[法] 以便再出售获利, 零售, 转售
+restudied|(restudy 的过去分词) n. 再行检讨, 重新研究
+repressor|抑制者, 镇压者
+rutilant|发红色火光的,闪光的,发亮的
+romeo|一种男式室内便鞋
+recluses|隐居者, 遁世者, 隐士( recluse的复数形式 )
+rumblingly|rumbling的变形
+reinserted|(reinsert 的过去分词) vt. 再插入, 重新插入
+ramifying|使分枝, 使分叉( ramify的现在分词 ); 成枝杈状
+reassembles|重新组装( reassemble的第三人称单数 )
+reinspect|重新视察, 再考察
+reveilles|起床号( reveille的名词复数 )
+representor|[律] 陈述者
+regarder|林务区长
+reposeful|平稳的, 恬适的
+reproachless|无可非难的, 无可非议的
+redias|[无脊椎] 雷蚴；[无脊椎] 雷迪幼虫
+resignedness|resigned的变形
+rhapsodize|狂热地说, 写狂想文, 作狂想曲
+racemism|[化] 外消旋性
+rememberer|记得者, 记住者, 记起者
+rissole|炸肉丸子, 炸鱼卷, 炸鱼丸子, 炸肉卷
+retracted|可伸缩的
+robustiously|robustious的变形
+refreezing|(refreeze 的现在分词) v.再冰冻, 再结冰
+reexplain|再讲解,再解释,重新说明
+romanite|杂色琥珀
+retrained|重新教育, 再教育( retrain的过去式和过去分词 )
+ragman|收买破烂的人
+redware|[化] 紫砂
+reminisced|追忆, 回想( reminisce的过去式和过去分词 )
+rancescent|酸败的
+rookeries|白嘴鸦的群居地( rookery的名词复数 ); 海豹等的穴; 破旧而拥挤的住房群; 贫民窟
+rebelliously|造反地, 难以控制地
+rought|[人名] 劳特
+rhomboids|(rhomboid 的复数) n. 长菱形
+revers|翻领
+reffo|<澳俚>（尤指第二次世界大战前逃离德国纳粹统治的）欧洲难民, 欧洲避难者
+runcinate|倒齿状的
+reformat|重定格式
+ramiparous|[医]生枝的
+reorienting|使适应, 再教育( reorient的现在分词 )
+rollicking|欢乐的；喧闹的
+rapped|突然说出( rap的过去式和过去分词 ); （公开地）严厉批评; 突然大声说出; 连续敲叩
+rinsable|可洗涤的
+recitalist|独唱者；独奏者；单独演出者
+restituted|复原, 归还( restitute的过去式和过去分词 )
+racemic|外消旋的
+rearmost|最后的
+redispose|重新布署, 再处置
+renneting|凝乳
+riata|(=lariat)绳索, 套索(牧童用)
+renaturation|复活, 复原
+ringbark|(为使之枯萎或使之多结果实而)环割(树) 的一圈树皮
+rhombi|（rhombus的复数）斜方形, 菱面体
+rescreening|(rescreen 的现在分词)  再筛分
+rupiah|卢比(印尼货币单位)
+rainier|赤阳苹果；雷尼尔山
+rubellite|[矿] 红电气石
+runnel|小河, 细流
+remeasuring|(remeasure 的现在分词) vt. 重新测量
+rumoring|<美>传闻( rumor的现在分词 ); [古]名誉; 咕哝; [古]喧嚷
+rhinelander|[人名] 莱因兰德; [地名] [美国] 莱茵兰德
+ringleader|魁首, 头目
+reinvade|再侵犯,轮番侵犯
+redwoods|（美国加州产的高大的）红杉( redwood的复数形式 )
+regresses|退化, 退步, 倒退( regress的第三人称单数 )
+religieuse|修女, 尼姑
+revs|revolutions （复数）旋转, 回转, 转数
+reflectible|可反射的, 可映出的
+rhaetic|& n.[地]雷蒂亚阶(的),瑞提阶(的)
+reopening|重新开始( reopen的现在分词 ); 再开; 揭旧疮疤; 重提伤心事
+romanium|罗曼铝合金
+reunifying|使重新统一；再统一, 再联合
+regrew|再生, 继续生长( regrow的过去式 )
+radiosonde|无线电高空测候器, 无线电探空仪
+repopulated|(repopulate 的过去分词) vt. 使人重新住入
+ripener|催熟剂
+roustabout|码头工人, 甲板水手
+renownless|renown的变形
+recrossed|(recross 的过去时) v.再越过, 再穿过
+rambunctious|粗暴的, 难控制的, 喧闹的
+repudiative|批驳性的; 遗弃性的
+restorator|[医]恢复器（下肢屈伸运动练习器）[商]
+ruffles|褶裥花边( ruffle的名词复数 )
+rhythmless|无旋律的, 不合拍子的, 无韵律的
+ratepaying|纳税
+rawhider|生牛皮；[美国英语]生牛皮做的鞭子
+ruralness|rural的变形
+rototill|用旋耕机耕(地),用旋转碎土器碎(土)
+relaxations|消遣( relaxation的复数形式 ); 松懈; 松弛; 放松
+revilers|谩骂者( reviler的名词复数 )；辱骂者, 谩骂者
+retrofitted|给机器设备装配（新部件）, 翻新, 改型( retrofit的过去式和过去分词 )
+reconquers|再征服, 夺回( reconquer的第三人称单数 )
+reprimands|申斥, 惩戒, 谴责( reprimand的第三人称单数 )
+relumine|重新点燃, 使重新照亮, 使重新明亮
+rationed|限量供应, 配给供应( ration的过去式和过去分词 )
+ravishers|(ravisher 的复数) n. 强夺者, 强奸者
+rotundities|(rotundity 的复数) n. 圆形, 圆形物, 圆润
+rectifying|[化] 精馏; 精馏过程
+roundheaded|圆头颅的, 圆顶的
+riebeckite|[矿]钠闪石
+retally|重理货
+rambler|漫步者, 蔓生植物
+riposting|还刺, 尖锐回答( riposte的现在分词 )
+renouncing|声明放弃( renounce的现在分词 ); 宣布放弃; 宣布与…决裂; 宣布摒弃
+revoltingly|背叛地, 叛乱地
+rarified|纯净的, 稀薄的
+remitment|remit的变形
+rudenture|卷绳饰; 卷绳状雕饰
+rober|穿长袍的人
+radiferous|[医] 含镭的
+retrocardiac|[解][医]在心脏后的
+rouleau|卷轴, 卷封的硬币
+repositories|存放处( repository的复数形式 ); 仓库; 宝库; 学识渊博的人
+relented|怜悯, 变温和, 变宽厚( relent的过去式和过去分词 ); 再借( relend的过去式和过去分词 )
+renege|违例出牌, 食言, 毁约
+reascend|再上升
+rodential|啮齿目的
+recollapse|再坍缩
+rosabel|罗莎贝尔(f.)
+rapturously|兴高采烈地, 狂喜地
+revivified|（使）再生, （使）复活, （使）振奋精神( revivify的过去式和过去分词 )
+rhinorrhea|[医] 鼻[液]溢
+rearmament|重整军备, 改良装备
+repudiating|（正式地）否认( repudiate的现在分词 ); 拒绝接受; 拒绝与…往来; 拒不履行（法律义务）
+rummily|奇异地;古怪地
+repositions|重新配置( reposition的第三人称单数 )
+roisterer|喧闹者, 闹饮者
+roguing|选株; 淘汰; 除劣
+renoir|雷诺阿（人名）
+rhetoricians|修辞学者, 雄辩家( rhetorician的复数形式 )
+rotifer|轮虫
+repetitional|重复的
+replicant|[电影]复制杀人魔
+rejoneo|<西> n.马背斗牛术
+rachilla|[植] 小穗轴, 小花轴
+reawakened|再度觉醒( reawaken的过去式和过去分词 )
+reverences|尊敬, 崇敬( reverence的名词复数 ); 敬礼
+rhamnaceae|[医] 鼠李科
+rudbeckia|金光菊属植物
+reeve|地方长官
+retrievement|retrieve的变形
+rheas|(rhea 的复数) n. [动]美洲鸵；[植]苎麻
+roans|黑白杂色的马, 棕白相间的马( roan的复数形式 )
+rechecking|(recheck 的现在分词) [计] 复查
+recitations|复习/实习课程; 朗诵( recitation的复数形式 ); 背诵; 习题课
+rumenotomy|[医] 瘤胃切开术
+robustness|[计] 健壮性
+rosales|[地名] [菲律宾、墨西哥] 罗萨莱斯
+resides|居住( reside的第三人称单数 ); 定居; 驻扎; 属于
+reflexly|反射地, 反省地, 折回地
+regeneracy|新生, 更生, 更新, 再生
+rantipole|顽童,粗野的人,泼妇
+rathole|被鼠咬成的洞, 鼠穴
+reverb|混响；余响
+rubblework|毛石工, 乱石工程, 乱石工, 毛石工程
+requestors|(requestor 的复数) n. 请求者
+rouncy|<古>马,骑用马
+radixes|[医]n.（拉）根
+respirometry|[医] 呼吸运动计量法
+resurrect|复活
+resummoned|(resummon 的过去分词) vt. 再召唤
+redargution|[罕用语](对某种说法或论点的)反驳, 驳斥
+reaved|reave的过去式和过去分词
+rarefication|变稀薄, 稀薄
+radion|[物](放)射(微)粒
+reissued|再版, 再印( reissue的过去式和过去分词 )
+razored|剃, 用剃刀刮
+ramular|小枝的
+rowley|罗利（姓氏）
+rotundas|圆形建筑, 圆形大厅( rotunda的复数形式 )
+recommit|把...再委托, 再犯
+resurrected|使复活( resurrect的过去式和过去分词 ); 使复苏; 使再活跃; 使再流行
+resorb|再吸收
+rissoles|炸鱼肉丸( rissole的复数形式 )
+republished|再版, 重新发表, 重订遗嘱( republish的过去式和过去分词 )
+ruminal|[医]瘤胃的, 反刍
+romane|[人名] 罗马尼
+reducible|可缩小的, 可降低的
+racists|种族歧视者( racist的复数形式 )
+rentier|靠股息生活的人,靠收租生活的人,<贬>食利者
+rearer|养育栽培者, 用后脚站立的马; 中耕机
+rhein|[化] 大黄酸
+redressment|赔偿, 救济, 矫正
+reprobating|非难；拒绝；斥责
+reeder|[人名] [英格兰人姓氏] 里德 Reader的变体; [地名] [美国] 里德
+reoxidize|再氧化
+revocability|可撤回; 可撤销; 可解除
+retrobuccal|[医] 颊后的, 口后的
+reoperate|重新运转
+remitted|免除（债务）, 宽恕( remit的过去式和过去分词 ); 使某事缓和; 寄回, 传送
+recidivistic|复发
+resurrecting|使复活；复兴；挖出
+rejections|拒绝( rejection的复数形式 ); 摒弃; 剔除物; <医>排斥
+rhotacize|[语]使r音化
+rowan|花楸树
+rhinorrhagia|[医] 鼻出血
+rumors|<美>传闻( rumor的名词复数 ); [古]名誉; 咕哝; [古]喧嚷
+rosarian|玫瑰花栽培者
+reflexology|[医] 反射学
+repudiatory|拒绝履行法律义务的
+refinished|整修表面( refinish的过去式和过去分词 )
+rimming|(沸腾钢)结壳沸腾作用
+rumex|[化] 黄酸模
+replenished|补充( replenish的过去式和过去分词 ); 重新装满
+roomage|空间
+rowdies|rowdy的变形
+remoras|障碍，障碍物( remora的名词复数 )
+rustier|生锈的( rusty的比较级 ); 荒疏的
+recolonized|(recolonize 的过去时) v.开拓殖民地, 再度移民到...
+repeating|重复的；循环的；反复的
+resid|残油
+rem|眼的迅速跳动
+rebuked|责难或指责( rebuke的过去式和过去分词 )
+roderick|罗德里克(亦作Roderic)(m.)
+ramee|苎麻
+rogue|恶棍, 流氓, 小淘气
+remediably|可治疗地, 可补救地
+resizer|复装物, 复装整形模, 成形模
+resistence|抵抗力
+reborn|再生的, 更新的
+redear|[鱼](产于美国南部和东部的)红耳鳞鳃太阳鱼
+reduplicated|重复的；加倍的；反复的
+rased|消除（记忆等）, 破坏( rase的过去式和过去分词 )
+rummy|朗姆酒的, 奇妙的, 古怪的
+refrigerated|冷藏( refrigerate的过去式和过去分词 ); 冷冻
+ralline|[鸟]秧鸡的,秧鸡科的,似秧鸡的
+reacquire|[医]再获得, 再得到
+ratha|(印度的)轻便四轮马车,四轮牛车
+raying|暴露在辐射中; 照射
+rooker|(Rooker)人名；(英)鲁克
+riverly|河的, 河流的, 河边的
+remittor|汇款人, 出票人
+rebuttals|举反例, 反驳, 抗辩( rebuttal的复数形式 )
+reglazing|二次挂糖衣
+rhubarbs|大黄( rhubarb的名词复数 ); <口>（后台演员造的）人声喧哗效果，乱嚷嚷
+reformatted|(reformat 的过去分词) vt. 重定格式
+ruddock|知更鸟
+regimental|团的, 附属于团的
+rearhorse|[昆]螳螂
+rewardless|无报酬的, 徒劳的
+repleader|第二次答辩
+rheologic|[物]流变学的
+repulverize|再次粉碎; 重新粉碎
+refundable|可偿还的, 可归还的
+revolvable|能旋转的, 能被旋转的
+ropeable|可用绳绑的, 野生的, 狂暴的
+rakee|葡萄酒, 梅酒
+rectocolonic|[医] 直肠结肠的
+reformation|改革, 改正, 重新形成, 重新组成
+retranslate|重译
+redisplay|重新显示
+roadbook|道路指南
+representee|[律] 受陈述者
+recpt|receipt 收据; 收条; reception 接待; receptionist 接待员
+roughrider|驯马师, 非正式骑兵
+reiving|(reive 的现在分词) vt. 掠夺
+riga|里加（拉脱维亚共和国首都）
+retrack|再跟踪
+rocaille|花园石贝装饰物, 状似贝壳的装饰
+retaliates|报复, 反击( retaliate的第三人称单数 )
+recommencing|（使）重新开始( recommence的现在分词 )
+refurbishing|刷新( refurbish的现在分词 ); 擦亮; 使清洁; 整修
+rhinestones|莱茵石, 人造钻石( rhinestone的复数形式 )
+russula|[网络] 红菇属；中麝鼩
+rainworm|蚯蚓
+repeopled|(repeople 的过去时) vt. 使人重新住入
+rumshop|<美口>酒店, 酒吧间
+recolonize|开拓殖民地, 再度移民到...
+restaurateur|餐馆老板
+retouching|[化] 手修
+reverend|教士, 大人(对教士的尊称)
+reconditions|修理, 修复, 修补翻新( recondition的第三人称单数 )
+resue|再使用；再利用；削壁回采法
+recombining|[计] 重新组合
+reticulating|网状的
+ricardo|里卡多(姓氏)
+reovirus|[微]呼肠孤病毒, 呼吸道肠道病毒
+repackage|重新包装
+remedying|改正, 纠正, 改进( remedy的现在分词 )
+reintroduced|再引入, 再提出( reintroduce的过去式和过去分词 )
+retrogresses|倒退, 逆行, 退化（retrogress的第三人称单数形式）
+rheumatics|<口>风湿病; 风湿病患者( rheumatic的复数形式 ); <口>风湿病
+resummon|再召唤
+residually|残余地, 剩下地
+reels|卷轴( reel的名词复数 ); 卷盘; 卷筒; 绕在卷轴上的线（或金属丝、胶卷等）
+rasorial|抓地觅食的, 鸡类的
+regur|黑棉土
+rethresher|二次脱粒装置
+reconvention|[经] 反诉
+ripsnorter|非同寻常的人, 了不起的人
+reanimates|鼓舞（reanimate的第三人称单数形式）
+repertories|(repertory 的复数) n. 仓库, 库存, 储备, 保留剧目轮演
+residuals|剩余误差
+ratch|（防倒转的）棘齿
+reseats|使（自己或别人）再次就座（reseat的第三人称单数形式）
+rubberstone|磨石
+refract|使折射, 测定...的屈光度
+resurged|复活( resurge的过去式和过去分词 )
+rebuker|rebuke的变形
+resequencing|[计] 重新排序
+recipiomotor|[医] 运动感受的
+rescuers|救援者（rescuer的复数）
+rutin|[化] 芸香苷
+riddling|谜一样的, 解谜的
+refining|[计] 精炼, 提纯
+reluct|反抗, 反对
+rollback|回降, 卷回, 推回去
+refulgency|[网络] 压力
+reintegrated|再重新完整, 复兴( reintegrate的过去式和过去分词 )
+rehearser|rehearse的变形
+remunerator|酬劳者
+refracts|<物>（使）折射( refract的第三人称单数 )
+rewires|再接电线, 再打电报( rewire的第三人称单数 )
+rhabdomancer|棍卜术（用探矿杖占测矿物的迷信活动） (rhabdomancy的变形)
+replicable|[化] 能重现的
+regionalism|行政区的划分, 地方主义, 地方色彩, 地区性, 地区特征
+remotely|极小地, 极细微地
+revved|<口>（使）加速( rev的过去式和过去分词 ); （数量、活动等）激增; （使发动机）快速旋转; （使）活跃起来
+reassemble|重新召集, 重新装配
+rambutan|[植] 红毛丹树(产于马来西亚), 红毛丹果
+rhythmist|作曲者, 有节奏感的人
+roached|梳（发）使成拱状（roach的过去式与过去分词形式）
+roosterfish|[医]丝帆鱼
+ratiocinate|推理, 推论, 采用三段论法
+reworded|重述, 改说( reword的过去式和过去分词 )
+radiography|射线照相术
+rubes|<美俚>乡巴佬, 土包子( rube的名词复数 )
+rosaline|罗莎琳（女子名）
+resene|树脂素, 氧化树脂, 碱不溶树脂
+reservoirs|水库( reservoir的复数形式 ); 储藏; 大量的储备; 储液槽
+rallied|恢复( rally的过去式和过去分词 ); 价格回升; 集合起来; 嘲笑
+resole|换(鞋)底
+rutting|[医] 动物动情, 动物交尾欲
+resalute|再敬礼, 答礼
+rabbets|（木板等的）槽口, 榫头, 槽口接缝处( rabbet的名词复数 )
+razz|砸舌声
+reeducate|再教育, 重新教育
+restrictedly|限制地
+rafts|木筏( raft的名词复数 ); 橡皮艇; 充气船; 大量
+roanoke|罗诺克（美国弗吉尼亚州城镇名）
+radiologist|放射学者
+rattans|(rattan 的复数) n. 藤, 白藤茎, 藤杖
+rostrated|有嘴状突起的, 有喙状装饰的
+ric|英国皇家化学学会（Royal Institute of Chemistry）
+resistivity|抵抗力, 电阻系数
+recolonizing|(recolonize 的现在分词) v.开拓殖民地, 再度移民到...
+risker|冒险者, 投机者
+reserver|保留
+rotte|死记硬背, 机械的做法, 生搬硬套
+recoupment|[经] 赔偿, 补偿, 偿还
+routier|[人名] 鲁捷
+remarker|注意；言辞 (remark的变形)
+rebroadcasts|转播, 重播（rebroadcast的第三人称单数形式）
+rix|里克斯（男子名）；一种音乐形式
+rufus|鲁弗斯（男子名）
+reinsert|再插入, 重新插入
+regreen|, vi. (尤指经过战争、滥伐树木、露天开矿之后)使重新绿化；恢复绿化生机；(果实成熟后)返绿
+razorfish|[医]离鳍鱼
+resistate|抗蚀残积
+retards|使减速( retard的第三人称单数 ); 妨碍; 阻止; 推迟
+rabbits|兔子；穴兔（rabbit的复数）
+roon|[人名] 鲁恩
+rurally|乡下地；农村风味地
+reunites|（使某人或某物）再次联合, 重聚( reunite的第三人称单数 )
+reechoed|再反回响, 使回响( reecho的过去式和过去分词 )
+refutation|反驳, 辩驳, 反驳的证据
+rimrock|顶岩
+rabbinate|犹太法学博士的身份[职位], 犹太法学博士们
+reparative|修缮的, 修复的, 赔偿的, 弥补的
+retsina|松香味希腊葡萄酒
+raring|渴望的, 急切的
+relativist|相对论者, 相对主义者
+rehire|[法] 再雇用
+rumpot|酒徒, 醉汉
+regranted|(regrant 的过去时) v.再次同意, 重新批准
+regorges|倒流( regorge的第三人称单数 )
+rhizine|[植]根部
+ringlet|长鬈发, 小圈, 小环
+reteporidae|网孔苔虫科
+rinds|（瓜、果等的）皮( rind的复数形式 ); 外皮; （干酪等）外皮; 硬皮
+rascette|腕纹
+resiliometer|弹力计
+receivership|[经] 清算人(接收人)办公室, 清算人职能
+rightfulness|公正, 合理
+roils|搅混（液体）( roil的第三人称单数 ); 使烦恼; 使不安; 使生气
+rill|小河, 细流, 小溪
+reoxidation|[医] 再氧化
+readjustment|再整理, (使)重新进入正常状态/正常位置, 再调整, (使)重新适应
+rigourism|严格的作风, 严峻的作风
+reselect|[计][WIN]重选
+retinospora|[植] 扁柏属植物, 金钟柏属植物
+riddlemeree|胡言乱语
+ritzy|豪华的, 时髦的, 讲究的
+ratteens|(ratteen 的复数) n.=ratiné[变体]
+rachigraph|脊柱描记器
+reconcilable|可和解的, 可调和的, 能取得一致的
+recidivate|复返, 再犯
+reasonless|无理性的, 不明道理的, 不合理的
+rachet|救护车；棘轮, 棘齿
+ricercars|(ricercar 的复数) n. 寻觅曲(16-17世纪一种练习曲的意大利文标题)
+reinvents|（在不知他人以发明的情况下）重复发明, 彻底改造, 重新使用( reinvent的第三人称单数 )
+riced|筛选（rice的过去式与过去分词形式）
+rascalism|流氓行为, 恶事
+revisal|校订, 订正, 修正
+rephotograph|重拍
+rebec|(中世纪时弹奏的)三弦琴
+rebus|谜, 画谜
+reperforator|[计] 复穿孔机
+rankled|（使）痛苦不已, （使）怨恨不已( rankle的过去式和过去分词 )
+redig|[地名] [美国] 雷迪格
+reinstalling|使重新正式就职, 重新设置( reinstall的现在分词 )
+recounter|recount的变形
+raanan|[人名] 拉阿南
+ramiflorous|[医]枝花的
+rectogenital|[医] 直肠生殖器的
+rentability|[经] 营利性, 收益性
+rungs|梯级（rung的复数形式）
+rehair|[网络] 茂茸
+reassertion|再主张
+rhizogenic|[植] 生根的, 长根的
+revamp|换新鞋面, 修理, 修补, 修改
+reprinter|reprint的变形
+roughdry|晾干而不烫平
+roseate|玫瑰色的
+rousers|(rouser 的复数) n. 唤醒者, 搅拌器, 弥天大谎
+radulae|（软体动物的）齿舌( radula的名词复数 )
+reniform|肾脏形的
+rinker|溜冰者
+refueled|加燃料（中途加油；反应堆燃料更换）
+runover|超过篇幅的排印材料, 转页部分
+rectangled|直角的
+rarify|使成精细；使变稀薄
+rapt|全神贯注的, 入迷的, 出神的
+rabbling|[机] 搅拌
+rigidness|坚硬, 劲直
+retractible|可收回的
+rewater|再浇水, 再浸入水中
+rimmed|有...边缘的
+rhinoscopy|照鼻镜检查
+reminiscer|reminisce的变形
+revulsant|[医] 诱导剂
+rhinoptera|[网络] 牛鼻鱝属；牛鼻鲼属
+reinhard|(Reinhard)人名；(法)雷纳尔；(英)莱因哈德；(德、捷、瑞典)赖因哈德
+regrooving|再次刻纹
+ratlins|横索的梯绳
+ratiocinator|ratiocinate的变形
+rhodeoretin|[医] 万年青糖
+rathskeller|地下室啤酒间, 地下室餐厅
+rakishness|轻盈
+rinderpest|牛疫
+rilled|(rill 的过去时) n. 小河, 细流, 小溪
+russety|枯叶色的, 红褐色的
+rushlike|像灯心草的
+retiringness|孤僻, 害羞
+runabout|敞篷小轿车, 流浪者
+rudeness|无礼；粗蛮
+raze|毁灭, 刮去, 把...夷为平地, 消除, 抹去, 破坏
+reina|雷纳
+rimers|(rimer 的复数) [机] 绞刀
+rootlessness|无根的；无归属的, 无根据的
+remarried|再婚( remarry的过去式和过去分词 ); 与某人复婚
+retransfer|重新传送
+rezone|再分区
+rostrum|讲坛, 演讲台, 演讲, 演讲者
+rhynchonella|小咀贝；小咀蜿
+ribbers|(ribber 的复数)  罗纹机
+resurrects|使复活( resurrect的第三人称单数 ); 使复苏; 使再活跃; 使再流行
+recitatif|背诵的, 吟诵的, 叙述的
+reinette|香蕉苹果, 斑皮苹果
+revisionists|修正主义者
+ricebird|禾雀, 食米鸟
+rowdier|好争吵的, 吵闹的( rowdy的比较级 )
+replacer|[法] 代替者, 代用品
+rawinsonde|无线电高空测候仪, 雷达气球
+reinflated|（使）再膨胀( reinflate的过去式和过去分词 )
+repressure|[网络] 压抑
+ramillies|[地名] [比利时] 拉米伊
+reinsurance|再保险, 再保险金额
+respell|再拼写
+requisites|必要的事物( requisite的复数形式 )
+reproacher|责难者, 责备者
+revetment|护墙, 障壁, 护岸
+reappearing|再（出）现( reappear的现在分词 )
+righten|使恢复正常, 整顿
+recenter|重定位；回到中心位置
+renderer|渲染器; 描绘器
+romp|喧闹游玩, 顽皮女孩
+rebeldom|[总称]起义者, 叛乱者,叛区
+regina|女王
+ruptured|破裂的
+readdressing|[计] 再编址, 再寻址
+recognizer|承认者
+rudiments|基础, 初步, 基本原理, 入门, 雏形, 萌芽
+radiances|(radiance 的复数) n. 光辉, 发光, 容光焕发
+resupply|再供给, 再补给
+riotousness|狂欢, 放荡
+revises|修正；改订
+rhinologist|[医] 鼻科学家
+rareripe|早熟的
+revisionary|修订的, 校订的, 修改的, 修正的
+rhythmics|韵律研究, 韵律论
+rotameter|转子流量计, 转式测速仪
+repacify|再平息, 再安抚
+regreets|再问候；回敬
+rackety|喧扰的, 喧闹的, 寻欢作乐的
+reaps|收割庄稼, 收获( reap的第三人称单数 ); （因自己或他人所为）获得（某事物）
+registrate|【音乐】调整音栓；选择音域
+rinaldo|(Rinaldo)人名；(英、法、俄、西、意、瑞典)里纳尔多
+roundly|圆圆地, 直率地, 严厉地, 全面地
+ruing|对…感到后悔( rue的现在分词 ); 活羊拔毛
+recks|(reck 的复数) vt. 介意, 和...相关
+redemptory|买回的,收回的,赎回[赎身], 折旧的
+retortive|retort的变形
+redlined|(redline 的过去分词) vi.对某社团进行经济歧视, 按安全飞行速度驾驶飞机
+redcoats|英国军人的
+recapitalize|调整...的资本
+reappraises|重新评估, 重新评价( reappraise的第三人称单数 )
+reenact|重新制定, 再扮演
+rollable|roll的变形
+reconsiders|重新考虑( reconsider的第三人称单数 )
+refinancing|[经] 重新集资金
+recuperating|恢复（健康、体力等）, 复原( recuperate的现在分词 )
+rajesh|拉杰什（印度出口公司）
+renegade|背教者, 变节者, 脱党者
+resiniferous|产树脂的, 含树脂的
+rabietic|[医] 狂犬病的, 咬病的
+retzian|羟砷钙钇锰矿
+recutting|(recut 的现在分词) v. 再切, 重切
+rhizophagous|以根为食的, 吃根的
+rondure|圆形物, 优美弧度
+remanding|<律>将…还押候审( remand的现在分词 ); 将…发回重审
+remedially|治疗地, 矫正地
+riving|猛地劈开[撕开]( rive的现在分词 ); 劈开（木头或石头）
+reinvestment|[经] 再投资
+rivered|有河流的
+roughdried|晾干但不烫平
+rodger|罗杰(亦作Roger)(m.)
+roofing|盖屋顶
+renegado|<古>=renegade
+rescattering|二次散射; 重散射
+rowlocks|桨架( rowlock的复数形式 )
+ratfink|卑鄙的人
+rosella|[医] 风疹, 流行性蔷薇疹
+refractions|(refraction 的复数) n. 折光, 折射
+revitalized|使恢复元气, 使具有新的活力( revitalize的过去式和过去分词 )
+rhodophyceae|红藻门
+rheotron|[物](=betatron)电子感应加速器, 电磁感应加速器, 电子回旋加速器, 通用流变仪
+racecourses|赛马跑道, 赛马场( racecourse的复数形式 ); （赛马、赛车、赛跑的）跑道
+recreancy|胆小, 怯懦, 不忠
+relatival|关系词的
+reencourage|再鼓励,再支持
+rhizophorous|根托的
+ruralizing|使农村化, 在农村居住( ruralize的现在分词 )
+rostriferous|[生]有喙的
+rode|ride的过去式
+reduviidae|[医] 猎蝽科
+rockiest|多岩石的( rocky的最高级 ); 坚如磐石的; 摇摆的; 摇晃的
+reliefs|轻松( relief的复数形式 ); （给灾区或交战地区人民提供的）救济; 浮雕; （痛苦等）缓解
+rog|货已收到, 凭单（Receipt Of Goods）
+revehent|[解]输回( 血) 的, 运回( 血液) 的
+rebaptized|(rebaptize 的过去分词) v.为...再施洗, 为...再命名
+replay|重新比赛, 重演
+ramiform|枝状的, 有分枝的
+repugned|反对, 反抗( repugn的过去式和过去分词 )
+rhymist|诗人, 打油诗作者
+redescribing|(redescribe 的现在分词) v.重新描述, 完全重新描述
+rumple|弄皱, 弄得乱七八糟
+riverlike|adj. 像河的，如同河一般的
+rigorist|作风严肃的人, 要求严格的人
+robur|[植] 栎树(一种中大型的乔木)
+retrorectal|[医] 直肠后的
+renewed|复兴的；更新的；重建的
+radula|齿舌
+residing|居住( reside的现在分词 ); 定居; 驻扎; 属于
+rabbitry|养兔场, 兔群
+reelects|重选( reelect的第三人称单数 )
+retinerved|具网脉的
+reradiated|再辐射( reradiate的过去式和过去分词 )
+ruderal|杂草
+reveling|狂欢；陶醉
+rationalists|唯理论者, 理性主义者( rationalist的复数形式 )
+rti|respiratory tract infection 呼吸道感染; rotor temperature indicator 转子温度指示器; rotor temperature indicastor 转子温度计; rise time indicator 上升时间指示器
+rhapis|棕竹属
+reliction|水位渐消退, 新生地
+rebated|(rebate 的过去时) n. 部分退款, 折扣
+rouster|码头工人, 甲板水手
+reemission|再发射, 重发射
+retemper|[化] 再次回火
+reorients|使适应, 再教育( reorient的第三人称单数 )
+romeite|[矿]锑钙石
+richfield|[美国] 里奇菲尔德
+rex|雷克斯（男子名）；国王；君主
+ripest|成熟的( ripe的最高级 ); 时机成熟的; 强烈的; 口味浓郁的
+riven|rive的过去分词
+revibration|再震动
+reconsecrate|[网络] 重申
+reductionism|简化论
+radiata|(无脊椎)辐射动物
+refuted|驳斥, 驳倒( refute的过去式和过去分词 )
+rubicund|红润的, 透红的
+radiohumeral|[医] 桡[骨]肱[骨]的
+ruggers|(rugger 的复数) n. 英式橄榄球
+refiled|(refile 的过去时) [计] 接力传送
+reordered|再订购, 重新安排, 重新排序( reorder的过去式和过去分词 )
+retrievals|(retrieval 的复数) n. 取回, 恢复, 检索
+redoubts|（防御系统中的）最后阵地( redoubt的复数形式 ); 孤立的前哨站
+retender|[经] 再度投标
+respired|呼吸( respire的过去式和过去分词 ); 呼气和吸气; （植物）进行呼吸
+renne|[人名] 伦尼
+rubine|红宝石
+renunculus|[医] 肾小叶
+reluctancy|嫌恶, 不愿
+rosine|(Rosine)人名；(法)罗西纳
+ridgelet|脊波
+reformatting|[计] 重定格式
+radialia|[医]辐板
+ricinolein|[化]甘油三蓖麻油酸酯
+rachitomy|[医] 脊柱切开术
+robbers|盗贼（robber的复数形式）
+rebutter|反驳者, 第三次答辩, 反证
+reinject|再注入,给……作再注射
+rakish|轻快的, 潇洒的, 放荡的
+rall|渐缓（音乐术语, rallendando的缩写）
+rittingerite|砷硒银矿
+reenlisted|再次征募（尤指征兵）( reenlist的过去式和过去分词 )
+reata|套索
+remembering|回忆, 记住
+resurfacing|[化] 表面重修
+repackaging|重新包装( repackage的现在分词 )
+recanted|撤回（声明）, 放弃（信仰或主张）( recant的过去式和过去分词 )
+refractors|(refractor 的复数) n. 折射器, 折射望远镜
+rehybridize|[网络] 再杂交
+ropebark|[网络] 绳子
+reserpine|利血平
+ramentum|[植]小鳞片
+retractors|(retractor 的复数) n. 食言的人, 牵拉肌, 牵开器
+redundancy|过多, 冗长, 累赘, 多余, 冗余位, 冗余度, 冗余码, 多余信息
+radioscope|放射镜, 剂量测定验电器
+resettable|可重调
+rhapsodizes|狂热地说, 写作狂想诗文( rhapsodize的第三人称单数 )
+rial|里亚尔(伊朗货币单位)
+retinacular|支持带的, 韧带的
+rebinding|重捆, 重新装订( rebind的现在分词 )
+recombinant|重组, 重组物
+rhizopodan|根足虫纲动物
+recarburize|使再碳化, 使再渗碳
+rubricated|加以红字标题, 以红色书写( rubricate的过去式和过去分词 )
+romanized|古罗马化, 用罗马字书写( Romanize的过去式和过去分词 )
+reschedules|重订时间表( reschedule的名词复数 )
+remonstrator|提出异议的人, 忠告者
+repacked|(repack 的过去时) n. 重新打包, 重新装箱
+reattachment|重附着, 回贴
+rumenitis|[医] 瘤胃炎
+reselling|再卖, 转售( resell的现在分词 )
+reenacts|再制定, 再扮演（reenact的第三人称单数形式）
+reprise|年金, 重演, 重复
+rhabdus|杆状体(单轴型海绵骨针)
+randier|性欲冲动的( randy的比较级 ); 好色的; [苏格兰]喧闹的; 粗俗的
+responsum|(犹太法学家对有关犹太法律和礼仪的) 释疑解答
+rumania|罗马尼亚（等于Romania）
+radiometry|辐射度学
+reapportion|重新分配
+redress|赔偿, 补救, 矫正
+resects|切除, 割除（resect的第三人称单数形式）
+retransmit|转播, 转发, 中继站发送
+rameses|拉美西斯(即Ramses)
+rubious|红玉色的, 红色的
+rojak|(食时浇辣椒酱的)马来西亚色拉
+renumerate|再数, 再列举
+reshipper|reship的变形
+replicates|复制( replicate的第三人称单数 ); 重复; 再造; 再生
+rucksacks|帆布背包( rucksack的复数形式 )
+rhizobium|根瘤菌
+rackets|（网球等）球拍( racket的复数形式 ); 敲诈; 墙网球; 吵闹声
+renunciant|断念者
+reanalyze|再分析
+rived|rive的过去式和过去分词
+rebelled|造反；反叛（rebell的过去分词）
+romish|<贬>天主教的
+reguli|金属块
+raisings|(raising 的复数) [机] 起油
+rectory|教区长的住所
+racketer|喧哗, 吵吵闹闹；欢宴；社交；花天酒地；应酬
+reinforced|加强的；加固的；加筋的
+reimaging|重新成像
+rankness|繁茂, 恶臭
+repentance|后悔, 悔改
+readiness|预备, 准备, 敏捷
+refired|再点燃，重新点燃( refire的过去式和过去分词 )
+raphe|[医] 缝[际], 种脊(植)
+remint|改铸
+redrying|二次干燥
+rutinose|[化] 芸香糖
+rotations|旋转( rotation的复数形式 ); 转动; 轮流; 轮换
+rooter|拔根者, 用鼻拱土的动物, 挖土机, 啦啦队员
+recognitory|承认的, 认识的
+refuser|拒绝者
+remedium|[医] 药[物]
+rimland|边地, 中心地区之边缘地带
+raglans|(raglan 的复数) n. 套袖大衣
+rosewater|有玫瑰香水味的, 感伤的, 做作的
+rigescent|僵化的, 刻板的, 生硬的
+roxana|罗克珊娜(f.)
+rfs|[计] 远程文件系统
+riddles|谜语；粗筛；谜一般的人（riddle的复数）
+replevisor|[法] 要求发还扣押财物诉讼的原告
+retinopathy|[医] 视网膜病
+rud|路德（德国公司名）
+reinstating|使恢复原职, 使恢复原有权利( reinstate的现在分词 ); 把…放回原处
+recedes|逐渐远离( recede的第三人称单数 ); 向后倾斜; 自原处后退或避开别人的注视; 尤指问题
+rhinocaul|[医] 嗅球脚
+reappoints|(reappoint 的第三人称 -s形式) vt. 再任命, 使复职, 重新约定
+renters|承租人；佃户；出租人；地主（renter的复数）
+reorganizes|改组, 改编, 整顿( reorganize的第三人称单数 )
+rideress|女骑者, 女骑士
+robbin|梭心（等于roband）
+resinousness|resinous的变形
+rushings|(rushing 的复数) adj. 急流的；旺盛的
+ripping|撕的, 绝妙的
+roes|(roe 的复数) n. 狍, 鱼子, 鱼卵
+rhombus|菱形, 菱形六面体
+rhigosis|[医] 寒觉, 冷觉
+ratted|<俚>醉了的, 喝醉的
+rebounder|善于篮板球之球员
+rearwards|在后面, 向后面
+redrafts|(redraft 的第三人称 -s形式) n. 改写稿, 再起草, 新汇票
+rebounds|反弹球( rebound的名词复数 ); 回弹球; 抢断篮板球; 复兴
+reducer|渐缩管, 缩减者, 还原剂
+raiment|衣服
+riff|连复段
+restituting|复原, 归还( restitute的现在分词 )
+reverso|偶数页
+rhea|[动]美洲鸵；[植]苎麻
+reimprisoned|(reimprison 的过去分词) vt.再囚禁,从新关押
+roughhouse|大吵大闹, 骚乱, 大打出手
+retroact|反动, 起反作用, 溯及既往
+rutabaga|芜菁甘蓝
+rhinarium|鼻镜
+roquelaure|男用齐膝外套
+remailing|[网络] 提醒
+romic|罗密克音标(Sweet创)
+ricketiness|摇摆，不牢靠
+rerecorded|(rerecord 的过去分词) vt. 再录音
+retentions|(retention 的复数) n. 保持, 留置, 保留, 保持力, 保留物, 记忆, 停滞, 固位
+rootedness|根深蒂固, 牢不可破
+reclined|斜倚, 倚靠, 躺卧( recline的过去式和过去分词 )
+reshaped|[医]整形的
+repass|再经过, 再通过
+railroader|铁路职工
+rapparee|土匪, 强盗, 无业游民, 流浪者
+residentiary|居住者, 居民
+rebukable|rebuke的变形
+roasters|(roaster 的复数) n. 炙烤的人, 烘烤器, 焙烧炉
+retardants|(retardant 的复数) n. 抑止剂
+rasps|粗锉( rasp的名词复数 )
+rament|气质激素说
+recriminated|反责, 反诉( recriminate的过去式和过去分词 )
+reverencer|崇敬；尊严；敬礼 (reverence的变形)
+rhombohedron|菱面体
+rabbinical|希伯莱语的
+rajah|印度王公, 统治者
+replating|金属堆焊, 金属焊补
+recombines|再结合, 重组（recombine的第三人称单数形式）
+relayed|转播的, 重播的
+ratoon|根蘖
+reflectors|反射器, 反射光[热、声音]的物体( reflector的复数形式 )
+revets|用石, 水泥等覆护（revet的第三人称单数形式）
+regroup|重新聚集
+rouged|胭脂, 口红( rouge的过去式和过去分词 )
+recission|撤销，解除
+recriminates|反责, 反诉（recriminate的第三人称单数形式）
+revitalised|(revitalise 的过去分词) vt. 使有新的活力, 使新生, 使恢复元气
+reconstructs|重建( reconstruct的第三人称单数 ); 重现, 重整
+rachiotomy|[医] 脊柱切开术
+retie|重捆; 重绑; 重扎; 重系
+rehandle|重新处理
+redraft|改写稿, 再起草, 新汇票
+ravenala|[网络] 旅人蕉属
+roughhouses|喧闹的游戏或打斗( roughhouse的名词复数 )
+rickety|患佝偻病的, 虚弱的, 摇摆的
+reoccurred|(reoccur 的过去时) vi. 重新发生, 重新出现
+resize|[计] 调整大小
+reorder|重新安排, 再定购, 重新排序
+rubiginous|锈的
+rara|retinoic acid receptor alpha gene 视黄酸受体α基因
+reapparel|再穿衣
+recondition|修理, 修复
+reclaimant|reclaim（改造, 感化, 挽救）的变形
+refoot|换基脚, 换底
+retakes|电影镜头的重拍( retake的名词复数 ); 重考; 补考; 参加重考或补考的人
+revilement|辱骂, 诽谤
+rephrasing|改述, 改撰( rephrase的现在分词 )
+resoil|补充上层土壤
+resembler|resemble的变形
+ruelle|窄小的街道, 小巷
+remorse|懊悔, 良心不安, 自责, 同情
+reducers|缩减者；还原剂；异径接头（reducer的复数）
+rotundness|rotund的变形
+radioscopy|射线透视, X光透视
+repenting|对（自己的所为）感到懊悔或忏悔( repent的现在分词 )
+rallidae|[网络] 秧鸡科；纹秧鸡属；小新西兰秧鸡是纹秧鸡属
+roadhouse|郊外小旅馆, 客栈
+ritornello|间奏曲
+ramage|(Ramage)人名；(法)拉马热；(英)拉梅奇
+recumbency|斜靠着, 躺着, 休息
+reengaged|重新啮合; 重新接入
+retouched|润色, 修描（照片）( retouch的过去式和过去分词 )
+reinflate|(使)再膨胀
+rottenstone|擦光石
+recalculated|重新计算；重新估计
+revelry|闹饮, 狂欢
+reviles|辱骂, 痛斥( revile的第三人称单数 )
+redefining|给…重新下定义（redefine的ing形式）
+reflectingly|反射地, 深思熟虑地
+rheostats|[电] 变阻器；[电] 可变电阻（rheostat的复数形式）
+rigged|作弊的, 非法操纵的
+radiological|放射学的
+recouped|重获（所失的东西）( recoup的过去式和过去分词 ); 补偿, 偿还
+rastus|[人名] 拉斯特斯
+radiosodium|[化] 放射性钠
+ripidolite|[矿]铁绿泥石
+reeky|冒烟的, 烟雾弥漫的, 热气腾腾的, 散发臭气的
+rebuses|（以画代词语, 尤其是名字的）画谜, 组字画( rebus的名词复数 )
+rackle|任性的, 刚愎的, 鲁莽的, 激烈的, 匆忙的
+rhynchophora|象虫组
+radioed|无线电传送的
+reconvenes|重新集合, 重新召集( reconvene的第三人称单数 )
+roer|火枪
+receding|逐渐远离( recede的现在分词 ); 向后倾斜; 自原处后退或避开别人的注视; 尤指问题
+resay|再说,重说
+rusted|（使）生锈( rust的过去式和过去分词 )
+rimy|被霜覆盖的
+reenslave|再奴役,使受二次奴役,再征服 (=re-enslave)
+rhinolalia|[医] 鼻音, 鼻语
+rads|(RAD 的复数) [计] 随机存取装置, 快速存取数据, 快速存取设备
+ruts|车辙( rut的名词复数 ); 犁沟; 常规; 老规矩
+realises|(realise 的第三人称 -s形式) vt. 实现, 认识到, 体会到, 了解, 认清, 使显得逼真, 变卖财产为现钱
+recruited|招聘( recruit的过去式和过去分词 ); 吸收某人为新成员; 动员…（提供帮助）; 雇用
+retiled|(retile 的过去分词) vt. 重新用瓦盖；重新铺瓦（瓷砖）
+rectischiac|[医] 直肠坐骨的
+randolph|伦道夫（男子名）
+roomful|满房间, 满场的人
+righter|订正者；改正者
+roofed|有顶的, 有屋顶的
+reopened|重新开始( reopen的过去式和过去分词 ); 再开; 揭旧疮疤; 重提伤心事
+rufescent|带红色的
+rotters|无赖( rotter的复数形式 )
+refastens|再次固定，再次稳固（refasten的第三人称单数形式）
+rankly|繁茂地, 恶臭地
+rectories|教区长的住宅( rectory的名词复数 )
+recitalists|(recitalist 的复数) n. 独唱者；独奏者；单独演出者
+ratters|网络摄像头黑客
+ridden|ride的过去分词
+roughened|（使）变得粗糙, （使）变得不平( roughen的过去式和过去分词 )
+riskier|冒险的（risky的比较级）
+riyals|(riyal 的复数) n. 里亚尔(沙特阿拉伯货币单位)
+realisms|(realism 的复数) n. 写实主义, 现实, 实在论
+reanimate|使复活, 鼓舞, 鼓励
+retainable|可保持的, 可保留的, 可记住的, 可聘请的, 可雇用的
+readout|宣读, 读出
+rosets|玫瑰红试剂条<诊断用药>
+repugnant|讨厌的, 不愉快的, 厌恶的, 不一致的, 矛盾的, 反对的
+resipiscent|改变心意的, 悔改的
+reinjury|[医]再损伤
+retractility|伸缩性
+revealing|暴露的, 显露的, 揭露的
+reacting|反应的
+rigaudon|<法>n.=rigadoon
+rhema|[语]表位,述位(指为主体提供新信息的句子成分)
+rowdyish|有点吵闹的, 有点粗暴的
+remapped|(remap 的过去分词) [计] 再交换, 再变换
+royale|蛋糕饰块（用作汤中饰菜）
+roundwood|(用作电线杆等的)圆材
+reproducers|(reproducer 的复数) n. 扬声器
+rhesis|（诗歌、文章、戏剧等中的）名句,名句段
+ravel|使纠缠, 使混乱, 拆开, 弄清
+rotorcraft|旋翼飞机
+roto|(pl. rotos)[美]=rotogravure
+relinquisher|relinquish的变形
+remounted|再上, 重登, 重新安装( remount的过去式和过去分词 )
+rifts|裂缝( rift的复数形式 ); 裂隙; 分裂; 不和
+reprised|重新开始( reprise的过去式和过去分词 )
+replayed|重播, 重放( replay的过去式和过去分词 )
+ribbons|带( ribbon的复数形式 ); （打印机的）色带; 绶带; 带状物
+reunionistic|reunionist的变形
+regimens|（为病人规定的）生活规则, 养生法( regimen的复数形式 ); 养生之道
+repurchases|重新买（repurchase的第三人称单数形式）
+raillery|戏谑, 逗趣
+romneya|马梯里亚罂粟属
+reenters|(reenter 的第三人称 -s形式) n. 重进入
+reynards|(Reynard 的复数) (民间故事中的)列那狐, [reynard ] 狐狸
+ruse|计策, 谋略, 诡计
+reinfecting|使再感染，使再传染( reinfect的现在分词 )
+retreatant|（深居修道院等处的）静修者
+refurnishes|再供给, 重新装备（refurnish的第三人称单数形式）
+reinstates|使恢复原职, 使恢复原有权利( reinstate的第三人称单数 ); 把…放回原处
+rhodophyta|红藻门
+repower|再向…提供动力,为(船只、机器)装上新发动机
+reattribute|[网络] 再归因；重新归因
+routinism|墨守成规
+reclinate|前后对折的, 拱垂的
+ravinement|沟蚀; 沟壑形成
+regretfully|懊悔地, 抱歉地
+resolvers|(resolver 的复数) [计] 裁决器; 分解器
+rosilla|短毛堆心菊
+reb|犹太人的尊称（相当于“先生”, 与姓名连用）
+rales|[医]罗音；水泡音；肺的诊音（rale的复数）
+rabi|拉比(①姓氏 ②Isidor Isaac, 1898-, 生于奥地利的美国物理学家, 曾获1944年诺贝尔物理学奖)
+repugns|反对, 反抗（repugn的第三人称单数形式）
+roundhouses|后甲板舱室( roundhouse的名词复数 )
+russets|(russet 的复数) a. 枯叶色的, 红褐色的, 简朴的
+roughens|（使）变得粗糙, （使）变得不平( roughen的第三人称单数 )
+ramped|土堤斜坡( ramp的过去式和过去分词 ); 斜道; 斜路; （装车或上下飞机的）活动梯
+rattier|像老鼠的, <俚>破烂的, 易怒的( ratty的比较级 )
+resorbing|再吸收( resorb的现在分词 )
+redrafted|(redraft 的过去分词) n. 改写稿, 再起草, 新汇票
+radiance|光辉, 发光, 容光焕发
+ruralizes|使农村化, 在农村居住( ruralize的第三人称单数 )
+renunciator|[网络] 退货人
+reinfusion|[医] 再输注, 再输入
+rengue|菲律宾粗布
+raphides|针晶体( raphide的名词复数 )
+regraded|(regrade 的过去分词) v.重分等级, 重新分类
+rifeness|流行, 普遍, 充满
+rhine|莱茵河
+reclines|斜倚, 倚靠, 躺卧( recline的第三人称单数 )
+rheums|(rheum 的复数) n. 发炎性分泌物, 鼻粘膜炎, 感冒, 稀粘液, 大黄
+refuels|（给）加油, （给）加燃料( refuel的第三人称单数 )
+repent|后悔, 懊悔, 忏悔
+repave|再铺, 重新铺砌
+remiped|[动] 桨足类动物
+rout|溃败, 大败, 乌合之众, 盛大晚会
+ruthenious|[化]亚钌的,二价钌的
+raptured|欢天喜地的, 狂喜的
+rebounding|蹦跳运动
+reclining|斜倚, 倚靠, 躺卧( recline的现在分词 )
+rigours|严格( rigour的复数形式 ); 严谨; 严酷; 艰苦
+ribbonfish|皇带鱼
+rhinophore|[医] 鼻通气管
+rosier|玫瑰色的( rosy的比较级 ); 愉快的; 乐观的; 一切都称心如意
+reemphasize|再度（重新）强调
+reductive|减少的, 还原论的
+repugnancy|反对, 矛盾
+rummer|大酒杯
+raggedly|破烂地, 粗糙地
+ringingly|响亮地, 有力地
+rejoinder|回答, 答辩, 答复
+redoubling|进一步加强, 大大增加( redouble的现在分词 ); 再加倍, 翻两番
+rateability|纳税义务
+rockling|[动] 鳕科鱼类(产于北大西洋沿岸)
+repetiteurs|(repetiteur 的复数) n. 歌剧合唱团的声乐教师
+rangatira|<新西兰>兰格蒂勒(指毛利人的首领或酋长)
+rioting|暴乱, 骚乱
+replum|胚座框
+reseed|再播种于
+redthroat|红喉刺莺
+rebook|重新订票
+retrace|追溯, 折回, 绕回
+recoilless|无后坐力的
+reachability|[计] 可达性
+rimple|皱纹, 涟漪
+rounder|巡行者, 看夜人, 巡官, (美)(非正式)浪荡子, 惯犯, 酒鬼
+resembling|肖
+rollmops|香料醋渍鲱鱼卷
+requesters|(requester 的复数) [计] 请求者, 请求程序
+roquet|碰球
+rachitome|[医] 椎骨刀, 脊椎刀
+redskins|红皮肤人( redskin的复数形式 )
+realigns|重新排列, 再结盟( realign的第三人称单数 )
+redistill|再蒸馏, 复馏
+reclasping|(reclasp 的现在分词) vi.,vt. 重行掌握
+restrike|[电] 复击
+respray|重新喷涂, 重新油漆; 再喷
+revivable|可复生的, 可复活的, 可复兴的
+reinstate|使复原, 使恢复, 使复立
+rajpoot|煞帝利[印度武士]
+rorippa|[网络] 蔊菜属；葶苈属；江剪刀菜
+redargue|反驳, 驳斥
+rheostatic|变阻器的；电阻的
+ravishes|使欣喜若狂, 使着迷, 使心醉( ravish的第三人称单数 )
+rheda|(古罗马)四轮旅行马车
+ramshackle|象要倒的, 摇晃的, 放荡的
+rigour|严格, 严厉, 苛刻, 严酷, 严密, 精确
+rapidness|快, 动作敏捷, 动作快, 迅速, 陡, 险峻, 急流, 湍滩
+reinhabit|再居住于
+receipting|收到；收据；收入
+revitalizing|使恢复元气, 使具有新的活力( revitalize的现在分词 )
+risottos|意大利调味饭（肉汤加干酪等制成）( risotto的复数形式 )
+rustled|发出沙沙的声音( rustle的过去式和过去分词 )
+rodomontade|大言不惭, 吹牛
+rave|狂吼, 狂暴
+radiodontia|[医] 牙放射学
+rugous|有皱纹的, 多皱纹的
+renewability|可再生性
+realign|vi. 重新排列, 重新组合
+rosarium|玫瑰园, 蔷薇花坛
+reciprocally|相互地；相反地；互惠地
+rabato|(pl.rabatos)披肩领子, (翻下遮住前胸及肩背, 流行于16、17世纪的细麻布)大翻领
+rancheros|大农场经营者, 牧场工人( ranchero的名词复数 )
+renaming|重命名（rename的ing形式）
+recoveree|[法] 被追索财产者
+relisten|再倾听, 再静听
+rutted|有车辙的
+rescheduling|重订时间表( reschedule的现在分词 )
+runite|文象花岗岩
+recce|侦察, 搜索
+renicardiac|[医] 肾心的
+ratty|像老鼠的, 鼠臭的, 破烂的, 易怒的
+rages|狂怒, 盛怒( rage的名词复数 )
+ripieno|协奏部, 协奏乐段, 协奏乐器（演奏者）； 全体齐奏（或齐唱）（段落）
+renninogen|[医] 凝乳酶原, 前凝乳酶
+revokable|可废除的, 可取消的
+rubrics|（用红字印刷的）题目（或句子等）( rubric的复数形式 ); 注释; 写在礼拜规程里的礼仪指示; 习俗
+riflebird|[动] 风鸟
+ripeness|成熟, 圆通, 完成
+reciprocant|微分不变式
+rudge|(Rudge)人名；(英、葡)拉奇
+roughwrought|经粗加工的, 粗制的
+refs|references （与to连用）提及, 涉及, 参考
+residuum|残留物, 剩余物, 残数, 余数, 留数, 社会渣滓
+racist|种族主义者
+rewinder|重绕机, 复绕机
+roadless|无路的
+rousingly|rousing的变形
+relevy|[网络] 相关
+randem|三马纵列之马车,一组纵列的三匹马
+reinvesting|(reinvest 的现在分词) vt. 再投资于, 再授给
+refr|refrigerating 冷冻（的）; refrigeration 冷冻; refrigerate 冷藏; refrigerator 冷藏器
+respondentia|[商]（部分货物安全运达后才偿还的）盘货抵押货款
+rentiers|(rentier 的复数) n.靠股息生活的人,靠收租生活的人,<贬>食利者
+reconnects|(reconnect 的第三人称 -s形式) vt. 使再接合
+repechage|<法> n.(赛艇和击剑等运动的)补充赛
+reveille|起床号, 晨号, 晨号列队
+revisit|再访, 重游, 重临
+raincheck|延期
+rostral|喙的, 吻突的
+rinneite|[矿]钾铁盐
+rotators|(rotator 的复数) n. 旋转的人, 旋转装置, 回旋肌
+recons|(recon 的复数) n. 侦察, 交换子
+rebudgeting|重审预算, 重编预算
+reface|重修表面
+rabidly|狂暴地
+ragingly|发狂地
+ryke|抵达, 到
+reedit|重新编辑, 修订
+reclama|(尤指在军队中)申请复议
+redecorating|（给建筑物的内部）再装修( redecorate的现在分词 )
+rusa|[动]黑鹿（产于印度东部）
+refluent|逆流的, 倒流的, 退潮的
+rheophilic|(生物)亲流性的(指在流水中生活或成长的)
+rebaking|通过烘焙使玻璃 或珐琅上的颜色固定
+rucker|[人名] [英格兰人姓氏] 拉克 Rock的变体
+razorback|狭尖的背脊, 鳍鲸
+reboil|使再沸, 再煮沸
+rhapsodizing|狂热地说, 写作狂想诗文( rhapsodize的现在分词 )
+redux|回来的, 回家的
+reputed|名誉好的, 被称为...的, 有...名气的
+robotize|使自动化
+redrafting|(redraft 的现在分词) n. 改写稿, 再起草, 新汇票
+resourceful|资源丰富的, 策略的, 机智的
+royally|帝王似地, 庄严地
+reactivity|反应, 反动, 反应性, 活动性, 反应率
+rimal|[医] 裂的
+rinser|[化] 冲洗器
+retracing|折回( retrace的现在分词 ); 回忆; 回顾; 追溯
+rollings|(rolling 的复数) a. 旋转的, 波动的, 起伏的
+replenisher|补充者, 补充物, 显象剂, 显影剂
+rendu|[商](进口货包括运费、关税等在内的)交货(价格)的,到达目的地(价格)的
+ropey|破旧的, 蹩脚的, 旧式的
+refocillate|使振作精神
+relinquishes|交出, 让给( relinquish的第三人称单数 ); 放弃
+rowdydowdy|喧嚷的, 吵闹的
+revelers|摆设酒宴者, 饮酒狂欢者( reveler的复数形式 )
+redeemers|救世主；赎身者；偿还者；买回者
+resplendence|辉煌, 灿烂
+remarry|(使)再婚
+revolts|造反, 起义( revolt的名词复数 )
+rues|对…感到后悔( rue的第三人称单数 )
+refrigerant|冷冻的, 冷却的, 清凉的
+resurging|复活( resurge的现在分词 )
+relocates|重新安置；迁移
+refocussed|(refocuss 的过去分词) vt. 重调焦距；使重新聚焦；使重新集中：
+ramal|[植]枝的,枝状的
+rowdydow|喧嚷, 吵闹
+redecorates|（给建筑物的内部）再装修( redecorate的名词复数 )
+rhoeadales|[医] 罂粟目
+reseeds|(reseed 的第三人称 -s形式) v.再播种于
+razee|拆除上层甲板的船
+roridulaceae|[网络] 捕蝇幌科；捕虫幌科；捕虫树科
+revalidation|重新生效, 从具法律效力
+reeducation|再教育
+radiochemist|放射化学家
+relumed|重新点燃起, 重新照亮( relume的过去式和过去分词 )
+rangey|徘徊的, 喜欢漫游的, 有回旋余地的, 宽广的, 四肢和身体细长的
+runlets|(runlet 的复数) n. 小桶, 小河
+retreating|[化] 再精制; 再处理
+retrovision|[网络] 复古
+renavigation|再导航, 再领港
+recants|撤回（声明）, 放弃（信仰或主张）( recant的第三人称单数 )
+relegated|使降级( relegate的过去式和过去分词 ); 使降职; 转移; 把…归类
+rejuvenated|更生的；恢复活力的
+redlining|(redline 的现在分词) vi.对某社团进行经济歧视, 按安全飞行速度驾驶飞机
+reneger|renege的变形
+remissly|玩忽职守地; 怠慢地, 不小心地
+racquets|(racquet 的复数) n. 球拍, 网拍式墙球
+rockman|劈石板工人, 气压钻孔机操作者
+rearm|重整军备, 重新武装
+refrozen|refreeze的过去分词
+rumina|rumen 的复数
+redward|（在光谱上）朝红色, 向着红色
+rountree|[人名] [英格兰人姓氏] 朗特里 Rowntree的变体
+retirees|退休者, 退职者, 退役者( retiree的复数形式 )
+romps|无忧无虑, 快活( romp的名词复数 )
+russianist|俄国语言文学研究者
+resounds|（指声音等）回荡于某处( resound的第三人称单数 ); 产生回响; （指某处）回荡着声音
+rusticator|rusticate的变形
+robberies|抢劫案( robbery的名词复数 ); 明抢; 敲竹杠; 明目张胆地索取高价
+repulsed|击退( repulse的过去式和过去分词 ); 驳斥; 拒绝
+ritardando|徐缓之乐曲
+reassign|再分配, 再指定
