@@ -3,6 +3,7 @@ A Dictionary Of Xiaomi Vela Band/Watch
 
 BandLingo是一款专为小米vela穿戴设备（手环/手表快应用）打造构建和使用，利用碎片化时间，在腕上轻松记忆单词。
 
+# 构建和使用
 如果您是普通用户，想使用BandLingo，请去表盘自定义/AstroBox/米坛社区自行搜索下载RPK包安装。
 但如果您是开发者，您可以克隆该仓库到您的设备上，打开 AIoT-IDE 运行 npm -i 即可开始构建的微型语言学习与词汇辅助工具。
 
