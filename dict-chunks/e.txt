@@ -1,0 +1,2828 @@
+earth|地球
+eat|吃
+evening|晚上
+eight|八
+english|英语
+excuse|原谅
+email|电子邮件
+expensive|昂贵的
+empty|空的
+easy|容易的
+exciting|令人兴奋的
+end|结束
+exam|考试
+experience|经验
+enzyme|酶
+evolution|进化
+ecosystem|生态系统
+extinction|灭绝
+element|元素
+energy|能量
+electricity|电
+experiment|实验
+equation|方程式
+earthquake|地震
+environment|环境
+erosion|侵蚀
+encryption|加密
+exercise|锻炼
+exchange|换货
+employee|员工
+education|教育
+earn|赚取
+educate|教育
+employ|雇用
+encourage|鼓励
+enjoy|享受
+enter|进入
+escape|逃跑
+establish|建立
+estimate|估计
+evaluate|评估
+examine|检查
+excite|使兴奋
+execute|执行
+exist|存在
+expand|扩展
+expect|期望
+explain|解释
+explore|探索
+express|表达
+eager|渴望的
+early|早的
+eastern|东方的
+economic|经济的
+educated|受过教育的
+effective|有效的
+efficient|高效的
+either|任一的
+elderly|年长的
+electric|电的
+electronic|电子的
+elementary|基础的
+elephant|大象的
+eleven|十一的
+encouraging|鼓励的
+entire|整个的
+environmental|环境的
+equal|平等的
+equivalent|等价的
+essential|必要的
+established|已建立的
+ethical|伦理的
+ethnic|种族的
+European|欧洲的
+every|每个的
+excellent|优秀的
+exceptional|例外的
+excited|兴奋的
+exclusive|独家的
+experienced|有经验的
+experimental|实验的
+expert|专家的
+extra|额外的
+extreme|极端的
+editor|编辑
+electrician|电工
+engineer|工程师
+egg|鸡蛋
+eagle|鹰
+ear|耳朵
+elbow|肘部
+eye|眼睛
+emotion|情感
+error|错误
+ease|减轻
+echo|回声
+edit|编辑
+elect|选举
+eject|弹出
+elaborate|详细阐述
+elapse|流逝
+elastic|有弹性的
+electrify|使电气化
+eliminate|消除
+embrace|拥抱
+emerge|出现
+emit|发出
+emphasize|强调
+enable|使能够
+enact|制定
+enclose|包围
+encounter|遭遇
+endure|忍受
+enforce|执行
+engage|参与
+enhance|增强
+enlarge|扩大
+enlighten|启发
+enormous|巨大的
+enquire|询问
+enroll|注册
+ensure|确保
+entertain|娱乐
+entitle|授权
+entrust|委托
+entry|进入
+envelop|包围
+envy|嫉妒
+equip|装备
+erect|竖立
+evaporate|蒸发
+exceed|超过
+excel|优秀
+except|除...外
+exhaust|耗尽
+exhibit|展示
+exit|退出
+expel|驱逐
+expend|花费
+expire|过期
+explode|爆炸
+exploit|开发
+export|出口
+expose|暴露
+extend|延伸
+extinguish|熄灭
+extract|提取
+europium|元素周期表的第63个，銪，缩写Eu
+erbium|元素周期表的第68个，鉺，缩写Er
+einsteinium|元素周期表的第99个，鑀，缩写Es
+easily|容易地
+educational|教育的
+educationally|教育上
+enrich|使丰富
+eating|吃
+eatable|可吃的
+eatably|可吃地
+effectively|有效地
+effectiveness|有效性
+effortful|费力的
+effortfully|费力地
+employment|就业
+employed|被雇佣的
+employedly|被雇佣地
+endless|无尽的
+endlessly|无尽地
+endlessness|无尽
+energetic|精力充沛的
+energetically|精力充沛地
+energize|使精力充沛
+enjoyment|享受
+enjoyable|令人愉快的
+enjoyably|令人愉快地
+equality|平等
+equally|平等地
+equate|等同
+examination|检查
+examinable|可检查的
+examinably|可检查地
+excitement|兴奋
+excitedly|兴奋地
+excusable|可原谅的
+excusably|可原谅地
+execution|执行
+executive|执行的
+executively|执行地
+existence|存在
+existent|存在的
+existently|存在地
+expectation|期望
+expected|预期的
+expectedly|预期地
+explanation|解释
+explanatory|解释的
+explanatorily|解释地
+expression|表达
+expressive|表达的
+expressively|表达地
+effect|效果
+effort|努力
+experimentally|实验地
+evidential|证据的
+evidentially|证据地
+evident|明显的
+economy|经济
+economically|经济地
+economize|节约
+environmentally|环境地
+environmentalize|使环境化
+ecological|生态的
+ecologically|生态地
+emotionalize|使情绪化
+eco|生态
+evidence|证据
+ecology|生态学
+emotional|情绪的
+emotionally|情绪地
+evolve|进化
+evolutionary|进化的
+evolutionarily|进化地
+enzymes|酶
+enzymatic|酶的
+enzymatically|酶地
+ecosystems|生态系统
+excrete|排泄
+excretion|排泄
+excretory|排泄的
+excretorily|排泄地
+evergreen|常绿的
+evergreens|常绿植物
+evergreenly|常绿地
+endemic|特有的
+endemics|特有物种
+endemically|特有地
+extinct|灭绝的
+extinctions|灭绝
+extinctly|灭绝地
+endangered|濒危的
+endangerments|濒危
+endangeredly|濒危地
+eutrophication|富营养化
+eutrophicational|富营养化的
+eutrophicationally|富营养化地
+egypt|埃及
+egypts|埃及
+egyptian|埃及的
+egyptianly|埃及地
+ethiopia|埃塞俄比亚
+ethiopias|埃塞俄比亚
+ethiopian|埃塞俄比亚的
+ethiopianly|埃塞俄比亚地
+europe|欧洲
+europes|欧洲
+europeanly|欧洲地
+enterprise|企业
+efficiency|效率
+entrepreneur|企业家
+ethics|道德
+empathy|共情
+encouragement|鼓励
+exhibition|展览
+expressionism|表现主义
+encore|返场
+editing|剪辑
+effects|效果
+essay|随笔
+equipment|装备
+enthusiast|爱好者
+endurance|耐力
+evaluation|评估
+endorsement|代言
+example|例子
+excellence|卓越
+enhancement|增强
+extent|程度
+era|时代
+enthusiasm|热情
+ego|自我
+entertainer|演艺人员
+expense|费用
+election|选举
+embassy|大使馆
+explosion|爆炸
+eruption|爆发
+emergency|紧急情况
+eraser|橡皮
+entrance|入口
+eyebrow|眉毛
+eyelash|睫毛
+eyelid|眼睑
+electron|电子
+exterior|外部
+edge|边缘
+elevate|提升
+exotic|异国的
+equatorial|赤道的
+expressway|高速公路
+exhaustion|疲惫
+earnest|认真的
+eclipse|日食
+editorial|社论
+elegant|优雅的
+elite|精英
+emphasis|强调
+empire|帝国
+engine|引擎
+enquiry|询问
+entity|实体
+episode|插曲
+estate|房地产
+eventually|最终
+evil|邪恶的
+exaggerate|夸大
+exception|例外
+excess|过量
+exclude|排除
+expedition|探险
+expertise|专业知识
+explicit|明确的
+extensive|广泛的
+external|外部的
+each|每个
+everything|每件事
+else|其他
+event|事件
+eggs|蛋
+employees|雇员
+especially|尤其
+employers|雇主
+experiences|经历
+emotions|情绪
+exactly|恰好地
+ever|在任何时候
+engineering|工程
+experts|专家
+everyone|每人
+earlier|更早的
+examined|检查
+enough|足够的
+events|事件
+easier|更容易的
+entrepreneurs|企业家
+even|甚至
+extremely|极其
+extracurricular|课外的
+esteem|尊重
+elimination|消除
+exert|施加
+elaborately|复杂地
+erupt|爆发
+enviable|值得羡慕的
+erroneous|错误的
+endanger|使……危险
+entail|使需要
+eccentric|古怪的
+excessive|过度的
+expansion|扩张
+eyewitness|目击者
+eloquent|口才好的
+eradicate|根除
+epidemic|流行病
+entrepreneurship|企业管理
+embody|体现
+enthusiastic|热情的
+exertion|运用
+expenditure|费用
+eligible|适合的
+enrollment|入学人数
+endow|资助
+entertainment|招待
+emigrate|永久移居国外
+everlasting|永久的
+eternal|永久的
+evenly|一致地
+embroidery|绣花
+eloquence|雄辩
+enclosure|围场
+elliptical|椭圆的
+earthenware|陶器
+exposition|说明
+embarrass|使…陷入困境
+experimentation|实验
+extravagant|奢侈的
+emission|散发
+equilibrium|平衡
+enchant|迷住
+exile|流放 n. 被流放者
+excursion|（尤指集体）远足
+exploration|考察
+exemplify|举例证明（解释）
+empirical|经验主义的
+economics|经济学
+elemental|基本的
+engagement|婚约
+exclamation|呼喊
+excessively|过分
+earnings|工资
+elevation|高度
+extraordinarily|非常地
+electronics|电子学
+electrode|电极
+extraction|抽出
+equator|赤道
+errand|差使
+essence|本质
+epoch|（新）时代
+escort|护卫
+entreat|恳求
+endeavor|努力
+eastward|向东
+envisage|vt. 想象
+exaggeration|夸张
+ensue|vi. 接着发生
+enlightenment|启发
+exclaim|vi. 呼喊
+economical|节约的
+evoke|vt. 唤起
+exceedingly|极端地
+exemplary|可作楷模的
+electrical|电的
+extraordinary|非同寻常的
+exquisite|精美的
+expectancy|预料
+exempt|被免除的
+easter|复活节
+embed|vt. 把…嵌入
+esthetic|美学的
+embark|vi. 上船
+elicit|vt. 诱出
+edible|可以吃的
+escalate|使…加剧; 加剧
+evade|逃避
+exposure|暴露
+elevator|电梯
+evacuate|撤离
+everyday|每天的
+extension|延长
+employer|雇主
+edition|版本
+east|东方
+eminent|杰出的
+eve|夏娃
+ending|结局
+envelope|信封
+encyclopedia|百科全书（亦是encyclopaedia）
+elder|老人
+exact|准确的
+erase|抹去
+establishment|确立
+explosive|爆炸的
+emperor|皇帝
+excerpt|摘录
+ebb|衰退
+eighteen|十八
+enemy|敌人
+elsewhere|在别处
+eyesight|视力
+emphasise|vt. 强调
+encyclopaedia|百科全书
+ethic|道德准则
+embryo|胚
+endorse|vt. 赞同
+endeavour|vi. 努力
+england|英格兰
+eighteenth|第十八
+ecologist|生态学者
+erode|侵蚀
+encode|把编码
+evaporation|蒸发
+exhibitor|展出者
+emergence|浮现
+engraving|雕刻术
+excavate|挖掘
+engrave|雕刻
+erie|伊利(人)
+explorer|探险者
+egalitarian|平等主义的
+extensively|广泛地
+everywhere|到处
+exchanger|交换器
+eggshell|蛋壳
+eddy|旋转
+euphrates|幼发拉底河
+eurasia|欧亚大陆
+excavation|挖掘
+efficiently|有效地
+exogenous|外生的
+educator|教育家
+environmentalist|环境保护论者
+endogenous|内生的
+envision|想象
+eusocial|(昆虫)完全社会性的
+eohippus|<古生>始祖马
+endocrine|内分泌
+exclusively|专门地
+eka|准(第一)
+elk|麋鹿
+eurasian|欧亚的
+eel|鳗鱼
+exocrine|[医]外分泌的
+exceptionally|格外地
+enormously|极度
+externally|外部地
+extermination|消灭
+elliot|埃利奥特(男子名)
+engulf|吞没
+erratic|古怪的
+ethology|动物行动学
+electrically|用电力;有关电地
+expanse|广阔
+electromagnetic|电磁的
+extol|赞美
+electronically|电子地
+entrepreneurial|企业家的
+exploitation|开发
+elective|选举的
+eagerly|热心地
+epitome|摘要
+estuary|河口
+ember|灰烬
+ethological|行为性的
+eccentricity|反常
+economist|经济学者
+ectotherm|[动] 冷血动物
+eocene|始新世(的)
+epistle|书信
+endotherms|温血动物
+edifice|大厦
+eukaryotic|真核状态的
+emulsion|乳状液
+exploratory|勘探的
+encase|装入
+epic|史诗
+encroach|侵占
+estuarine|入海的
+evidently|显然
+ether|天空醚
+etch|蚀刻
+elongate|拉长
+exuberant|繁茂的
+eukaryote|〈生〉真核细胞
+encompass|包围
+excitation|刺激
+emanate|散发
+erectus|[拉丁语]直立的
+ephemeral|朝生暮死的
+encroachment|侵蚀
+eighty|八十
+exponential|指数 adj. 指数的
+endowment|捐赠
+exhale|呼气
+embolism|加闰日
+exalt|晋升
+entomb|埋葬
+exorbitant|（要价等）过高的
+earner|赚钱的人
+elegance|高雅
+efficacious|有效的
+expertly|熟练地
+enactment|设定
+everest|珠穆朗玛峰(世界最高峰)
+exhilarate|使高兴
+electro|电镀物品
+enforcer|实施者
+expressiveness|表现
+endocrinology|内分泌学
+empress|皇后
+emblem|象征
+elaboration|苦心经营
+entwine|(使)缠住
+earthen|土制的
+eletricity|电
+expansionist|扩张主义(的)
+enterprising|有事业心的
+engender|造成
+expendable|消耗品
+enlargement|放大
+ere|pron&conj. 在…之前
+exportation|出口
+extremity|极度
+experimenter|实验者
+emigration|移民出境
+eon|永世
+exponent|阐述者
+enamel|珐琅
+emigrant|移居外国者
+eradication|连根拔除
+exclusion|排除
+enigmatic|谜的
+escutcheon|有花纹的盾
+enigma|谜
+einkorn|单粒小麦
+exoskeleton|[动] 外骨骼
+encapsulate|装入胶囊
+evanescent|迅速消失的
+eclectic|折衷的 n. 折衷主义者
+eyeball|眼球
+episodic|插曲式的
+earthward|向地球
+endpoint|端点
+embryonic|胚胎的
+emancipate|释放
+earning|所得
+encircle|环绕
+expressionless|无表情的
+eminence|出众
+embroider|刺绣
+endear|使亲密
+earnestness|坚定
+etching|蚀刻版画
+emergent|紧急的
+epithet|绰号
+effortlessly|毫不费力地
+eloquently|雄辩地
+extravagantly|挥霍无度地
+enure|使习惯于 v. 变得更有利
+eventual|最后的
+enrichment|发财致富
+enthusiastically|热心地
+epidermis|[生]表皮
+educable|可教育的
+emboss|饰以浮饰
+embellish|修饰
+eke|补充
+eviscerate|取出内脏
+ethically|伦理(学)上
+elusive|难懂的
+entanglement|纠缠
+earthworm|蚯蚓
+ethnographic|民族志学的
+expo|博览会
+explosively|爆发地
+equitable|公平的
+efficacy|功效
+equestrian|骑马的 n骑手
+escalator|电动扶梯
+electrocardiogram|[医]心电图
+electroencephalogram|[医]脑电图
+equilateral|等边的 n等边形
+entrench|以壕沟防护
+evenness|平均
+ectothermic|变温动物
+emotive|感情的
+esoteric|秘传的
+elixir|炼金药
+elasticity|弹力
+effluent|流出物
+encrust|在表面形成硬壳
+exhort|劝告
+exodus|大批离去
+externality|外部性
+ellipse|椭圆
+evacuation|撤离
+excise|切除
+empiricism|经验论
+elm|榆树
+epitomize|成为…的缩影
+expropriate|征用
+eschew|避开
+ethnology|民族学
+expedient|得当的
+ensconce|使安顿
+engaging|迷人的
+emerald|祖母绿
+exhilarating|令人高兴的
+enlist|征募
+embargo|禁止贸易令
+extrapolate|外推
+extrinsic|外来的
+extort|勒索
+electrolysis|电解作用
+enslave|奴役
+enunciate|清晰地发音
+exalted|崇高的
+espouse|支持
+empower|授权
+eclecticism|折中主义
+entourage|〈总称〉随从
+expeditious|迅速而有效的
+etiquette|礼节
+e|[计] 元件, 部件, 元素, 误差, 执行, 表达式, 指数
+ebay|电子港湾；易趣（知名网上购物网站）
+et|[化] 乙基
+en|字母N, (铅字)半方
+eur|欧洲, 欧洲人；欧元
+eg|[拉]例如（exempli gratia）；[网络用语]邪恶的笑（Evil Grin）
+el|预期损失（Expected Loss）
+existing|存在的, 目前的, 现存的, 现有的
+est|(美国)东部时间
+ed|[计] 电子设备, 密码设备, 数据结束, 工程设计, 错误检测, 外部设备
+etc|及其他, 等等
+eyes|眼睛（eye的复数）
+elements|原理, 基础
+ex|已离婚的配偶
+entries|进入；（词典所列的）词目（entry的复数形式）
+errors|误差；错误；差错（error的复数）
+efforts|努力；转向力（effort的复数）
+examples|例子；列证（example的复数形式）
+extended|延续的, 伸出的, 竭尽全力的, 广大的, 扩大范围的
+eu|[化] 富集铀; 浓缩铀
+ends|目的；末端；结束（end的复数）
+em|[计] 媒体用毕符
+estimated|估算的；估计的；预计的
+ended|结束的（end的过去分词）
+es|[化] 电子能谱; 电子能谱学; 专家系统
+equity|公平, 公正
+estimates|估计；概数；预算（estimate的复数）
+enterprises|企业（enterprise的复数）
+eric|科教资源信息中心（Educational Resources Information Center）；电子遥控与独立控制（Electronic Remote and Independent Control）
+euro|欧元（欧盟的统一货币单位）
+engines|火车头；发动机, 引擎（engine的复数形式）
+elizabeth|伊丽莎白（女子名）
+expressed|表达( express的过去式和过去分词 ); （用符号等）表示; 榨; [express oneself]（如在说话、写作或绘画中）表达（自己）的意见
+expenses|开支, 经费, 费用
+edward|爱德华（男子名）
+entered|进入的
+enforcement|执行, 强制
+ericsson|爱立信公司
+edited|编辑（edit的过去式和过去分词）
+enabled|激活的, 使可行的
+editors|编辑器；剪辑师；编辑（editor的复数形式）
+ea|[计] 有效地址, 单元动作, 外部访问
+exists|存在量词（exist的复数）
+elections|选举, 选举制；投票（election的复数形式）
+enhanced|增大的；加强的
+entitled|有资格的；给与名称的
+edt|[医] 乙二胺四乙酸, 依地酸
+explained|解释（explain的过去式及过去分词）
+ee|电机工程师
+engineers|工程师；机械师（engineer的复数）
+erotic|性爱的, 性欲的, 色情的
+er|[医] 铒(68号元素)
+exp|经验值；指数函数
+epson|爱普生（日本一公司名称）
+elected|选举, 推选
+editions|版次( edition的复数形式 ); （报纸、杂志的）一份; （广播、电视节目的）一期; （书、报、杂志等的）一版印刷总数
+ethernet|以太网
+epa|[经] 环保协会
+eligibility|适任, 合格
+entering|[计] 进入, 键入, 输入, 录入
+entirely|完全, 全然, 一概
+ebony|乌木
+everybody|每个人, 人人
+ec|[计] 电子计算机, 仿真器控制, 工程更改, 错误纠正
+expectations|希望( expectation的复数形式 ); 预料; （被）预期; [常作复数] 期望的事情
+essays|散文( essay的名词复数 ); （作为课程作业, 学生写的）文章; 企图; （用来刊登的）论说文
+edinburgh|爱丁堡
+enables|使能够, 提供做…的权利[措施]( enable的第三人称单数 ); 使可能
+expanded|扩充的；展开的
+extras|[计] 附加设备, 额外设备
+exposed|暴露的, 无掩蔽的, 易受攻击的
+emissions|排放物( emission的复数形式 ); 散发物（尤指气体）
+experiments|实验( experiment的名词复数 ); 试验; 尝试; 实践
+emerging|[法] 出现的, 发生的, 形成的
+environments|环境；生态环境；[计]（计算机系统运行的）环境（environment的复数）
+emails|电子信函
+earrings|耳环；耳饰（earring的复数）
+enjoyed|享有（ enjoy的过去式和过去分词 ）; 玩得快乐; 喜欢
+equipped|装备；整装；预备（equip的过去分词）
+encouraged|受到鼓舞的
+extensions|扩展, 扩张；延长（extension的复数）
+earned|挣得的
+engaged|忙碌的, 使用中的
+embedded|植入的, 内含的, 深入的
+eminem|艾米纳姆（上个世纪末涌现出的白人rap音乐代表）
+evans|埃文斯（姓氏）
+ent|[医]耳鼻喉（科）（ear, nose, and throat）
+ext|扩展（extension）；外部（exterior）；额外的（extra）；提取（extract）
+entities|实体对像; 实体, 独立存在体, 实际存在物( entity的名词复数 )
+explains|解释；说明（explain的三单形式）
+eng|[医] 眼震电流描记法
+ef|每面（each face）；超精度（extremely fine）；仰角指示器（Elevation Finder）
+ep|EP盘唱片（extended-play record）
+edwards|爱德华兹(姓氏)
+establishing|建立( establish的现在分词 ); 确定; [植物学]使（植物）定植; 使成为
+encoding|[计] 编码
+ecommerce|电子商务
+ensuring|确保( ensure的现在分词 ); 担保获得[避免]; 使（某人）获得; 使安全
+espn|娱乐体育节目电视网（Entertainment Sports Programming Network）；欧洲儿科肾病学会（European Society for Paediatric Nephrology）
+exercises|练习题, 演习；运动
+evaluated|评估；估…的价（evaluate的过去分词形式）
+excluding|把...排除在外, 不包括..., 不计...
+essentials|要件, 概要；基本营养素；生活必需品（essential的复数）
+expenditures|花费( expenditure的复数形式 ); 使用; （尤指金钱的）支出额; （精力、时间、材料等的）耗费
+ebook|电子书
+equations|方程式；等式；均等；均势（equation的复数形式）
+eq|情商（Emotional Quotient）；均衡器；电器极（Electrical Quadrupole）
+essentially|本质上, 本来
+ejaculation|突然说出, 射出, 射精
+exchanges|交易所, 	票据交换总额；市场, 外币兑换（exchange 复数形式）
+exports|出口商品；输出额
+expanding|[机] 扩张工作
+enabling|有可能, 或有条件完成的
+estonia|爱沙尼亚
+executed|执行（法令）( execute的过去式和过去分词 ); （按计划或设计）作成; 履行; 演（戏）
+ecuador|厄瓜多尔
+exceptions|免责条款（exception的复数形式）
+eagles|老鹰乐队, 鹰；老鹰（eagle复数形式）
+essex|艾塞克斯郡(英格兰郡名)
+emily|埃米莉（女子名）
+expressions|表情；公式；表达式；表示式（expression是复数形式）
+elvis|埃尔维斯（男子名）
+executives|主管们；高管们；执行管理者, 执行主管（executive的复数）
+enquiries|询问（ enquiry的复数形式 ）; 调查; 查询; 问讯处
+exploring|探索的, 探测的；扫描
+enrolled|登记（入会；卷）
+eddie|埃迪（男子名）
+episodes|发作, 插曲（episode复数）
+extends|延伸；扩充；继承（extend的第三人称单数形式）
+edges|边界；边缘；优势（edge的复数）
+escorts|陪同；护送（escort的第三人称单数形式）
+evaluating|评估（evaluate的ing形式）
+eyed|有眼的
+ellis|埃利斯（男子名, 等于Elias）
+exhibitions|与展览, 展示会；展示会（exhibition复数）
+exhibits|陈列品；展览（exhibit的复数）
+educators|（尤指作为一种职业的）教育工作者, 教员, 教师( educator的复数形式 )
+ellen|埃伦（女子名）
+exams|考试；检查（exam的复数）
+ears|电声额定系统（Electro-Acoustic Rating System）
+emirates|阿联酋航空公司
+earl|伯爵
+excluded|排除, 不包括在内( exclude的过去式和过去分词 )
+eugene|尤金（男子名）
+exemption|解除, 免除, 免税
+ensures|确保( ensure的第三人称单数 ); 担保获得[避免]; 使（某人）获得; 使安全
+estates|不动产；房地产, 财产（estate的复数）
+extending|扩展；伸长
+eh|interj. 啊!嗯!是吗?好吗?
+expires|期满( expire的第三人称单数 ); 文件、协议等（因到期而）失效; 断气; 逝世
+enemies|仇敌( enemy的名词复数 ); 敌军; 危害物; 大敌
+emma|艾玛（女子名）
+enjoying|享有( enjoy的现在分词 ); 玩得快乐; 喜欢; enjoy yourself （祝愿时说）玩痛快些
+eva|伊娃（女子名）
+ev|[电] 电子伏特
+euros|欧元；欧洛斯风；带雨东南暴风（euro复数）
+erp|企业资源计划（Enterprise Resource Planning）；有效辐射功率（effective radiated power）
+eds|英语方言学会（English Dialect Society）；电子数据转换（Electronic Data Switching）；环境资料局（Environmental Data Service）
+edmonton|埃德蒙顿（加拿大西南部城市）
+explicitly|明确地；明白地
+ez|电零点（electrical zero）；东区（eastern zone）
+eau|[医] 水
+eval|重新运算求出参数的内容
+entertaining|使人愉快的, 有趣的
+enhancements|增强( enhancement的复数形式 ); 增加; 提高; 用以增强、提高或美化之物
+enhancing|提高( enhance的现在分词 ); 增进; 用计算机增强（照片等）; 提高…的价值（或价格）; 探溯语源, 指示语源( etymologize的过去式和过去分词 ); 增进; 用计算机增强（照片等）; 提高…的价值（或价格）
+exec|主任参谋, 副舰长
+eos|黎明女神
+encountered|遇到；曾遭遇（encounter的过去式）
+expedia|（美国）艾派迪（公司名, 主要经营商业服务和供应）
+ensemble|全体, 合唱曲, (女人的)全套服装
+edgar|埃德加（男子名）
+estimation|判断, 估计, 尊重
+eden|伊甸园, 乐园
+explaining|讲解, 解释( explain的现在分词 ); 说明…的原因, 辩解; 说明, 解释, 辩解
+emacs|[计] EMACS文本编辑器
+editorials|社论（美）( editorial的复数形式 )
+expired|失效的；过期的
+economies|节约( economy的名词复数 ); 经济; 经济情况; 经济结构
+evaluations|估价( evaluation的复数形式 ); <数>赋值; 估计价值; [医学]诊断
+endorsed|& vi. endorse的过去式或过去分词形式
+expiration|终止, 满期, 呼出, 呼气
+electoral|选举人的, 选举的, (有关)选举的
+elliott|艾略特（姓氏）
+examining|[法] 审查的, 审讯的, 考试的
+enclosed|被附上的
+experiencing|体验
+erik|埃里克（姓氏）
+erotica|色情作品
+enters|进入( enter的第三人称单数 ); 进去; 参加; 登记
+existed|存在( exist的过去式和过去分词 ); 生存; （尤指在特殊的条件下或在特定的场所）发现; 持续存在
+evanescence|逐渐消失, 消失性
+expects|期望( expect的第三人称单数 ); 预料; 要求; 认为（某事）会发生
+examinations|检查( examination的复数形式 ); 考试; 考查; 试题
+encourages|鼓励( encourage的第三人称单数 ); 支持; 促进; 鼓动
+earliest|早的；初期的
+examines|仔细检查( examine的第三人称单数 ); 考试; 审查
+extracting|提取；萃取；撷取
+epistasis|[生]上位,异位显性
+engrailment|engrail的变形
+eupneic|呼吸正常的, 平静呼吸的
+eidograph|缩放绘图仪
+earmarking|[经] 指定用途
+exostome|外珠孔
+exhedra|(古希腊,古罗马)开敞式有座谈话间, 半圆形室外坐椅
+epicurism|讲究饮食者的习惯, 美食主义
+endorser|背书人, 转让人
+entrustment|[法]委托
+elutriating|淘析, 分级
+emeu|鸸鹋（产于澳洲的一种体型大而不会飞的鸟）
+enfiladed|纵向射击, 易受纵射的位置( enfilade的过去式和过去分词 )
+ectoethmoid|外筛骨
+evasible|可逃避的；可躲避的；可避免的
+elocute|作慷慨激昂的演说,朗诵
+eleidin|[化] 角母蛋白
+ethnogeny|人种起源学, 人种学
+ebonizes|使成乌木色, 使像乌木( ebonize的第三人称单数 )
+erysimum|[网络] 糖芥属；桂竹香
+ethanols|(ethanol 的复数) n. 乙醇, 酒精
+ejuration|[法] 放弃, 撤回
+echinite|海胆化石
+explainer|讲解员；说锰序
+exteriorize|把...从腹内取出
+equant|等径的, 等分的
+endoergic|[机] 吸热的
+etcetera|等等, 额外的人(或物)
+ells|(ell 的复数) n. 厄尔(英国旧时量布的长度单位), 字母L, L形物
+erectors|(erector 的复数) n. 树立者, 竖立肌, 安装器, 安装者, 装配者, 建立者
+erythropia|红视症
+extemporal|无准备的, 脱口说的
+enteral|[医] 肠内的, 肠的
+endeavored|尝试, 试图( endeavor的过去式和过去分词 )
+egotists|自我中心主义者( egotist的复数形式 )
+eskar|蛇（形）丘
+ectosome|外皮层
+effectuating|实行, 完成( effectuate的现在分词 )
+edaphology|土壤学
+enterocoele|[医] 肠体腔
+earstone|[解][动]耳石
+epactal|多余的, 额外的
+exanthemata|[医]疹病, 疹
+enunciated|（清晰地）发音( enunciate的过去式和过去分词 ); 确切地说明
+endows|捐钱( endow的第三人称单数 ); 捐赠; 资助; 使（某人）天生具有（好资质、能力等）
+elementals|元素生物, 元素（elemental复数）
+eure|[人名] 厄尔; [地名] [法国] 厄尔河
+exultingly|兴高采烈地, 得意地
+enplanes|搭乘飞机
+elevon|升降副翼
+exulceration|形成溃疡
+excedent|超额, 超重, 过量, 多余, 过剩
+equaled|比得上( equal的过去式和过去分词 ); （质量等方面）赶得上; 与…相等或相同; 使（某物）等于
+ependymoma|室鼓膜瘤
+entwisting|缠结( entwist的现在分词 )
+euphuist|用浮华词语的人, 用绮丽文体写作的人
+exhalant|呼出的, 发散(性)的, 蒸发(性)的
+empyema|积脓症
+emerged|出现（emerge的过去分词）；浮现, 暴露
+execrated|憎恶( execrate的过去式和过去分词 ); 厌恶; 诅咒; 咒骂
+eucrites|(eucrite 的复数) 钙长辉长岩
+enfant|<法>儿童,小孩
+eschalot|葱
+exemptions|（义务等的）免除( exemption的复数形式 ); 免（税）; （收入中的）免税额
+exoner|[英国英语]英王仪仗卫士(4名)队长  [亦作 exempt]
+endermically|[医] 经皮肤地(用药)
+emphatic|语调强的, 着重的, 强调了的
+egilops|[医]内脓肿穿破
+electiveness|选修制
+exorability|容易说服, 心肠软
+epimer|[化]差向(立体)异构体,差位(立体) 异构体
+easeless|不轻松的；不愉快的；不安逸的；不舒适的
+epicormic|嫩条
+enterable|可进入的, 可参加的
+errorist|怂恿错误的人；鼓励错误的人
+euphonize|使声音和谐, 使声音悦耳
+endamaging|使损坏( endamage的现在分词 )
+eugenic|优生学的, 优种的
+enarthrodial|[医] 杵臼关节的
+endoskeleton|内骨骼
+extremest|(extreme 的最高级) n. 极端, 末端
+echeveria|[植]景天科拟石莲花属植物(产于热带美洲)
+eudaemonia|幸福, 因理性而积极生活所带来的幸福
+epiglottitis|[医] 会厌炎
+eremurus|(pl. -ri [-rai])[植]独尾属植物
+exuviation|蜕皮, 脱落物, 脱壳
+exited|离开, 退场( exit的过去式和过去分词 )
+eponymous|齐名的
+enterpriser|干事业的人, 创业者, 企业家
+entoptoscopy|[医] 眼内媒质镜检查, 眼内填质镜检查
+epagogic|归纳论证的
+epizoon|[动]体表寄生动物, 皮表寄生虫
+endlichite|砷钒铅矿
+englobement|[医] 摄入, 吞噬
+emeraude|祖母绿
+emancipating|解放某人（尤指摆脱政治、法律或社会的束缚）( emancipate的现在分词 )
+enterology|[医]肠病学
+efface|抹去, 消除, 忘却
+elocution|雄辩术, 演说法
+eyeservant|阳奉阴违的仆人
+endocentric|内心的
+emollient|使柔软的
+ensky|(使)耸入天空
+ecocide|生态灭绝
+epispore|[植]孢子外壁, (孢壁)花纹, 附生孢子
+ebenaceae|[植] 柿树科；柿科
+endocardiac|[医](=endocardial)心内的,心内膜的
+epiglottis|会厌
+echoless|[医]无回声
+espying|看到( espy的现在分词 )
+engrailed|边上有一圈突起小点的； （纹章等）边缘锯齿形的
+etude|练习曲
+encarpa|绘画[雕塑]上的花果图案装饰
+ensilaging|保藏于地窖( ensilage的现在分词 )
+ecclesial|教会(机构)的
+eave|屋檐
+expectorants|除痰剂( expectorant的复数形式 )
+eprouvette|试管；试件, 试样
+epistemic|认识的
+esophoric|[医] 内隐斜视的
+enframe|配上框子, 装在框内
+endostoma|[医] 骨髓腔肿瘤, 内生骨瘤, 中心性骨瘤
+equators|(equator 的复数) n. 赤道
+entomostraca|切甲类
+eucharists|【宗教】；圣餐,圣体( = Holy Communion)
+epiphyllum|昙花
+emphasising|(emphasise 的现在分词) vt. 强调, 重读, 加强...的语气, 着重
+euthanatize|使安乐死,对…施无痛致死术
+erects|使直立, 竖起( erect的第三人称单数 ); <正>建立
+exchangite|(美国)全国交易俱乐部会员
+erewhiles|<古>片刻前, 前不久
+esophagitis|[医] 食管炎
+episomal|游离基因的（生物学术语）
+epitaxis|外延生长
+evelyn|伊夫林（女子名）
+exomorphism|外(接触)变质
+exanimate|已死的, 无生气的
+eternalness|永恒, 永远
+ectosarc|[生]原虫外膜
+escarole|做沙拉的一种蔬菜
+execrable|该咒的, 可憎恨的, 讨厌的
+encumbered|<正>妨碍, 阻碍, 拖累( encumber的过去式和过去分词 )
+elvishly|elvish的变形
+emetine|[药]依米丁,吐根碱,吐根素(用作催吐剂,祛痰剂和杀阿米巴剂)
+extemporise|& vt.<主英>=extemporize
+equilibrial|平衡
+ethanethiol|[化]乙硫醇
+eliphalet|[人名] 伊利法莱特
+enthrone|立...为王, 使登基, 任为主教, 崇拜
+ean|有效原子序数（Effective Atomic Number）；实验过敏性神经炎（Experimental Allergic Neuritis）
+engraft|使牢记, 灌输, 嫁接
+emceed|担任…的主持人, 主持( emcee的过去式和过去分词 )
+eelpot|捕鳗用的细颈篮或其他工具
+eukairite|硒铜银矿
+epididymitis|[医]附睾炎
+expulsive|逐出的, 有驱逐权的
+emboldening|[计] 增亮, 加深, 加强
+etruscan|(意大利中西部古国)伊特鲁里亚的,伊特鲁里亚人的
+epitaxy|[计] 外延
+enepidermic|对皮肤用药的
+enwrapped|包裹, 围绕, 包围( enwrap的过去式和过去分词 )
+exciple|[植]囊盘被
+edifies|开导, 启发( edify的第三人称单数 )
+emblazon|用纹章装饰, 盛饰, 颂扬
+encumbrances|负担( encumbrance的复数形式 ); 累赘; 妨碍; 阻碍
+eosinophilia|[医] 嗜曙红细胞增多, 嗜曙红性
+edacious|贪吃的, 狼吞虎咽的
+euphonise|<主英>=euphonize
+electromotor|发电机, 电动机, 电气马达
+ensorcell|迷惑, 盅惑, 使着迷
+electrolyzer|[化]电解剂
+erotics|(erotic 的复数) a. 性爱的, 性欲的, 色情的
+enlisting|（使）入伍, （使）参军( enlist的现在分词 ); 获得（帮助或支持）
+exochorion|(高级脊椎动物的)绒毛膜表层,(昆虫的)外卵壳
+emotiomotor|情绪性活动的
+elegances|(elegance 的复数) n. 高雅, 典雅, 优雅
+eulogize|称赞, 颂扬
+elt|英语教育（English Language Teaching）；欧洲书信电报（European Letter Telegram）
+enlightening|有启发作用的, 使人领悟的
+ese|电气支援设备（lectrical Support Equipment）；东南东（East South East）
+endogenetic|[生]内生的,内成的
+effluvium|臭气, 恶臭, 废料
+endocellular|室内的, 笼内的, 细胞内的, 内向的
+endoconidium|(pl.-nidia) 内分生孢子
+ephestia|[网络] 粉蛾；粉斑螟属；地中海粉螟
+egger|幼虫食叶子的蛾类,搜集鸡蛋的人
+emball|emballasje (Norwegian=packing) （挪威语）包装
+exorcizing|（用祈祷等）驱除（恶魔）, 给（某人、某地）驱除妖魔( exorcize的现在分词 )
+extraneous|外来的, 非必要的, 无关的
+eris|[希神]厄里斯（不和的女神, 夜女神的女儿）
+eyebrows|眉毛（eyebrow的复数）
+entailment|[法] 限定继承, 世袭财产
+equiform|形状一样的, 作用一样的
+embosomed|把…藏于胸中( embosom的过去式和过去分词 )；围绕；环绕；珍爱
+elohist|<希伯来>埃洛希姆派(在希伯来文《旧约》中某些章节称上帝为埃洛希姆而不称为耶和华的无名氏作者)
+effractor|[法] 窃贼
+ecclesiastes|[宗]传道书
+exigible|可要求的, 可强求的
+escalating|（使）逐步升级( escalate的现在分词 ); （使）逐步扩大; （使）更高; （使）更大
+euphonies|声音（尤指语音的）和谐, 谐音( euphony的名词复数 )
+evanishment|<书>消失, 消散
+encumber|妨害, 阻塞, 拖累
+emptio|[法] 购买
+ephraimite|☉以法莲后裔；以法莲簇人
+euryhaline|能在不同盐分之环境中存活的, 广盐性的
+epilated|给…拔毛, 使脱毛( epilate的过去式和过去分词 )
+ethynyl|[化]乙炔基
+esoterically|机密地, 神秘地
+exch|[经] 交易所
+exceptor|except的变形
+effluvia|[医] 泄出, 排出, 排出物, 臭气
+epityphlitis|阑尾炎
+etched|被侵蚀的, 被蚀刻的, 风化的
+ecclesiarch|教堂司事
+exteriorized|将器官由腹取出( exteriorize的过去式和过去分词 )
+evaginate|(使)外翻
+emblemize|(=emblematize)标记, 象征
+exclusionism|排外主义
+emphasizes|强调( emphasize的第三人称单数 ); 加强语气; 重读; 使突出
+evap|evaporate 蒸发; evaporation 蒸发; evaporize 蒸发; evaporator 蒸发器
+ethylenic|ethylene的变形
+ethiodide|乙碘化合物
+epilog|尾声, 收场白, 闭幕词, 结尾部分, 跋, 后记
+entogenous|内生的, 内源的
+embroil|使卷入, 牵连
+eclairs|（法）一种指形小饼
+enameling|上釉术；上釉药
+epilobium|柳叶菜属
+evolves|演变, 进化( evolve的第三人称单数 ); （动植物等 ）进化, 进化形成
+enigmatized|使成谜；使费解
+ecchymosis|瘀斑
+edgeways|以刃向外, 从旁边
+egomania|极端利己, 自大狂
+equitably|公正地, 依据衡平法
+excruciation|酷刑, 苦楚, 苦恼, 剧痛, 拷问
+eventuating|结果, 归结( eventuate的现在分词 )
+ebenezer|埃比尼泽(姓氏)
+evocation|唤出, 招魂, 唤起
+exhorting|劝告, 劝说( exhort的现在分词 )
+embrittling|使变脆( embrittle的现在分词 )
+esperantido|[网络] 世界末日
+echinops|[医] 蓝刺头属, 漏卢属
+empowering|授权( empower的现在分词 ); 准许; 增加（某人的）自主权; 使控制局势
+escargot|<法语>食用蜗牛
+extendedly|广泛地
+electrotypic|electrotypy的变形
+ecstrophy|(=exstrophy)外翻
+editable|可编辑的
+expounding|论述, 详细讲解( expound的现在分词 )
+ettle|废矿石
+esterifying|（使）酯化( esterify的现在分词 )
+enzymically|enzymatic的变形；enzymic的变形
+exfoliative|[医] 表皮脱落的, 鳞片样脱皮的, 表皮剥脱的
+equational|方程式的, 均分的
+exoneration|免罪, 免除
+extraversive|外翻的, 外倾的,外向的
+echinodermal|echinoderm的变形
+eragrostis|[网络] 画眉草属；知风飘拂草；头穗莎草
+edaphically|edaphic的变形
+eulogized|称赞, 颂扬( eulogize的过去式和过去分词 ); 讴歌
+enterokinase|[生化]肠激酶
+ensigncy|少尉官职(职务)
+excambion|【苏格兰法律】(土地货物的)交换
+enhydrous|水的
+exceedable|exceed的变形
+exaration|冰川剥蚀(作用)
+excitor|[解]刺激神经
+emotivity|表现感情,激起感情,易动感情
+euaster|真星型
+epidendron|【植物】美洲石斛[南美洲和西印度群岛产的兰科兰属 (Epidendrum)植物，尤指美洲热带寄生兰]
+escribed|旁切的
+epulation|宴请, 款待
+ergograph|测力器
+estimably|值得敬重地, 应受尊敬地, 可尊敬地（estimable的副词形式）
+eriogonum|[植物]绒毛属 （Eriogonum） 植物
+encrustation|结壳, 用覆盖物, 镶嵌, 硬壳
+entrenching|用壕沟围绕或保护…( entrench的现在分词 ); 牢固地确立…
+eachwhere|[废语] =everywhere
+embrasure|枪眼, 炮眼
+emer|emerald 祖母绿, 绿宝石; emergency 紧急事件
+elia|伊利亚(Charles Lamb的笔名)
+erepsin|[生化]肠肽酶,肠蛋白酵素
+ebbets|[人名] 埃贝茨
+essentia|[医] [生物]要素, 露, 香精剂(挥发油醇溶液)
+erasure|擦除, 抹掉
+endue|授予, 赋予, 穿上
+encrypt|[计] 加密
+emigrational|emigration的变形
+enriched|浓缩的；强化的
+exogenic|[生]外生的, [地]外成的, [医]外因的
+extensimeter|[机]伸长计,变形测定器
+eightscore|一百六十
+ergometric|测功(计)的, 由测功计测得的
+epeiric|伸入内地的
+elans|(elan 的复数) n.<法>锐气, 热忱
+epentheses|插字, 插音( epenthesis的名词复数 )
+emollients|润滑剂, 润肤剂( emollient的复数形式 )
+exoterically|exoterical的变形
+excused|原谅( excuse的过去式和过去分词 ); 使免除; 准许…离开; 为…辩解
+embarkment|装船, 上船
+espaliered|墙树；墙式树木
+empathizing|移情, 神会( empathize的现在分词 )
+espagnole|[网络] 西班牙沙司；西班牙人
+exogyra|大贝蛤；歪嘴蛎属
+ebonizing|使成乌木色, 使像乌木( ebonize的现在分词 )
+elastics|(elastic 的复数) n. 松紧带, 橡皮筋
+endometrial|[医] 子宫内膜的
+episcleral|[医] 巩膜上的, 巩膜外层的
+eradicators|(eradicator 的复数) n. 根除者, 去污剂, 退色灵
+exteriors|外面( exterior的复数形式 ); 外貌; 户外景色图
+enuretic|遗尿的
+expender|expend的变形
+electronvolt|电子伏特
+engl|englisch (German=English) （德语）英语
+encourager|encourage的变形
+embowed|弓形的, 弧形的
+enmeshing|使陷入（网中）( enmesh的现在分词 )
+enorm|[古语] 庞大的；极大的, 巨大的, 其大无比的
+ellipsometer|偏振光椭圆率测量仪, 椭率计
+excretive|排泄的, 分泌的, 促进排泄的
+eodiscid|始盘类
+endorsers|背书人, 转让人( endorser的名词复数 )
+endamage|使损坏
+entocone|上内尖
+euxenite|黑稀金矿
+educatedness|educated的变形
+effronteries|厚颜无耻, 无礼（的行为）( effrontery的名词复数 )
+emparadise|使登天堂, 使成乐园
+elucidative|解释的, 说明的
+examinant|审查员, 主考人, 受试人, 受检查之人
+equates|认为某事物（与另一事物）相等或相仿( equate的第三人称单数 ); 相当于; 等于; 把（一事物） 和（另一事物）等同看待
+earns|赚得( earn的第三人称单数 ); 挣钱; 生（利）; 获（利）
+evaporates|（使某物）蒸发掉( evaporate的第三人称单数 ); 消失, 不复存在; 使脱水
+estrogenic|[医] 动情的, 雌激素的
+euthyneura|直神经亚纲
+eupnoea|平静呼吸
+epiglottic|[医] 会厌的
+essayer|散文；试图；随笔 (essay的变形)
+empaistic|浮雕的,压花的
+equinoctial|春分(或秋分)时的暴风雨
+expulsion|逐出, 开除, 驱逐, 排气
+extrapolates|（由已知资料对未知事实或价值）推算, 推断( extrapolate的名词复数 )
+enactive|制定法律的
+enteralgia|[医]肠痛
+enteroscopy|[医] 肠寄生物
+epeirogeny|造陆作用
+exotropism|外向性
+elisions|(elision 的复数) n. 元音省略
+embraceable|能被拥抱的；能被理解或接受的
+eternalize|使永恒, 使不朽
+embranchment|支流, 分支机构, 分支, 支脉
+epinine|麻黄宁(合成的麻黄素代用药), N-甲基-3, 4-二烃基苯乙胺
+erotesis|[修]反问法
+etherizer|麻醉剂
+experient|有经验的人
+epicondyle|[解]上髁
+euphoriant|[医]安乐药
+exploitatory|[网络] 剥削性
+ebonies|乌木制的, 黑檀木制的；似木的, 黑檀木色的
+etesian|[常用复]地中海季风, 一年一次的
+empyemas|(empyema 的复数) n. 积脓症
+enticement|诱骗, 诱饵
+effulgent|光辉灿烂的
+earwitness|[律]以耳闻情况作证的人,亲听证人
+espouser|嫁娶; 支持; 拥护; 赞成
+earlyish|够早的, 相当早的, 早得很的
+elaterite|弹性沥青
+everyway|无论怎样看法, 任从那一方面来看
+echolocate|凭回声(或回波)测定…的方向(或位置)
+excuses|理由( excuse的名词复数 ); 歉意; 拙劣样品
+esophago|食管
+enshield|保护,包庇
+engirdle|(=engirel) 用带缠绕, 围绕
+ems|扩展内存规范
+elongates|延长, 加长( elongate的第三人称单数 )
+euchloric|euchlorine, euchlorin的变形
+endoangiitis|[医]血管内膜炎
+endospermic|[医]富胚乳的, 胚乳的
+emblazonment|纹章装饰
+echoed|重复, 随声附和( echo的过去式和过去分词 ); 类似; 发射（声音等）; 发出回声
+entomical|昆虫的
+earnestly|诚挚地；认真地
+ethnography|人种论, 人种学
+electrize|使起电, 使电气化
+exigencies|紧急状态；迫切情况（exigency的复数形式）
+emblematical|象征的
+erased|被清除的；[纹章]断掉并留有不平均边的
+exotoxins|(exotoxin 的复数) n. 外毒素
+encoffin|装殓
+enneahedral|[数]九角的, 九面的
+effector|效应器, 效应基因
+enamoured|倾心于...的, 被迷住的, 迷恋的
+ecurie|厩, 马房, 牲口棚；不整洁的住所；赛马中同一马主的马、同一马场的马；赛车中代表同一厂家的赛车或赛车人
+envisages|想像, 设想( envisage的第三人称单数 )
+earthtongue|[网络] 地球
+epidermoid|表皮样的
+enhydrite|[矿]含水矿物
+eightpenny|八便士的
+epicardial|[解]心外膜的
+eyr|East Yorkshire Regiment 东约克夏军团
+escorting|护送, 护卫( escort的现在分词 )
+epornitic|禽疫
+etiquettes|(etiquette 的复数) n. 礼仪, 礼节, 成规
+evaporometer|[化] 蒸发计
+ebbing|（指潮水）退( ebb的现在分词 ); 落; 减少; 衰落
+eastering|【基督教】；复活节(一年一度纪念“耶稣复活”的节日，一般在3月21日或在当日后的第一个星期日)
+eulogies|颂词, 颂文( eulogy的名词复数 )
+endways|末端朝上地
+embodied|表现( embody的过去式和过去分词 ); 象征; 包括; 包含
+exscutellate|(=exscutellatus)无小盾的
+egging|煽动, 怂恿（egg的现在分词形式）
+exstipulate|[植]无托叶的
+enswathement|包扎
+electrosteel|电炉钢
+enamoredness|[网络] 迷恋
+expectantly|期待, 期待着, 期望, 预期
+eddish|[英国方言]（刈割后的再生草）
+ebullioscopy|沸点升高测定法
+esopus|[地名] [美国] 伊索珀斯
+expatriatism|[主英国英语]；☉在国外长期生活
+eleocharis|荸荠属
+ergs|(erg 的复数) n. 尔格
+eastwardly|向东, 从东方
+eupepticity|消化良好的感觉, 消化良好的状态
+elephantidae|[脊椎] 象科
+eversion|外翻, 翻转
+entasia|[医]强直性痉挛
+equivalency|均等, 同类, 同义, 等量, 等值, 等价, 相当, 相等
+enteroviral|[医]肠病毒的
+ethmoiditis|筛骨炎
+exility|<古>稀少, 纤细
+electrometer|静电计
+expectably|如所意料或预期地
+engram|记忆的痕迹
+enjambments|(enjambment 的复数) n.(=enjamkement)(诗句之)跨行连续
+electrophore|[医] 电承
+endosteoma|内生骨瘤
+exotoxic|[医] 外毒素的
+elinor|埃莉诺（女子名）
+egis|保护, 维护
+ectophyte|(生活在另一机体外表的)外生植物
+expresser|[医] 压榨器
+epilation|拔毛, 脱毛法,头发脱落
+exiting|离开, 退场( exit的现在分词 )
+embassage|(=embassy)大使, 使命
+edam|一种用红蜡包封的黄色乳酪,荷兰形干酪
+emote|装模作样, 表现感情
+effusing|涌出, 流出, 泻出( effuse的现在分词 )
+etiolin|[医] 子生植物黄素
+emptied|耗尽的；已清除的
+entombs|埋葬, 成为…的坟墓( entomb的第三人称单数 )
+exindusiate|无(囊群)盖的
+erosional|侵蚀
+eumenorrhea|月经正常
+exuding|缓慢流出, 渗出, 分泌出( exude的现在分词 ); 流露出对（某物）的神态或感情
+elkwood|[网络] 埃尔克伍德
+ennobled|封…为贵族, 使高贵( ennoble的过去式和过去分词 )
+embracingly|embrace的变形
+enactory|制定法律的
+exercised|锻炼, 训练, 练习( exercise的过去式和过去分词 ); 锻炼（身体某部位）; 使焦虑; 发挥（作用）
+emic|位的, 着位的
+emendable|可修订的
+equalisation|[医]同等化, 均等化
+epoxy|环氧的
+expectable|能预期的, 意料中的
+euryon|[解]颅阔点
+ejective|放出的, 喷出的, 驱逐的
+erethismic|[医] 兴奋增盛的
+entwines|缠绕, 盘绕( entwine的第三人称单数 )
+exchequer|(英国)财政部, 国库
+eidoptometry|视力测定法
+emplacements|放列动作( emplacement的复数形式 ); 炮兵掩体; 炮位; 炮台
+erucivorous|食虫的
+effectuality|有效性
+emplectite|硫铜铋矿
+ectoglia|外(神经)胶质
+evocator|唤起人,招魂者, [生]唤起物,诱发物
+elvers|(elver 的复数) n.[鱼]幼鳗
+ergophobia|工作恐怖, 对工作之厌恶
+eucrasia|体质正常
+electrocutes|<美>处电刑, 触电致死( electrocute的第三人称单数 )
+editorially|以编辑身份地；以社论形式
+epistyle|[建]柱顶过梁
+expunge|擦掉, 删掉, 除去
+expurgation|消去, 删去, 廓清
+epigeal|[动]生长在地上的, 贴地生长的,浅水生长的
+eutherian|& n.[动]真哺乳亚纲的(动物)
+extolment|赞颂, 赞扬, 赞美
+etherifies|醚化
+epidiorite|变闪长石
+endodontic|[医]牙髓学的
+enclothe|给...穿衣, 披盖
+excavators|开凿者, 发掘者( excavator的复数形式 ); 挖掘机
+eyewash|洗眼水, 无稽之谈, 骗局
+expropriates|没收（财产）, 征用( expropriate的名词复数 ); 剥夺…的所有权
+ergotize|使染麦角病
+effaces|擦掉( efface的第三人称单数 ); 抹去; 超越; 使黯然失色
+extubate|从(喉)处除管
+epibenthic|[医]湖沿岸的，浅水底的，沿岸浅海底的
+elementalism|自然力崇拜
+exasperation|恼怒, 恼怒的原因
+echinulate|[生]具小刺的, 有小刺的
+elvanite|【地质学】淡英斑岩
+exalter|exalt的变形
+equipluve|等雨量线
+expositions|<正>阐述( exposition的复数形式 ); 讲解; 展览会; 博览会
+eradiation|发射
+embryotega|胚盖
+equilibrate|(使)平衡, 与...平衡
+exognathion|上颌骨齿槽突
+eviscerates|切除…的内脏( eviscerate的第三人称单数 )
+electromer|[化]电子异构体
+ergate|[昆]工蚁
+ency|encyclopaedia 百科全书; encyclopedia 百科全书; encyclopaedical 百科全书的; encyclopaedism 百科全书的知识
+emmett|埃米特（人名, 地名）
+euhemeristic|神话即历史论的
+excogitator|excogitate的变形
+elflock|鬈结的头发, 卷发
+exegete|注释学者, 评注家
+enthronize|立...为王, 使登基, 任为主教, 崇拜
+epileptiform|[医]癫痫样的
+effervescing|冒气泡, 起泡沫( effervesce的现在分词 )
+enterovirus|[微]肠道病毒
+echinoderm|棘皮动物
+entrant|新会员, 新成员, 进入者
+educating|教育( educate的现在分词 ); 训练, 培养; 教导, 教养
+exhilarative|使人高兴的, 使人畅快的, 令人振奋的
+exponents|倡导者( exponent的复数形式 ); 说明者; 指数; 能手
+erythrite|[矿]钴华, [微] 赤藻糖醇
+ethionine|[化]乙硫氨基酪酸
+exhauster|排气器
+eikonogen|影源
+excerpting|摘录, 引用
+endyma|(=ependyma)室管膜
+errantry|游侠行为
+ecclesiology|教会学, 教会建筑学
+epigaea|[网络] 蔓地莓属；落后的杨梅；地不容
+equisignal|等强信号
+eurytopicity|[生]广适性
+exordial|绪言的, 绪论的
+effluxion|[医] 溢出物, 流产
+empurple|使成紫色
+euphotide|糟化辉长岩
+epitympanum|[解]鼓室上隐窝
+exertive|使努力的,费力的
+effeminating|柔弱的；女人气的
+enchanted|中魔法的; 着了魔的; 狂喜的; 极乐的
+ebonise|<主英>=ebonize
+emasculates|阉割( emasculate的第三人称单数 ); 使柔弱; 删削; 使无力
+endocyclic|[医] 内环的, 桥环的
+exter|[人名] 埃克斯特; [地名] [德国] 埃克斯特
+equivalve|[动]两壳形式和大小相同的
+enforcive|enforce的变形
+elongations|延长( elongation的复数形式 ); 延长线; <机>延伸率; <天>距（角）
+erosionally|erosional的变形
+echos|(echo 的第三人称 -s形式) n. 回声, 回音, 回波
+exemplars|模型( exemplar的复数形式 ); 模范; 原型; 典型
+enthralling|迷人的
+etherified|醚化
+echidna|针鼹鼠
+endonuclease|[化] 内切核酸酶; 核酸内切酶
+egoistic|自我中心的, 自私自利的
+eozoonal|原始虫状的
+eire|爱尔兰
+edulcorating|使甜；除去酸味；使纯
+essie|埃西（女子名, 等于Esther）
+equitation|骑马, 骑术
+evaniidae|旗腹姬蜂科
+espy|看出, 望见, 发现
+everting|使（器官等）外翻( evert的现在分词 )
+epithalamion|喜歌, 颂歌
+exothermal|[医] 放热的
+elaborating|详尽说明( elaborate的现在分词 ); 变得复杂; 详细制定; 详尽阐述
+effulgence|光辉, 灿烂
+euonymin|[药]卫矛甙
+effie|埃菲（女子名）
+erythrocytes|[医]红细胞
+englishing|英文的；英国的；英国人的
+encasing|外壳, 覆板, 覆面, 砌面, 罩子
+eudaemonics|幸福学, 获得幸福的方法
+extracurial|法庭外安排解决的,庭外和解的
+ethoxyethane|[化] 乙醚
+eugenie|尤金妮娅(人名)
+embrowned|着褐色, 使成淡黑( embrown的过去式和过去分词 )
+euphroe|[船]绳索收紧器
+exciseman|收税官
+evangelized|传福音, 使信基督教( evangelize的过去式和过去分词 )
+erythrocytic|[医] 红细胞的
+exsiccatae|(=exsiccata)蜡叶标本, 干标本
+echoic|拟声的
+eutaxite|条纹斑杂岩
+evan|埃文（男子名）
+encircling|[计] 包围, 环绕
+ecmnesia|[医]近事遗忘
+enthusiasts|热心人, 热衷者( enthusiast的复数形式 )
+exhalation|呼气, 蒸发, 散发物
+empathic|感情移入的
+ephyrae|蝶状幼体
+exhorter|劝勉者, 提倡者, 告诫者
+embrocate|涂擦药液
+expressible|可表现的, 可榨出的
+epanalepsis|语句间隔反复
+ehrman|[人名] 埃尔曼
+earthwards|向地球, 向地面
+earmarks|指定…作为特定用途( earmark的第三人称单数 )
+extrovert|外向性格的人
+evittate|[医] 无带的
+exalting|赞扬( exalt的现在分词 ); 歌颂; 提升; 提拔
+elaine|伊莱恩（女子名）
+eyeish|[网络] 眼神
+edgeless|没刀刃的, 钝的
+escapers|(escaper 的复数)  排放器
+edenic|Eden的变形
+eternizing|使永恒, 使不朽( eternize的现在分词 )
+elateridae|叩头虫科
+earlet|小耳
+eurythermic|[医] 泛温生长的, 阔温域的
+emanatively|emanative的变形
+equinia|[兽医]马鼻疽, 马皮疽
+epsilon|希腊语字母之第五字
+extrafloral|[植]在花外的
+entoderm|内胚层
+eugenists|(eugenist 的复数) n. 优生学家
+extramundane|超越现世的, 物质界以外的
+estranges|使疏远（尤指家庭成员之间）( estrange的第三人称单数 )
+envelopment|包, 包围, 封套, 封皮, 封, 裹
+ectypography|一种线条蚀刻不深的版画技术
+encastage|将待烧之陶胚或瓷胚加以排列
+eisodic|[医] 输入的, 传入的, 向心的
+erse|(苏格兰)盖尔语
+epidermatoid|表皮样的
+echoism|拟声, 形声
+epaulet|肩章, 肩饰
+entrusted|委托, 托付( entrust的过去式和过去分词 )
+excepting|除...外, 要不是, 只是
+enophthalmos|[医] 眼球陷没
+educe|引出, 推断出, 使显出
+equisetum|木贼属植物
+erotomania|色情狂
+eternities|永恒( eternity的名词复数 ); 来世; 永生; 似乎相当长的一段时间
+endowments|（经常的）资助( endowment的复数形式 ); 捐助的财物等; 天赋; 养老保险
+extolled|赞颂, 赞扬, 赞美( extol的过去式和过去分词 )
+evader|逃避者,逃避物
+entomologist|昆虫学者
+elevations|（水平或数量）提高( elevation的复数形式 ); 高地; 海拔; 提升
+euxanthone|[化] 优┷吨酮; 1,7-二羟(基)-9-氧杂蒽酮(请比较flavone黄酮)
+epigaeous|出土的(指子叶)
+eelspear|捕鳗叉
+ellagitannin|鞣花单宁, 鞣花鞣质
+employing|雇用( employ的现在分词 ); 使用, 利用
+endowing|捐钱( endow的现在分词 ); 捐赠; 资助; 使（某人）天生具有（好资质、能力等）
+expectorator|咳痰者，吐痰者
+ectomorphic|外胚层体型的, 瘦型体质的
+extinguisher|熄灭者, 灭火器, 消灭者
+eclat|大成功, 喝采
+expunged|擦掉( expunge的过去式和过去分词 ); 除去; 删去; 消除
+endued|授予, 赋予（特性、才能等）( endue的过去式和过去分词 )
+eudipleural|两部对应的,左右对称的
+edeotomy|[医] 生殖器解剖学
+endocolitis|[医] 结肠粘膜炎
+erythron|[生理]红细胞系
+eugranitic|花岗岩状
+eckehart|(Eckehart)人名；(德)埃克哈特
+expiring|期满( expire的现在分词 ); 文件、协议等（因到期而）失效; 断气; 逝世
+echinoderma|[网络] 棘皮动物
+expellees|(expellee 的复数) n. 被驱逐(出国)者
+enspheres|使成球形, 包围( ensphere的第三人称单数 )
+ecorche|肌肉和骨骼部位图
+exorcising|（用祈祷等）驱除（恶魔）, 给（某人、某地）驱除妖魔( exorcise的现在分词 ); （用祈祷等）驱除（恶魔）, 给（某人、某地）驱除妖魔( exorcize的现在分词 )
+excluder|排除器
+embolic|插子的, 栓子的
+especial|特别的, 特殊的
+epilemmal|[医] 神经梢膜的
+enterococci|[医]〔单enterococcus〕肠球菌
+endorhinitis|[医] 鼻粘膜炎
+explanations|解释, 说明( explanation的复数形式 ); 能说明某事缘由的言语、事实、情况等
+echidnae|单孔目哺乳动物, 针鼹鼠( echidna的名词复数 )
+elutriated|淘析；净化；洗涤
+enlarger|放大机, 扩大者, 详述者
+epicycle|本轮
+ephebes|(ephebe 的复数) n.男青年
+euangiotic|[医] 血管丰富的
+embelia|[医] 信筒子
+enlisted|应募入伍的
+erythrasma|红癣
+evinced|表明, 标示( evince的过去式和过去分词 )
+evolving|展开的；进化的
+engirdling|用带缠绕, 围绕( engirdle的现在分词 )
+echinid|[医]缘毛
+emulate|效法, 尽力赶上, 同...竞争
+epigrapher|碑铭研究家, 金石学家
+euphenics|人种改良运动
+eyetooth|上犬齿
+ensconced|安置好的, 安居的
+epiphyll|叶附生植物
+embathe|洗, 浸
+enunciations|(enunciation 的复数) n. 说明, 发音, 宣布
+eutocia|安产, 平产
+esmeralda|埃斯梅拉达（女子名）
+eggheaded|书呆子的,书生气十足的
+endophyllum|内锈菌属
+extermine|<废>=exterminate
+eyebath|洗眼杯
+emblements|庄稼(收益)
+easterlies|[pl. ][气]东风带
+elpidite|(斜)钠锆石
+embryology|胚胎学
+equipollency|均等, 相等
+exoduses|离去，退出（exodus的复数形式）
+earhole|耳孔
+erron|erroneous 错误的; erroneously 错误地
+emprize|冒险事业;勇武;武侠
+ectosphenoid|[医] 外侧楔骨, 第三楔骨
+endodontics|[医]牙髓学
+equiangular|等角的
+escapees|逃脱者, 逃亡者, 逃犯( escapee的复数形式 )
+eurodollar|欧洲美元(指欧洲银行的美元存款)
+electromeric|[化]电子异构的
+economized|节省, 减少开支( economize的过去式和过去分词 )
+eggless|不产卵的
+extraversion|外倾
+estrum|动情期, 动情周期
+extrados|[建]拱背(拱的外缘线)
+eyefuls|满眼, 满眶, 一瞥所见( eyeful的复数形式 )
+eld|<古>高龄, 古代,古人
+eelworm|线虫
+enthrones|使（国王、女王或主教）登基, 即位( enthrone的第三人称单数 )
+enskies|（使）耸入天空, 把…捧上天( ensky的第三人称单数 )
+equalness|equal的变形
+empalement|empale的变形
+earthliest|earthly（地球的, 地上的）的最高级形式
+epexegesis|[语]增词,补说(语)
+enterolysis|[医] 肠粘连松解术
+elfish|如小精灵的, 好恶作剧的, 小妖精的
+eisteddfod|诗人, 音乐家大会
+exploitable|可开发的, 可剥削的, 可利用的
+educative|教育的, 教育上的, 教育性的
+endochondral|[解]软骨内的
+earlock|鬓发
+embellisher|embellish的变形
+euphuistical|华丽词藻的
+enjoined|命令( enjoin的过去式和过去分词 )
+esdragol|龙蒿脑, 甲基黑椒酚
+emasculated|去势的, 被阉割的, 柔弱的
+elysian|乐土的, 象天堂的
+exenterate|去除...的内含物
+endoneurium|神经内膜
+ectotheca|外壁
+electropult|电气发射机, 发射装置
+eradicant|铲除剂
+entomic|昆虫的
+elytra|（elytron的复数形式）翅鞘,翅基
+emeritus|名誉退休的, 退休后保留头衔的
+explicated|<正>解释, 说明（文章或计划等）( explicate的过去式和过去分词 )
+elephantine|象的, 巨大的, 粗笨的
+entryways|入口通道( entryway的名词复数 )
+episematic|花纹使同种动物互相认识的
+enthalpy|焓
+eldorado|<西>理想中的黄金国, 富庶之乡
+encephalous|(软体动物等)头部显著的
+epicedial|epicedium的变形
+enolase|[生化]烯醇酶
+entrants|参加者( entrant的复数形式 ); 加入某行业的人
+ecru|本色的
+erithacus|[网络] 欧亚鸲属；亚洲属；三趾翠鸟
+enalite|[矿]变铀钍石
+egesta|排泄物
+exptl|experimental 实验的, 根据实验的
+embowers|以树叶遮盖；隐藏在树林中
+emulators|模拟器；[自] 仿真器（emulator的复数形式）
+ectocondyle|外髁
+exertions|努力( exertion的复数形式 ); 费力; （能力、权力等的）运用; 行使
+extrabulbar|[医] 球外的(尿道球外的,延髓外的)
+esemplastic|有组织作用的,有融合作用的
+emitter|发射体, 发射极
+ecstatic|狂喜的人
+ecardinal|无铰的
+economizers|节约者, 节约装置, 经济家( economizer的名词复数 )
+euchroic|真色
+extendible|[计] 可扩充的, 可扩展的
+empurpling|使成紫色, 发紫( empurple的现在分词 )
+egos|自我, 自尊, 自负( ego的复数形式 )
+eslisor|司法,行政官,代理人
+ecoute|监听, 窃听；收听无线电, 听电话；
+enfetter|给...上脚镣, 束缚, 使受制于
+earthshaking|惊天动地的
+elayl|[医]乙烯, 亚乙基
+expounder|解释者
+ell|厄尔(英国旧时量布的长度单位), 字母L, L形物
+enregiment|把...编成联队
+esterase|酯酶
+episternal|上胸骨的, 前侧片的(昆虫)
+eduction|引出, 推断, 排出
+escaper|排放器
+endoscopy|[医] 内窥镜检查
+ethnarch|行政长官, 总督, (种族、部落的)首领
+eyelashes|睫毛; 睫毛( eyelash的复数形式 )
+excursuses|附录, 附记, 补说( excursus的名词复数 )
+evildoers|（尤指经常）为恶者, 做坏事的人( evildoer的复数形式 ); 妖魔鬼怪
+eurythmic|音乐舞蹈体操的, (建筑物)比例协调的
+endotheloid|endothelium的变形
+expertism|专长, 专门技能(或知识等)
+eclogite|[地]榴辉岩
+epilepsia|[医] 癫痫(羊痫疯)
+emunctory|排泄用的
+eyeservice|阳奉阴违的工作
+epileptic|癫痫的, 癫痫性的
+eyehook|[机] 环首钩
+eir|[医][=environmental impact review]环境影响评价
+equinity|马科动物的本性[特点]
+eleoptene|(=elaeopfene)n.轻油精, 挥发油精
+enacting|制定（法律）, 通过（法案）( enact的现在分词 )
+encysts|把…包在囊内, 被包在囊内( encyst的第三人称单数 )
+enlargeable|可放大的；可扩大的
+erigeron|飞蓬属植物
+emendating|校勘, 修改( emendate的现在分词 )
+eider|绒鸭, 绒鸭绒
+emits|发出, 放出( emit的第三人称单数 )
+excruciator|施酷刑者, 拷打者；折磨别人者
+etalon|[计] 标准, 规格, 校准器, 标准样件, 波长测定仪
+exsect|切去, 根除
+eosinophilic|[医] 嗜曙红的, 嗜酸性的
+elec|电的（electric）；电（electricity）；电工（electrician）
+egophonic|[医] 羊音的
+egestive|egest的变形
+epipteric|[解]翼上骨
+elderliness|年长的;过了中年的
+excision|切除, 删除, 切除之物
+eurus|[希腊神话]欧洛斯(东风神或东南风神); 东风；东南风
+enisle|使成岛, 置于岛上, 使孤立
+exocolitis|结肠腹膜炎
+epiphysial|[医] 骺的
+enteritis|肠炎
+exine|[植]花粉粒外壁, 孢子外壁
+energid|活质体
+electrobus|电动公共汽车
+eurythmy|（建筑物）比例协调； 有节拍的动作
+engrailing|使成锯齿状( engrail的现在分词 )
+enanthema|[医]黏膜疹
+exonerative|释罪的, 免罪的, 免除的
+emotionless|不露情感的, 没有情感的
+eyeletter|打鸡眼机; 打小孔机
+exonerated|使免罪, 免除( exonerate的过去式和过去分词 )
+ecbolic|催生的, 使流产的
+entomere|内胚层裂球
+ess|字母S, S字形之物
+epiphytology|植物流行病学,植物流行病(或病原体)消长因素
+epibranchial|上鳃骨
+expurgating|删除（书等中的）令人反感的成分, 修订, 删去（不当处）( expurgate的现在分词 )
+exsculptate|(=exsculptus)纵刻的
+epicystotomy|[医] 耻骨上膀胱切开术
+evidentness|明显, 显然
+epigyne|(蜘蛛)雌孔板
+extrication|救出, 解脱, 游离
+ergotaminine|[化] 麦角胺宁; 麦角异胺
+ethnologists|(ethnologist 的复数) n. 民族学者, 人种学者
+ectocarpales|水云目
+eyeliner|眼线膏
+empyesis|脓疱
+epitaxial|[电] 晶膜
+egressing|出口, 外出
+electrotest|电子(手)表测试仪
+excipient|[药]赋形剂
+excerpta|摘要, 节录
+equilibriums|平衡, 均势（equilibrium的复数形式）
+electorates|全体选民( electorate的复数形式 )
+ethicize|使伦理化, 认为...合乎道德, 使有道德
+endognathion|[医] 内颌(切牙骨内部)
+encyc|encyclopaedia 百科全书; encyclopaedical 百科全书的; encyclopaedism 百科全书的知识; encyclopaedize 百科全书化
+evincive|证明性的, 显示的
+enanthesis|[医] 内病性皮疹
+ethanediol|[化] 乙二醇
+empirism|经验论
+extortioners|(extortioner 的复数) n. 勒索者, 敲诈者
+entrains|使乘火车( entrain的第三人称单数 ); 拖; 产生
+excitative|激发的, 励磁的, 有兴奋作用的, 有刺激作用的
+ejection|驱逐, 喷出, 排出物
+eosinoblast|[医] 成嗜曙红细胞
+extremist|[经] 偏激份子
+exodontia|拔牙术
+enlarged|扩大( enlarge的过去式和过去分词 ); 扩展; 扩充; 放大
+equalizers|追平比分的得分, 追平的进球( equalizer的复数形式 ); 使众人平等之物
+extenuatory|使减轻的, 酌情的
+epimorphosis|[生理](割处)再生,表变态
+epifocal|[地]震中的
+ependyma|[解]室管膜
+errantly|errant的变形
+egoism|自我主义, 利己主义
+efik|埃菲克族, 埃菲克人[语]
+emulator|竞争者
+eskimos|爱斯基摩人( Eskimo的名词复数 )
+earthrise|地出(从月球上看地球,地球从月球的地平线上升起)
+espoused|（决定）支持, 拥护（目标、主张等）( espouse的过去式和过去分词 )
+enthral|迷住, 奴役, 使做奴隶, 吸引住
+episteme|知识
+elegy|悲歌, 哀歌, 挽歌
+endostyle|[动]内柱
+extensible|可展开的, 可延长的, 可扩张的
+erratics|(erratic 的复数) n. 古怪的人, 漂泊无定的人
+examinees|(examinee 的复数) n. 受试人, 应试者
+ergasia|精神活动
+ectocinerea|脑灰质
+edda|(古冰岛两文学集之一)：1230年问世的古冰岛散文集(或)1200年问世的古冰岛诗集
+externalism|外在性, 形式主义, 现象论
+epizeuxis|[修]紧接反复
+entomologic|昆虫学的
+elecampane|[植]土木香
+endothelial|内皮的
+embryotome|[医] 碎胎刀
+esterifies|（使）酯化( esterify的第三人称单数 )
+elevates|举起( elevate的第三人称单数 ); 提高; 提升; 鼓舞
+elle|世界时装之苑（时尚类期刊）；依尼（服装品牌名）
+eosophobia|黎明恐怖
+eunomian|& adj.优诺米派成员(的)
+episcopize|担任为主教, 使改信圣公会
+eniac|电子数字积分计算机, ENIAC计算机（Electronic Numerical Integrator And Calculator）
+endarterial|[医] 动脉内的
+eguttulate|无斑点的
+evict|逐出, 赶出, 驱逐
+endeared|使某人（自己）受某人喜欢( endear的过去式和过去分词 ); 令…喜欢某人/自己
+ethidene|乙叉, 亚乙基
+enfoldment|折叠
+eavesdrops|偷听（别人的谈话）( eavesdrop的名词复数 )
+empt|事件处理规划小组（Events Management Planning Team）
+embololalia|[医] 插语症
+emplastrum|硬膏剂, 贴膏剂
+endocrinal|内分泌腺的
+evelina|[女子名] 埃维莉娜 Evelyn的变体
+esophagal|【解剖学】食管的
+emprise|冒险,行动,侠义行动, 壮举
+examiners|主考者( examiner的复数形式 )
+errant|周游的, 离开正道的, 不定的
+exaggerator|夸张者, 言过其实者
+emperess|皇后
+endogonidium|[医] 细胞内分生孢子
+epiblast|外胚层, 上胚层
+encyst|把...包在囊内
+eponychium|[生]甲上皮,[解]指甲上皮
+essentiality|根本性, 真髓, 本质
+ergometer|测力计
+erupted|爆发( erupt的过去式和过去分词 ); 喷发; 突然发生; 出疹
+evened|使平坦（even的过去式与过去分词形式）
+effeminacy|柔弱, 女人气
+exophthalmos|突眼症, 眼球突出症
+eclipses|（日、月）食( eclipse的名词复数 ); 消失, 黯然失色
+eurygnathism|[医] 阔颌状态
+enaction|设定, 制定
+egested|排泄( egest的过去式和过去分词 )
+estacade|围桩, 防栅
+epipterygoid|上翼状骨
+erythrophage|噬红细胞
+exuviated|脱壳；蜕皮
+escalloping|海扇贝或其贝壳, 浅锅( escallop的现在分词 )
+explorers|探索者, 探测者；探险家；集合对象（explorer的复数形式）
+elaps|[医] 珊瑚毒蛇属
+equinal|[古语]=equine
+effacer|efface的变形
+explant|移植
+einstein|爱因斯坦
+enumerations|(enumeration 的复数) n. 计算, 列举, 细目
+executable|可执行的, 可以作成的, 可实行的
+echoer|echo的变形
+elkhound|猎鹿犬
+eschar|焦痂
+excusatory|道歉的, 辩解的
+entrails|pl. 内脏, 肠, (物体)内部
+euglenales|裸藻目
+expiratory|吐气的, 呼气的
+emotioned|☉强烈的感情, 激情；激动
+enfeoffment|领地授与(证),封地
+encrusting|用一层硬壳覆盖, 包裹( encrust的现在分词 ); （用贵重物品在）表面装饰; 结壳, 形成硬壳
+episcopalism|主教制主义, 主教制
+excelsior|不断向上的, 精益求精的
+embroiders|（在织物上）绣花( embroider的第三人称单数 ); 刺绣; 对…加以渲染（或修饰）; 给…添枝加叶
+elastin|弹性蛋白
+epicist|史诗作者, 叙事诗人
+exotica|新奇事物, 异族事物
+espousal|拥护, 订婚, 婚礼
+encystation|[生]成囊,胞囊形成
+enriches|使富有( enrich的第三人称单数 ); 使富裕; 充实; 使丰富
+enstatitic|enstatite的变形
+edibility|适食性, 可食性
+enacted|制定（法律）, 通过（法案）( enact的过去式和过去分词 )
+enthrall|迷惑, 奴役, 迷住
+echelette|[物]小阶梯光栅
+enantiomorph|[化]对映结构体
+endangers|危及, 使遭受危险( endanger的第三人称单数 )
+ennuyee|& n. <法>倦怠的（女人）
+ephelis|[医]雀斑
+excogitation|想出, 方案, 计策, 计划, 设法, 设计
+ejectors|(ejector 的复数) n. 驱逐者, 排出器, 放出器
+eolith|原始石器
+earthnut|花生, 块根
+estrogen|雌激素
+ennuye|& n. <法>倦怠的（男人）
+epiphylaxis|[医] 加强预防作用
+endameba|内阿米巴属[原生动物]
+eirenicon|和平提议
+emplaned|乘飞机, 装上飞机, 使乘飞机( emplane的过去式和过去分词 )
+erythropenia|[医]红细胞减少
+easer|[刷]油墨添加剂
+egests|排泄( egest的第三人称单数 )
+endorsee|承受背书票据者, 被背书人
+esothyropexy|[医] 甲状腺内面固定术
+eurytopic|[生]广适性的
+extenuation|酌情减轻, 减轻
+ensouling|赋予灵魂( ensoul的现在分词 )
+epineurium|[解]神经外膜, 神经外衣
+estreating|摘抄
+expiated|<正>为（所犯罪过）接受惩罚, 赎（罪）( expiate的过去式和过去分词 )
+exsiccation|干燥, 干燥作用, 除湿作用, 干燥法
+enki|恩基（水神和智慧神）
+expressio|[医]面部表情，面容
+eugenics|优生学
+efference|离心；输出
+entailments|(entailment 的复数) [法] 限定继承, 世袭财产
+epitoke|后生有性部分, 有性节
+eliminators|(eliminator 的复数) n. 排除者, 消除器
+enviousness|envious的变形
+effable|可表达的
+expound|详细说明, 解释
+epiphytism|[生态]附着生活
+escheating|重还, 归还, 承受转归领主的土地( escheat的现在分词 )
+euryale|[希腊神话]欧律阿勒(三个蛇发女妖之一)
+exenteritis|肠腹膜炎, 肠浆膜炎
+echinococcus|[动]棘球绦虫
+emulant|竞争者,对手
+eurydice|欧律狄刻（希腊神话中的一个形象）
+expectancies|(expectancy 的复数) n. 期待, 期望的事物, 嘱望, 希望, 期望, 预期
+enc|工程指挥, 技术控制（Engineering Command）
+excalation|[医] 部分缺失(正常连续部分的缺失,如脊椎)
+engendering|产生（某形势或状况）, 造成, 引起( engender的现在分词 )
+embrocates|涂擦药液( embrocate的第三人称单数 )
+equuleus|[the Equuleus][天]小马(星)座
+eked|（靠节省用量）使…的供应持久( eke的过去式和过去分词 ); 节约使用; 竭力维持生计; 勉强度日
+ectocoelic|[动]外腔的
+egosyntonic|[医] 自我协调的
+esp|超感官知觉, 超感觉力
+elodea|伊乐藻属植物
+explicans|术语或陈述的意义
+enamellers|(enameller 的复数) n. 搪瓷工人
+elephas|象属
+excipulum|囊盘被
+executions|实行( execution的复数形式 ); （尤指遗嘱的）执行; 演奏; 依法处决
+etypical|【生物学】变异的
+entoglossal|[医] 舌内的
+epicondylar|上髁的
+eyot|河(湖)中的小岛
+exscind|切除, 切断
+excavating|挖掘（excavate的现在分词）
+effund|倒；斟；使流出；使倾注
+enchain|束缚, 以铁链绑住
+eyedness|偏眼性
+emarginate|顶端微凹的
+evaluates|评价( evaluate的第三人称单数 ); 求…的值（或数）; 对…评价; [数学、逻辑学]求…的数值
+enforest|把(牧场或耕地)变为狩猎场(或森林)
+eyeing|vbl. 注视
+enkindling|<文> 使（火焰）燃起( enkindle的现在分词 ); 刺激; 激发; 煽起（感情、热情等）
+enumerative|计算的, 列举的, 计数上的
+evolutions|(evolution 的复数) n. 进化, 发展, 进展, (气体)放出, 开方
+expiates|<正>为（所犯罪过）接受惩罚, 赎（罪）( expiate的第三人称单数 )
+encountering|遇到( encounter的现在分词 ); 遭遇; 偶然碰到; 与（人、部队）冲突
+extradited|引渡( extradite的过去式和过去分词 )
+effulged|照耀；使闪闪发亮
+elmy|多榆树的
+educations|教育( education的复数形式 ); 教育学; 教育机构; 有教益的经历
+elemi|榄香脂(热带产树脂)
+eldest|最年长的, 排行中第一的
+explicably|explicable的变形
+elude|逃避, 规避, 把...难倒
+emarginated|(尖端或边缘)有缺口的, 有凹口的；【植物学】(叶、花瓣等)顶端有凹缘的, 微缺的
+emulative|竞争性的, 不服输的, 好胜的
+embower|以树叶遮盖, 隐藏在树林中
+exchanging|交换；兑换；交流（exchange的ing形式）
+elastomer|[化] 高弹体; 弹性体
+emmanuel|以马内利（耶稣基督的别称）；伊曼纽尔（男子名, 等于Immanuel）
+efficience|效率
+embarcadero|(尤指美国西部城镇的) 内河码头
+exteriorly|在外部, 从外表上看
+excerpted|摘录, 引用
+exterminate|扑灭, 消灭, 根绝
+earthliness|尘世, 凡俗
+enquirer|寻问者；追究者
+equivalved|【动物学】
+eftsoons|不久; 即刻, 随即; 经常, 常常, 屡; 又, 再, 亦
+effeminise|[网络] 高效
+erotophobia|爱情恐怖, 性爱恐怖
+epigenous|[植](真菌)上面生的,生长于叶面的
+evincement|evince的变形
+ectomorph|瘦型体质者
+epicostal|[医] 肋[骨]上的
+encrypts|加密, 将…译成密码( encrypt的第三人称单数 ); 把…加密（或编码）, 将…译成密码
+environing|包围, 环绕, （敌意地或保护性的）围住( environ的现在分词 )
+exocardial|[医] 心外的
+encarnalize|使具肉体, 使世俗化, 使具肉欲
+excrement|排泄, 大便
+ethambutol|[药]乙胺丁醇(一种抗结核药)
+enigmas|难于理解的问题、人、物、情况等, 奥秘( enigma的名词复数 )
+eyrir|奥拉(冰岛的一种硬币)
+enderon|[医]外被深层：皮肤或粘膜的深层
+earmark|耳上记号, 特征, 记号, 标记
+equus|[动]马属(包括马、驴、斑马等)
+elocutionist|雄辩家, 演说家
+emphasizing|[电] 强调
+emmarble|以大理石装饰, 刻成大理石像
+eructing|打嗝, 喷出, 喷( eruct的现在分词 )
+embolization|[医]栓塞(现象)
+esq|环境征候问卷（Environmental Symptoms Questionnaire）；先生（esquire, 信内尊称）；贝索（箱包品牌名）；瑞士名表品牌；方差
+edict|布告, 法令
+extravert|外向性格的人
+eternized|使永恒, 使不朽( eternize的过去式和过去分词 )
+eristalis|蜂蝇
+erodibility|侵蚀度
+espundia|鼻咽粘膜利什曼病
+epithalamus|[解]丘脑上部, 上丘脑
+expediently|方便地, 便利地, 得当地
+ecrustaceous|无壳质的
+exordia|绪言, （事物的）发端; （讲话论文等）开端, 绪言, 绪论( exordium的名词复数 )
+extractor|抽出器, 拔取的人, 抽出者
+encamps|扎营；露营
+epistrophe|尾词重复
+eunomy|秩序良好
+esplees|土地所得
+errite|褐硅锰矿
+endarch|[植]内始式的
+ethereous|醚的
+epapillate|无乳突的
+emended|校订, 修改( emend的过去式和过去分词 )
+expiscatory|expiscate的变形
+esprit|（法）精神, 才智；机敏
+enounced|宣言( enounce的过去式和过去分词 ); 声明; 说出; 发音清晰地读出
+endorachis|[医] 硬脊膜
+earmarked|指定…作为特定用途( earmark的过去式和过去分词 )
+effetely|腐朽地
+edemas|<美>水肿, 浮肿, 瘤腺体( edema的名词复数 )
+edibleness|食用价值
+extorter|extort的变形
+ethynes|[化] 炔烃
+excerpter|摘录者, 选录者, 节录者；引述者
+ependymitis|脑室管膜炎
+empodium|[动]爪间突
+eosphorite|[矿]磷铝锰矿
+endogen|内长植物, 单子叶植物
+emplastic|[医] 粘胶状的, 便秘药, 致便秘药
+ecchymoses|出血斑, 瘀癍( ecchymosis的名词复数 )
+ectotrophic|外生的
+eminences|卓越( eminence的名词复数 ); 著名; 高地; 山丘
+exocardiac|【解剖学】异位心
+encephalitis|脑炎
+eurasiatic|欧亚的, 欧亚人的
+excurse|跑掉, 远足, 离题, 短程旅行
+effortless|容易的, 不费力气的
+erick|埃里克（人名, 等于eric）
+enopla|有针类
+emasculator|去势器, 阉割员（指从事牲畜阉割工作的人员）
+embosoms|把…藏于胸中( embosom的第三人称单数 )；围绕；环绕；珍爱
+echinopsine|蓝刺头碱
+exogastritis|胃腹[胃外]膜炎
+earphones|耳机; 耳机, 听筒( earphone的复数形式 )
+eriodictyon|圣草(产于北美)
+extemporary|即席的, 权宜之计的, 临时的, 善于即席讲话的, 不用讲稿的, 无准备的, 当场的
+enculturate|使适应某种文化
+enslaved|使成为奴隶( enslave的过去式和过去分词 ); 奴役; <正>使受控制; 征服
+erectly|直立地
+engrossment|正式缮写的文件,专注
+epizoa|体表寄生虫
+entitlement|权利
+egomaniac|极端利己主义者
+earwigged|earwig的变形
+ethanedial|[化] 乙二醛
+enwind|缠绕
+eventuated|结果, 归结( eventuate的过去式和过去分词 )
+eighties|[计] 八十年代
+executors|遗嘱执行人( executor的复数形式 ); 遗嘱执行人的职务
+enlargements|扩大, 放大, 已扩大或放大之物( enlargement的复数形式 )
+exportations|出口( exportation的名词复数 )
+evolvent|渐开线, 切展线
+elflike|顽皮的, 淘气的
+elfinwood|高山矮曲林; 高山矮曲林
+esophagotome|[医] 食管刀
+exemplarity|exemplary的变形
+edo|埃多族（居尼日利亚南部）；埃多人；埃多语
+encages|关在笼中, 把…关起来, 禁闭( encage的第三人称单数 )
+eumycetes|[医] 真菌纲
+endocolpitis|[医] 阴道粘膜炎
+exponentials|(exponential 的复数) a. 指数的
+extirpates|消灭, 灭绝( extirpate的第三人称单数 ); 根除
+endocytic|[生](细胞)内吞作用的
+estated|有财产的, 有地产的, 有产业的
+euripidean|欧里庇得斯的, 欧里庇得斯悲剧的
+endosarc|内质
+estafette|骑马的信差
+etruscology|伊特鲁里亚学
+ejaculate|突然说出, 射出
+emetic|催吐剂
+effecting|使发生（effect的现在分词形式）
+esquire|先生, 绅士
+eradicated|画着根的
+eventful|变故多的, 多事的, 重要的
+elytrum|翅鞘, 翅基
+effused|涌出, 流出, 泻出( effuse的过去式和过去分词 )
+eurylaimi|[鸟] 阔嘴鸟亚目
+equipage|装备
+empiric|经验主义者, 江湖医生
+epitenon|[医] 腱鞘
+erinose|树木尖刺病
+estray|离开原居住地的人, 走失的家畜
+enfin|<法>终于, 最后
+enostosis|[医]内生骨疣
+englobe|包入球中, 变成球状
+eastabout|向东地
+euproctis|黄毒蛾属
+enchaining|束缚, 以铁链绑住( enchain的现在分词 )
+eopaleozoic|始古生代的
+exsector|[医] 切除刀
+ectosteal|[医] 骨外[面]的
+endoscope|内窥镜
+electrified|使电气化( electrify的过去式和过去分词 ); 使兴奋
+endamages|使损坏（endamage的第三人称单数形式）
+eudaemon|善良的精灵,守护神
+emigrated|移居国外( emigrate的过去式和过去分词 )
+eyesores|难看的东西( eyesore的复数形式 )
+endites|(endite 的复数) vt.<古> =indite
+erg|尔格
+enemata|[医] 灌肠法, 灌肠剂
+encroaching|渐渐渗入的
+elon|埃伦（可溶性显影剂粉末）
+eyewear|[医]护目镜
+effs|弄糟
+eveline|伊芙琳(女子名)
+epicuticular|上表皮的
+elopements|潜逃, 私奔( elopement的复数形式 )
+encoded|编码的
+ertebolle|(斯堪的那维亚半岛)新石器时代文化的
+etypic|由某种形态转变的
+escalators|自动扶梯( escalator的复数形式 )
+eggshells|蛋壳, 易碎的东西( eggshell的复数形式 )
+ecocidal|造成生态灭绝的或与生态灭绝有关的
+eschynite|易解石
+entomion|乳突(角)
+evaporators|(evaporator 的复数) n. 蒸发器
+evangel|福音(书), 佳音
+edictal|布告的, 法令的
+epilating|给…拔毛, 使脱毛( epilate的现在分词 )
+etym|etymological 词源学的; etymologist 词源学者; etymology 词源（学）
+eleventhly|在第十一号
+eustachian|[医] 咽鼓管
+expansive|扩张性的, 使扩大的, 广阔的
+embracer|拥抱者,信奉者,接受者,企图以非法手段笼络法庭或陪审团的人
+elissa|[女子名] 伊莉萨 Elizabeth的变体
+esophageal|食管
+eellike|似鳗的, 行动似鳗的
+ergo|所以, 因此
+equid|马科动物(包括马,驴等)
+elks|麋鹿( elk的复数形式 )
+entoptic|[医]眼内的,内视的
+elated|兴高采烈的
+effaced|擦掉( efface的过去式和过去分词 ); 抹去; 超越; 使黯然失色
+etiolating|使变青白, 使变苍白( etiolate的现在分词 )
+errs|犯错误, 做错事( err的第三人称单数 )
+exodontics|[医]拔牙学, 拔齿学
+encoring|再来一个！（听众要求重演一次的呼叫）( encore的现在分词 ); 再演（唱等）（的呼喊）
+executant|实行者, 执行者, 演奏者
+exacerbation|恶化, 增剧, 激怒
+endogastric|位于腹中的
+epithelioid|[生]上皮状的, 上皮样的
+examen|考试, 批判性的研究, 良心反省
+epicedian|epicedium的变形
+everblooming|连续开花的
+engulfment|[医]吞食, 病毒固定
+equalities|同等, 平等( equality的名词复数 )
+exculpation|使无罪
+escapists|逃避现实者
+emanative|发出的, 发散的, 发射的
+erelong|不久
+encompasses|围绕( encompass的第三人称单数 ); 包围; 包含; 包括
+estoppage|禁止翻供, 阻止, 堵塞
+erosible|可侵蚀的,易蚀的
+epibolic|[生]外包的
+eunectes|[网络] 水蚺属；绿森蚺；安纳康达
+evincing|表明, 标示( evince的现在分词 )
+estops|塞信( estop的第三人称单数 )；遮住；禁止反言
+edging|边缘, 边饰
+ewry|[人名] 尤里
+epiphonema|【修辞学】；(文章结尾处的)画龙点睛之笔
+extroversion|外翻, 外倾
+emancipatory|解放的, (为了)解放的
+eleaticism|埃里亚派
+earful|惊人(或重要)新闻的透露, (说话、闲话等的)大量, 过多, 斥责
+epimeride|[化] 差向异构体
+equerry|掌马官, 侍从武官
+erythrophyll|叶红素
+economise|vt. 节约, 避免浪费, 节省
+encephalon|脑, 脑髓
+endostosis|[医]软骨骨化
+endoprocta|内肛亚纲
+ensignship|少尉的官职（职务）
+encyclic|传阅的, 广泛传送的
+euphemize|委婉地说, 用婉转的话说
+embalm|以药物防腐, 铭记于心, 使不朽
+extrovertish|外向者的, 如外向者的
+epizoology|动物流行病学, 兽疫学
+eventuate|结果为, 终于发生
+elegiac|哀歌, 挽歌
+endomorphic|具有胖型体质的
+envenoms|毒害( envenom的第三人称单数 )
+epizootic|动物流行病的
+experiencer|经验者；感受者
+excretes|排除( excrete的第三人称单数 ); 排泄; 分泌; 排出
+ebonite|硬橡胶
+exfoliating|片状剥落( exfoliate的现在分词 ); 鳞片样脱落; 使片状脱落; 使鳞片脱落
+escutcheoned|escutcheon的变形
+eimeria|[医] 艾美球虫属
+exaltation|提升, 提高, 得意洋洋
+ectotoxin|[化] 外毒素
+ectozoic|外寄生虫的,体表寄生虫的
+edeodynia|[医] 生殖器痛
+entoprocta|内肛动物
+extricated|使摆脱困难, 脱身( extricate的过去式和过去分词 )
+ephemeron|蜉蝣
+esthetics|美学
+euchromatic|常染色质的
+exonerate|免除, 证明无罪
+elector|有选举权的人, 选举人
+enterodynia|肠痛
+effloresce|开花, 风化
+eyeful|满眼, 满眶, 眼之容量
+embays|使入湾, 围绕, 成港湾状（embay的第三人称单数形式）
+excoriable|应受谴责的, 可非难的
+ectogenetic|体外发生
+epidemics|流行病；时疫；蔓延（epidemic的复数）
+equicaloric|(能产生)等卡(热)的
+eupractic|(促)协同动作正常的
+ecotone|[生]群落交错区
+expos|(expo 的复数) [经] 展览会, 市集, 义卖
+exigency|紧急, 急迫, 紧急事件
+elitists|优秀人才, 杰出者( elitist的复数形式 )
+emblemed|象征；徽章；符号
+euphonia|[医] 声音正常
+euphonious|音响好的, 悦耳的, 声音和谐的
+enplaning|搭乘飞机( enplane的现在分词 )
+ektexine|外壁, 外表层
+eyestone|眼石(一种除去眼中异物的小贝壳)
+episcopates|(episcopate 的复数) n. 主教之职, 主教区, 主教
+energetics|能量学
+einsteinian|爱因斯坦的, 爱因斯坦理论的
+ectental|[医] 外[及]内胚层的
+earthling|世人, 俗人, 俗物
+entrenches|用壕沟围绕或保护…( entrench的第三人称单数 ); 牢固地确立…
+edificial|edifice的变形
+embolisms|加闰日, 栓塞, 栓子( embolism的复数形式 )
+effaceable|能擦掉的, 会被忘却的, 可抹去的
+evasiveness|逃避, 推诿；模棱两可
+elhi|小学及中学的, 中小学的
+excoriate|剥皮, 擦破皮肤, 严厉的责难
+expectedness|预期性
+extratubal|[医] 管外的
+equability|平静, 无变动
+eldred|埃尔德雷德(m.)
+elephantiac|象皮肿患者
+essencing|实体, 本体；抽象的存在体；统一体；本质；实质；最重要的特性；要素
+epitaphic|epitaph的变形
+esd|[计] 外部符号字典
+erasable|可消除的, 可抹去的
+emphatically|强调地, 着重地
+endogamic|同族结婚的
+ericaceae|[医] 杜鹃花科
+enucleation|[医] 剜出术, 摘出术
+ealdormen|(ealdorman 的复数) n.[英史](盎格鲁-撒克逊时期的)郡长
+expalpate|(=expalpatus)无须的
+eisenberg|[人名] 艾森伯格; [地名] [德国] 艾森贝格
+ety|etymological 词源学的; etymologist 词源学者; etymology 词源（学）
+eutychian|优迪克主义的
+eppy|[医]环硼肾上腺素制剂的商品名
+eventognathi|【脊椎动物】真内颚目
+equivalents|相等的东西( equivalent的复数形式 ); 对应词
+empresa|[地名] [玻利维亚] 恩普雷萨
+extents|(extent 的复数) n. 范围, 程度, 区域
+entertains|款待, 招待( entertain的第三人称单数 ); 使欢乐; 使娱乐; 抱有
+eumenides|[复]n.[希神] [罗神] 欧墨尼得斯( 即 Erinyes 或Furies)
+embowelled|<废>把…放入碗内（或深处）, 围住( embowel的过去式和过去分词 )
+encumbers|<正>妨碍, 阻碍, 拖累( encumber的第三人称单数 )
+ectype|复制品, 副本
+expt|expected 预期的; expect 预计; experiment 试验; expert 专家
+editorialize|发表社论, 插入主观评论
+enfranchise|给予自治权, 给予选举权, 解放
+expatiatory|详述的, 冗长的
+enplane|搭乘飞机
+ethereal|轻的, 飘渺的, 天上的
+ezekiel|[宗]以西结（希伯来先知, 旧约圣经以西结书之作者）；伊齐基尔（姓氏）
+echinopanax|[医] 刺金刚纂属
+ensepulchre|<主英>埋葬
+earcap|耳套
+entablature|柱顶线盘, 柱上楣构
+echolalic|（模仿发元音阶段）幼儿学语的
+enrapture|使狂喜
+exordiums|（讲话论文等）开端, 绪言, 绪论( exordium的名词复数 )
+emeriti|荣誉退休者（尤指男人）（emeritus）的变形
+evacuations|撤空( evacuation的复数形式 ); 撤离; 撤退; 疏散
+entomofauna|昆虫志, 某一地区的昆虫
+emotionalism|感情主义, 易动感情
+episcopate|主教之职, 主教区, 主教
+epoptic|萤光的
+earflaps|(earflap 的复数) n. (御寒用的)耳罩
+emplaning|乘飞机, 装上飞机, 使乘飞机( emplane的现在分词 )
+evicting|（依法从房屋里或土地上）驱逐, 赶出( evict的现在分词 )
+endpoints|(endpoint 的复数) n. 端点；末端, 终结点
+escaping|溢出的；换码
+exterminable|exterminate的变形
+exculpated|开脱, 使无罪( exculpate的过去式和过去分词 )
+endgame|最后阶段；尾声
+execrative|诅咒的, 憎恶的
+espied|看到( espy的过去式和过去分词 )
+embadomonas|[医] 内滴虫属
+elegize|以挽歌哀悼
+exasperated|愤怒的, 恼火的
+equivoque|双关语, 文字游戏, 模棱两可的话
+ecesis|定居
+entitles|使有资格, 使有权( entitle的第三人称单数 ); 给…题名
+entoil|使入圈套, 陷害
+echelonment|阶梯状; 梯次配置; 梯状配置
+ergon|[物]尔刚(用热表示的功的单位, 光子能量单位)
+enteron|消化道
+ergonomist|工效学者, 人类工程学者
+endosome|内涵体
+elevated|提高的
+ectomorphy|瘦型体质
+entrusting|委托, 托付( entrust的现在分词 )
+euphonic|声音和谐的, 悦耳的
+emule|电骡子；电驴（一种P2P协议的互联网下载工具）
+effluviums|臭气( effluvium的名词复数 )；恶臭；放出；无声放电
+emmenia|[生理]月经
+epicentral|震中的
+entorganism|内寄生物
+edificatory|启迪的, 教诲的, 教导的
+encysted|被囊的, 具硬壳的
+ecarte|<法>纸牌的一种玩法
+enameloma|釉质瘤
+enterolobium|[网络] 象耳豆属；番龟树属；耳豆木属
+ecballium|[医] 喷瓜属
+eunuchs|太监, 宦官( eunuch的复数形式 )
+engarland|给...戴上花环, 以花环装饰
+extender|[计] 扩展器, 延长器, 扩充部件
+eburnated|似象牙般坚硬结实的
+excogitate|想出, 研究出, 设计, 发明
+ensorcels|迷惑, 蛊惑( ensorcel的第三人称单数 )
+enlock|把…锁藏起来, 把…锁起保存好；锁上, 锁；把…关起来, 关闭
+eustachium|咽鼓管
+expungement|expunge（擦去，拭去）的变形
+emulsifies|使乳化( emulsify的第三人称单数 )
+electrifying|令人振奋的；惊人的
+encipher|译成密码
+extenuating|使减轻的, 情有可原的
+equipages|装备马车, 化装品( equipage的名词复数 )
+elastance|[化] 倒电容(等于1/c)
+enterozoa|肠腔动物
+explorable|[计][修]可勘探
+exemplarily|作为模范地, 可为鉴戒地
+eudaemonism|幸福说, 快乐说
+exquisitely|精巧地, 敏锐地
+epitoxoid|[医]弱亲和类毒素
+exculpates|开脱, 使无罪( exculpate的第三人称单数 )
+escalatory|使增多的, 使提高的
+enthralls|(enthrall 的第三人称 -s形式) vt. 迷惑, 奴役, 迷住
+epagoge|[逻]归纳论证
+ephemerides|星历表, 历书, 短命的东西( ephemeris的名词复数 )
+etherifying|醚化
+enlivening|使（某人或某物）更活跃或更愉快( enliven的现在分词 )
+echini|echinus的复数
+endorsor|背书人
+estranger|estrange的变形
+esophagocele|食管突出
+excruciate|施酷刑, 拷问, 使苦恼, 折磨
+ecumenical|一般的, 普遍的, 全基督教的, 泛基督教主义的
+euchorda|真嵴索动物亚门
+elders|（某些基督教会中的）长老( elder的复数形式 ); 长辈; 比我年长的人; 接骨木
+emphase|加强
+elevators|电梯( elevator的复数形式 ); 升降机（美）; 谷仓; 粮仓
+earpiece|耳机, 护耳片, 眼镜脚, 头戴式耳机
+erythrophore|[动]红色素细胞
+ethylenes|乙烯属烃
+existential|有关存在的
+erne|白尾海雕
+exhibitive|起显示作用的, 表示的
+endearments|表示爱慕的话语, 亲热的表示( endearment的复数形式 )
+evaporite|[地]蒸发岩,蒸发盐
+epipubic|epipubis的变形
+enameled|涂瓷釉于, 给…上瓷漆, 给…上彩饰( enamel的过去式和过去分词 )
+ergosterol|[生化]麦角固醇
+eparchial|eparchy的变形
+ellipsoid|椭圆体
+eustatic|海面升降的, 海面变化的
+escorted|护送, 护卫( escort的过去式和过去分词 )
+euciliate|& adj.[动]真纤毛亚纲的纤毛原生动物(的)
+evaders|(evader 的复数) n.逃避者,逃避物
+epimedium|淫羊藿
+etherism|[医] 醚瘾
+etymons|字的原形, 词源, 字根( etymon的名词复数 )
+enwombing|使藏于子宫内, 使隐藏( enwomb的现在分词 )
+eudemonistic|eudemonism的变形
+eightieth|num. 第八十, 八十分之一
+evacuator|撤退的人, 排除用具
+eirenic|和平主义的, 和平的
+eulytite|[化] 闪铋矿; 硅铋矿; 硅铋石
+enrollee|被征入伍者, 入会者, 入学者
+eardrops|耳药水
+extradite|引渡, 获取(逃犯等)的引渡
+embolectomy|[医]栓子切除术
+enteromere|[医] 肠节
+entoils|使入圈套, 陷害( entoil的第三人称单数 )
+equalized|（使某事物）相等( equalize的过去式和过去分词 )
+eliminates|排除( eliminate的第三人称单数 ); 消除; 除掉; <口>干掉
+entocnemial|[医] 胫骨内侧的
+enantiomeric|对映体的
+egresses|外出；出口
+emptiest|空的( empty的最高级 ); 空闲的; 没有; 言语或行动空洞的
+elenctic|间接反驳的
+emblazed|点燃, 颂扬, 照亮( emblaze的过去式和过去分词 )
+elephantoid|[医] 象皮病样的
+eutheria|[医] 真兽亚纲
+exosmic|[化]外渗的, 渗入的
+eruptions|喷发, 爆发( eruption的复数形式 )
+eyebolt|有眼螺栓, 吊环螺栓
+exulted|狂喜, 欢跃( exult的过去式和过去分词 )
+erotism|性爱倾向, 性的兴奋
+engraftment|[医]移植物移入
+epigastrium|上腹部
+etcher|蚀刻工
+elaeagnaceae|[医] 胡颓子科
+eubacteria|真细菌
+emmeniopathy|[医]月经病
+exonerates|免罪, 免除( exonerate的名词复数 )
+explicatory|解说的, 说明的
+empleomania|官瘾, 做官癖
+englut|吞下
+enfeoffed|授予封地( enfeoff的过去式和过去分词 ); 授予领地; 转让; 让渡
+epitaxially|外延地; 取向接长地; 取向附生地
+enlightened|有知识的, 进步的, 文明的
+expertness|专门性
+estanciero|农场主人, 牧场主人
+empathize|[医] 移情, 神入
+ethnographer|人种志学者, 人种学者
+enounces|宣言( enounce的第三人称单数 ); 声明; 说出; 发音清晰地读出
+elegizes|作挽歌祭引, 作哀歌( elegize的第三人称单数 )
+easel|画架, 黑板架
+etymological|词源的, 词源学的
+enfeeblement|弄弱
+eluviate|[地质]淋溶
+ectoplacenta|外胎盘
+eardrums|<解>鼓膜, 耳膜( eardrum的复数形式 )
+embolize|栓塞, 发生栓塞
+emulsionize|乳化
+esox|[医]狗鱼
+eosinophil|[医] 嗜曙红细胞, 嗜酸性细胞
+epididymides|[医] 附睾
+esquiring|先生；绅士
+egyptologist|埃及文物学者
+elsin|(=elshin, elson)鞋锥
+encradle|把…放在摇篮里：
+easters|(Easter 的复数) n. 复活节
+epexegetical|解释性
+embassies|大使馆( embassy的名词复数 ); 大使馆全体成员
+epidotic|[矿]绿帘石的
+encroaches|侵犯( encroach的第三人称单数 ); 侵占; 侵害; 妨碍（正常生活或活动等）
+epitomes|缩影
+envisagement|展望
+eeling|捕鳗, 捕鳝鱼
+eaten|eat的过去分词
+elutriator|淘析器
+elasticized|经过弹性处理的
+eventuality|可能发生的事, 可能性
+entangles|使某人（某物/自己）缠绕, 纠缠于（某物中）, 使某人（自己）陷入（困难或复杂的环境中）( entangle的第三人称单数 )
+edeitis|生殖器炎
+enviously|羡慕地
+evoked|[医]诱发的
+emmenic|[医] 月经的
+earthpea|花生
+elastomers|(elastomer 的复数) [化] 高弹体; 弹性体
+eclipsis|(重要字或音之)略语
+expresses|快车( express的名词复数 ); <英>快运; [E-]快报; 快件服务
+exclamative|<古>=exclamatory
+europeans|欧洲人( European的复数形式 )
+ecad|[生]适应型
+endosepsis|[医] 内因败血病
+effacing|擦掉( efface的现在分词 ); 抹去; 超越; 使黯然失色
+executes|执行（法令）( execute的第三人称单数 ); （按计划或设计）作成; 履行; 演（戏）
+extemporally|extemporal的变形
+eremitish|eremite的变形
+embryologic|胚胎学
+erodent|腐蚀的, 侵蚀的
+exsert|使突出, 使伸出
+exobiologist|外空生物学家
+elasticin|[医] 弹性硬蛋白
+esplanades|平坦的空地, 游憩场, 散步路( esplanade的复数形式 )
+erinaceidae|猬科；猬形目
+episiotomies|(episiotomy 的复数) [医] 外阴切开术
+embryogenic|[生]胚胎发生(形成)的
+eriophyid|& adj.[动]瘿螨(的)
+endurant|能忍耐的,能耐劳的
+echovirus|,ECHO virus[微]艾柯病毒,人肠道孤病毒, 人肠细胞病变孤儿病毒
+evanish|消失, 消灭
+entoproct|& adj.内肛动物(的)
+eutectic|容易溶解的, 低共熔的
+embaying|使入湾, 围绕, 成港湾状( embay的现在分词 )
+esther|以斯帖（犹太女王名）；以斯帖记；埃丝特（女子名）
+emblematize|象征, 成为...的标记
+endomitosis|[生]核内的有丝分裂
+electrine|[医]琥珀色的, 琥珀黄色的
+eterne|<古><诗>=eternal
+etyma|词根, 词源
+emmental|瑞士（多孔）干酪；埃曼塔尔（瑞士中部地区）
+engined|装有若干数量或某种类型发动机的
+ecdemite|[矿]氯砷铅矿
+earthlings|（科幻小说中外星球人谈话时使用的）地球人( earthling的复数形式 )
+elaeocarpus|杜英属
+endothelioma|[医]内皮瘤
+electros|(electro 的复数) n. 电镀物品
+elater|弹丝, 弹虫, 叩头虫
+engrainedly|engrained的变形
+erotopathic|[医] 性欲异常的
+ethernets|(Ethernet 的复数) n. 以太网
+embrown|着褐色, 使成深色
+extraviolet|紫外线的
+enwall|(Enwall)人名；(瑞典、芬)恩瓦尔
+emerges|出现( emerge的第三人称单数 ); 露头; 形成; 事实
+expiatory|赎罪的, 抵偿的
+ethion|[化]乙硫磷(用作杀虫剂)
+earthstar|[植]量显地星
+echinozoa|有棘亚门
+ethylene|乙烯
+exanimation|死, 昏迷, 晕厥, 意气消沉
+ekistics|城高及区域的规划学
+engelmann|[人名] 恩格尔曼
+enneagonal|enneagon的变形
+electrotaxis|向(趋)电性
+euphoria|兴奋, 陶醉, 陶醉感
+ephemeridae|[网络] 蜉蝣科；蜉蚴目；蜉科
+epithalamic|上丘脑的
+enterectomy|[医]肠切除术
+engrossingly|engrossing的变形
+expunction|消去, 消除, 消灭
+exhibiting|陈列, 展览( exhibit的现在分词 ); 表现; 显示; [法律]当庭出示（证件、物证等）
+encomienda|大授地制
+epistolical|书信的, 书信体的, 用书信的
+entelechy|圆满实现, 生命原理
+ethereality|如醚的性质, 轻妙, 微妙
+egality|平等, 均等
+estolide|酸酐
+expositorily|以解说的方式
+epiloia|结节性(脑)硬化
+exequatur|领事证书
+equivocator|说模棱话的人, 说话支吾的人
+embellishing|美化( embellish的现在分词 ); 装饰; 修饰; 润色
+etoile|[法]星, 星形花纹, 星形物, 名演员, 名星
+esophagotomy|食管切开术
+excystation|脱囊
+enigmatizing|使成谜；使费解
+earwig|蠼螋
+eremitical|eremite的变形
+epanorthosis|[修]换语
+endofaradism|[医] 内部感应电疗法, 体腔感应电疗法
+erodes|侵蚀, 腐蚀( erode的第三人称单数 ); 逐渐毁坏, 削弱, 损害
+equationally|相等的
+episcopally|episcopal的变形
+elytrocele|[医] 阴道疝
+eurythmics|艺术体操
+extols|赞颂, 赞扬, 赞美( extol的第三人称单数 )
+estrange|使疏远, 离间, 使离开
+erythrocyte|红血球
+ensiled|青贮饲料( ensile的过去式和过去分词 )
+emulsifier|乳化剂
+epipubes|上耻骨 (epipubis的变形)
+eurite|霏细岩
+eardrum|中耳, 鼓膜
+erectable|erect的变形
+eburnation|[医]骨质象牙化
+expirator|气体发生器
+epigraphs|(epigraph 的复数) n. 碑文, 题铭, 题词
+epitomist|写节录者, 写摘要者
+endophagous|[昆]内食的(指昆虫幼虫在寄主组织内取食生活的)
+excalcarate|无距的
+endonuclear|细胞核内的
+erostrate|无喙的, 缺嘴的
+erumpent|突然现出的, 迸出的, 裂出的
+endopleurite|侧内骨
+engager|衔接器
+elan|<法>锐气, 热忱
+eucaryotic|真核的
+ensilages|保藏于地窖( ensilage的第三人称单数 )
+eucyclic|[植](花)同基数轮列的( 指由每轮成员数相同的连续几轮组成的)
+encashing|(encash 的现在分词) vt. 付现, 兑现
+embanking|筑堤( embank的现在分词 )
+elects|（进行）选举( elect的第三人称单数 ); 推举; 选择; 决定（做某事）
+enforcing|实施( enforce的现在分词 ); 执行; 强迫; 强制执行
+enkidu|恩奇都
+ester|酯
+ennoble|授予爵位, 使高贵
+entangle|使纠缠, 卷入, 使混乱
+ethnical|种族的, 异教徒的, 人种学的
+encephalic|脑的
+earcockle|小麦穗瘤病
+evite|<古>避开,回避
+epigraphy|碑文, 题铭, 碑铭研究, 金石学
+emboldened|鼓励, 使有胆量( embolden的过去式和过去分词 )
+ephebeum|(古希腊,古罗马建筑里的)体操场
+epistoler|书信作家, 举行圣餐时朗读使徒书之人
+enamoring|使倾心, 使迷恋( enamor的现在分词 )
+endorsements|背书( endorsement的复数形式 ); （驾驶执照上的）违章记录; （公开的）赞同; （通常为名人在广告中对某一产品的）宣传
+emanationism|[哲学](新柏拉图主义代表普罗提诺提出的)流溢说，流出论
+epichorion|包蜕膜
+enfettered|用镣铐束缚( enfetter的过去式和过去分词 )；使带上脚镣；使受约束；使受奴役
+enlargers|(enlarger 的复数) n. 放大机, 扩大者, 详述者
+eluvial|残积层的
+earflap|(御寒用的)耳罩
+erechtheum|厄瑞克修姆庙(雅典卫城上一庙宇)
+ensnared|诱捕, 使入陷阱, 使入圈套( ensnare的过去式和过去分词 )
+exhaustible|可用完的, 会枯竭的
+exercisable|可实行的, 可运用的, 可操作的
+endlong|纵长地, 全长地, 直立地
+env|信封（envelope）；外交使节（envoy）
+enterosepsis|肠脓毒病
+endocrinous|[医] 内分泌的
+evisceration|[医] 去脏术, 脏器除去术
+entosternal|关于腹内突的
+entangled|卷入的; 陷入的; 被缠住的; 缠在一起的
+ecliptical|蚀的;黄道的
+empyemic|[医] 脓胸的
+exultation|狂喜, 大悦, 欢欣
+exposit|揭示,显示, 说明,解释,阐述
+ectropionize|[医] 使外翻
+excising|切割；收税；删除（excise的现在分词）
+ecb|[计] 事件控制块
+escopeta|卡宾枪
+eudemon|善良的精灵,守护神
+exoplasm|外质
+entre|（西）在…之间
+emoted|<书>强烈地表现[表露]感情( emote的过去式和过去分词 )
+euchres|以该玩法趁对方疏忽时打嬴, 打败, 欺骗( euchre的第三人称单数 )
+eustatically|海面升降地, 海面变化地
+endosmic|[医] 内渗的, 渗入的
+eteocles|[希神]厄特俄克勒斯(Oedipus之子, 被其弟Polynices所杀)
+emulsible|(=emulsifiable)能乳化的, 可成乳状的
+euonymus|[化] 卫矛苷
+exoterical|外面的, 外界的, 一般人所能理解的, 开放的, 公开的, 普通的, 通俗的
+epitomical|epitome的变形
+equating|认为某事物（与另一事物）相等或相仿( equate的现在分词 ); 相当于; 等于; 把（一事物） 和（另一事物）等同看待
+evicted|（依法从房屋里或土地上）驱逐, 赶出( evict的过去式和过去分词 )
+escarping|内壕（等于escarpment）
+endosulfan|硫丹(一种烈性杀虫剂)
+etymologized|探溯语源, 指示语源( etymologize的过去式和过去分词 )
+elaeometer|油重计
+ectodermic|[医] 外胚层的
+enargite|硫砷钢矿
+ebbet|[动]绿北螈( 产于美国东部的一种普通绿色蝾螈)
+excellencies|(X-)阁下（对大使、大臣、总督、主教等的尊称）( excellency的名词复数 ); 优点, 美德
+exothecium|(蒴)外层
+exorcizes|（用祈祷等）驱除（恶魔）, 给（某人、某地）驱除妖魔( exorcize的第三人称单数 )
+exacerbating|使恶化, 使加重( exacerbate的现在分词 )
+exogonium|外蕊属
+experiential|经验的, 根据经验的, 经验上的
+extralimital|在某区域内不存在的
+enucleating|阐明, 说明, 从…摘除细胞核( enucleate的现在分词 )
+ennobler|ennoble的变形
+ensorceled|迷惑, 蛊惑( ensorcel的过去式和过去分词 )
+elohim|上帝
+escapable|可逃脱的, 可避免的
+expatriates|侨民, 放弃本国国籍的人( expatriate的名词复数 )
+envied|被妒忌的, 被羡慕的
+emblazoned|用纹章装饰, 颂扬, 盛饰( emblazon的过去式和过去分词 )
+evisite|霓闪光岗正长岩
+embalmment|[医] 尸体防腐法
+elix|elixir 酏剂, 甘香酒剂
+easeful|舒适的, 安逸的
+excrescences|瘤, 赘生物( excrescence的复数形式 )
+ephydrid|水蝇
+endocytosis|[生](细胞)内吞作用
+eleolite|[矿]霞石, 脂光石
+effeteness|枯竭；贫瘠；疲惫衰弱
+erastus|伊拉斯塔斯
+embrocation|涂擦患处, 涂擦剂
+exploitee|被剥削者, 被榨取者
+entirety|全部, 整体
+entreated|恳求, 乞求( entreat的过去式和过去分词 )
+engrossed|占用全部时间的, 全神贯注的
+exults|狂喜, 欢跃( exult的第三人称单数 )
+emanatory|(=emanative)发出的,散发, 放射的
+egression|外出
+enchase|镶嵌, 镂刻, 雕刻
+endotoxin|内毒素
+essenced|香料的, 香气的
+eighth|num. 第八, 八分之一
+eyesome|媚人的, 可爱的
+empery|<诗>绝对统治(权),帝权,帝国(的疆土)
+espace|雷诺太空；埃斯佩斯（法国雷诺汽车公司出产的汽车名）
+embrasures|[医]外展隙
+esquiline|埃斯奎林山(古罗马建在七座山上, 此为其中之一)[见Seven Hills of Rome]
+ectorhinal|[生]鼻外的
+examinee|受试人, 应试者
+eger|[人名] 埃杰; [地名] [德国] 埃格河
+endocranial|cast 颅腔模型
+esplanade|平坦空地, 广场
+educationese|教育界行话(或术语)
+eptatretus|[医]粘盲鳗
+exuberated|充满( exuberate的过去式和过去分词 )
+exegetics|(对犹太教,基督教《圣经》原义进行解析和注的)解经学
+exuberating|充满( exuberate的现在分词 )
+epacme|繁盛期, 增长期
+exegetically|注释地
+excalibur|( 传说中) 亚瑟王的神剑
+exencephalus|[医] 露脑畸胎
+ethereally|轻妙地, 幽雅地
+effusiometer|[化] 隙透计; 扩散计; 气体扩散计
+exurbia|城市远郊
+eleazar|(基督教《圣经》中的)以利亚撒( 亚伦之子和继承人、以色列的大祭司)
+escheated|(escheat 的过去时) n.重还, 归还,承受转归领主的土地
+ethmolith|[地质]岩漏斗
+ethanol|乙醇, 酒精
+esuriency|饥饿, 贪婪, 贪心, 暴食, 贪吃
+elastase|[生化]弹性蛋白酶,胰肽酶E
+equips|装备( equip的第三人称单数 ); 配备; 使有能力; 使胜任
+expurgates|删除（书等中的）令人反感的成分, 修订, 删去（不当处）( expurgate的第三人称单数 )
+enthralment|迷惑;奴役
+erythrolysin|红细胞溶解素, 溶血素
+eroded|被侵蚀的, 损坏了
+excursive|游览的, 离题的, 散漫的
+encephalitic|脑炎的
+emptysis|[医]咯血, 吐血
+evaluative|可估价的
+eavesdropped|偷听（别人的谈话）( eavesdrop的过去式和过去分词 )
+enflowered|饰以花；以花装饰
+excremental|排泄物的, 粪便的
+estrepement|滥垦,使土地枯竭
+emasculatory|去势的
+epirogeny|造陆作用
+entropy|熵
+elapsed|时间过去；消逝（elapse的过去分词）
+emulsifiers|乳化剂, 乳化器( emulsifier的复数形式 )
+enteroplegia|[医] 肠麻痹, 肠瘫
+epigastric|[解]腹上部的
+extensometer|伸长计
+escarpments|悬崖( escarpment的复数形式 ); 断崖; 绝壁; 陡斜坡
+etiolates|使变青白, 使变苍白( etiolate的第三人称单数 )
+eglomise|镜画
+enterogram|肠动描记图
+effrontery|厚颜无耻
+eccrisis|排泄
+ecchymotic|[医] 瘀斑的
+exposers|(exposer 的复数) n. 曝光器
+epicranius|[医] 颅顶肌
+eversible|可外翻的, 可翻转的
+exiguous|稀少的, 细微的, 细小的
+eigenvectors|(eigenvector 的复数) [计] 本征向量
+electrolyze|电解, 用电分解
+edibles|(edible 的复数) n. 食品, 食物
+emend|修订, 校勘
+embattled|（与敌人或批评者）处于交战中的, 受围攻的; 严阵以待的
+edeomania|色情狂
+entomolite|昆虫化石
+edaphon|土壤微生物(群)
+epiderm|[医] 表皮
+easefully|安闲地
+exempts|使免除[豁免]( exempt的第三人称单数 )
+ecoles|(Ecole 的复数) n. (Ecole)人名；(法)埃科勒
+envisaged|想像, 设想( envisage的过去式和过去分词 )
+episthotonos|[医] 前弓反张
+endostea|endosteum的复数
+ecumenicist|ecumenicism的变形
+ejections|(ejection 的复数) n. 驱逐, 喷出, 排出物
+eranthis|[网络] 菟葵属；冬菟葵
+epiglottides|会厌( epiglottis的复数形式 )
+exenteration|取出肚肠, 剜出内容物
+etamine|[纺]纱罗, 筛绢
+empyreuma|焦臭
+elaioleucite|油粒
+electrotyper|电版工人
+elenchtic|【逻辑学】；逻辑反驳的, 间接反驳的, 辩驳的
+extrinsical|非固有的, 非本质的
+enchylema|[生]（细胞的）透明质,胞基质
+enormity|暴行, 极恶, 巨大
+emulousness|emulous的变形
+extense|伸展的, 扩展的（等于extensus）
+effigurate|有一定形状的, 附属部分充分发育的
+epergne|(餐桌中央用以放水果,糕点,鲜花等的)分隔(层)饰盘
+exhaled|呼出, 发散出( exhale的过去式和过去分词 ); 吐出（肺中的空气、烟等）, 呼气
+excusal|原谅, 免除(税款或罚款等的)
+embryoism|[医] 胚胎状态
+enrobed|使穿衣袍( enrobe的过去式和过去分词 )
+epeeist|重剑运动员
+evitable|可以避免的
+enormious|巨大的, 庞大的
+eyebeam|一瞥,一看
+embrocated|涂擦药液( embrocate的过去式和过去分词 )
+euthyneurous|直神经的
+ethnically|人种上, 民族上
+earthman|地球人(即地球上的人,该词源于科幻小说)
+episcopalian|主教制度的, 主教的
+engages|从事( engage的第三人称单数 ); 使从事（某种事业等） (in); 吸引或引起（注意、兴趣等）; 与（某人）交战
+enlaced|捆扎, 缠绕( enlace的过去式和过去分词 )
+embden|(原产于德国 Embden城的)大白鹅,爱滕鹅(亦作Embden goose)
+endogamous|同族结婚的
+eutectoid|[化]类低共熔体
+entice|诱骗, 引诱, 怂恿
+epictetian|Epictetus的变形
+exostema|外蕊木属
+etiotropic|[医] 针对病因的, 直对病因的
+enrockment|[建]用石块、石板筑成的喷泉或桥的基础, 基底填石, 抛石护岸
+exerts|用（力）( exert的第三人称单数 ); 尽（力）; 运用; 发挥
+egal|egalitarian 平等主义的, 平等主义
+etchings|蚀刻版画( etching的复数形式 )
+elatedly|兴高采烈地
+ethnozoology|民族动物学
+explored|开发；冒险；探寻（explore的过去分词）
+eupnea|[医]呼吸正常, 平静呼吸
+exotospore|[医] 子孢子体
+ethnos|(=ethnic group)同种同文化之民族
+eschewal|避免（某种行为、食物等）, 回避（有害的或讨厌的人或事物）逃避
+encanthis|内眦瘤
+evildoer|为恶者, 做坏事的人
+eagling|[高]低于标准杆数两杆（eagle的现在分词形式）
+earlap|(=earflap)(帽上可放下护耳御寒防冻的)耳扇,帽瓣,(=earlobe)[解]耳垂,耳壳,外耳
+embosser|压[轧]花机, 压纹机, 印纹轧光机
+equipoises|平衡, 均衡( equipoise的第三人称单数 )
+expatriate|移居国外者, 侨民, 被流放者, 背井离乡者
+ennobling|封…为贵族, 使高贵( ennoble的现在分词 )
+eucalypt|[植]桉树
+exoperidium|[植]外包皮, 外子壳
+eternity|永远, 来世, 不朽
+ebonize|使成乌木色, 使象乌木
+elusively|易忘记地；巧妙逃避地
+elkanah|[人名] 埃尔卡纳
+eyeground|[解]眼底
+emigree|[网络] 流氓
+ectromelus|[医] 缺肢畸胎, 四肢不全畸胎
+expeditate|截爪
+enclitic|重读词后词
+ecthyma|[医]深脓疱, 臁疮
+endocone|内锥
+equipoise|平衡, 均衡
+eumolpus|欧摩尔波斯（希腊神话中的人物）
+endosmometer|内渗计
+emulates|与…竞争( emulate的第三人称单数 ); 努力赶上; 计算机程序等仿真; 模仿
+enemas|灌肠剂( enema的复数形式 )
+endeavors|<正>努力, 尽力( endeavor的名词复数 )
+equilibrates|（使）平衡, （使）相称( equilibrate的第三人称单数 )
+eggheads|有知识者, 受过高等教育的人, 理论家( egghead的复数形式 )
+eremitic|隐士的, 隐士般的
+elevenses|午前茶, 午前茶点
+exormia|丘疹性皮病
+eutropic|向阳光性的
+escallop|海扇贝或其贝壳, 浅锅
