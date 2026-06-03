@@ -1,0 +1,6089 @@
+computer|电脑
+cat|猫
+car|汽车
+cold|冷的
+come|来
+coffee|咖啡
+china|中国
+chinese|中文
+chair|椅子
+city|城市
+country|国家
+cost|成本
+cheap|便宜的
+color|颜色
+camera|相机
+chemistry|化学
+cough|咳嗽
+clean|干净的
+complex|复杂的
+comfortable|舒适的
+continue|继续
+celebration|庆祝
+change|改变
+cry|哭
+confused|困惑的
+calm|冷静的
+confident|自信的
+careful|小心的
+careless|粗心的
+cell|细胞
+chromosome|染色体
+conservation|保护
+compound|化合物
+continent|大陆
+climate|气候
+carbon|碳
+client|客户端
+charger|充电器
+conditioner|调节器
+cleaning|清洁
+closet|衣柜
+clinic|诊所
+cholesterol|胆固醇
+cancel|取消
+coupon|优惠券
+cash|现金
+credit|信用卡
+customer|顾客
+college|学院
+classroom|教室
+certificate|证书
+course|课程
+ceremony|典礼
+calculate|计算
+call|打电话
+can|能够
+care|关心
+carry|携带
+catch|抓住
+cause|引起
+charge|收费
+check|检查
+choose|选择
+claim|声称
+clear|清除
+climb|爬
+close|关闭
+collect|收集
+combine|结合
+comfort|安慰
+command|命令
+communicate|交流
+compare|比较
+compete|竞争
+complain|抱怨
+complete|完成
+concentrate|专注
+concern|关心
+confirm|确认
+connect|连接
+consider|考虑
+consist|组成
+contact|联系
+contain|包含
+contribute|贡献
+control|控制
+cook|烹饪
+copy|复制
+correct|纠正
+count|计数
+cover|覆盖
+create|创造
+cross|穿过
+capable|有能力的
+casual|随意的
+central|中央的
+certain|确定的
+chemical|化学的
+chief|主要的
+civil|公民的
+classic|经典的
+clever|聪明的
+cloudy|多云的
+commercial|商业的
+common|常见的
+concerned|关心的
+concrete|具体的
+conscious|有意识的
+conservative|保守的
+considerable|相当大的
+consistent|一致的
+constant|持续的
+content|满足的
+convenient|方便的
+conventional|传统的
+cool|凉爽的
+crazy|疯狂的
+creative|创造性的
+cultural|文化的
+curious|好奇的
+current|当前的
+cute|可爱的
+carpenter|木匠
+cashier|收银员
+chef|厨师
+cleaner|清洁工
+clerk|职员
+coach|教练
+cabbage|卷心菜
+candy|糖果
+carrot|胡萝卜
+cereal|谷物
+cheese|奶酪
+cherry|樱桃
+chicken|鸡肉
+chocolate|巧克力
+citrus|柑橘
+coconut|椰子
+cookie|曲奇饼干
+corn|玉米
+cucumber|黄瓜
+camel|骆驼
+cow|牛
+crocodile|鳄鱼
+cave|洞穴
+cliff|悬崖
+castle|城堡
+church|教堂
+cinema|电影院
+clock|时钟
+cup|杯子
+cap|帽子
+coat|外套
+cheek|脸颊
+chin|下巴
+child|孩子
+cousin|表兄弟姐妹
+century|世纪
+chance|机会
+choice|选择
+courage|勇气
+capture|捕获
+carve|雕刻
+cast|投掷
+challenge|挑战
+chase|追逐
+cheat|作弊
+cheer|欢呼
+chew|咀嚼
+choke|窒息
+chop|砍
+clap|鼓掌
+clarify|澄清
+classify|分类
+clip|剪裁
+clothe|穿衣
+cloud|云遮
+complicate|使复杂
+compliment|赞美
+compose|组成
+compress|压缩
+conceal|隐藏
+conclude|结束
+conduct|进行
+confess|忏悔
+confine|限制
+conflict|冲突
+confront|面对
+confuse|使困惑
+conserve|保护
+consolidate|巩固
+conspire|密谋
+construct|建造
+consult|咨询
+consume|消费
+contaminate|污染
+contend|主张
+contract|合同
+contradict|矛盾
+convert|转换
+convince|说服
+cooperate|合作
+coordinate|协调
+corrupt|腐败
+counsel|建议
+crack|裂缝
+crash|坠毁
+crawl|爬行
+creep|爬行
+criticize|批评
+crowd|拥挤
+crown|加冕
+cruise|巡航
+crush|压碎
+cultivate|培养
+cure|治愈
+curl|卷曲
+curse|诅咒
+curve|弯曲
+customise|定制
+cut|切割
+cycle|循环
+cabin|小屋
+cabinet|内阁
+cable|电缆
+cafeteria|自助餐厅
+calendar|日历
+camp|营地
+campaign|运动
+campus|校园
+canal|运河
+cancer|癌症
+candidate|候选人
+candle|蜡烛
+cannon|大炮
+canoe|独木舟
+canvas|帆布
+capacity|容量
+capital|首都
+captain|船长
+cardboard|纸板
+cargo|货物
+carpet|地毯
+carriage|车厢
+carrier|载体
+cart|手推车
+cartoon|卡通
+case|案例
+cassette|盒式磁带
+catalog|目录
+cathedral|大教堂
+cattle|牛
+caution|谨慎
+ceiling|天花板
+celebrate|庆祝
+cellar|地窖
+cement|水泥
+census|人口普查
+chain|链条
+chalk|粉笔
+chamber|房间
+champion|冠军
+channel|频道
+chapter|章节
+character|性格
+charity|慈善
+charm|魅力
+chart|图表
+chemist|化学家
+cheque|支票
+chess|国际象棋
+chest|胸部
+childhood|童年
+chill|寒冷
+chimney|烟囱
+chorus|合唱团
+Christ|基督
+Christian|基督徒
+Christmas|圣诞节
+cigarette|香烟
+circle|圆圈
+circuit|电路
+circumference|圆周
+circumstance|情况
+citizen|公民
+civilization|文明
+clash|冲突
+class|班级
+claw|爪子
+clay|粘土
+cloth|布料
+clothes|衣服
+clothing|服装
+club|俱乐部
+clue|线索
+coal|煤
+coarse|粗糙的
+coast|海岸
+cock|公鸡
+code|代码
+coin|硬币
+collapse|倒塌
+collar|衣领
+colleague|同事
+collection|收藏
+colony|殖民地
+column|柱子
+comb|梳子
+combat|战斗
+comment|评论
+commerce|商业
+commission|委员会
+commit|犯
+committee|委员会
+communism|共产主义
+community|社区
+compact|紧凑的
+companion|同伴
+company|公司
+compass|指南针
+compel|强迫
+competent|有能力的
+competition|竞争
+compile|编译
+component|组件
+comprehend|理解
+comprise|包含
+concept|概念
+concert|音乐会
+condemn|谴责
+condition|条件
+conference|会议
+confidence|信心
+congratulate|祝贺
+congress|国会
+conquer|征服
+conscience|良心
+consent|同意
+consequence|后果
+constitute|构成
+contest|竞赛
+contrary|相反的
+contrast|对比
+convention|大会
+conversation|对话
+copper|铜
+corner|角落
+correspond|通信
+cottage|小屋
+cotton|棉花
+could|能够
+council|理事会
+counter|柜台
+court|法院
+craft|工艺
+cream|奶油
+creature|生物
+crime|犯罪
+crisis|危机
+criteria|标准
+critic|批评家
+critical|关键的
+criticism|批评
+crop|庄稼
+cruel|残忍的
+crude|粗糙的
+crystal|水晶
+cube|立方体
+culture|文化
+cupboard|橱柜
+currency|货币
+curriculum|课程
+curtain|窗帘
+cushion|垫子
+custom|习俗
+cylinder|圆柱体
+chlorine|元素周期表的第17个，氯，缩写Cl
+calcium|元素周期表的第20个，鈣，缩写Ca
+chromium|元素周期表的第24个，鉻，缩写Cr
+cobalt|元素周期表的第27个，鈷，缩写Co
+cadmium|元素周期表的第48个，鎘，缩写Cd
+cesium|元素周期表的第55个，銫，缩写Cs
+cerium|元素周期表的第58个，鈰，缩写Ce
+curium|元素周期表的第96个，鋦，缩写Cm
+californium|元素周期表的第98个，鉲，缩写Cf
+copernicium|元素周期表的第112个，鿔，缩写Cn
+carefully|小心地
+carefulness|谨慎
+creation|创造
+creatively|创造性地
+creativity|创造力
+changeable|可变的
+changeably|可变地
+clarity|清晰
+clearly|清晰地
+choosy|挑剔的
+choosily|挑剔地
+closure|关闭
+closed|关闭的
+closely|紧密地
+comparison|比较
+comparative|比较的
+comparatively|相对地
+competitive|竞争的
+competitively|竞争地
+connection|连接
+connected|连接的
+connectedly|连接地
+consideration|考虑
+considerably|相当大地
+construction|建设
+constructive|建设性的
+constructively|建设性地
+correction|纠正
+correctly|正确地
+correctness|正确性
+conclusion|结论
+conclusive|决定性的
+conclusively|决定性地
+commercially|商业地
+commercialize|商业化
+compute|计算
+computable|可计算的
+computably|可计算地
+courtly|礼貌地
+contractual|合同的
+contractually|合同地
+criminate|定罪
+criminally|刑事地
+culturally|文化地
+culturalize|使文化化
+climatic|气候的
+climatically|气候地
+climatize|适应气候
+confide|倾诉
+criminal|犯罪的
+confidently|自信地
+cellular|细胞的
+cellularly|细胞地
+chromosomes|染色体
+chromosomal|染色体的
+chromosomally|染色体地
+circulate|循环
+circulation|循环
+circulatory|循环的
+circulatorily|循环地
+conifer|针叶树
+conifers|针叶树
+coniferous|针叶树的
+coniferously|针叶树地
+crepuscular|晨昏性的
+crepusculars|晨昏性生物
+crepuscularly|晨昏性地
+carnivorous|肉食的
+carnivores|肉食动物
+carnivorously|肉食地
+conservations|保护
+conservational|保护的
+conservationally|保护地
+contamination|污染
+contaminations|污染
+contaminational|污染的
+contaminationally|污染地
+communities|群落
+communal|群落的
+communally|群落地
+chemotrophic|化能营养的
+chemotrophs|化能营养生物
+chemotrophically|化能营养地
+compostable|可堆肥的
+compostables|可堆肥物
+compostably|可堆肥地
+cellulose|纤维素
+celluloses|纤维素
+cellulosic|纤维素的
+cellulosically|纤维素地
+coenzyme|辅酶
+coenzymes|辅酶
+coenzymatic|辅酶的
+coenzymatically|辅酶地
+catalyst|催化剂
+catalysts|催化剂
+catalytic|催化的
+catalytically|催化地
+catabolism|分解代谢
+catabolisms|分解代谢
+catabolic|分解代谢的
+catabolically|分解代谢地
+chinesely|中国地
+canada|加拿大
+canadas|加拿大
+canadian|加拿大的
+canadianly|加拿大地
+cambodia|柬埔寨
+cambodias|柬埔寨
+cambodian|柬埔寨的
+cambodianly|柬埔寨地
+colombo|科伦坡
+colombos|科伦坡
+colomboly|科伦坡地
+cairo|开罗
+cairos|开罗
+cairoly|开罗地
+cape|开普
+capes|开普
+capely|开普地
+casablanca|卡萨布兰卡
+casablancas|卡萨布兰卡
+casablancan|卡萨布兰卡的
+casablancanly|卡萨布兰卡地
+copenhagen|哥本哈根
+copenhagens|哥本哈根
+copenhagenly|哥本哈根地
+chicago|芝加哥
+chicagos|芝加哥
+chicagoan|芝加哥的
+corporation|企业
+compliance|合规
+copyright|版权
+cognition|认知
+concentration|专注
+consciousness|意识
+counseling|咨询
+coping|应对
+communication|沟通
+compassion|怜悯
+contemporary|当代的
+classical|古典的
+composition|构图
+composer|作曲家
+choreography|编舞
+costume|服装
+championship|冠军赛
+cycling|自行车
+climbing|攀岩
+camping|露营
+checkers|跳棋
+cards|纸牌
+career|职业生涯
+coordination|协调
+contribution|贡献
+category|类别
+crew|团队
+competitor|竞争者
+challenger|挑战者
+contender|竞争者
+celebrity|名人
+capability|能力
+conviction|信念
+certainty|确定性
+curiosity|好奇心
+commitment|承诺
+consolation|安慰
+contemplation|沉思
+creator|创造者
+consulate|领事馆
+customs|海关
+crayon|蜡笔
+chuckle|轻声笑
+commence|开始
+context|背景
+constraint|约束
+chat|聊天
+capsule|胶囊
+carbohydrate|碳水化合物
+cooked|煮熟的
+cured|腌制的
+continental|大陆的
+coastal|沿海的
+countryside|乡村
+county|郡
+crossing|十字路口
+chunk|大块
+cartridge|墨盒
+container|容器
+crate|板条箱
+carton|纸箱
+competence|能力
+comprehension|理解
+casino|赌场
+cease|停止
+cemetery|墓地
+chairman|主席
+chip|芯片
+choir|合唱团
+cite|引用
+clause|条款
+cling|紧贴
+clone|克隆
+cluster|集群
+coalition|联盟
+colonial|殖民的
+commodity|商品
+compensate|补偿
+complement|补充
+compromise|妥协
+conform|遵守
+consensus|共识
+controversial|有争议的
+convey|传达
+cope|应对
+core|核心
+corporate|公司的
+correspondent|记者
+corridor|走廊
+counterpart|对应的人
+couple|一对
+courtesy|礼貌
+coverage|覆盖范围
+changing|不断变化的
+companies|公司
+calories|卡路里
+classes|课
+cars|汽车
+coming|即将到来的
+customers|顾客
+centre|中心
+challenges|挑战
+came|来
+cooking|烹饪
+consumers|消费者
+cats|猫
+considered|经过深思熟虑的
+colleagues|同事
+crops|庄稼
+compared|比较
+center|中心
+choices|选择
+consequences|结果
+creating|创造
+card|卡片
+consuming|消耗
+conditions|条件
+children|孩子们
+causes|原因
+countries|国家
+comes|来
+cities|城市
+changed|改变
+cases|事例
+consumption|消费
+called|打电话
+corresponding|相应的
+carey|凯里
+cultures|文化
+changes|变化
+completely|完全地
+concerns|担心
+contains|包含
+cheating|作弊
+costs|成本
+caused|导致
+connections|联系
+conversations|会话
+cheaper|更便宜的
+complaint|抱怨
+chronic|长期的
+citation|引文
+controversy|争议
+cornerstone|基石
+calorie|卡路里
+consultancy|咨询公司
+conformity|一致
+complicated|复杂的
+certify|保证
+calculation|计算
+chronicle|记录
+collide|撞击
+contestant|参赛者
+chronically|慢性地
+compelling|引人注目的
+compartment|车厢
+confrontational|对抗的
+console|安慰
+constrain|限制
+conscientious|有良心的
+concession|妥协
+conversion|转变
+cumulative|积累的
+confer|授予
+commentator|评论员
+convincing|令人信服的
+contention|争论
+cautious|谨慎的
+cognitive|认知的
+counselor|咨询顾问
+cropland|农田
+certification|证书
+collaborate|合作
+consultation|商议
+combination|组合
+collective|共同的
+cozy|舒适的
+comprehensive|综合的
+conspicuous|显著的
+correlation|相关
+casualty|伤亡人数
+cripple|残疾
+crucial|关键的
+convict|证明……有罪
+confidential|机密的
+chaos|混乱
+carpentry|木工活
+collaborative|合作的
+cater|迎合
+corruption|腐败
+curb|限制
+countermeasure|对策
+consequent|作为结果的
+charter|包租（飞机、船等）
+conceit|自负
+clutch|抓住
+confirmation|证实
+conqueror|征服者
+cherish|珍爱
+coherent|（文章、观点等）连贯的
+cosmic|宇宙的
+cosmos|宇宙
+courteous|有礼貌的
+commonsense|有常识的
+cutter|用于切割的器械
+courageous|勇敢的
+comply|应允
+colonist|移民
+compatible|兼容的
+cradle|摇篮
+cloak|掩盖
+compression|压缩
+cigar|雪茄烟
+constituent|构成的 n. 选民
+crab|蟹
+coefficient|协同因素
+calibration|校准
+consumer|消费者
+coincide|相巧合
+comedy|喜剧
+catalogue|为…编目录
+calculus|微积分
+completion|完成
+crooked|弯的
+correspondence|通信
+customary|通常的
+catholic|天主教的 n. 天主教徒
+charcoal|炭
+couch|睡椅
+censor|审查
+conceive|设想
+combustion|燃烧
+crank|曲柄 v. 用曲柄转动
+cleanliness|清洁
+compulsory|强迫的
+currently|当前
+civilian|平民 adj. 平民的
+commonplace|平凡的 n. 平常话
+coward|懦怯的
+circus|马戏
+consul|领事
+chestnut|栗子
+cubic|立方体的
+clasp|扣住
+comparable|可比较的
+curly|卷曲的
+coke|焦炭
+clamp|夹住
+correlate|互相关联的事物
+cooperative|合作的 n. 合作社
+composite|合成的 n. 合成物
+coffin|棺材
+commonwealth|联邦
+conception|概念
+complication|复杂
+complexity|复杂（性）
+corrosion|腐蚀
+cuckoo|杜鹃
+cavity|洞
+capacitor|电容器
+capacitance|电容
+clatter|得得声
+crisp|脆的
+circular|传单
+commend|称赞
+cruelty|残酷
+compensation|补偿
+characterize|表现…的特性
+criterion|标准
+captive|被俘虏的
+climax|顶点
+cane|（藤等）茎
+clearing|（森林中的）空旷地
+constitution|（人的）体格
+clown|（马戏的）小丑
+chord|和弦
+chatter|喋喋不休 n. 喋喋不休
+clockwise|顺时针方向转地 adj. 顺时针方向转的
+concede|vi. 让步
+consultant|顾问
+concise|简明的
+cordial|热情友好的
+ceramic|陶器的 n. 陶瓷器
+catastrophe|大灾难
+coincidence|巧合
+consecutive|连续的
+clan|宗族
+chant|vt. 反复有节奏地喊叫
+cocktail|鸡尾酒
+contradiction|矛盾
+corps|队
+commute|vi. 乘公交车上下班
+chapel|小教堂
+corpse|死尸
+characteristic|特有的
+comet|彗星
+considerate|考虑周到的
+confusion|困惑
+classification|分类
+convene|vi. 开会
+cocaine|可卡因
+credible|可信的
+crystallize|结晶
+collaboration|合作
+crumble|vi. 崩溃
+corrode|腐蚀
+collision|碰撞
+configuration|配置
+comic|喜剧的
+cardinal|最重要的
+cynical|愤世嫉俗的
+culminate|vi. 告终
+citizenship|公民的身份
+contempt|轻视
+caption|说明文字
+converge|vi. 会合
+complexion|肤色
+continuity|连续
+consequently|因此
+contemplate|vt. 盘算
+clearance|净空
+champagne|香槟酒
+convenience|方便
+commentary|实况报道
+commemorate|vt. 纪念
+contrive|vt. 谋划
+cork|软木
+condense|vt. 使冷凝
+cord|细绳
+continual|连续的
+continuous|连续的
+conductor|指挥
+centimetre|(centimeter)厘米
+congratulation|(on)祝贺
+cohesive|团结的
+conversely|相反地
+conspiracy|阴谋
+certainly|一定
+centigrade|摄氏温度计的;摄氏的 n. 摄氏温度计;摄氏
+caress|爱抚
+capitalism|资本主义
+click|点击
+costly|昂贵的
+concerning|关于
+cent|分
+cake|蛋糕
+civilize|使文明
+classmate|同班同学
+cricket|板球
+cage|笼
+canteen|食堂
+clergy|神职人员
+credential|证书
+chap|小伙子
+conjunction|结合
+comrade|同志
+cyberspace|网络空间
+colonel|陆军上校
+crane|吊车
+crust|地壳
+cab|驾驶室
+conquest|征服
+courtyard|庭院
+crow|啼叫
+cigaret|香烟
+cue|提示
+cop|抓住 n. 巡警
+cosy|舒适的
+coil|盘绕
+clumsy|笨拙的
+chancellor|总理（德、奥等的）
+complementary|补充的
+characterise|vt. 表示…的特性
+connexion|联系
+criticise|批评
+censorship|审查制度 <
+civilisation|文明
+credentials|证明书
+culprit|罪犯
+civilise|vt. 使文明
+centimeter|厘米
+contagious|传染性的
+cunning|狡猾的
+cannot|不能
+cretaceous|白垩纪(的)
+crater|弹坑
+cambrian|威尔斯人
+california|加利福尼亚
+cetacean|鲸类动物
+chimpanzee|黑猩猩
+columbia|哥伦比亚
+cultivation|培养
+colonize|拓殖
+canopy|天篷
+crossbill|交喙鸟
+colonization|殖民地化
+countercurrent|逆流
+crustal|地壳的
+collector|收藏家
+cooperation|合作
+chick|小鸡
+clement|仁慈的
+carbonate|碳酸盐
+columbian|美国的
+crystalline|水晶(般)的
+continually|不断地
+calcite|方解石
+ceremonial|仪式 adj. 正式的
+carver|雕刻匠
+canoes|独木舟
+convex|凸出的
+cone|圆锥体
+consciously|有意识地
+caterpillar|毛虫
+confederacy|联盟
+compaction|压紧
+cenozoic|新生代
+circadian|昼夜节律的
+caledonian|古苏格兰人(的)
+coma|昏迷
+cooler|冷却器
+chondrite|球粒状陨石
+chiefly|首要
+craftspeople|工匠; 手艺人
+concur|同时发生
+chemically|用化学
+cascade|小瀑布
+chondrule|陨石球粒
+capillary|毛细管
+cheep|吱吱的叫声 v吱吱地叫
+cavendish|(一种压成饼状的)板烟
+choreographer|舞蹈指导
+capsize|(特指船)倾覆
+caravan|旅行队
+carnivore|食肉动物
+cuneiform|楔形的
+conventionally|照惯例
+coral|珊瑚(虫)
+cannonball|炮弹
+cottonwood|[植]三叶杨
+cheaply|廉价地
+corona|冠壮物
+commuter|通勤者
+chlorosis|萎黄病
+crevice|裂缝
+cohesion|结合
+chisel|凿子 v砍凿
+centralize|集聚
+consistently|一致地
+cajun|移居美国路易斯安纳州的法人后裔
+cowboy|牧童
+conductance|电导
+commensalism|共栖
+cedar|雪松
+coexist|共存
+cod|abbr. 货到付款 (Cash on Delivery) n鳕鱼
+chlorophyll|[生化]叶绿素
+carman|车夫
+crumple|(使)皱
+chapbook|畅销故事书
+concave|凹的 n凹(面)
+congressional|会议的
+camouflage|伪装
+cylindrical|圆柱形的
+carol|颂歌
+coastline|海岸线
+connecticut|(美国）康涅狄格
+cyanide|[化]氰化物
+critically|批评性地
+carving|雕刻(品)
+cavern|洞穴
+coppersmith|铜匠
+catastrophic|悲惨的
+cramp|痉挛 v. 限制
+catharsis|宣泄
+contradictory|相矛盾的
+chloride|[化]氯化物
+craftsmanship|技术
+contraction|收缩
+caste|印度的世袭阶级
+calve|生小牛
+cranial|头盖(形)的
+caribou|北美产驯鹿(=Rangifer)
+connective|连合的
+capitalist|资本主义的 n资本家
+cenotes|天然井
+constrict|压缩
+cyan|蓝绿色
+clam|蛤
+cortex|外皮
+chilly|寒冷的
+curator|管理者
+companionship|友谊
+clump|(树
+compositional|合成的
+circumvent|绕行
+crisscross|交叉
+clavichord|翼琴(钢琴的前身)
+converter|转炉
+cactus|[植]仙人掌
+clearer|更清楚的
+causal|原因的
+continuum|连续统一体
+continuation|继续(部分)
+constitutional|法治的
+compost|混合肥料
+collaborator|合作者
+cosmopolitan|全球的
+coerce|强制
+commandment|戒律
+carbonic|(含)碳的
+connoisseur|鉴赏家
+chariot|战车
+communicative|健谈的
+cessation|停止
+clover|[植]三叶草
+crudely|粗糙地
+corpus|资料
+chemurgy|[化]农业化工
+continuator|继续者
+celsius|摄氏的
+condensation|浓缩
+credence|信任
+condenser|冷凝器
+circumscribe|在…周围画线
+condor|[动]秃鹰
+carboniferous|石炭层
+contour|轮廓
+currier|制革匠
+celestial|天上的 n. 神仙
+calcareous|钙质的
+collectible|可收集的
+counteract|抵消
+calotype|光力照像法
+comprehensible|可理解的
+customarily|通常
+caput|头
+commensal|共餐的 n. 共食伙伴
+conestoga|一种大篷马车
+chicopee|奇科皮（美国马萨诸塞州西南部城市）
+clinical|临床的
+candlelight|烛火
+chile|智利
+colonizer|殖民者
+cougar|[动]美洲狮(尤指Felis concolor)
+conceivable|可能的
+custodial|保管的
+cole|油菜
+comparably|同等地
+cumbersome|笨重的
+concomitant|伴随的 n. 伴随物
+chitin|壳质
+cardiac|强心剂 adj. 心脏的
+coyote|一种产于北美大草原的小狼
+crimson|深红色的 v. 变深红色 n. 深红色
+cornet|圆锥形纸袋
+chivalry|骑士精神
+concertina|类似风琴的六角形的乐器
+conjectural|推测的
+consort|结交
+collagen|胶原质
+cabinetmaker|家具师
+courtship|求爱
+corselet|盔甲
+carcass|(屠宰后)畜体
+chondritic|球粒状陨石的
+consolidation|巩固
+contingent|可能发生的
+congenial|意气相投的
+confederate|同盟者
+canyon|<美>峡谷
+contributor|贡献者
+chafe|(将皮肤等)擦热
+conglomerate|聚结 n. 企业集团
+cerebral|脑的
+cleanly|干净地
+charitable|慈善事业的
+conflate|合并
+catechism|问答教学法
+convection|传送
+counterbalance|使平均
+creditor|债权人
+cany|藤的
+crayfish|小龙虾
+chronobiology|[生]时间生物学
+caucasian|高加索人 adj. 高加索的
+crescent|新月
+chaotic|混乱的
+celebratory|快乐的
+crustacean|甲壳类的 n. 甲壳纲动物
+cheater|骗子
+chronological|按年代顺序排列的
+cult|祭仪
+compactness|紧密
+congenital|先天的
+closeness|紧闭
+cheerful|愉快的
+condenses|浓缩
+characterization|描述
+conductivity|传导性
+catchment|排水
+crowbar|撬棍
+crucible|坩锅
+clergyman|牧师
+cohesiveness|粘合
+congestion|拥塞
+classicism|古典主义
+chipmunk|[动] 花栗鼠
+circumstantially|因情形地
+cloudlike|云雾状的
+chromosphere|色球
+caliber|口径
+coalescence|合并
+cavalry|骑兵
+converse|交谈 n反面说法 a相反的
+curiously|好奇地
+citizenry|公民成市民(集合称)
+crook|使弯曲
+conveniently|方便地
+concentric|同中心的
+cuspidor|痰盂
+covering|遮盖物
+correspondingly|相应地
+cud|反刍的食物
+chomp|大声地咀嚼
+civic|市的
+contributory|贡献的
+concoct|编造
+candid|率直的
+convergence|集中
+conceivably|可想到地
+coloration|染色
+caribbean|加勒比海
+colorless|无色的
+cider|苹果酒
+coriander|[植]胡荽
+chateau|城堡
+chug|轧轧响声 v. 发出轧轧声
+counterexample|反例
+commercialization|商品化
+cyclic|循环的
+cobble|圆石
+carelessly|粗心地
+chihuahua|吉娃娃(一种产于墨西哥的狗)
+confinement|限制
+centrally|在中心
+carnival|狂欢节
+clamor|喧闹
+carbonization|碳化(物)
+conservatism|保守主义
+convincingly|令人信服地
+constituency|(选区的)选民
+civet|[动物]麝猫
+controllable|可管理的
+categorically|断然地
+crease|折缝
+cleverness|聪明
+chronologically|按年代的
+colosseum|罗马圆形大剧场(建于公元80年
+clench|捏紧
+concurrent|一致的
+complimentary|称赞的
+conversational|会话的
+clarification|澄清
+curvature|弯曲
+categorize|加以类别
+cenote|天然井
+changeover|转换
+consortium|财团
+curio|古董
+chandler|杂货零售商
+californian|加利福尼亚州人 a加州的
+churn|搅拌
+crouch|蜷缩
+creek|小溪
+confluence|汇合
+crunch|vi&n. 嘎吱嘎吱地响(声)
+conscription|征召
+chic|别致的
+craze|狂热
+commissioner|委员
+chronology|年代学
+colorfully|华美的
+cither|齐特拉琴(古希腊一种类似竖琴的古乐器)
+corp|公司
+citadel|根据地
+cheerless|不快活的
+calvinist|加尔文教徒(见Calvin)
+chary|小心的
+coherence|一致
+chaotically|浑沌地
+clayware|黏土制品
+collapsible|可折叠的;可拆卸的
+creed|信条
+coating|被覆
+centralization|集中
+comminute|使成粉末
+cache|贮藏
+crest|浪尖
+centrality|中心
+chlorate|[化]氯酸盐
+clipper|大剪刀
+chalky|白垩的
+conduction|传导
+chaste|贞洁的
+cementation|粘固
+clockmaker|制造或修理钟表者
+corrosive|腐蚀的
+carnation|荷兰石竹
+chimp|(非洲)黑猩猩
+crossbreed|[生物]杂种 v异种交配
+cynthia|月亮女神
+childless|无儿女的
+cuticle|表皮
+counterfeit|赝品  a伪造的 v伪造
+cincinnati|辛辛那提（美国俄亥俄州西南部城市）
+coincident|一致的
+cellist|大提琴演奏家
+catalyze|催化
+competitiveness|竞争力
+custodian|管理人
+civility|礼貌
+complacence|自满
+cannibalism|同类相食
+compo|组合物
+comer|来者
+conurbation|有卫星城的大都市
+counterclockwise|反时针方向(的)
+crimp|起皱
+convivial|好交际的
+cryptic|秘密的
+constellation|[天]星群
+contractor|订约人
+cubism|立体派
+claimant|要求者
+creeper|爬行者
+crossbones|交叉腿骨的图形
+cheapen|减价
+comfortably|舒适地
+cate|佳肴
+corset|束腹
+coelenterate|[动]腔肠动物 adj. 腔肠动物的
+codify|把…编成法典
+cooper|制桶工人 v. 制桶
+cordwainer|鞋匠
+captivate|迷住
+colossal|巨大的
+consistency|坚固性
+collarless|无领的
+cowhand|<美>(牧场的)牧牛工
+coaming|舱口栏板
+choppy|（海等）波浪起伏的
+comical|好笑的
+compensatory|赔偿的
+corral|畜栏 v. 关进畜栏
+cuban|古巴人 adj. 古巴(人)的
+char|烧焦 n. 碳
+coax|巧妙地（耐心地）处理
+crusade|加入十字军
+corporeal|肉体的
+choreograph|设计舞蹈动作
+conducive|有助于…的
+curative|有助于治疗的
+cartilage|软骨
+cohabitation|同居
+captivity|囚禁
+checked|格子花纹的
+condiment|调味品
+certitude|确定
+cookout|野外烧烤宴会
+confession|供认
+clog|堵塞
+crippling|令人震惊的
+copilot|副驾驶员
+charisma|超凡魅力
+craftsman|能工巧匠
+courier|送急件的人
+charismatic|蒙受神恩的
+cipher|密码
+cohere|连贯
+cascara|缓泻剂
+centric|以…为中心的
+confidant|知己
+conservationist|自然环境保护论者
+condole|向…吊唁
+cuisine|烹饪
+chronical|慢性的
+copious|丰富的
+chagrin|懊恼
+chivalrous|有骑士精神的
+commune|与…亲密地交谈 n.  群体
+chubby|丰满的
+congest|充满
+consonant|和谐的
+confiscate|没收
+curtail|缩短
+canvass|游说
+compressible|可压缩的
+criss-cross|构成十字形图案
+centennial|百年纪念
+curtsy|行屈膝礼 n. 屈膝礼
+culpable|有罪的
+concord|和睦
+conciliate|安抚
+contiguous|接壤的
+connote|意味着
+cram|填塞
+critique|批评
+calculable|可计算的
+cramped|狭小的
+credentialism|文凭主义
+constricted|狭窄的
+combustible|可燃的
+corollary|必然的结果
+conjure|变魔术
+calamitous|灾难性的
+c|[计] 调用, 访问, 呼叫, 电容, 进位, 通道, 字符, 清除, 常数, 控制, 周期
+comments|注解；评论（comment的复数）
+cd|镭射碟, 镭射唱片
+categories|分类；类别（category的复数）
+ca|[医] 钙(20号元素); 阴极, 负极
+computers|计算机, 电脑（computer的复数）
+co|[医] 钴(27号元素)
+created|创造的
+contents|目录
+com|[计] 计算机输出缩微胶片; 计算机输出胶片缩微机
+courses|[医] 月经
+cnet|科技资讯网（CNET News）；中央交换网框；法国国家电信研究中心
+communications|交通设施, 通讯系统
+cameras|照相机, 暗箱, 摄像机, 摄影机
+carolina|北(或南)卡罗来纳州
+components|部件；组件；成份（component复数）
+completed|完整的；完全的
+careers|职业生涯；事业；职业（career的复数）
+colorado|科罗拉多, 科罗拉多河
+chris|克里斯（男子名）；克莉丝（女子名）
+charles|查尔斯（人名）
+cells|细胞；牢房；小屋；单元格（cell的复数）
+calls|调用；呼吁；电话（call的复数）
+clients|客户端；顾客；救济对象；应受账款；委托方（client的复数）
+cum|和, 附有, 与
+canon|教会法规, 圣典, 准则, 标准, 教士
+continued|继续的, 延续的
+classifieds|分类广告
+characters|特性；人物角色（character复数）
+covered|隐蔽着的, 掩藏着的, 有屋顶的
+cds|中央动态存贮器（Central Dynamic Store）；集装箱运货系（Container Delivery System）；冷拉无缝（Cold Drawn Seamless）；受控供电系统（Controlled Delivery System）
+claims|权利要求；要求, 请求权；债权；索赔（claim的复数形式）
+charges|费用；手续费；运费
+certified|证明合格的
+computing|[计] 计算
+centers|中心, 中央（center的复数形式）
+cvs|计算机并行版本系统（Concurrent Version System）；绒毛膜绒毛样检（Chorionic Villus Sampling）
+contacts|联系人；联络方式；触体（contact的复数形式）
+cc|复写本
+clubs|（扑克牌）梅花；俱乐部；社团（club的复数）
+codes|编码, 代码；规范；准则（code的复数）
+cm|[计] 厘米, 中央存储器, 通信多路转换器, 控制标志, 磁心存储器
+ct|计算机断层扫描
+covers|覆盖；封面, 盖子；暗礁, 保证金, 暗礁群
+clips|夹子；弹片；剪下来的东西；回形针（clip的复数）
+credits|演职员名单；工作人员；信用；学分（credit的复数）
+checkout|结帐台
+con|精读, 仔细研究, 默记
+consulting|商议的, 咨询的, 任专职顾问的
+contained|泰然自若的, 从容的；被控制的
+calling|职业, 行业, 呼唤, 召集
+comics|连环画；漫画；喜剧演员（comic的复数形式）
+controls|控制；控制元件；控制装置（control的复数）
+combined|结合的；组合的
+constitutes|组成；构成（constitute的单三形式）
+collectibles|可收集的, 可代收的( collectible的名词复数 )
+colour|颜色, 面色, 颜料, 外貌
+ch|[计] 改变, 通道, 信道, 字符, 检验
+containing|包含
+colors|国旗, 旗帜, 船旗, 军旗, 衣帽, 徽章, 绶带
+cisco|加拿大白鲑
+carried|入神的；被运的；忘我的
+copies|打印份数, 复印份数；复制品；副本（copy的复数）
+certificates|证明书, 执照( certificate的名词复数 )
+charts|图表；排行榜（chart的复数）
+continuing|继续的, 持续的, 连续的
+ce|[计] 组件选通
+conducted|实施; 为人; 指挥（军队, 乐队等）; [物]传导（热, 电等）
+citizens|市民；公民（citizen的复数）
+collections|集合物件；收集（collection的复数）
+characteristics|特性, 特征；特质；特色（characteristic的复数）
+cheats|骗子（cheat的复数形式）
+contracts|契约( contract的名词复数 ); 婚约; [法律]契约法; 行贿
+continues|继续；扩展；连续（continue的三单形式）
+cam|凸轮, 计算机辅助制造, 中央地址存储器
+circumstances|[法] 事件, 事项, 详细情节
+checking|[计] 检查的
+costa|肋骨, 肋脉, 叶的中脉
+crafts|工艺品, 手艺（craft的复数形式）
+channels|通道；水槽；隧道；频道；录音声道（channel的复数形式）
+cables|电缆；连线；锚索（cable的复数）
+controlled|受约束的, 克制的
+concepts|概念, 观念；思想（concept复数形式）
+classified|分类的, 被归入某类的, 被指定为机密的
+checks|支票；格（check的复数形式）
+colleges|专科学院（college复数形式）
+contributions|贡献；出资
+czech|捷克人, 捷克语
+cambridge|剑桥
+committed|献身于某种事业的
+charged|充满强烈感情的, 带电的, 气氛紧张的
+chosen|choose的过去分词
+clark|克拉克（男子名）
+collected|收集成的, 镇定的
+clicking|微小静电干扰声
+calculator|计算者, 计算器
+const|常量, 常数
+candidates|报考者( candidate的复数形式 ); 申请求职者; 攻读学位者; 最后命运或结局如何已显然可见者
+charlotte|水果奶油布丁
+cutting|切断, 切下, 路堑
+cs|文职人员, 行政机构
+consultants|顾问( consultant的复数形式 ); 高级顾问医生, 会诊医生
+counties|郡, 县( county的名词复数 )
+cleveland|克利夫兰
+css|[计] 接触起停
+contractors|（建筑、监造中的）承包人( contractor的复数形式 )
+courts|法院；场地（court的复数）
+converted|修改的；改变信仰的
+conferences|会议（conference的复数形式）
+controller|控制器, 管理者
+committees|委员会；街道办事处
+capabilities|能力( capability的名词复数 ); 可能; 容量; [复数]潜在能力
+cr|[计] 回车, 调用请求
+caught|catch的过去式和过去分词
+considering|就...而论
+closing|结束
+columns|塔器
+cookies|饼干
+cruises|游艇；邮轮旅游；油轮公司（cruise的复数）
+collectables|(collectable 的复数) a. 可收集的, 可搜集的, 可征收的
+commands|命令, 指令（command复数形式）
+columbus|哥伦布（美国一座城市）；哥伦布（意大利航海家）
+calculated|有计划的, 适当的, 适合的, 计算出的
+cumshot|射精
+casinos|（意）乡间住宅；赌场；娱乐场（casino的复数）
+coins|硬币（coin的复数）
+cafe|咖啡馆, 酒店
+christopher|克里斯多夫（男子名）
+carrying|[法] 运载
+cpu|中央处理器
+corrections|修改( correction的复数形式 ); 改[纠]正; 惩罚; 有待改正
+consists|由…组成( consist的第三人称单数 ); 包括; 存在于; 表现为（常与 in 连用）
+classics|古希腊、古罗马文学（classic的复数）
+chairs|安乐椅；餐椅；椅子（chair的复数）
+coordinator|协调者, 同等的人或物
+coupons|优惠券；息票；[冶金]取样片（coupon的复数）
+cialis|西力士（又名犀利士, 壮阳药）
+clinton|克林顿（男子名）
+commons|平民, 下议院, 公共食堂
+confirmed|被证实的, 根深蒂固的, 坚定的
+counts|计数, 支数（count的复数形式）
+closer|关闭者, 闭合器, 关闭器
+creates|[n. 创建；创立
+cocks|闷头；塞子；公鸡（cock的复数）
+cartoons|卡通动画；动漫图书（cartoon的复数）
+chemicals|化学品, 化学制品；化学药品；化工产品（chemical的复数）
+couples|一对, 一双；夫妻；力偶（couple的复数）
+cst|[医] 惊厥休克疗法
+ceo|首席执行官；执行总裁（chief executive officer）
+configure|装配, 使成形
+config|[计] 显示配置信息命令
+cf|[医] 克里斯马斯因子, 补体结合
+campbell|坎贝尔（姓氏）
+chips|炸土豆条；小木片；（作赌注用的）圆形筹码；缺口（chip的复数形式）
+centres|中心( centre的名词复数 ); （市镇的）中心区; 中心点; 中枢
+cooling|冷却
+cp|[计] 调用处理程序, 字符打印机, 通信处理器, 编译程序包, 控制部件
+customize|定制, 按规格改制, 定做
+catering|给养；承办酒席；[医]提供饮食及服务
+camcorder|摄录像机；便携式摄像机
+crm|反雷达措施, 反雷达导弹
+craig|克雷格（男子名）
+churches|（基督教的）教堂( church的名词复数 ); 礼拜仪式; 教派; 基督教牧师
+contributed|已缴入的；贡献的, 分配的
+complaints|抱怨( complaint的复数形式 ); 诉苦; 投诉; 疾病
+cyprus|塞浦路斯
+carter|运货马车夫
+cuba|古巴
+chevrolet|美国雪佛兰牌汽车
+compiled|编译的
+compaq|美国康柏电脑公司
+cal|[化] 计算机辅助学习
+cached|贮藏起来；隐藏起来（cache 的过去分词形式）
+cuts|（分摊到的）份额；切口；近路（cut的复数）
+chapters|章；回；章节（chapter的复数形式）
+charlie|通讯中用以代表字母C的词
+caps|盒式磁带程序设计系统（Cassette Programming System）；计算机辅助产品检索（Computer Assisted Product Search）
+choosing|选择；决定（choose的ing形式）
+collins|柯林斯酒
+cartridges|子弹( cartridge的复数形式 ); （打印机的）墨盒; 录音带盒; （唱机的）唱头
+cl|[计] 命令语言, 编译程序语言, 计算机语言, 控制线
+conditioning|调节, 条件作用, 整修
+camcorders|(VCR)摄像机( camcorder的复数形式 )
+carl|卡尔（男名）
+customized|自定义；客制化；自定义级别
+compilation|编辑, 编纂, 编辑(编纂)物
+camps|露营, 营地；野营房（camp复数）
+commonly|一般, 普通, 通常
+constructed|修建( construct的过去式和过去分词 ); 构成; 组成; （按照数学规则）编制
+calendars|日历( calendar的名词复数 ); 历法; 日程表; （一年之中的）重大事件（或重要日期）一览表
+conclusions|结束( conclusion的复数形式 ); 结论; 推论; 签订
+compatibility|兼容性
+cad|卑鄙的男人, 下流人, 无赖, 计算机辅助设计
+cited|引用（cite的过去分词）
+coding|译码
+colombia|哥伦比亚
+chi|希腊语的第22个字母
+corporations|公司, 企业（corporation的复数形式）
+causing|成为…的原因（cause的现在分词形式）
+claimed|宣称；声称；断言（claim的过去式）
+croatia|克罗地亚
+contests|争夺, 竞争( contest的第三人称单数 ); 争辩, 提出异议
+counters|柜台( counter的名词复数 ); （对意见、态度等的）反对; 计数器; （某些棋盘游戏的）筹码
+coaching|辅导；教练技术
+cosmetic|化妆品
+carriers|（自身不受感染而传播疾病的）带菌者( carrier的复数形式 ); （尤指经营空运的）运输公司; 搬运人; 军输车
+connector|连结者, 联系者, 连结物
+combo|小型爵士乐团
+constraints|强制( constraint的复数形式 ); 限制; 约束
+crimes|犯罪（crime的复数形式）
+constantly|不变地, 不断地, 时常地
+cv|简历（Curriculum Vitae）
+cb|平民波段
+cents|分, 一分钱的硬币( cent的复数形式 )
+colored|染色的
+critics|评论家；批评者；吹毛求疵的人（critic的复数）
+connectivity|[计] 连通性, 连通度
+commander|司令官, 指挥官
+connecting|[计] 接线的
+chains|枷锁；联营企业；缝条；链条（chain的复数）
+celebrities|名誉；名人（celebrity的复数）
+cams|凸轮（cam的复数）
+comp|[计] 电脑及相关知识; DOS内部命令:比较两个文件的内容
+cbs|哥伦比亚广播公司（Columbia Broadcasting System）；共电式振铃设备（Central [Common] Battery Signalling）
+catherine|轮圈外缘装有倒钩的车轮, 侧翻筋斗, 轮转烟火, 车轮窗
+chuck|抚弄, 赶走, 抛掷, 咯咯声, 颈肉, 卡盘
+consolidated|整理过的；巩固的；统一的
+considerations|考虑( consideration的复数形式 ); 报酬; 仔细考虑; （对他人的）考虑周到
+cox|舵手
+cms|教会传教士协会（Church Missionary Society）
+calgary|卡尔加里（加拿大西南部城市）
+chose|动产
+concluded|结束( conclude的过去式和过去分词 ); 得出结论; 断定; 推断出
+candles|蜡烛, 烛台（candle复数形式）
+chrome|铬, 铬合金
+congo|刚果, 刚果河, 工夫茶
+cyber|网络的, 计算机的
+composed|镇静的, 沉着的
+cnn|美国有线电视新闻网络（Cable News Network）
+collecting|收集( collect的现在分词 ); 收到; 收藏; 聚积
+chad|乍得
+cu|[计] 控制器, 立方, 用户占用
+compressed|被压缩的, 扁平的
+christians|基督教徒( Christian的复数形式 )
+challenging|挑战的, 引起争论的
+cups|拨火罐（器具）；杯子（cup的复数形式）
+cheapest|最便宜的（cheap的最高级形式）
+contributors|捐款人( contributor的复数形式 ); 捐助人; 促成因素; 投稿者
+clouds|云彩, 白云（cloud复数形式）
+competitions|比赛, 竞争（competition的复数形式）
+cosmetics|装饰品；化妆品（cosmetic的复数）
+concentrations|集中( concentration的复数形式 ); 专心; 关注; 浓度
+christianity|基督教, 基督教精神
+cgi|[计] 计算机生成图象, 计算机图象接口
+christina|克里斯蒂娜（女子名）
+colin|科林（男子名）
+ci|[计] 输入, 通信接口, 计算机工业, 配置项
+concerts|音乐会; 演唱会; （音）协奏曲(concert的复数); 合奏（曲）; 音乐会( concert的复数形式 )
+colours|国旗, 旗帜, 船旗, 军旗, 衣帽, 徽章, 绶带
+copyrights|著作权；版权（copyright的复数）
+chronicles|历代记（旧约）
+compiler|编辑者
+campaigns|运动( campaign的名词复数 ); 竞选运动; 战役; 季节性竞赛
+cfr|运费在内条件（Cost and Freight）；未来研究中心（Center for Future Research）
+cruz|（西）克鲁兹（男子名）
+clocks|钟表；时钟（clock的复数）
+compounds|场地( compound的名词复数 ); 复合物; （筑有围墙的）院子; 复合词
+contracting|[法] 缔约的, 承包的
+chicks|雏鸡；小鸡（chick的复数形式）
+controlling|[计] 控制的
+cycles|循环动作；圈数；周期（cycle的复数）
+ciao|int. （意）你好；再见（见面问候语或告别语）
+chem|化学（chemistry）
+cookbook|食谱
+connectors|连接器；接插件（connector的复数形式）
+conflicts|冲突( conflict的名词复数 ); 战斗; 相互干扰; 矛盾
+cant|伪善之言, 黑话, 斜面, 角落
+celtic|凯尔特族的, 凯尔特语的
+configured|配置的, 组态的；配置
+contributing|贡献的, 起一份作用的
+clinics|诊所( clinic的复数形式 ); 门诊时间; 私人诊所; 临床实习
+costumes|服装（costume的复数形式）
+cet|大学英语考试（College English Test）；已校正的发动机的测试（Calibrated Engine Testing）；对外统一关税（Common External Tariff）
+cancellation|取消, 作废, 注销戳
+counting|计算
+childrens|孩子们（child的复数）
+captured|俘获( capture的过去式和过去分词 ); 夺取; 夺得; 引起（注意、想像、兴趣）
+casting|投掷, 铸成品, 角色分配
+cameron|卡梅伦/隆（男子名）
+columnists|专栏作家( columnist的复数形式 )
+carlos|卡洛斯（男子名）
+copying|誊写, 复写
+cordless|无绳索的, 交直流两用的
+chances|机会( chance的名词复数 ); 偶然; 风险; 某事发生的可能性
+calculations|计算器；计算, 运算（calculation的复数形式）
+conducting|引导( conduct的现在分词 ); 带领; 控制; 传导
+calculators|计算器（calculator的复数）
+capitol|国会大厦, 州议会大厦, 朱比特神庙
+chrysler|[经] 克莱斯勒
+charleston|查尔斯顿
+champions|夺标；盟主；冠军（champion的复数形式）
+comparing|[计] 比较器
+copied|已复制的；复制的
+completing|完成; 使完善( complete的现在分词 ); 使完整; 填写（表格）
+copyrighted|有版权的；受版权保护的
+coaches|长途客运汽车( coach的复数形式 ); （铁路）旅客车厢; 教练; 指导
+containers|集装箱；容器
+custody|监护, 拘留, 监禁
+comm|委员会（committee）；通信（communication）；商业, 贸易（commerce）；佣金, 委任书（commission）
+competitors|竞争者( competitor的复数形式 ); 对手; 参赛者; 竞赛者
+col|出口, 山坳
+cia|中央情报局
+cons|[计] 面向连接的网络服务
+cheers|interj. 干杯, 再见
+complications|并病；并发症（complication的复数）
+chester|切斯特（美国港口城市）；切斯特（英国一城市）
+caring|有同情心的；表示或感到关怀或关心的
+cn|[计] 通信网络
+comparisons|比较( comparison的复数形式 ); [修辞学]比喻; [语法学]（形容词或副词的）比较等级; 类似
+crap|废物, 废话
+cg|重心
+consisting|由…组成( consist的现在分词 ); 包括; 存在于; 表现为（常与 in 连用）
+citations|引用( citation的复数形式 ); 引证; 引文; 表扬
+championships|锦标赛( championship的复数形式 ); 冠军的地位（称号、等级、保持称号的时期）; 维护; 支持
+cleaners|干洗店
+cashiers|出纳员( cashier的名词复数 )
+compliant|顺从的, 屈从的
+closest|最靠近的（close的最高级）
+conferencing|[计] 召开会议
+christine|克莉丝汀（女子名）
+clarke|克拉克（姓氏）
+claire|克莱儿（女子名）
+carroll|卡罗尔（罗马人的姓）
+chambers|钱伯斯（姓氏）
+carries|传递；携带；运载；怀孕（carry的第三人称单数形式）
+clicks|点击数；滴答声（click的复数）
+cabinets|内阁( cabinet的复数形式 ); 橱; （有特殊用途的）小房间; 展览艺术品的小陈列室
+combining|结合性的, 化合的
+consoles|（机器、电子设备等的）控制台( console的名词复数 ); 操纵台; 悬臂; 肘托
+cayman|宽吻鳄, 凯门鳄
+congratulations|祝贺词, 祝贺语
+cohen|科恩（姓氏）
+cigarettes|纸烟, 香烟( cigarette的复数形式 )
+controllers|（尤指大型机构或部门的）管理者( controller的复数形式 ); 控制者; （机器的）控制器; （公司的）财务总管
+chen|陈
+conventions|惯例；会议；约定（convention的复数）
+coordinates|坐标；相配之衣物
+cornell|康奈尔（姓氏）
+chan|通道（槽, 沟）
+competing|相互矛盾的；抵触的
+combines|（使）联合( combine的第三人称单数 ); 兼有; 兼备; 使融合（或并存）
+chelsea|切尔西（伦敦自治城市, 为文艺界人士聚居地）
+considers|考虑( consider的第三人称单数 ); 想; 注意; 看重
+catalogs|目录；一览表；分类（catalog的复数）
+coupled|联接的；成对的；耦合的；共轭的（couple的过去分词形式）
+circuits|环路；巡回；电路（circuit的复数）
+cos|余弦
+centuries|100年, 一世纪( century的名词复数 ); 100分; 千秋
+computational|计算的
+combinations|合谱；组合；制品（combination的复数）
+condo|共同统治, 共管下的政府, 共管, 多层公寓大楼, 由个人占用的一套公寓房间
+contacted|联络（通过电话或信件）( contact的过去式和过去分词 ); 使接触; 与（某人）接触（或交往）, 与…联系; [美国英语]与…通讯（或通话）
+cdt|（美国）中央时区（Central Daylight Time）
+casio|卡西欧（日本电子品牌）
+cardiff|加的夫（英国港市）
+cornwall|康沃尔（英格兰西南部一郡, 加拿大城市名）
+circles|园；圆圈；循环（circle的复数）
+checklist|清单, (美)选举人名单, 名册, 目录册
+coleman|科尔曼（姓氏）
+collectors|收集者, 收取者( collector的复数形式 )
+celebs|[俚]名人；名流（celeb的复数）
+cadillac|卡迪拉克牌轿车
+curtis|柯蒂斯（男子名）
+charms|吸引力；符咒；护身符（charm的复数形式）
+corrected|修正的；校正的；折算的
+creatures|生物, 动物( creature的复数形式 ); 人
+commented|& vi. 评论, 谈论（comment的过去式与过去分词形式）
+cleared|使干净；清除（clear的过去分词）
+corners|角落；窘境（corner的复数形式）
+coated|穿外套的, 上涂料的
+contacting|[建] 接触
+chargers|充电器( charger的复数形式 ); （旧时的）战马
+ccd|电荷耦合器件（Charge Coupled Device）
+convinced|确信的, 深信的
+councils|委员会( council的复数形式 ); （郡、镇等）政务会; （尤指旧时讨论特定步骤的）协商会议; 市政（或地方管理）服务机构
+characterized|[医]具有特征的
+cottages|小屋, 村舍( cottage的复数形式 )
+chassis|底盘
+craps|掷骰子赌博
+clusters|群集；簇；丛（cluster的复数形式）
+calvin|卡尔文（男子名）；加尔文（法国神学家）
+cove|山凹, 小湾
+casa|天文学高级研究中心（Centre for Advanced Study of Astronomy）；计算机与自动化系统（Computer and Automated System Association）；合作应用卫星A（Cooperative Application Satellite A）
+centered|居中的
+cindy|辛迪（女子名, Cynthia的昵称）
+carb|[汽车]汽化器
+charging|[计] 计费的
+cas|中国科学院（Chinese Academy of Sciences）；计算机技术学会（Computer Arts Society）；控制自动化系统（Control Automatic System）
+cio|美国产业工会联合会（Congress of Industrial Organizations）；首席信息官（Chief Information Officer）
+commitments|委托( commitment的复数形式 ); 任务; 承担的义务
+crawford|克劳福德（美国西部小镇）
+commodities|商品( commodity的名词复数 ); 农产品; 有价值的物品; 有用的东西
+cunt|[俚]女性阴部；性交；淫妇
+chevy|打猎时的叫喊, 追赶, 追猎
+cameroon|喀麦隆
+computed|计算（compute的过去式）
+computation|计算, 计数, 计算结果
+cardiovascular|心血管的
+configuring|[计] 配置选择, 配置规划
+curves|曲线；弯曲状（curve的复数形式）
+clara|克拉拉（女子名）
+cingular|(牙齿的)舌面嵴的
+counted|（按顺序）数( count的过去式和过去分词 ); 有价值; 数出总数; 算得上
+continuously|不断地, 连续地
+convertible|可改变的, 可交换的
+cancelled|被取消的
+cakes|蛋糕（cake的复数）
+charming|迷人的, 有吸引力的
+commissions|委员会( commission的名词复数 ); 佣金; 任命; 职权
+cj|审判长, 法院院长, 首席法官
+colon|冒号, 结肠
+caroline|凯若琳（女子名）
+confidentiality|[计] 机密性
+condos|(condo 的复数) n. 共同统治, 共管下的政府, 共管, 多层公寓大楼, 由个人占用的一套公寓房间
+casey|凯西（男子名）
+cw|等幅波, 连续波, 余弦波
+currencies|通货( currency的名词复数 ); 货币; 流通; 市价
+closes|（使）关, 关闭( close的第三人称单数 ); 终止; （使）缩小; 合上
+conf|conference 会议; confer (Latin=compare) （拉丁语）比较; confine 限制; confident 确信的
+cir|circular 通知; circulation （货币, 货物等的）流通; circle 圆; circa (Latin=about) （拉丁语）大约
+communist|共产主义者, 共产党员
+creations|创作；创造物（creation的复数形式）
+carlo|卡洛（男子名）
+carmen|卡门（女子名）
+commissioners|专员( commissioner的复数形式 ); 长官; 委员; 政府部门的长官
+cdna|[化] 互补DNA
+coordinated|调节；调整；整理；使调和（coordinate的过去分词）
+canberra|堪培拉
+cho|首席人事官（Chief Human resources Officer）
+convicted|宣判有罪( convict的过去式 )
+cursor|游标, 光标
+cz|[域]捷克（Czech Republic）；运河区
+cleanup|清除, 暴利
+conditional|有条件的, 有前提的
+crossword|纵横填字游戏, 纵横填字字谜
+conceptual|概念的
+challenged|受到挑战的
+cologne|科隆, 科隆香水
+ctrl|计算机的Ctrl按键（控制键）
+configurations|立体基阵；配置（configuration的复数）
+cribs|抄袭, 剽窃( crib的第三人称单数 )
+coagulatory|[建] 凝结的
+cades|凯兹
+cardinals|红衣主教( cardinal的复数形式 ); 红衣凤头鸟（见于北美, 雄鸟为鲜红色）; 基数
+catchcry|引起别人注意的话
+cancan|<法>(红灯区中表演的)康康舞(女子高高踢起大腿动作并不高雅的法国舞蹈)
+carns|(Carn 的复数) 堆石标记
+collects|收集( collect的第三人称单数 ); 收到; 收藏; 聚积
+coverts|隐蔽的, 不公开的, 秘密的( covert的复数形式 ); 复羽
+calthrops|(calthrop 的复数)  棘刺
+cuppa|一杯茶
+cucullus|修士之兜帽
+calliopsis|波斯菊
+codgers|<俗>怪（老）人, 有怪癖的（老）人( codger的复数形式 )
+cystolith|钟乳体
+centenaries|一百周年（纪念）( centenary的名词复数 )
+cowhide|牛皮, 牛皮鞭
+columellar|中柱
+calves|小牛, 幼仔, 小牛皮, 腓, 小腿, (非正式)呆头呆脑的年轻人
+centricity|中心, 中心性
+cursed|被诅咒的
+circuitry|电路学, 电路系统
+cardiotoxic|[医]心脏中毒的
+cutdowns|(cutdown 的复数) adj.缩小的, 删减的
+coparcener|共同继承人之一
+crool|发咕咕声
+cybele|自然女神
+cutler|刀匠, 刀剪商
+carlot|(=carload lot)达法定最低载重量之货物
+cirl|bunting[鸟]黄道眉鵐
+colonised|(colonise 的过去分词) vi. 开拓殖民地；移民于殖民地
+coursey|[人名] 库西
+colley|(Colley)人名；(法)科莱；(英)科利(教名Nicholas、Nicolas的昵称)
+ceorl|自由民中最下层的人
+cmd|煤矿管理局（Coal Mines Department ）；指令键
+colloquies|谈话, 对话( colloquy的名词复数 )
+clitoric|clitoris的变形
+chistera|柳条杓
+conspired|密谋( conspire的过去式和过去分词 ); 搞阴谋; （事件等）巧合; 共同导致
+categorizes|把…归类, 把…列作( categorize的第三人称单数 )
+caky|饼状的, 凝固的
+chokeberry|北美沙果(灌木)
+cyclotome|[医] 睫状肌刀
+cretacic|白垩统
+convoluted|盘绕的, 回旋的, 旋绕的, 卷绕的, 复杂的
+calliopes|(Calliope 的第三人称 -s形式) n. 卡利俄珀(主管雄辩和英雄史诗的女神), 汽笛风琴
+catskill|[地名] [美国] 卡茨基尔
+caponise|[医]（鸟）去势
+cranially|cranial的变形
+chiffonnier|西洋梳镜柜, 小衣橱
+cookeite|锂绿泥石； 细鳞云母
+calumniation|诽谤, 中伤
+counterspies|反间谍( counterspy的名词复数 )
+cymose|聚伞状的
+cichlids|(cichlid 的复数) n.棘鳍类热带淡水鱼,丽鱼科鱼
+curvicaudate|[生]弯尾的
+cachinnating|大声笑, 哄笑( cachinnate的现在分词 )
+carunculated|caruncle的变形
+cuckolds|妻子与人通奸的人, “乌龟”( cuckold的名词复数 )
+crowner|登峰造极的一举, 顶点, 倒栽葱, 跌伤头部, 皮鞋检验员, (非正式)验尸官
+cruzeiro|克鲁塞罗(巴西货币单位)
+capitalizes|用大写字母写或印刷( capitalize的名词复数 ); 将（某事物）转作资本、用作资本或资本化
+crannying|(墙、岩石等上面的)裂缝；小孔
+caretakers|看门人( caretaker的复数形式 )
+colourless|无色的, 无血色的, 无趣味的, 无特色的, 不生动的, 单调的, 不偏不倚的
+cusps|月角；尖点
+chromatinic|[医] 染色质的
+caulk|填...以防漏
+carpholite|[矿]纤锰柱石
+cedron|[植]策桩子
+cureless|医不好的, 无法医治的, 无法矫正的
+champacol|(=guaiol) 愈疮木醇, 黄兰醇
+calipee|黄色胶质物
+cedrol|雪松醇, 雪松脑
+counterguard|垒障
+cactoid|仙人掌状的
+cruse|壶
+cephalostyle|[医] 脊索颅端
+catty|恶毒的, 如猫的
+closetful|一整柜的
+cunningly|巧妙地, 狡猾地
+comboloio|(尤指伊斯兰教徒的)一串念珠
+citole|(=cittern)西特琴(一种类似吉他的古乐器)
+coniform|圆锥形的
+cotylopubic|[医] 髋臼耻骨的
+celestially|神地, 神圣地
+convulse|使震动, 使震撼, 使抽搐
+chamaephyte|[植]地上芽植物
+cashbook|现金帐簿
+cyanochroia|发绀, 青紫
+concluder|conclude的变形
+cobbers|(cobber 的第三人称 -s形式) n. 朋友, 伙伴
+crosshauling|横向滚装; 横向装材
+conjugations|(conjugation 的复数) n. 结合, 配合, 动词的词形变化
+crossroads|十字路口, 交叉路口, 聚会的中心地点, (喻)需作抉择的重要关头, 紧要关头
+codeword|[医]暗号用语
+cornea|角膜
+coroscopy|[医] 瞳孔检影法
+corncake|<美>玉米饼
+calyptrogen|根冠细胞层
+coacervation|凝聚
+counseled|劝告, 建议（counsel的过去式与过去分词形式）
+chink|裂口, 裂缝, 弱点, 叮当声
+corduroys|灯芯绒裤子
+calced|(=calceate)穿鞋的, 有蹄铁的
+cicisbeism|意大利在十八世纪有夫之妇与人私通之风气
+cwm|山侧凹地
+crossbar|闩, 横木, 球门的横木
+calathus|古希腊水果篮(图案)(象征丰产)
+camphoid|[医] 樟脑火棉浆(火棉胶的代用品)
+carrefour|十字路口, 广场
+crosshatches|用交叉排线画出阴影的( crosshatched的现在分词 )
+concubitus|[医] 交合, 交媾
+catalpas|(catalpa 的复数) n. 梓(树)
+copyfitting|版面调整
+crambe|[植]海甘蓝
+cothurnate|[医]为菌托或外菌幕所复盖的, 具鞘的
+carbonuria|[医] 碳酸尿[症]
+connotations|含义( connotation的复数形式 ); 隐含意义; 言外之意; 内含
+chewers|(chewer 的复数) n. 反刍动物；咀嚼口香糖的人
+credibility|可信用, 确实性, 可靠
+cynipidae|瘿蜂科
+caviare|鱼子酱
+cognate|同族的, 同语系的, 同词源的, 母族的, 同性质的, 同类的, 同种的
+caulocarpous|每年均在同一茎上结果的
+conveyorize|在...装设转运带
+conferred|<拉>商谈, 商议( confer的过去式和过去分词 ); 授予, 赋予
+cursively|草体
+cantonize|把…划成区
+cajuput|[植]白千层
+cheung|张（香港拼音）
+choralist|赞美诗歌唱者
+chebacco|[美]近岸小渔船
+chalaza|卵黄系带
+cudgelling|短而粗的棍棒
+conveys|运输( convey的第三人称单数 ); 运送; 输送; 表达
+crownless|未加冕的
+cicadidae|蝉科
+chirks|有精神, （使）高兴( chirk的第三人称单数 )
+carnifex|刽子手
+cairns|凯恩斯（澳大利亚港口）
+cheekily|厚脸皮地
+countersunk|[化] 埋头孔
+cheerily|高兴地, 爽快地, 活泼地
+catechizer|catechize的变形
+chorditis|声带炎
+citizenhood|公民身分, 国籍, 公民权, 市民身分
+cliffhanger|惊险故事, 惊心动魄的比赛
+commensally|共生地
+cashoo|[化]儿茶
+colposcopy|[医] 阴道窥器检查
+cleveite|[矿]钇铀矿
+crs|计算机预订系统（Computer Reservation System）；国会研究处（Certified Release Signatory）；阻风门回位系统（Choke Return System）；儿童专用安全装置（Child Restraint System）；克罗地亚船舶登记局, 克罗地亚船级社；冷轧钢材（Cold Rolled Steel）
+comfiest|舒服的, 轻松的( comfy的最高级 )
+corbelling|支柱工程, 支柱结构
+caravaned|乘拖车度假（caravan的过去式与过去分词形式）
+clawing|& vi. 用爪抓（claw的现在分词形式）
+coshed|以短棒攻击( cosh的过去式 )
+coeternal|同样永久的, 永远共存的
+circlet|小圈, 小的环, 环形饰物
+castalia|(=Castaly)神泉, 诗之泉
+capstan|绞盘, 卷扬机
+clitoromania|慕男狂； (女性)性欲狂
+courap|[医] 库腊普病(印度的一种皮肤病)
+cation|阳离子
+collectivity|集体性, 总体, 集体
+creditable|可称誉的, 声誉好的, 可信的
+cribbers|(cribber 的第三人称 -s形式) n. 剽窃者, 作弊者
+clarinda|克拉琳达(f.)
+compulsorily|强迫地, 强制地
+cardcastle|势必倾倒的建筑，即将失败的计划
+canari|communications and navigation airborne radio instrumentation 机载无线电通信与导航仪表
+cultivars|(cultivar 的复数) n.栽培变种, 培育植物
+clinohedrite|斜晶石
+caecal|盲肠的
+colation|[医] 漉过; 漉液
+correcting|[计] 校正的
+congruities|适合, 一致( congruity的名词复数 ); <数>全等
+chamfering|倒角, 切角, 倒棱, 切面, 削角
+carpi|腕
+cotype|[植][动]全模(式)标本
+cabbies|计程车司机, 出租马车的车夫; <口>出租马车车夫, 出租汽车司机( cabbie的复数形式 ); 出租汽车司机( cabby的复数形式 )
+callback|收回
+chalcedonian|Chalcedon的变形
+candler|烛台
+crosses|交叉( cross的第三人称单数 ); 穿过; 使交叉; 使杂交
+collegial|学校的, 大学的, 大学生的, 社团的
+corium|真皮
+cyclometry|测圆法
+carlovingian|加洛林王朝(法兰克王国的第二个王朝)的
+clamouring|喧哗, 吵闹( clamour的现在分词 ); 大声地要求或抗议
+cubane|[化]立方烷
+causse|[常作～s][地]喀斯(法国南部石灰岩高原)
+curtana|无尖剑
+cusparine|[化] 枯杷碱; 西花椒碱
+cathartics|泻药
+casquetel|轻型敞开头盔
+cerement|蜡布, 寿衣
+commiserated|怜悯, 同情( commiserate的过去式和过去分词 )
+coffees|咖啡豆( coffee的复数形式 ); 咖啡粉; （一杯）咖啡
+cineraceous|[医] 灰色的
+carrotin|[医] 胡萝卜素
+chappal|(常用皮革制成的)印度凉鞋(或便鞋)
+climbable|爬得上去的
+crossability|(异种的)可交配性
+chrysophan|[医] 大黄酚甙
+cirrocumulus|卷积云
+cowlings|(cowling 的复数) n. 飞机整流罩, 外壳
+colog|余对数
+chilblained|生冻疮的
+chid|chide的过去式和过去分词
+circumlental|[医] 晶状体周的
+creepy|爬行的, 令人毛骨悚然的
+coronadite|铅硬锰矿
+cutlet|肉片, 炸肉片, 炸肉排
+casquette|(有遮阳的)盔式无边帽
+cisted|cist的变形
+chalkiness|白垩, 白垩质, 白色
+caci|cancer index 癌指数; computer-assisted continuous infusion 计算机辅助连续输液
+coerces|迫使做( coerce的第三人称单数 ); 强迫; （以武力、惩罚、威胁等手段）控制; 支配
+concierges|看门人, 门房( concierge的复数形式 )
+catcalls|嘘声；不满之声；喝倒采
+cooled|冷却的
+cymbiform|船形的, 舟状的
+colleterium|[医]粘腺
+calypsos|卡里普索（特立尼达岛上土人即兴演唱的歌曲）( calypso的复数形式 )
+cathartidae|美洲鹫科；[鸟] 新域鹫科
+cheiranthus|[网络] 桂竹香属；桂竹香；七里香
+cordwain|科尔多瓦革
+centaury|埃蕾
+capouch|(capuche的变体)罩头
+cubiculum|(地下墓窟的)停柩室, 殡葬室
+cellarway|通往地窖的路
+comparator|比较仪
+counterpunch|反击,回击,(拳击的)迎击
+coagel|[化]凝聚胶
+cephalodium|地衣瘿
+colopexia|[医] 结肠固定术
+cohesively|黏合地；聚合在一起地；团结地
+chape|剑鞘顶部的金属包头, (英)皮带上的活动圈
+cycloramic|圆形幻画的
+clinoid|[解]鞍突状的
+cellaret|餐厅内放置瓶酒的橱
+complotment|共谋；阴谋 (complot的变形)
+canc|cancel 取消; cancellation 取消; cancelling 取消; canceled 已取消
+corporals|人体的( corporal的复数形式 )
+cabrioles|(cabriole 的复数) n. 家具的弯脚, 卡勃里奥尔(巴蕾舞基本动作)
+calin|(Calin)人名；(瑞典)卡林
+closuring|使结束, 使终止（closure的现在分词形式）
+charactered|刻, 印（character的过去式与过去分词形式）
+creeds|（尤指宗教）信条, 教条( creed的复数形式 )
+congestions|(congestion 的复数) n. 拥挤, 充血
+chapbooks|(chapbook 的复数) n. 小本故事书, 宗教小册子
+chromidial|[医] 核外染色粒的
+conant|科南特（姓氏）
+caraco|女短上衣
+cont|内容（contents）；连续的（continued）
+congeneric|同属的, 同种的, 同类的
+catnap|瞌睡, 假寐
+choletherapy|[医] 胆汁疗法
+creen|屏风
+carefree|无忧无虑的, 不负责的
+carburetter|[化] 汽化器; 化油器
+chamois|(产于欧洲和高加索地区的山羊般的)小羚羊, 羚羊皮, 麂皮, 油鞣革
+calpack|大羊皮帽, 大毡帽
+costumers|服饰供应商( costumer的名词复数 )
+chemoreflex|化学反射
+carageen|(carrageen之变体)[植]角叉菜
+clumping|[计] 聚丛
+commers|(commer 的复数) n. 康门（卡车品牌）
+canopying|用华盖遮蔽（canopy的现在分词形式）
+cantilena|坎蒂列那(指旋律优美的抒情曲)
+cresolin|克里索林(成药, 一种含甲酚的消毒剂)
+chironym|手稿名
+creeks|<英>小湾( creek的名词复数 ); 小港; <美>小河; 小溪
+cranioclasis|[医] 碎颅术
+cochlea|蜗
+cytode|[生]无核(原始)细胞
+catholicize|(使)成为天主教徒, (使)一般化
+convulses|使抽搐, 使剧烈震动( convulse的第三人称单数 )
+clappers|拍板
+combative|好斗的, 好事的
+charadrius|[网络] 鸻属；鴴属；铁嘴沙鸻
+cahoots|与...共谋
+condolence|哀悼, 吊唁
+cytogenic|[医] 细胞发生的
+costlessly|cost的变形
+classiest|时髦的, 优等的( classy的最高级 )
+cush|钱
+carpoidea|海果纲
+cataclysm|大洪水, 地震, (社会政治的)大变动
+cals|电脑辅助后勤支援系统（Computer-aided Acquisition and Logistic Support）；光速商务（Commerce At Light Speed）
+cardianeuria|心力不足
+cachectic|恶病的, 极瘦弱的
+conductive|传导性的, 有传导力的, 传导的
+coenoblast|[医] 共通胚膜, 原始胚膜
+claimable|可要求的
+cacography|拼写错误, 书法不佳
+colicroot|[植]腹痛根, 各种可用以治腹痛植物
+collapses|使倒塌；使瓦解
+coagulated|凝固( coagulate的过去式和过去分词 ); 使结块, 使变稠
+cuspis|[医] 尖
+cystostomy|[医]膀胱造口术
+contextural|contexture（组织）的变形
+crosstie|枕木
+crankcase|曲轴箱
+carination|[医] 嵴状, 船骨状
+carcinoma|癌
+chernozemic|chernozem的变形
+crackle|劈啪响, 裂纹
+chromaffin|嗜铬的, 亲铬的
+calendering|[化] 压延; 轧光
+chandu|[医] 禅杜(鸦片制品)
+coyed|假装害羞的( coy的名词复数 ); 忸怩作态的; 故作谦虚的; 不肯明说的
+craspedote|[医]缘膜
+cripples|伤残人( cripple的名词复数 ); 残疾人; 跛子; 瘸子
+cornua|[医] 角
+chatellany|城主的阶级, 职位或辖区
+cannier|精明的, 狡猾的( canny的比较级 )
+coils|卷；线圈（coil的复数）
+clatteringly|咔嗒咔嗒地, 咭咭呱呱地
+chewiest|（食物）耐嚼的, 不易嚼碎的( chewy的最高级 )
+candys|宽袖长袍
+carpellate|具有心皮的
+cordiality|热诚, 真挚
+curvey|[网络] 丰满
+cremationist|火葬论者, 主张火葬的人
+coparallel|上平行
+corrodible|可腐蚀的, 可侵蚀的
+ceriph|细体字
+cecity|盲目, 瞎
+cicatrose|愈合
+cacuminal|翘舌音的
+centralizing|使处于中央的控制之下, 把…集中于中央( centralize的现在分词 )
+chou|周；甘蓝；心爱的人
+cygnets|幼天鹅( cygnet的复数形式 )
+chlamys|短氅(古希腊男人用)
+coenogamete|多核配子
+colliery|煤矿
+coluber|[医]游蛇属
+commencer|开始
+chanceful|多变的, 多事的
+caporal|伍长烟草, 牧场监工
+churr|唧唧叫
+collimates|校准( collimate的第三人称单数 )
+citromyces|[医] 枸橼酸霉菌属
+crumples|压皱, 弄皱( crumple的第三人称单数 ); 变皱
+chilidium|唇瓣, 背三角板
+costermonger|水果,鱼叫卖小贩
+candying|用糖煮；使结晶为砂糖；美化
+carrageen|[建] 角叉菜, 鹿角菜
+characeae|轮藻科
+compatriotic|同国人的, 同胞的
+carposporous|carpospore的变形
+chronotropic|[医] 变时[性]的
+cumbersomely|不方便地; 笨重地
+cameramen|摄影师, 摄影者；摄影记者（cameraman的复数）
+copulations|(copulation 的复数) n. 连结, 交配, 交尾
+collationer|校对, 核对；整理；(对书卷号码、编页等的)核实, 配页
+carbamine|(=carbylamine)胩, 异腈
+checkroom|衣帽寄放处
+copalite|黄脂石
+cultism|崇拜, 迷信, 热衷搞迷信崇拜的倾向
+cystoscope|膀胱镜
+curdiness|curdy的变形
+carole|卡罗尔（女子名）
+cavils|挑剔, 吹毛求疵( cavil的第三人称单数 )
+clumsiness|笨拙, 粗陋, 不漂亮
+chalone|[生化]抑素
+cosponsor|共同赞助者
+ceratopsidae|[网络] 角龙科；角龙类；角龙科前所未知但与角龙
+copyrighter|[法] 著作权所有人
+consular|领事的
+chthonic|地府鬼神的, 地府的
+colligated|捆绑, 束, 综合( colligate的过去式和过去分词 )
+consultee|被商量者, 顾问
+chills|寒冷；冷漠；寒栗（chill的复数）
+climactic|顶点的, 高潮的
+chicanery|强词夺理, 狡辩, 欺骗
+chlorides|氯化物( chloride的复数形式 )
+colima|科利马
+cochleare|[化] 匙
+cauda|尾, 尾状物
+compressedly|compressed的变形
+clit|阴核, 阴蒂
+cestodes|(cestode 的复数) n. 绦虫
+cellulotoxic|细胞毒的
+crossbowman|弩手
+cumarin|[化]香豆素, 零陵香素
+concordant|和谐的, 相调和的, 一致的
+colorer|着色者；染色机
+conical|圆锥形的, 圆锥的
+confuted|驳斥, 驳倒( confute的过去式和过去分词 )
+chytridium|[医] 壶菌属
+concrement|[医] 凝结物, 凝结体, 结石
+ciliograde|[医] 用纤毛前进的
+canalled|开成运河的
+coveralled|[常用复数]；(衣裤相连的)工作服
+cumulation|累积, 堆积, 蓄积
+cuttage|插木繁殖法
+cloudberries|野生的黄莓( cloudberry的名词复数 )
+cohabiting|（未婚者）同居( cohabit的现在分词 )
+captaincy|舰长的职位, 大将的才略, 舰长的衔头
+charlock|田芥菜
+columbaries|鸽棚
+coenobitical|coenobite的变形
+calvinists|(Calvinist 的复数) n. 加尔文教徒
+chivy|打猎叫喊, 追逐
+cupper|用杯吸法者, 用吸器放血者
+cobbly|不平的, 用鹅卵石铺的
+committable|可以拘禁的, 可能犯的, 可以判处的
+cartilages|<解>软骨( cartilage的复数形式 ); 软骨结构
+condemned|已被定罪的, 定了罪的人用的
+competed|竞赛( compete的过去式和过去分词 ); 竞争; 比得上; 参加比赛（或竞赛）
+catfall|吊锚索
+capsulizing|节略, 摘要, 把…装于胶囊内( capsulize的现在分词 )
+canterburian|Canterbury的变形
+crescendi|（声音）渐强( crescendo的复数形式 )
+checkmate|击破, 彻底失败
+chromism|着色异常
+chums|与某人成为好朋友, 结交( chum的复数形式 )
+carbostyril|[化] 喹诺酮; 2-羟基喹啉
+coadjuvant|协作的
+canonship|牧师或僧侣的职位
+craker|[人名] 克雷克
+crucially|至关重要地, 关键地
+covenantee|[律]订约人
+clade|[生]进化枝,分化枝
+cader|(Cader)人名；(斯里、法)卡德尔
+coniology|空气中的灰尘, 微尘学
+cluttered|杂物, 零乱的东西<X>零乱<DDX>vt.( clutter的过去式和过去分词 ); 乱糟糟地堆满, 把…弄得很乱; （以…） 塞满…
+corollet|小花（用于菊科）
+cords|灯芯绒裤子
+corky|软木的, 活泼的
+cableway|索道
+chiack|讥笑,戏弄
+chivvy|(使)烦扰, 耍花招
+clinometer|测角器, 倾斜仪
+cherublike|cherub的变形
+crit|（核反应堆）保持一种自身支持的链式反应；暴击；评判
+cinnamonic|肉桂的, 取自肉桂的
+cataclastic|碎裂的
+critter|[方][谑]家畜；马；牛；[贬]人
+chukker|马球戏的一回(一场8回)
+castellany|城主之阶级(职位, 辖区)
+commonalty|平民, 大众, 民众团体
+clinium|[医]总花托（用于菊科）, 利多氟嗪
+caseates|干酪化, 发生干酪样变；干酪性坏死
+catchplate|[机] 传动板[车床]
+countrified|土气的, 粗俗的,思想简单的,质朴的.带有乡村风味的
+cygnet|小天鹅
+capitate|头状的
+carcassing|预埋管线工程
+cadetcy|(=cadetship)军校学员的地位
+catamount|猫科野兽
+cambogia|[药]藤黄
+cheecha|横斑蜥虎
+crunk|“旷课乐”, 美国南部的说唱乐风
+chiaroscuro|用明暗对照所作的素描, 明暗对照法
+croydon|克里登（英国伦敦附近一地名）
+chorioptes|[医] 皮螨属
+curvier|弯曲的；曲线美的（等于curvaceous） (curvy的变形)
+cradock|[人名] [威尔士人姓氏] 克拉多克 Craddock的变体; [地名] [澳大利亚、南非共和国] 克拉多克
+compliancy|依从, 顺从
+crones|干瘪老丑婆( crone的复数形式 )
+chorionic|[医] 绒[毛]膜的
+ciliata|[医] 纤毛纲
+cheilitis|[医]唇炎
+complements|补足语；其余产品；互补品（complement的复数）
+chartism|宪章运动, 宪章主义
+coo|咕咕地叫
+calices|calix的复数
+coadjacent|互相连接的
+chiron|[化] 手性子
+cystis|[医] 囊; 囊肿
+crutcher|[建] 搅和机
+camisade|(=camisado)夜间奇袭
+coplaintiff|[法] 共同起诉人, 共同原告
+causticness|caustic的变形
+coelomata|[医] 体腔动物门
+caravanned|旅行队, 有篷顶的大车
+causticizing|[建] 苛化
+chitose|[药]壳糖, 2,5-缩水甘露糖
+curing|[化] 熟化; 固化; 腌制; 熏制; 医治; 处理
+canna|美人蕉属植物
+cocontractor|[法] 共同承揽人, 共同承包商
+curledness|curl的变形
+compares|比较, 对照( compare的第三人称单数 ); 把…比做; 比喻; 比拟（常与 to连用）
+corselets|(corselet 的复数) n. 盔甲, 胸衣
+creels|筒子架（creel的复数）
+cryptometer|(涂料)遮盖力计, 遮盖力测定仪
+copernicans|(Copernican 的复数) a. 哥白尼学说的, 哥白尼系的
+calosoma|[昆虫]臭广宥步䖬；广宥肯䖬
+classicalism|古典主义, 模拟古典
+collunaria|[医] 洗鼻剂
+colies|鼠鸟；齿鹑
+chalcography|铜版雕刻术
+churchwomen|(churchwoman 的复数) n. 热心的女教会会员
+chaetognath|毛颚类动物
+complotted|共谋, 图谋( complot的过去式和过去分词 )
+caeca|盲肠( caecum的名词复数 )
+claviceps|麦角菌属
+chalybeate|含铁盐的
+cloves|[植物]丁香, 公丁香（clove的复数）
+catlinite|烟斗泥
+consignable|可委托的
+choplogic|诡辩
+childermas|儿童节(指12月28日)
+crutches|拐杖( crutch的名词复数 ); 支持物; 精神上的寄托; 胯部
+confining|受限的, 限制的；拘束的；狭窄的, 偏狭的
+compellable|可强迫的
+cephalodynia|[医] 头痛
+cismontane|山脉的这边的
+crined|头发；毛发的头
+checkouts|检验, 校验( checkout的复数形式 )
+colchicine|秋水仙碱
+cording|起凸线的织品, 绳索
+comforting|安慰的, 令人鼓舞的
+copaline|[网络] 苹果酸
+cupeller|cupel的变形
+cysticolous|孢囊生的
+chewed|咀嚼, 咬( chew的过去式和过去分词 ); （因为紧张等）咬住, 不停地啃, （为尝味道）不停地咀嚼
+carbonari|<意>[复]n.烧炭党(19世纪意大利的革命组织,旨在统一意大利,建立共和国) , 烧炭党人
+cocos|[医]椰子; [地名] [巴西] 科库斯
+commemorates|纪念, 庆祝( commemorate的名词复数 )
+cachexy|[医] 恶病质
+coatee|紧身短上衣
+cerusite|白铅矿
+checklists|(checklist 的复数) n. 清单, (美)选举人名单, 名册, 目录册
+chirotype|稿型
+cutout|挖剪图画, 断流器, 保险开关, 剪切块
+carya|山核桃
+chrestomathy|诸家名文选集, 文摘
+clucked|（母鸡）咯咯声( cluck的过去式和过去分词 ); <俚>傻瓜, 笨蛋
+coppery|含铜的, 铜一样的, 铜制的
+cavetto|[建]凹弧饰
+chalkboards|(chalkboard 的复数) n. 黑板
+cypriote|塞浦路斯的, 塞浦路斯语的, 塞浦路斯人的
+chaws|嚼, 咀嚼( chaw的第三人称单数 )
+crankshafts|机轴( crankshaft的复数形式 )
+cochleae|耳蜗, 蜗
+chaucer|乔叟（英国作家）
+countenanced|支持, 赞同, 批准( countenance的过去式 )
+cadaveric|[医] 尸体的
+choleraic|霍乱的, 霍乱性的, 类似霍乱的
+circling|[医] 羊利斯特氏菌病
+catcher|捕手, 捕捉器
+committeemen|(committeeman 的复数) n. 委员
+ceruleous|[医]天蓝色的
+cristispira|[医] 脊膜螺旋体属, 鸡冠波体属
+calorist|热质论者
+colluder|collude的变形
+chaucerian|英国作家乔叟的, 有关乔叟著作的
+chirimoya|[植]番荔枝(产于南美), 番荔枝之果
+cheyenne|夏安族；夏安族人；夏安语
+curtate|[计] 卡片部分
+collapsable|(椅子)可折迭的, 可折叠的
+colisepsis|大肠杆菌性脓毒病
+chopsticks|筷子
+chazan|独唱者
+calefactive|暖的, 温的, 升温的
+comings|（尤指新事物的）到来( coming的复数形式 )
+counsels|忠告( counsel的名词复数 ); 劝告; 辩护律师; 商议
+custos|保管人, 看守人
+chemists|化学家( chemist的复数形式 ); 药剂师; 药商; 药房
+criminative|定罪的, 责难的, 控告的
+crackled|有裂痕的；有脆皮的, 表皮松脆的
+corvus|乌鸦座
+carbonaceous|碳的, 碳质的, 含碳的
+coiffing|盖以头巾, 戴紧帽( coif的现在分词 )
+conventicles|(conventicle 的复数) n. 集会, 非国教徒的秘密聚会
+caseinate|[化]金属(如钙或钠)与酪蛋白的化合物,酪蛋白酸
+carpal|腕的
+cutch|[建] 儿茶
+clinodome|斜轴坡面
+chitters|聊天；啾啾而鸣；冷得发抖
+crowfoot|毛茛, 玉柏
+crewet|[网络] 调味品瓶架
+cozes|[法国] 科兹
+corotate|(与另一旋转体)同步旋转, 作同速旋转
+comendite|[化] 钠闪碱流岩
+concretes|混凝土( concrete的名词复数 ); 具体物; （图案式）有形诗; 图案诗体
+capuchin|[Capuchin ](天主教的)圣方济会托钵僧
+cantil|双线纹蝮蛇
+codification|法典编纂
+churada|[气]楚勒打暴雨
+cheiromegaly|[医] 巨手
+cherenkov|切伦科夫(即 Cerenkov,Pavel Alekseyevich)
+confiding|深信不疑的, 易于相信别人的
+corsac|鞑靼狐
+coupling|联结, 结合, 耦合
+caesardom|恺撒辖地, 恺撒之尊
+coolibah|[植]澳洲胶树(尤指小药室桉)[澳洲土著语]
+cystoptosis|[医] 膀胱下垂
+cerasin|[化] 角铅矿; 野樱素; 角苷脂
+calutron|卡留管
+chanfron|(chamfron的变体)保护马头前部的盔甲
+chapelgoer|非国教徒
+clavariaceae|珊瑚菌科
+counterword|泛义词
+crassest|愚笨的, 粗鲁的, 全然不顾他人的( crass的最高级 )
+cliches|陈腔滥调
+calycanthine|[化] 腊梅碱
+callant|青年, 少年们
+chaka|查卡
+cacogeusia|[医] 劣味, 恶味
+camisard|十八世纪初反叛法王路易十四的法国新教徒
+charactonym|说明某人特征的词/名称
+cowers|畏缩, 抖缩( cower的第三人称单数 )
+cupola|圆屋顶, 圆顶篷, 圆顶的塔
+celibates|独身者( celibate的复数形式 )
+cryotron|冷子管
+chubbier|胖乎乎的, 圆胖的, 丰满的( chubby的比较级 )
+canceler|消除器, 补偿设备
+cockpits|（飞机, 小船或赛艇的）驾驶室( cockpit的复数形式 ); 斗鸡场
+convicts|宣判有罪( convict的第三人称单数 )
+cobnut|欧洲榛
+cellulated|具有细胞结构的, 细胞状的
+condylomata|湿疣( condyloma的名词复数 ); [医]（单condyloma）湿疣
+clocking|[计] 定时
+carpel|心皮
+cysticercoid|拟囊尾幼虫
+claudetite|[化] 白砷石
+crucifying|把（某人）钉死在十字架上( crucify的现在分词 ); （尤指当众）折磨; 虐待; 迫害
+craving|渴望, 热望
+carriole|小单人马车, 小篷车, 狗拉的雪橇
+cytolytic|细胞溶解的, 溶细胞的
+ceaseless|不停的, 不断的
+churned|搅拌（牛奶或乳脂）以制黄油( churn的过去式和过去分词 ); 搅动, 扰乱某物; （尤指液体）翻腾
+chelidonic|[机] 白屈菜酸
+cormorants|鸬鹚, 贪婪的人( cormorant的复数形式 )
+courtling|小官员, 小朝臣
+chromyl|[化]含六价铬的
+clangour|发铿锵声, 发丁当声
+cressida|克雷西达
+cockeye|喝醉的, 扭曲的
+cohosh|[医] 升麻类药草(指多种毛莨科植物)
+collet|宝石座, 筒夹, 套爪
+cablese|电报略语
+californiana|[复] n.有关加利福尼亚(历史或文化)的文献
+chapatti|薄煎饼
+cresylene|[化] 甲代亚苯基
+csmp|[计] 连续系统模型程序
+catabolizing|（使）异化, （使）发生分解代谢( catabolize的现在分词 )
+catalyzator|[化] 催化剂
+cinchonise|<主英>=cinchonize
+cenesthetic|[医] 普通感觉的
+coarct|[医] 紧压
+clementine|克莱门氏小柑橘(为柑橘与酸柑杂交的品种)
+copacetic|极好的
+chorea|舞蹈病
+cantlet|小部分, 小段
+condensers|冷凝器( condenser的复数形式 ); （尤指汽车发动机内的）电容器
+counterfort|护墙, 扶壁, 山嘴
+cynodont|尖牙, 犬齿
+calden|[地名] [德国] 卡尔登
+coombs|库姆斯（姓氏）
+chronometer|天文钟, 航海用的精密时计, 精密的时钟
+curved|弯曲的；弄弯的
+crimped|起皱褶的, 有波纹的
+chimes|敲出和谐的乐声( chime的第三人称单数 ); 报（时）; 插嘴; （以…）打断谈话
+counselable|愿意接受劝告或忠告的
+contestation|争论, 竞赛
+chinse|捻缝, 填隙
+cytochylema|细胞液
+cholemia|胆血症
+cetus|鲸鱼座
+classicists|古典学者, 古典主义者( classicist的复数形式 )
+cornuto|妻子与人私通的丈夫
+constipate|使秘结, 使便秘, 使迟钝
+coccic|球菌的
+campier|装模作样的,不自然的 (比较级)
+cunjah|(=cannabis)大麻, 印度大麻
+caretake|照管, 看管
+canonry|牧师会会员, 教士职位
+closelipped|adj. 嘴紧的
+cynics|愤世嫉俗者, 讽世者( cynic的复数形式); 玩世不恭的人; 犬儒主义者
+calicoback|卷心菜斑色蝽
+curragh|沼泽地, 用兽皮和柳条制成的小船
+curtailer|curtail的变形
+clashingly|clash的变形
+cookroom|厨房
+cardiorenal|[医] 心肾的
+camped|露宿的
+choosers|选择器；选举人；选择者；投票者
+clofibrate|[医]降固醇酸,安妥明
+cryptogam|隐花植物
+courting|招致（court的现在分词形式）
+cooperage|制桶工场, 制桶业, 制桶工钱, 桶
+cytisine|野靛碱, 金雀花碱
+cabana|小屋
+cetaceous|鲸鱼的, 鲸目的
+clacked|噼啪响( clack的过去式和过去分词 )
+culicine|库蚊的
+cytochemical|[生]细胞化学的
+copa|(Copa)人名；(西)科帕
+coronograph|日冕观测仪
+countersea|逆浪, 逆行海流
+cearin|西阿林(一种可用于软膏剂的地蜡混合物)
+cresson|克雷森（人名）
+crackly|容易破裂的, 清脆的
+coworker|共同工作的人, 同事, 合作者
+cudbear|一种苔藓, 紫色染料
+corresponded|相符合( correspond的过去式和过去分词 ); 相一致; 相当; 通信
+cuscus|有袋类的一种树上动物
+chytrid|壶菌
+cystadenoma|[医] 囊腺瘤
+childly|孩子似的
+crosiered|crosier的变形
+constructer|建设者; 设计者; 营造商
+chumming|（与某人）成为好友( chum的现在分词 )
+censorious|爱批判的, 挑剔的
+caducary|（财产）被充公或转归的
+cutireaction|[医] 皮肤反应
+crates|板条箱, 柳条箱( crate的名词复数 ); 装货箱; 一箱（之量）; 破旧的汽车[飞机]
+counterearth|地球对应体
+cellaring|[建] 窖藏, 下窖
+caparisoning|覆以马衣, 使穿华服( caparison的现在分词 )
+cinchona|金鸡纳树, 金鸡纳树皮
+catface|畸形, 表面呈现的凹凸
+culicide|(=culicicide)杀蚊剂
+commoving|使激烈摇动( commove的现在分词 ); 使兴奋; 使骚动; 使动摇
+concerting|音乐会；一致；和谐
+channelled|有凹槽的, 有沟的
+condensate|聚合物, 冷凝物, 冷凝液
+chanteur|<法>歌唱者
+cambered|（成）曲线的, 弧形的
+conundrums|谜, 猜不透的难题, 难答的问题( conundrum的复数形式 )
+cinerarias|(cineraria 的复数) n. 瓜叶菊
+carpellary|心皮的
+chromophile|[医] 嗜染细胞, 易染细胞, 嗜染的, 易染的
+cookee|厨师的助手
+circumcising|<医>割除…包皮（由于宗教或健康理由）( circumcise的现在分词 )
+censing|焚香, 用香熏, （作为宗教仪式）燃香( cense的现在分词 )
+cormac|科马克（人名）
+cinerins|[化] 除虫菊酯类
+cyanogen|氰
+conformation|构造, 形态, 完整的配置
+calking|[机] 填隙
+copperware|[总称]铜器
+clubhouses|俱乐部会所( clubhouse的复数形式 )
+colostomies|(colostomy 的复数) n. 结肠开口术
+caskets|首饰盒, 匣子, <美>棺材( casket的复数形式 )
+carmel|卡梅尔(f.)
+civilities|礼貌( civility的名词复数 ); 客气; 礼仪; 客套
+countered|反击, 还击（counter的过去式与过去分词形式）
+conferrable|能授与的
+commandoes|突击队, 突击队员( commando的名词复数 )
+crinite|有毛发的, 有发状尾的, 有长软毛的
+coccidium|[动]双孢子球虫,二联等孢子球虫( 属球虫亚纲的原生动物)
+cumberland|坎伯兰郡（英格兰一郡名）
+cuprum|铜
+capillaries|毛细管, 毛细血管( capillary的复数形式 )
+cowrie|宝贝, 海, 贝壳
+chiles|奇利斯（姓氏）
+cambrel|（屠夫用来挂肉的）马脚形铁钩
+chalons|(Chalons)人名；(西)查隆斯
+cautioned|警告, 提醒, 劝…小心( caution的过去式和过去分词 )
+choppiness|波浪翻滚
+clytemnestra|克吕泰墨斯特拉（希腊神话中的人物, 等于Clytaemnesra）
+capacitances|(capacitance 的复数) n. 电容
+concretor|混凝土工
+chromatocyte|嗜铬细胞
+compromised|[医]妥协, 让步的, 缺乏抵抗力的, 缺乏免疫力的, 妥协的
+cuscohygrine|[化] 红古豆碱
+cered|有蜡膜的, 裹尸布
+cartograph|地图, (特指)插画地图
+countryseat|乡间宅第
+cleat|楔子, 栓, 系缆墩
+cathayan|中国的, 中国人的
+chronogram|纪年铭, 计时器所作的记录
+carburation|[建] 渗碳(作用)(内燃烧内之)汽化(作用)
+commy|(=communist)共产党员, 共产主义者
+columbine|鸽的, 鸽似的
+cercarian|[医] 尾蚴的
+cornstone|[地]玉米灰岩
+coning|[机] 压模印
+chousing|欺诈, 诈骗( chouse的现在分词 )
+condyle|骨节
+cogon|[植]白茅属（尤指白茅, 茅针）
+cancerweed|[网络] 琴叶鼠尾草
+chillagite|钼钨铅矿
+camleteen|仿驼毛呢
+crain|克雷恩（英国公司）；科伦（美国传播公司）
+chama|查马（地名）
+congenially|意气相投地
+clamoring|喧哗, 吵闹( clamor的现在分词 ); 大声地要求或抗议
+carpathian|喀尔巴阡山脉的
+colloped|[英国方言]；薄肉片, 小肉丁
+cyrenaic|(北非古城)昔勒尼的, 昔勒尼(学派)的人
+circean|喀尔刻(荷马史诗<<奥德塞>>中的美丽仙女,会巫术)的, 使人着迷的
+credo|信条
+cremations|火葬；火化
+catholicon|万应灵药
+catatoniac|[医] 紧张症的
+cuttings|钻屑；粉屑；插条（cutting的复数）
+cashbox|钱箱
+cankers|（植物的）溃疡( canker的名词复数 ); （动物）耳溃疡; 腐败的影响; 腐蚀因素
+conacre|<爱尔兰>n.(佃户的)小块土地出租(为期一熟)
+costless|没有成本的, 不需花钱的
+centimo|分(西班牙语系诸国的货币名)
+conducibly|conducible的变形
+chartaceous|似纸的, 纸质的
+chillies|（干）辣椒, 辣椒粉( chilli的复数形式 )
+cosmonaut|宇航员
+concavity|中央凹陷, 凹洼, 凹曲线
+continuate|持续的, 不间断的
+corporatism|'各阶级合作'主义
+camouflages|隐蔽( camouflage的第三人称单数 ); 掩盖; 伪装, 掩饰
+classmates|（同班）同学( classmate的名词复数 ); 砚兄砚弟
+chummed|（与某人）成为好友( chum的过去式和过去分词 )
+crabsidle|（蟹似地）横爬, 横行
+columba|天鸽座
+carragheenin|[化]角叉(菜)胶
+complot|共谋
+crenelle|城或墙顶之垛口,枪眼,炮门
+cyclops|独眼巨人, 独眼的人, 独眼畸胎
+cloistral|修道院的, 遁世的, 修道院回廊似的
+calyphyomy|萼瓣粘附性
+catchwords|(catchword 的复数) n. 口号, 标语, 口头禅
+carvestrene|非活性枞萜, 消旋枞油烯, 香芹萜
+cyclist|骑脚踏车的人
+compartments|隔间（ compartment的复数形式 ）
+cloacas|(cloaca 的复数) n. 泄殖腔, 阴沟
+chiralgia|[医] 手痛
+courtesying|礼貌, 谦恭, 殷勤；谦恭有礼的言词, 殷勤周到的举止, 礼貌的行为
+cataclysmic|洪水的, 灾变的, 政治和社会大变动的
+cymbalo|[音]扬琴, 洋琴( = dulcimer)
+closeted|秘密交谈的；私下会谈的
+coachmen|马车夫( coachman的名词复数 )
+clutches|抓住, 紧紧抓住( clutch的第三人称单数 ); （因害怕或痛苦）突然抓住
+consignors|(consignor 的复数) n. 委托者, 发货人, 货主
+calmer|无风扇电源
+cise|Colleges; Institutes; and Schools of Education (Library Association) 教育大学; 教育学院和教育学校（图书馆协会）
+correlative|有相互关系的, 相关的
+corbel|承材, 枕梁
+consciences|良心( conscience的复数形式 ); 内疚; 愧疚; 凭良心
+corrugated|皱纹的, 波状的
+cordierite|堇青石
+cest|广州电气安全检验所（Guangzhou Electrical Safety Testing）；中欧夏令时（Central European Summer Time）
+comintern|共产国际
+cheques|<英>支票( cheque的复数形式 )
+chophouse|排骨餐馆
+cub|幼兽, 年轻人
+converts|（使）转变( convert的第三人称单数 ); （使）转化; 皈依; 改变（信仰）
+cyclobothra|环床草
+carthamin|[化] 红花素
+coarseness|粗糙, 劣等, 粗
+carotinaemia|[医] 胡萝卜素血[症]
+catnip|假荆芥, 樟脑草
+cephalomenia|头部倒轻
+commentate|注释, 解说
+captions|标题, 说明文字, 字幕( caption的名词复数 )
+cestus|古罗马拳击手套, 腰带
+chitterlings|猪的小肠
+cering|用蜡包裹
+caza|( 土耳其省以下一级的) 区
+cavort|腾跃
+coxing|做舵手( cox的现在分词 )
+culminations|(culmination 的复数) n. 顶点, 高潮, 最高点
+cliver|钻管吊环, 吊钩, 连接钩环
+concentred|集中于一点
+coevals|(coeval 的复数) a. 同时代的
+censored|受审查的, 被删剪的
+chlamydeous|[植]有花被的
+chasmic|如深壑般破裂的
+criticisable|criticise的变形
+collocations|(collocation 的复数) n. 排列, 搭配, 布置
+clapped|拍手( clap的过去式和过去分词 ); （常指友好地）轻拍某人的背（或肩）; 急速放置
+conal|[人名] 科纳尔
+cestoda|[医] 多节绦虫亚纲
+commandery|骑士团辖区, 秘密社团的集会
+caritas|博爱
+counterblast|对抗气流, 强硬的抗议, 猛烈的反对
+cresc|crescendo 渐强
+cordialities|热诚, 诚挚( cordiality的名词复数 ); 热诚的行为（或言辞）
+catslide|低斜坡屋顶
+constituting|建立( constitute的现在分词 ); 指定; （合法或正式地）成立; 构成
+clogger|木屐匠
+contrariness|反对, 矛盾, 乖张
+complin|晚祷
+citer|[法] 传唤者, 引证者, 引用者
+contravene|违反, 触犯, 否认, 反驳, 抵触, 与...冲突
+clavierist|键盘；键盘乐器 (clavier的变形)
+caractacus|(Caractacus)人名；(英)卡拉克塔克斯
+chiseller|凿工, 凿匠, (美)(非正式)骗子
+chamberer|出入女子闺房者; 常到女性卧房者; 喜与女子交往者; 向女子献媚者
+crowded|拥挤的, 塞满的
+capsulized|节略, 摘要, 把…装于胶囊内( capsulize的过去式和过去分词 )
+coordinative|使同等的, 使协调的
+chirps|啾啾
+crayer|(以前在欧洲西海岸航行的)小帆船
+canoodled|爱抚( canoodle的过去式和过去分词 ); 抚爱; 吻; 搂颈亲热
+chromophane|[医] 视色质
+cruddy|透光不均匀的
+couturier|时髦女服商店, 时髦女服商/女设计师
+commandeers|征用( commandeer的第三人称单数 ); 强占
+cytosine|[化] 胞嘧啶
+chummage|同宿, 同居, 房租
+coalitional|coalition（联合, 结合；结合体）的变形
+cantillated|吟诵；以单音调诵歌
+cristate|鸡冠状的, 具脊的
+cushier|容易的, 轻松的( cushy的比较级 )
+coak|扣榫； 栓销 sunk coak (木工)凹榫槽
+capot|全胜
+coherently|[建] 结合地
+cleopatra|克利奥帕特拉（女子名）
+commiphora|[医] 没药属
+cenobitism|修道士生活, 修道院制
+courlan|一种产于中南美洲似秧鸡的长嘴鸟
+cotter|佃农, 茅屋小农, 雇农, 开尾销, 销, 制销
+commiserates|怜悯, 同情( commiserate的名词复数 )
+cushiest|容易的, 轻松的( cushy的最高级 )
+criminated|定罪；使负罪；责备
+crassness|愚钝；粗俗；极端
+cheeps|吱吱地叫( cheep的第三人称单数 )
+cinematic|电影的, 影片的
+chirpily|喳喳叫地, 快活地, 活泼地
+cupellation|灰皿提炼法, 灰吹法
+chondriome|线粒体系
+curtsied|行屈膝礼( curtsy的过去式和过去分词 )
+centennially|每百年一次地
+cakewalking|很容易做的事, 易如反掌的事( cakewalk的现在分词 )
+corneas|眼角膜( cornea的名词复数 )
+chaff|谷壳, 糠, 揶揄
+cacochroia|[医] 面色不良, 皮色不佳
+conciliator|抚慰者, 调和人
+casuarinales|木麻黄目
+corticose|外皮的, 皮层的
+cockscombs|鸡冠；鸡冠花；鸡冠帽
+corncob|玉米棒子的芯, 玉米穗轴, 玉米芯, 穗轴, 玉米棒子
+collided|碰撞, 冲突（collide的过去分词）
+cystophora|泡沫复珊瑚属
+cribo|[动]森王蛇(一种无毒大蛇, 产于热带美洲及西印度群岛,能杀伤毒蛇)
+calendric|日历的,按日历的,历法的
+cyanochroic|[医] 发绀的, 绀色的
+carbonizer|[化] (氯化铝)去纤维素液; 碳化塔
+cliquishness|cliquish的变形
+chemoceptor|化学受体, 化学感应器
+crashers|(crasher 的复数) n. 猛击, 不速之客
+capitulating|投降( capitulate的现在分词 )
+coalfield|煤田
+chemise|女式无袖宽内衣, 衬衫式外衣
+chevalier|各级爵位的成员, 骑士, 最低级的贵族
+chubasco|丘巴斯科雷雨(雨季在中美洲太平洋延岸常出现的雷雨)
+crasis|体质, 元音缩合, 二元音的融合
+colocasia|(=taro)芋
+contaminable|受到污染的
+cancrivorous|食蟹的
+capella|[天] 五车二（御夫座之一等星）
+clothesbrush|衣刷
+chastity|纯洁, 贞操
+cachous|(cachou 的复数) n.口香糖, 驱口臭片
+crumbly|易碎的, 脆的
+carpe|鲤鱼；木工铅笔
+confucius|孔子
+chlorsalol|[医] 氯代水杨酸苯酯, 氯萨罗
+cydippida|[网络] 球栉水母目；球水母目；风船水母目
+cebus|customer electronic bus 客户电子总线
+capillaritis|[医] 毛细管炎
+centred|位于中心的, 以某一对象为中心的
+courtside|(网球等的)球场边缘区
+calisthenics|健身操, 健美操
+clumpier|(clumpy 的比较级) a. 成块的, 成丛的, 多块的
+cartload|一车的载量, 大量
+corralling|集结
+cabbala|（中世纪）犹太神秘哲学, 秘法
+canonisation|正式宣布为圣徒
+caucho|卡乌巧橡胶
+camshaft|凸轮轴
+carbonates|碳酸盐( carbonate的名词复数 )
+chromatist|颜色学家
+cyclopropane|环丙烷
+cern|欧洲原子核研究委员会
+cristina|克里斯蒂娜（电视剧中的人物）
+cadwallader|卡德瓦拉德(m.)
+countship|伯爵的地位
+chimaera|(=chimera)n.吐火兽, 幻想,银鲛
+cylindriform|[医] 圆柱状的
+cytula|[生]合子, 受精卵
+cockboat|轻舟, 小艇
+cataclinal|与地层凹陷处同方向下降的, 顺斜的
+cola|结肠, 冒号, 科朗
+causationism|因果论
+crystallized|[医]结晶的, 使晶状的
+compacting|[建] 压紧
+cingalese|锡兰人[语]
+calycine|[医] 杯状的, 盏的, 萼的
+contortions|弯曲, 扭歪
+cicatrix|[植]脱离痕, 叶痕
+chronoscope|瞬时计
+craftmanship|工艺
+conidial|无性孢子的, 分生孢子的
+contextual|上下文的, 前后关系的
+chromiole|染色微粒
+clyster|灌肠法
+calibrator|校准器
+coapt|使(骨等)接合, 使接牢
+cyproterone|[药]去乙酰环丙氯地孕酮
+cytotaxonomy|细胞分类学, 染色体形态之分类法
+cyclopia|[医]独眼畸形
+cataphatic|[宗]( 对上帝的知识) 用肯定方法所得的
+chippers|(chipper 的复数) a. 爽朗的, 活泼的, 爽快的
+chute|瀑布, 斜槽
+charlatans|冒充内行者, 骗子( charlatan的复数形式 )
+clustery|cluster的变形
+cousinhood|堂兄弟姐妹关系, 亲戚关系, 表兄弟姐妹关系
+chlamydozoa|[医] 衣原体纲
+cravenly|胆小地; 懦弱地; 胆怯地
+cohesible|[建] 可粘合的
+combusts|燃烧；消耗
+combretum|[医] 风车子属(植)
+cragged|多岩的, 多峭壁的, 崎岖的
+covenantal|covenant（盟约；契约；用盟约或契约承诺, 保证；订立契约）的变形
+comelier|<文>英俊的, 好看的( comely的比较级 )
+castanea|[化] 齿栗叶
+clumsiest|笨拙的( clumsy的最高级 ); 复杂难懂的; 得罪人的
+canephorus|古希腊之顶篮少女(特指祭神时头顶有圣物之篮的少女), [建]顶篮少女雕像(有时用作柱头)
+casus|案例
+cupped|杯形的；凹的
+cortisol|皮质醇, 氢化可的松
+cockatoos|(cockatoo 的复数) n. 风头鹦鹉
+chukka|高帮皮马靴
+colalgia|[医] 结肠痛
+cohobate|再蒸馏
+checkmates|（国际象棋）将死( checkmate的第三人称单数 ); 输棋; 败局; 败北
+cryosurgery|冷冻手术
+centralizer|中心化子
+counterfire|反击
+canel|运河, 沟渠
+capacitate|使能够, 使适合
+carvol|[化] 香芹酮
+cyclonal|[医]环己巴比妥, 依维本
+coxes|舵手( cox的名词复数 )
+collars|辊环；衣领；颈圈（collar的复数形式）
+committal|委托, 交押, 承担义务, 犯罪
+cuspid|犬齿, 尖牙
+confervoid|[植]水绵状的, 水绵
+chasmophyte|在石缝中生长的植物
+cessative|(文法上)表示中止或停止的
+captivation|迷惑, 着迷, 魅力
+coprophilia|粪便嗜好症
+casanova|卡萨诺瓦式人物(意大利浪荡公子)
+castilleja|[网络] 火焰草属；扁萼花属；火焰草属植物
+concertation|<法> n.(各派利益集团间的)共商,合作,协调
+capreolate|[植]有卷须的
+camphoric|搀有樟脑的
+coots|黑鸭, 笨蛋, 傻瓜( coot的复数形式 )
+construe|解释, 分析, 对...逐字直译
+coumaphos|香豆磷,蝇毒磷(一种杀虫剂)
+congratulant|祝贺的
+craves|渴望, 热望( crave的第三人称单数 ); 恳求, 请求
+crustation|成壳作用
+catcall|不满之声, 嘘声
+catagmatic|[医] 促使骨折愈合的
+captance|容抗
+callow|年轻而无经验的, (鸟)羽毛未丰的
+cisterns|蓄水池, 储水箱( cistern的复数形式 ); 地下储水池
+costumier|服饰供应商
+chromoblast|成色素细胞
+cornball|乡巴佬的, 陈腐的, 老派的
+conjures|用魔术变出( conjure的第三人称单数 ); 祈求, 恳求; 变戏法; （变魔术般地） 使…出现
+confucians|(Confucian 的复数) a. 孔子的, 儒家学说的, 儒家的, 孔夫子的, 孔丘的
+caprylin|己酸甘油酯
+clasmatocyte|[生]组织细胞
+curably|curable的变形
+calembour|谐音之诙谐语, 双关妙语
+cornrows|玉米垄发型
+caesarian|凯撒的；皇帝的；剖腹产的
+curmudgeons|(curmudgeon 的复数) n. 脾气坏的人, 吝啬鬼
+cumulus|积云, 堆积物
+colleen|少女, 姑娘
+cheaters|眼镜；骗子；骗人的事物（cheater的复数形式）
+churchly|教会的, 适于教会的
+cuca|Carpet and Upholstery Cleaning Association 地毯与室内装潢清洁协会
+chiococcine|[化] 卡亨卡根碱
+cadi|卡迪(伊斯兰法官)
+copunctal|共点的
+cassoulet|豆焖肉
+crassula|眉条
+chiasmatypy|[生]染色体交叉
+cogitated|<正>认真思考, 深思熟虑( cogitate的过去式和过去分词 )
+cedarwood|雪松属木料, 杉木
+cavalierism|骑士；武士；对女人献殷勤 (cavalier的变形)
+cortes|议会, 国会
+crossbeams|(crossbeam 的第三人称 -s形式) n. 大梁, 横梁
+cyatheaceae|[植] 桫椤科
+commissars|(commissar 的复数) n. 代表, 委员, 人民委员(前苏联部长的旧称)
+confabs|会谈( confab的第三人称单数 )
+cloudily|云雾迷漫, 黯然, 朦胧
+categorist|categorize的变形
+consols|无归偿期证券, 英国政府债券
+cames|(came 的第三人称 -s形式) come的过去式
+calcaneal|脚后跟的
+curtainless|curtain的变形
+calceate|穿鞋的, 有蹄铁的
+concavation|凹度
+customizing|定制；客户化；按用户要求制做
+croutons|（常放在汤里吃的）油煎面包块, 烤碎面包块( crouton的复数形式 )
+cootie|虱子
+chalumeau|芦笛
+canzonet|小坎佐尼, 小曲
+chubbiest|胖乎乎的, 圆胖的, 丰满的( chubby的最高级 )
+chaunter|[古语]= chanter
+circumventor|circumvent的变形
+calf|小牛, 小牛皮, 腓肠
+cotyliform|[医]碟形的, 盘状的
+compressive|有压缩力的
+copt|科普特人, 科普特基督教徒, 埃及土人
+cosmology|宇宙哲学, 宇宙论
+crankle|弯来扭去, 七弯八曲, 使弯曲
+chac|[医][=catholic hosptial association of canada]加拿大天主教医院协会
+congruence|适合, 一致, 和谐
+crystallose|代糖晶
+cirrhotic|肝脏硬化症的
+coquito|一种棕榈树
+copes|成功地应付, 对付( cope的第三人称单数 )
+carneous|似肉的, 肉色的
+comatulid|[动]放射状海百合,海羊齿
+cowgrass|红三叶草
+conjugation|结合, 配合, 动词的词形变化
+chironomus|[医] 摇蚊属
+cyrtometer|圆量尺, 测曲面器, 测胸围器
+cacocnemia|[医] 腿不良, 腿过细
+conglutinate|(使)黏连, (使)黏合
+caddisfly|石蛾
+chanciest|不确实的；偶然发生的；不安的 (chancy的变形)
+classbook|班级记录簿, 班级纪念刊
+castrator|[医]家畜去势器（兽医用）
+coldproof|抗寒的, 耐寒的
+coexecutor|共同执行人
+conceals|隐藏, 隐瞒, 遮住( conceal的第三人称单数 )
+contemner|犯藐视法庭罪者; 藐视者
+chalcanthite|胆矾, 五水合硫酸铜, 蓝矾
+ceruminal|耵聍的
+cumuliform|积云状的, 积云性的
+cribration|过筛, 多孔性
+corniform|角形, 角状
+cespitosely|(植)丛生的,簇生的
+conformed|[医]紧贴的, 同形的
+chromocyte|色素细胞
+capacitated|限量的
+conveyances|传送( conveyance的复数形式 ); 运送; 表达; <正>运输工具
+climbs|爬( climb的第三人称单数 ); 攀登; （尤指吃力地向某处）爬; 登山
+cionotomy|[医] 悬雍垂部分切除术
+caucasians|高加索人；白种人（Caucasian的复数）
+conclavist|红衣主教, 教皇所带的侍从
+cliques|派系；小集团（clique的复数形式）
+chicest|漂亮的
+calks|堵（船的）缝( calk的名词复数 ); 泥…的缝; 填塞; 使不漏水
+climes|气候, 地方, 地域( clime的复数形式 )
+chai|印度奶茶, 印度茶；混合茶
+comportance|[废语]=comportment
+chastiser|惩罚者, 责打者
+cheetah|猎豹
+corries|(Corry 的复数) n. (Corry)人名；(英)科里
+constriction|压缩, 收缩, 紧压的感觉
+colostrous|[医] 初乳的
+croupous|哮吼性的
+centimeters|厘米( centimeter的复数形式 )
+chattels|动产, 奴隶( chattel的复数形式 )
+coverlet|床罩
+citybuster|原子弹
+choletelin|[化] 胆黄素; 胆特灵
+congregation|集合, 聚集
+circumvolute|缠绕, 曲折
+cymry|威尔士人, 威尔士之塞尔特人
+chrematistic|理财的,牟利的,赚钱的
+cheapens|减价( cheapen的第三人称单数 ); 降低（自己[某事物]）的身价, 贬低
+claudio|克劳迪奥（男子名）
+conjunctive|连结的, 结合的, 联合的
+casher|出纳员
+coulombs|(coulomb 的复数) n. 库仑
+conorhinus|[医] 锥蝽属
+curvedness|曲线；弯曲；曲线球；曲线图表 (curve的变形)
+commode|洗脸台, 五斗橱, 便桶
+champignon|食用伞菌
+carr|凯尔（挪威, 住在沼泽的人）
+chlorocresol|氯化甲酚
+concho|[解]外耳, [建](教堂东面半圆形室上的)半圆屋顶
+canniest|精明的, 狡猾的( canny的最高级 )
+calciner|锻烧之人, 锻烧炉
+cherubin|[宗]高级天使(天堂乐园的守护者)
+cowsheds|牛棚, 牛舍( cowshed的复数形式 )
+crossest|cross（坏脾气的, 易怒的）的最高级形式
+copasetic|极好的
+carbolic|碳制的, 用煤焦油制成的
+changeabout|一百八十度大转变
+catamountain|<美>野猫,美洲狮,山猫, 喜欢吵架的人
+compromisers|(compromiser 的复数) n. compromise的变形
+corone|[医] 下颌冠状突
+curacao|柑桂酒, 柑香酒
+cotyledon|子叶, 寇太来顿属植物
+crosshatched|用交叉排线画出阴影的
+civets|(civet 的复数) n. 香猫, 香猫香, 麝猫香
+chemics|(chemic 的复数) adj. 化学的；炼金术的
+conners|[人名] 康纳斯
+caroid|[医] 卡罗伊德(成药,一种消化性散剂)
+cinnamoyl|[化] 肉桂酰
+composedly|镇定地, 沉着地, 自若地
+choppily|波涛汹涌地
+condominium|共同统治
+conodont|[古生]牙形刺, 牙形石
+colleens|姑娘；（爱尔兰）少女
+churlishness|粗暴；吝啬
+cephalomelus|[医] 头部寄生肢畸胎
+cascadite|橄云煌岩
+camporee|童子军野营会
+colicystitis|[医] 大肠杆菌性膀胱炎
+channelize|[计] 信道化, 能道化
+cimicifugin|升麻素
+comtism|实证哲学, 实证论
+concentrical|共中心的, 集中的
+campagna|平原
+chologenetic|[医] 生胆汁的
+cinnamyl|[化]苯丙烯盐基的
+cytogeny|[生]细胞发生
+cryogen|致冷剂, 冷冻剂
+captacula|[医] 头丝
+concocter|调制者, 策划者
+cappelletti|意大利水饺
+crinolines|裙衬, 带衬的裙, 四周鼓出的裙( crinoline的复数形式 )
+colonoscopy|结肠镜检查
+chirapsia|[医] 按摩
+clobbers|狠揍, （不停）猛打( clobber的名词复数 ); 彻底击败
+chylify|（使）变成乳糜
+corixa|[网络] 科里沙；科之水春
+cinnoline|[化] 噌啉; 肉啉; 邻二氮萘; 邻二氮杂萘; 1,2-二氮杂萘
+commonable|公有的
+contently|满足地
+clypeiform|[生物]圆盾的, (昆虫)有额板的,有唇基的
+couplement|连接器；[废语] 交配；配对；一对
+clavered|闲话；闲谈
+cameroonian|喀麦隆人
+confidingly|信任地
+confucianist|儒
+churchyards|墓地, 境内( churchyard的复数形式 )
+clunkers|年久失修的旧机器( clunker的名词复数 ); 破旧不堪的汽车; 严重的错误; 大错
+cynoglossum|[植]琉璃草,倒提壶
+crammed|密经, 密纬, 紧挡(织疵)
+commemorator|commemorate的变形
+confects|混合；调制
+coessential|同素的, 同体的, 同质的
+capito|（非洲的）工头（一帮人的）头子
+cannibalized|吃同类的肉( cannibalize的过去式和过去分词 ); 拆用…的配件; 调拨…的人员吃人肉; 拆用配件
+cleansable|可清洗的, 可净化的, 可纯净的
+coxswain|艇长, 舵手
+cresylite|甲苯炸药, 甲酚盐
+contravenes|取消, 违反( contravene的第三人称单数 )
+countdowns|（发射宇宙飞船等的）倒数读秒, 倒计时( countdown的复数形式 ); 大事临近的时期
+catechumen|新入教者, 新信徒, 初学者
+copout|逃避, 退避, 虎头蛇尾, 自首, 逃避者
+circiter|<拉>prep.=circa
+cytometer|血细胞计数器
+cabriolets|(cabriolet 的复数) n. 蓬式汽车
+canthectomy|[医] 眦切除术
+campion|剪秋罗属植物
+checkwork|砌砖格, 方格式铺砌
+chilies|(chily 的复数) n. 台湾奇立（台湾一家著名的开关和插座制造商）
+chianti|基安蒂红葡萄酒（产于意大利）
+cryptocerata|隐角亚目
+ciderkin|淡苹果汁; 淡苹果酒
+cultivator|耕者, 栽培者, 耕田机
+cretin|呆小病患者
+carbolineum|蒽油；焦油木材防腐剂
+californite|[矿]玉符山石(其貌如玉)
+cyrus|赛勒斯（男子名）
+countersigns|<术>连署, 副署, 会签 （文件）( countersign的第三人称单数 )
+champaign|原野, 平原
+cotta|短法衣
+contraptions|奇妙的装置, 新发明( contraption的复数形式 )
+chromatize|[医] 加铬, 铬处理
+componentry|元件部分
+cera|[医] 蜂蜡, 蜡
+choreoid|[医] 舞蹈病样的
+caravel|轻快帆船
+clepe|名叫, 命名为
+cohosted|联合主办的
+cameral|有关立法或司法机构之一院的
+cogitating|<正>认真思考, 深思熟虑( cogitate的现在分词 )
+cumulophyric|联合斑状的
+categorial|[哲][语]范畴的( 亦作categoreal)
+corcir|石蕊茶渍
+csw|[计] 通道状态字
+cockler|贝类采集小船
+candidiasis|[医] 念珠菌病
+chondroma|[医]软骨瘤
+convoke|召集...开会
+coenogenetic|[生]新性发生的
+catholicness|普遍性, 一般性
+cyphering|零, 零的记号, 密码索引书
+coalescency|[网络] 凝结
+clemency|仁慈, 宽厚, 仁厚
+cannonballs|(cannonball 的复数) n. 炮弹
+culotte|裤裙
+cowling|飞机整流罩, 外壳
+confusional|[医] 精神混乱的
+chabuk|(用以体罚的)一种长鞭
+cassandras|不为人所信的吉凶预言者（Cassandra的复数）
+canker|溃疡, 腐蚀因素
+curtest|简短的
+cowgate|在公地上放牧一头牛之权利
+chlorella|小球藻
+cooner|猎浣熊的猎犬
+cronk|体弱的, 欺诈的, 不正当的
+citric|柠檬的, 取自柠檬的
+candidature|候选人的地位, 候选人资格
+caches|高速缓存；隐藏所；隐藏物（cache的复数）
+cunner|青鲈
+commonness|普通, 平凡, 共性
+crewels|[医] 淋巴结结核, 瘰疬
+coccerin|[化] 胭脂虫蜡
+chromide|棘鳍类热带淡水鱼,丽鱼科鱼
+copse|矮林, 小灌木林, 萌生林
+convocator|会议召集人, 与会者
+commorant|居住
+cystirrhea|[医] 膀胱粘液溢, 膀胱卡他
+cutinize|[植]使充满蜡状质
+colet|[人名] 科利特
+cephalemia|[医] 脑充血, 头充血
+cereous|蜡制的, 涂蜡的
+cassis|产于欧洲的黑醋栗, 黑醋栗所酿的酒
+cimicidae|[医] 臭虫科
+collapsing|压扁；折叠；崩溃；塌陷（collapse的ing形式）
+coriaceous|皮革的, 皮质的, 坚韧的
+combinedly|combined的变形
+chessman|(国际象棋)棋子
+coralloid|珊瑚状的
+canonries|(canonry 的复数) n. 牧师会会员, 教士职位
+commercing|贸易, 商业
+corticin|一种合成的地铺[毡]
+calliope|卡利俄珀(主管雄辩和英雄史诗的女神), 汽笛风琴
+cuppas|一杯茶( cuppa的复数形式 )
+copperish|有点儿含铜的, 有点儿象铜的
+cede|割让
+coenocytic|[生]多核细胞的, 多核体的
+cavalla|竹荚鱼科的鱼
+clockface|钟面
+constat|〈法〉证明文写；笔录
+compressure|[建] 压缩力
+cosmoses|宇宙( cosmos的名词复数 )；秩序, 和谐
+chitted|(chit 的过去时) n. 小孩, 少女, 芽
+confesses|承认( confess的第三人称单数 ); 聆听（某人的）忏悔（或告罪、告解）; （尤指罗马天主教会）忏悔; 悔过
+cryology|冷藏学, 冷冻学
+clericalist|教权主义者
+costively|便秘的
+cablelaid|[造船]三股反搓(绳)的
+cert|必然的事情
+caretaking|看管
+cloudbursts|（突然的）暴雨, 倾盆大雨( cloudburst的复数形式 )
+cinefilm|电影胶片
+chamaecrista|[网络] 决明属；豆科决明属；假含羞草属
+cappelenite|硼硅钡钇矿
+caparison|马衣, 华丽的衣饰
+chairmans|（主持会议的）主席( chairman的名词复数 ); 委员长; （委员会的）委员长; （公司等的）董事长
+closeups|(closeup 的复数) n. (电影的)特写镜头, 近景照片, 仔细的观察, 小传
+culturology|<美>文化学(社会人类学的一个分支,研究文化现象或体系)
+canaille|暴民, 贱民
+cullers|卡勒斯
+codas|乐章结尾部, 完结部, 终曲( coda的复数形式 )
+castration|去雄蕊, 修正, 阉割
+croquet|槌球游戏
+crisscrosses|十字形；矛盾
+cheesed|厌烦的, 恼怒的
+camino|卡米诺（电影名、女子名、品牌名）
+cavel|带缆柱, 羊角
+credendum|信条, 教条
+cml|[计] 电流开关逻辑电路; 电流型逻辑电路
+ciliated|有睫的, 有纤毛的
+crenellation|开枪眼的工事, 开枪眼的工程, 雉堞
+craquelure|(油画表层上的) 龟裂缝
+choirboys|（唱诗班的）少年歌者( choirboy的复数形式 )
+corrida|斗牛
+calorizer|[机] 熟法浸提器
+coden|[计] 代码数字系统
+cruset|(Cruset)人名；(法)克吕塞
+collusive|共谋的
+crankous|<苏格兰>易怒的, 急躁的
+che|[医]胆碱酯酶（等于cholinesterase）；充电指示灯；化学（等于Chemical）
+coelenteron|体肠腔
+cratered|有坑洞的, 多坑的
+crocodilus|鳄属
+commandos|突击队, 突击队员( commando的复数形式 )
+cultigen|分类学来源不详之生物或植物(如白菜)
+conder|康德
+cumenyl|枯烯基, 异丙苯基[邻, 间或对]
+cromfordite|角铅矿
+cassata|卡萨塔冰淇淋
+cosign|联合署名, 连署保证
+cauliflowers|<植>花椰菜, 菜花( cauliflower的复数形式 )
+carinal|龙骨板
+chloranemia|[医] 萎黄病, 绿色贫血, 萎黄病贫血
+cuddliest|不由得想搂抱的, 可爱的( cuddly的最高级 )
+chamfers|倒角, 倒棱(chamfer的复数形式)
+cobras|眼镜蛇( cobra的复数形式 )
+cobbling|粗劣地制作( cobble的现在分词 ); 修（鞋）; 匆匆制作; 胡乱拼凑
+celadon|灰绿色, 青瓷
+canalization|开运河, 运河网
+carcinogens|致癌物( carcinogen的复数形式 )
+colloquially|用口语, 用通俗语
+clashes|冲突( clash的名词复数 ); 不协调; （两群人之间的）打斗
+cuckolding|使戴绿帽子( cuckold的现在分词 )
+cycloidal|摆线的, 圆形的
+chantable|可歌颂的,可咏唱的
+celeriac|块根芹
+cobdenite|科布登主义者
+contradicts|反驳, 否认…的真实性( contradict的第三人称单数 ); 与…发生矛盾, 与…抵触
+clippie|女售票员
+corer|(果实的)去心器
+cozens|,vi. 欺骗, 哄骗, 诈取
+callisection|麻醉动物解剖
+cfd|[计] 计算流体动力学语言
+carpophyte|孢堆果原植体, 显花植物, 大孢子植物, 种子植物
+coincidences|（令人吃惊的）巧合( coincidence的复数形式 ); （意见等的）相同; 同时存在; 并存
+calzada|公路, 大街
+carnificial|刽子手的, 屠夫的
+couscous|蒸粗麦粉
+crimping|[化] 卷边
+curtal|切短物, 被剪短之物
+confreres|(confrere 的复数) n. 同事, 同志, 同仁, 同一团体的成员, 同行
+conflagrant|燃烧着的
+catchier|（曲调、歌曲）容易记住的( catchy的比较级 )
+concreter|混凝土工
+chuckawalla|大型蜥蜴
+crotchets|小钩( crotchet的复数形式 ); 怪想; 奇想; 反复无常
+cyclanthales|环花目
+cockscomb|鸡冠, 鸡冠花, 鸡冠帽
+cracking|裂解, 分解
+catamaran|双体船, 筏
+collywobbles|肚子疼
+caracara|[动](产于中南美洲吃腐肉的)长腿兀鹰
+crooners|低声唱歌的人或歌手( crooner的复数形式 )
+checkwriter|支票的打字机
+cuvierian|(法国动物学家)居维叶的, 居维叶分类法的
+charmed|喜悦的；着迷的
+capelet|[医] 马踝(肘)肿
+captivities|(captivity 的复数) n. 囚禁, 被关
+cistic|cist的变形
+counterglow|对日照
+composited|(composit 的过去分词) adj. 合成的；复合的
+camphanone|莰烷酮
+coaxal|共轴的, 同轴的
+coliseum|大体育馆, 大剧场,大公共娱乐场
+churchy|教堂的, 教会的, 忠于教会的, 恪守教会仪式的
+cravening|畏缩的；怯懦的
+compensator|赔偿者, 自耦变压器, 补偿物
+collaterally|collateral的变形
+cru|酒的度数；（法国的）葡萄园
+culler|检尺员
+cryptanalyze|用密码分析法破译
+cager|篮球选手
+cenobitic|cenobite的变形
+charades|用动作等表演的字谜游戏（charade的复数）
+calcutta|加尔各答
+chabot|[人名] 沙博
+cinnamomum|樟属
+caprioling|跳跃, 跃起( capriole的现在分词 )
+churchlike|像教堂的
+cinnamomic|[建] 肉桂的, 桂皮的
+chromoplast|有色体
+confervae|conferva的变形
+colognes|(Cologne 的复数) n. 科隆, 科隆香水
+chirayta|[医] 印度当药
+codesign|[化] 合作设计
+cyprinidae|[医] 鲤科
+comedies|喜剧；喜剧性；有趣的事情（comedy的复数形式）
+catchpole|(=catchpoll) n.法警, 执法员
+culms|(culm 的第三人称 -s形式) n. (空心)秆, 茎, 灰煤
+chinampa|墨西哥式人造草坪
+cyclamine|环胺
+companioning|朋友, 陪伴, 指南, 升降口围罩
+cypresses|柏属植物, 柏树( cypress的名词复数 )
+chylopoiesis|[医] 乳糜形成, 乳糜生成
+chordoid|[医] 脊索状的
+castratory|castrate的变形
+copulatively|copulative的变形
+cabotage|沿海贸易, 沿海航行, 国内空运
+checkmating|（国际象棋）将死( checkmate的现在分词 ); 输棋; 败局; 败北
+cistaceous|[植]半日花科的
+creational|创造性的
+cee|英语字母C, c字形的
+cornstalk|谷类的秆, 玉米秆
+carval|(爱尔兰曼岛的宗教主题的)民谣,赞美诗
+coagulate|(使)凝结
+cenogamy|共夫共妻制(如原始社会)
+collaring|[建] 加轭, 作凸缘
+custodians|看守人, 保管人( custodian的复数形式 )
+castellan|城堡总管, 要塞司令
+combretaceae|[医] 使君子科
+cementum|牙骨质, 水门汀
+coheirs|(coheir 的复数) n. 共同继承人
+curlily|拳曲地, 蜷缩地
+confirmedly|坚定地, 根深蒂固地
+caesarism|专制独裁, 君主专制主义
+culturing|培植, 培养（culture的现在分词形式）
+chiasmal|[医] 交叉的
+curvity|曲率
+cabined|拘束的；狭窄的
+chidden|chide的过去分词
+comate|伙伴
+cookstove|烹调用炉
+cageyness|cagey的变形
+carlisle|卡莱尔（英国英格兰西北部城市）
+copycatting|山寨，剽窃仿造的产品
+ciminite|[地]橄辉粗面岩
+crabstick|酸苹果树制的手杖, 酸苹果树制的棍子, 脾气乖戾的人
+camelback|骑在骆驼背上的
+chocolaty|加巧克力的, 如巧克力般的
+crannied|有裂缝的, 裂缝多的, 有裂痕的
+christless|违反基督精神的, 不信奉基督的
+cavia|[医] 豚鼠属
+calinago|(小安的列斯群岛及美洲中部使用的)阿拉瓦克语
+clr|[计] 清除
+complaisance|谦恭, 殷勤, 顺从
+crossway|横路, 交叉路, 十字路, 十字路口, 交叉路口, 紧要关头
+clabber|酸牛奶
+comatose|昏睡的, 昏睡状态的
+chilarium|唇状瓣
+chloroamine|氯胺
+clitoris|阴核, 阴蒂
+cruelties|残忍( cruelty的名词复数 ); 残忍的行为; 残酷行为; 虐待
+coatis|（中南美洲所产的）长鼻浣熊( coati的名词复数 )
+columbines|鸽的；似鸽的；鸽色的
+culter|(小齿)日本银鱼
+cystopteris|[网络] 冷蕨属；膀胱蕨
+crumpet|烤面饼, 头
+cyclamate|[机] 环磺酸盐
+chiccory|(chicory之变体)[植]菊苣, 菊苣根
+cordonazo|[气]可尔多那左风
+cornu|[解]角
+crete|（希腊）克里特岛
+caloyer|东正教之僧侣
+conic|圆锥的, 圆锥形的
+convivialist|爱饮宴作乐的人
+cashless|无现款的,无现金的,无钱的
+chaussure|<法>鞋类, (长统)靴
+curvaceous|曲线美的, 肉体美的
+clinopyramid|[建] 斜轴锥
+cerebrating|用脑筋, 思考( cerebrate的现在分词 )
+conspecifics|(conspecific 的复数) a. 同种的
+curding|乳凝结, 凝块
+clericalism|教权主义
+curatorial|管理者的
+callouses|硬皮, 老茧( callous的名词复数 )
+cordyceps|冬虫夏草
+corker|塞瓶塞的人
+coveted|令人垂涎的; 垂涎的, 梦寐以求的
+collages|拼贴画( collage的复数形式 ); 杂烩
+confutable|confute的变形
+catholics|天主教徒（Catholic的复数形式）
+cymol|甲基异丙基苯
+cogito|<拉>我思故我在
+carriageful|整整一马车
+choriamb|( 诗律中的 ) 扬抑抑扬格, 长短短长格
+cabalist|犹太教神秘哲学家, 秘法家
+cannibalizes|吃同类的肉( cannibalize的第三人称单数 ); 拆用…的配件; 调拨…的人员吃人肉; 拆用配件
+caerphilly|卡尔菲利干酪(一种威尔士全脂白干酪)
+contrail|凝(结尾)迹
+confocal|[医] 同焦点的
+cloze|完形的, 填充测验法的
+carboxide|羰基
+closers|(closer 的复数) n. 关闭者, 闭合器, 关闭器
+carotinoid|[生化]类胡罗卜素
+cytophysics|细胞物理学
+chutist|跳伞者
+conforming|[计] 一致性的
+chartulary|房地产契据册
+checker|制止者, 查对者, 阻止者
+crassly|粗鲁地, 愚钝地
+cacodaemonic|cacodemon的变形
+cercomonas|[医] 单鞭滴虫属
+circulatable|circulate的变形
+coadapted|[生]相互适应的
+colporter|贩卖, 挑卖, 兜售, 传播
+cabinetry|（总称）内阁; [总称]细木工家具
+currajong|[植](澳大利亚)异叶瓶树(其韧皮纤维可用以织网、织席)
+cottons|棉( cotton的名词复数 ); 棉线; 棉织物; （其他植物所生的绒毛状的）棉状物
+cryptal|[化] 桉油萜醛; 对异丙基环己烯甲醛
+charier|谨慎的,吝啬的,害羞的,吹毛求疵的,chary的比较级
+clones|（动植物的）克隆( clone的名词复数 ); 无性繁殖系; 复制人（或动植物。）; 好像一模一样的人
+clabbers|（使）凝结, 变酸( clabber的第三人称单数 )
+coexisted|同时共存, 和平共处( coexist的过去式和过去分词 )
+callous|麻木的, 无情的, 坚硬的, 硬皮的, 起老茧的
+cyperus|油沙豆
+coccygodynia|尾骨痛
+ceterach|鳞蕨
+cokes|焦炭；焦煤；炭焦；薄锡层镀锡薄钢板
+cavin|[人名] 卡温
+cartoning|纸盒[箱]成形
+coms|感光元件（Complementary Metal Oxide Semiconductor）；寻优模型系统（Compliance Optimization Modeling System）
+comas|<医>昏迷( coma的复数形式 )
+consents|准许( consent的名词复数 ); 正式批准文件; 批文; （意见等的）一致
+crampit|[体](运动员站在上面投掷冰壶用的)立脚铁板
+cancerously|cancerous的变形
+caravelle|卡拉维拉牌汽车
+circ|[计] 广义圈
+conjunctions|连接词；连词；合取（conjunction的复数形式）
+cremator|焚尸人, 焚尸炉
+combatively|杀气腾腾地
+cloacitis|[医] 泄殖腔炎, 一穴肛炎
+conciliators|(conciliator 的复数) n. 抚慰者, 调和人
+chockstone|山中裂缝中的岩石
+cresylic|甲酚的, 杂酚油的, 甲苯酚的
+carotol|[化] 胡萝卜醇
+craping|拉屎( crap的过去式 )( craped的过去分词 )
+cybernation|自动控制
+consulted|商议, 商量( consult的过去式和过去分词 ); 请教; 翻阅; 求教于
+catastate|分解代谢产物
+cupel|灰皿
+crepuscle|黄昏, 黎明, 朦胧
+chicaneries|耍花招哄骗别人（尤指于法律事务中）( chicanery的复数形式 ); 不诚实的行为; 欺骗
+coquilla|nut 巴西棕坚果
+collets|(collet 的复数) n. 宝石座, 筒夹, 套爪
+circumjovial|绕着木星运转的, 环绕木星的
+cupcakes|纸杯蛋糕( cupcake的复数形式 ); （经常用于称呼语中）指有魅力的女人; 指软弱和女性化的男人或男孩
+carpodacus|[网络] 朱雀属；金翅属；拉丁属名
+cycadaceae|[植] 苏铁科
+chromaturia|色尿素, 色尿症
+contemplated|预期的
+ccw|[计] 通道命令字
+ctenidium|栉鳃
+crossbelt|斜挂在肩上的皮带, 两条交叉的皮带
+clawhammer|抓奏的(指弹奏班卓琴的一种手法)
+carstone|[建] 砂铁岩
+coralroot|[植]珊瑚兰属植物
+catabolized|（使）异化, （使）发生分解代谢( catabolize的过去式和过去分词 )
+cornish|康沃尔人的；康沃尔郡的
+crippler|跛子; 残缺事物; 不完美的事物
+canons|（某作家的）真作( canon的复数形式 ); 真经; （在大教堂任职的）教士; 总的规则
+contradictor|反驳者, 抵触因素, 相矛盾的人
+camus|加缪(Albert, 1913-1960, 法国小说家、剧作家, 曾获1957年诺贝尔文学奖)
+carnet|<法>官方证明信件,车票簿
+charmeuse|查米尤斯绸缎
+corybantiasm|[医]狂乱
+capriciously|任性地, 善变地
+cumulating|累积；堆积
+cruelness|残忍, 残暴, 残酷, 残酷的行为, 刻毒伤人的语言
+collared|有领圈的, 上了轭/颈圈的, (肉)成卷的
+chora|[地名] [希腊] 霍拉
+chicly|帅地, 潇洒地, 时髦地
+calcific|钙化的
+canali|(Canali)人名；(法、意)卡纳利
+cellulate|使有细胞状组织
+cuticular|表皮的
+crier|喊叫者, 哭泣者, 传呼员
+chazy|[地名] [美国] 谢齐
+candymaker|[网络] 糖果制作者；糖果制造机；糖果泡泡龙
+clayed|[土壤] 粘土；泥土；肉体；似黏土的东西
+cathetometer|高差计
+coenosite|[医] 半自由寄生物
+cupressaceae|柏科
+comstockery|对有伤风化的文艺作品的强烈反对
+choirmasters|唱诗班指挥( choirmaster的复数形式 )
+causewayed|堤道；铺道
+cirrostratus|卷层云
+concordances|和谐, 一致性( concordance的复数形式 )
+crois|[人名] 克罗伊斯
+campout|野营, 露营生活
+corallita|珊瑚藤
+caesuras|（希腊和拉丁诗文中格律音步内单词之间的）停顿( caesura的名词复数 ); （现代诗靠近诗行中间的）停顿
+craniograph|颅形描记器
+celanese|一种人造丝
+chainstitch|链形缝
+criollo|生长于拉丁美洲各国的人, 拉丁美洲繁殖的家畜
+colcannon|卷心菜土豆糊
+cyprinid|鲤科之鱼
+cheirognomy|[医] 相手术
+cony|兔子
+calendared|日历；[天] 历法；日程表
+crotalus|[医] 响尾蛇属
+corrosivity|腐蚀性
+cusped|尖的, 有尖端的
+crickey|int. 唉呀!
+crossbow|石弓, 弩
+cometary|彗星的, 彗星似的
+clockwork|钟表装置, 发条装置
+cachaza|[西]滤泥, 滤饼
+cleidocostal|[医] 锁骨肋骨的
+chiefs|族长( chief的复数形式 ); 酋长; 首领; （公司或机构的）首领
+cocooning|茧, 蚕茧( cocoon的现在分词 ); 营茧; 结茧
+cokernut|椰子
+cursiveness|草书；草书原稿 (cursive的变形)
+camptosorus|[网络] 食人鱼
+cleruchy|古希腊将征服土地配给公民的制度
+cinematheque|专映先锋派电影的小电影院, 电影馆
+channeled|有沟的；有缝的；槽形的
+cosies|温暖舒适的( cosy的复数形式 ); 亲切友好的
+complanation|平面化
+contadino|农夫
+contracture|挛缩
+crescive|成长的, 增加的
+concretive|凝结性的, 有凝固力的
+callipering|卡钳, 测径器, 两脚规, 金属撑架
+complexioned|有...肤色的
+catkinate|catkin的变形
+cinders|焦渣跑道；煤渣；灰烬（cinder的复数）
+collude|共谋, 串通, 勾结
+campfire|营火, 营火会
+catiline|男子名
+carpocerite|触腕节
+carbonylic|[化]碳酰基的, 羰基的
+catapasm|扑粉
+cisternae|[医] 池
+churred|颤鸣( churr的过去式和过去分词 )
+cerebritis|大脑炎
+constructors|构造器；构造函数；建构式；施工人员（constructor的复数形式）
+cabaret|卡巴莱(有歌舞表演的餐馆或夜总会), 卡巴莱歌舞表演
+crosswind|侧风
+cynomolgus|[动]猕猴, 食蟹猴
+chestful|一满箱之东西
+congridae|康吉鳗科
+calumniously|诽谤地; 中伤地
+clemence|克莱曼斯
+condolement|吊唁;吊慰;慰问
+calvinistic|(法国宗教改革者)加尔文主义的, 加尔文教派的
+cockatiel|澳洲鹦鹉
+chloroquine|氯奎, 氯喹
+canners|(canner 的复数) n. 罐头装制商
+clapperclaw|抓殴, 痛骂
+canasta|凯钠斯特纸牌游戏
+condignly|应当地, 应受地
+colluvium|[地质]崩积层
+coazervate|[化] 聚析液
+calciphilia|[医] 嗜钙性
+catholicos|[常作C-](亚美尼亚、叙利亚等东正教会或聂斯脱利派教会的)大主教
+cylindricity|圆柱度, 柱面性; 柱形
+cognizably|cognizable的变形
+colloblast|粘细胞
+coronis|科洛尼斯
+carboxyl|羧(基)
+chit|小孩, 少女, 芽
+clearage|清除, 出清, 清理
+cataphoria|[医] 下隐斜视
+cardinalis|[医]蝶铰部（软体动物）
+coagulations|(coagulation 的复数) n. 凝结, 凝结物
+crenothrix|[医] 铁细菌属
+citadels|城堡, 堡垒( citadel的复数形式 )
+cur|恶狗, 杂狗
+crayoned|用彩色蜡笔[粉笔]画( crayon的过去式 )
+congruously|一致地, 适合地
+couvade|拟娩
+campanular|[网络] 钟楼
+cardiectomy|心部分切除术, 贲门切除
+coacervate|凝聚层
+collyria|洗眼剂, 坐药, 栓剂
+cowbane|毒芹
+crotaphion|[医] 蝶骨大翼尖点
+clamour|喧闹
+chatwood|[地名] [美国] 查特伍德
+carrots|胡萝卜；红萝卜（carrot的复数形式）
+coiling|[医] 螺旋
+choragic|合唱团指挥的
+commenting|& vi. 评论, 谈论（comment的现在分词形式）
+clinicians|临床医生, 临床教师( clinician的复数形式 )
+careenage|倾船, 修船处
+cursoriness|粗率, 疏忽
+crippled|跛腿的, 残废的
+cavers|(caver 的复数) n. 探察洞穴的人, 研究穴窟的人
+collegians|(collegian 的复数) n. 学院的一员, 学院的学生
+coneflower|金光菊属植物, 金光菊
+coriamyrtin|[化] 马桑内酯; 马桑毒内酯
+chacma|大狒狒
+cryptomnesia|潜在记忆, 潜忆
+cyclitol|[建] 环醇
+canescence|灰白色,灰白绒毛
+centipedes|蜈蚣( centipede的复数形式 )
+cunts|<忌>阴道( cunt的复数形式 ); 女性的阴部; （用于辱骂）讨厌鬼; 龟孙子
+clarifier|澄清剂, 净化剂
+culex|库蚊
+chagoma|[医]恰加斯氏皮肤瘤
+caseful|[网络] 个性化
+counterplot|反计, 对抗策略
+concubines|妾, 妃子( concubine的复数形式 )
+conks|突然失灵( conk的第三人称单数 ); 发生故障; 极度疲劳; 昏迷
+chronaxy|[医] 时值
+choreographs|设计舞蹈动作( choreograph的第三人称单数 )
+chimopelagic|冬季表层的
+carli|[人名] 卡利，卡莉（女名）
+cacidrosis|[医] 臭汗
+colonelship|上校的身份或地位
+cowperitis|尿道球腺炎
+caricaturing|用漫画表现或夸张描述、模仿…( caricature的现在分词 )
+cowhides|牛皮( cowhide的名词复数 )
+coquettish|卖弄风情的
+conjuration|祈祷, 祈求, 戏法, 咒文, 魔术, 妖术
+crestline|[地名] [美国] 克雷斯特莱思
+camas|(cama 的复数) abbr. 集中式自动化通话记帐制（Centralized Automatic Message Accounting）；民用航空医学协会（Civil Aviation Medical Association）
+commanding|指挥的, 威风凛凛的, 居高临下的
+costliness|高价, 昂贵, 奢侈
+caracolite|氯铅芒硝
+cte|[医][=calf thymus extract]小牛胸腺抽提物
+cigarillo|(pl. cigarillos)小雪茄, 香烟
+cutinized|角（质）化的
+caespitose|(cespitose之变体)丛生的, 簇生的
+cutworm|切根虫
+caver|探察洞穴的人, 研究穴窟的人
+choses|choose 的过去式, 选择
+cockshut|<英方>黄昏,暮色
+curators|管理者( curator的复数形式 ); 管理人; 图书馆馆长; 管理者的职位（或身份）
+chalazogamy|合点受精
+cormophytic|茎叶植物的
+caballero|西班牙绅士, 骑士, 骑手
+conflated|合并；异文合并
+cystoma|[医]囊瘤
+courgette|一种密生西葫芦
+chemosmotic|化学渗透作用的, 化学渗透现象的
+cadastrally|cadastral的变形
+cleading|衬板, 覆板
+chirality|[医] 偏光力
+callusing|皮肤的硬皮, 胼胝, (植物伤口的)愈合组织, 老茧
+cultrate|小刀状的, 锐利的
+carbyl|[化]二价碳基
+convertibly|可改变地, 可交换地
+cooing|喔啊声；轻柔低语；鸽子咕咕叫
+creaks|（门）嘎吱作响( creak的第三人称单数 )
+coincided|两件或更多的事情同时发生( coincide的过去式和过去分词 ); 想法、意见等相同; 相符; 极为类似
+clavicembalo|大键琴
+cyclopic|独眼巨人的, 巨大的, 巨石堆积的
+cockiest|狂妄自信的( cocky的最高级 )
+castelli|(Castelli)人名；(英、意)卡斯泰利
+communed|与…感觉一致( commune的过去式和过去分词 ); 感觉与…很亲近; 与…亲密地交谈; 与…相沟通
+comparted|分隔( compart的过去式和过去分词 )
+caplan|卡普兰（人名）
+cantata|康塔塔, 大合唱
+cyclopedic|百科全书的, 广泛的, 渊博的
+coloreds|colored persons (South Africans of mixed blood) 有色人种（混血南非人）
+commissarial|代表人的, 委员的, 代理主教的
+cumbers|阻碍, 妨害；使受苦
+componendo|合比定理
+corrente|[地名] [巴西] 科伦蒂
+carnelian|红玉髓, 光玉髓
+cynanthropy|变犬妄想
+calycinal|花萼的, 像花萼的
+centrosomic|centrosome的变形
+chasseurs|(chasseur 的复数) n. 追击兵, 猎人, 侍者
+chymist|化学
+chenille|绳绒线, 绳绒线织物, 假绳绒线, 假绳绒线织物
+cabining|把…关在小屋里（cabin的现在分词形式）
+churning|搅乳, 一次搅制的奶油(量)
+conformities|符合（conformity的复数形式）
+calamanco|[纺]比利时毛呢
+catatonia|紧张症
+cyclists|骑自行车的人( cyclist的复数形式 )
+crowfoots|(crowfoot 的复数) n. 毛茛, 玉柏
+colonopathy|[医] 结肠病
+clutter|杂乱
+clerihews|(clerihew 的复数) n.克莱里休4行打油诗(一种刻画人物特征的幽默讽刺诗,为英国作家所创)
+cultured|有教养的, 有修养的, 有知识的
+cowardly|怯懦的, 懦弱的；胆小的
+catawbas|卡托巴葡萄（产于美国东部）；卡托巴红葡萄酒
+conceived|想出( conceive的过去式和过去分词 ); 构想; 设想; 怀孕
+conamarin|[化] 毒芹根苷
+canonised|（英）封为圣徒（等于canonize）
+citramide|[化] 柠檬酰胺
+crashingly|非凡的
+centilitre|厘升
+castelet|小城堡
+chafed|擦热（尤指皮肤）( chafe的过去式 ); 擦痛; 发怒; 惹怒
+consultor|顾问, 顾问神父
+carbethoxyl|[建] 乙酯基
+cracky|裂缝多的, 易裂的, 疯狂的
+curtness|简略, 草率
+canvassing|（在政治方面）游说( canvass的现在分词 ); 调查（如选举前选民的）意见; 为讨论而提出（意见等）; 详细检查
+catchiest|（曲调、歌曲）容易记住的( catchy的最高级 )
+cryoscopic|冰点测定法的
+cybernating|使电脑化
+cytitis|[医] 皮炎
+cardiagra|[医] 心痛风
+carny|哄骗
+contemnor|谴责者, 宣判者
+cobweb|蜘蛛网, 蛛丝, 混乱
+culverts|管路( culvert的复数形式 )
+clamps|夹子；钳夹（clamp的复数）
+cession|割让, 转让
+cockles|鸟蛤[海扇]壳( cockle的名词复数 ); <文>轻舟, 小船; 波纹; 皱皮
+countering|反击, 还击（counter的现在分词形式）
+carolean|英国查理一世或二世的
+coati|南美浣熊
+cobleskill|[地名] [美国] 科布尔斯基尔
+craniospinal|[医] 颅脊柱的
+cymarin|磁麻苷
+collagenase|[生化]胶原酶
+craniognomy|颅形学,相颅术( 根据头颅形状之类的特点判断人的智力和性格)
+cockered|娇养, 溺爱, 放纵( cocker的过去式和过去分词 )
+carunculate|[医]具种阜的
+cyanohydrin|氰醇
+catapult|弹射器, 弹弓, 弩炮
+convolves|卷, 盘旋, 缠绕( convolve的第三人称单数 )
+conservable|可保存的；conserve的变形
+colonials|生活在殖民地的宗主国居民( colonial的复数形式 )
+cicatrizing|生成瘢痕；愈合
+capulet|[医] 马踝(肘)肿
+chromitite|铬铁岩
+comsat|通讯卫星
+cropless|无庄稼的, 无农作物的
+constable|治安官, 警官, 总管
+cutaneously|cutaneous的变形
+cytolysis|细胞溶解
+citifies|使都市化( citify的第三人称单数 )
+colophony|松香
+constancy|坚定不移, 持久不变
+curable|可医治的, 医得好的
+caribi|[医] 流行性坏疽性直肠炎
+connivance|默许, 纵容
+ciphers|密码( cipher的名词复数 ); 零; 不重要的人; 无价值的东西
+coexistence|共存, 和平共处, 并立
+clownish|滑稽的
+caproin|[化] 甘油己酸酯; 己酸甘油酯; 己酸精
+campaigning|作战；参加竞选；参加活动
+cysted|有胞囊的, 有囊肿的
+concoctor|调制者, 策划者
+crenulate|细圆齿状的, 小圆齿状的
+cheeses|干酪, 奶酪( cheese的复数形式 ); “茄子”（要求照相的人说的口形词）
+coccidiosis|球虫病
+cenosite|钙钇铒矿
+cadets|候补军官( cadet的复数形式 ); （常作名词修饰语）次子; （常作名词修饰语）培训生; 陆军或海军学校学员
+cowskin|牛皮, 牛皮鞭
+craunching|咬碎；咬碎声；扎扎地踏
+cachectical|cachexia的变形
+cdg|巴黎机场（Paris Charles de Gaulle Airport）；危险品运输（Carriage of Dangerous Goods）；图示激光唱片
+chewier|（食物）耐嚼的, 不易嚼碎的( chewy的比较级 )
+cowpea|豇豆
+caresses|爱抚, 抚摸( caress的名词复数 )
+clotheshorse|晾衣架
+cutpurse|小偷, 扒手
+clabbered|（使）凝结, 变酸( clabber的过去式和过去分词 )
+choanocyte|环细胞
+crawdad|(=crawfish)喇蛄(一种淡水小龙虾),<美>退缩者
+celeste|天蓝色, 风琴的音栓
+copesmate|<废>=copemate
+cutcherry|(印度)行政机关, 种植园事务所, 法院
+cocci|分果爿(指果实), 球菌
+cemental|白垩质的
+calends|（罗马古历的）每月第一日；朔日
+catapulting|用弩炮发射( catapult的现在分词 )
+choppin|[人名] 肖邦
+crickets|蟋蟀( cricket的复数形式 ); 板球
+candelabrum|枝状大烛台
+countertype|相等型, 相等物
+coinages|货币制度( coinage的复数形式 )
+constituter|constitute的变形
+calver|孕牛
+comestibles|食物, 食品; 食物( comestible的名词复数 )
+cartons|尤指装食品或液体的)硬纸盒( carton的复数形式 ); 塑料盒; 硬纸盒（或塑料盒）所装物品; 纸板盒
+catwalk|狭小通道
+captives|战俘, 俘虏( captive的复数形式 )
+caterwaul|猫叫春声, 象猫叫春的声音
+cloacal|阴沟, 厕所, 下水道, 泄殖腔
+chandlers|(chandler 的复数) n. 蜡烛制造者
+consummately|完成地, 至上地
+clonk|叮当声
+clarions|号角
+cindery|灰烬的, 煤渣的
+colp|[医]阴道
+choriambi|扬抑抑扬格
+cephas|[人名] 西法斯
+carpogonium|果胞
+consignatory|[法] 共同署名者
+clarifying|[医] 澄清的
+codefendants|同案
+cablecast|用电缆(或有线)电视播送
+correlates|有相关性( correlate的名词复数 )
+copperas|绿矾
+capriole|跳跃, 跃起
+clarified|使清楚, 澄清( clarify的过去式和过去分词 ); （尤指通过加热使黄油）纯净; 说明; 使（头脑、神智等）清醒
+coiffe|[网络] 根冠
+christmasy|有圣诞节气氛的
+chilostome|唇口苔虫
+clausthalite|[化] 硒铅矿
+chorioid|脉络膜的
+chalcosine|辉铜矿
+covey|(一)群, 一队
+costeen|井探, 水力冲刷勘探, 掘井勘探
+camions|<法>卡车( camion的名词复数 ); 运货车; 载重汽车; 军用卡车
+clunking|发出沉闷声( clunk的现在分词 )
+chiastoneury|扭神经
+collinear|共线的
+clopping|马蹄声
+cramping|图象压缩
+coastlines|海岸线, 海岸地形 （或轮廓）, 沿海地带( coastline的复数形式 )
+chondrotomy|[医] 软骨切开术
+cresamine|[医] 克里萨明(乙二酸和甲酚的混合物,消毒杀菌剂)
+centrepiece|中心装饰品
+cocoonery|养蚕室
+carpincho|水猪皮, 水猪皮手套革
+consociated|（使）结合, （使）联盟( consociate的过去式和过去分词 )
+conclave|秘密会议, 教皇选举会议, 红衣主教团
+cambium|形成层
+cichlidae|[鱼] 丽鱼科；慈鲷科
+cantharidal|[医] 含斑蝥的, 斑蝥制的, 含芫青的
+cormorant|鸬鹚, 贪婪的人
+coit|<澳俚>屁股,臀部
+coeliotomy|剖腹术
+cottering|销联接; 楔联接
+cyclopaedias|(cyclopaedia 的复数) n. 百科词典, 百科全书
+croaks|呱呱地叫( croak的第三人称单数 ); 用粗的声音说
+coviello|[人名] 科维略
+campi|(Campi)人名；(西、意)坎皮
+chastise|责骂, 惩罚
+cadavers|尸体( cadaver的复数形式 )
+concessively|让步地
+confetti|糖果, 五彩纸屑
+contaminated|受污染的；弄脏的
+contracted|收缩了的, 已定约的, 契约的
+citator|[法] 传讯者; 引证索引
+crotalinae|[医] 响尾蛇亚科(蝮蛇亚科)
+clearest|清楚的
+coccidia|coccidium的复数
+cerebrotomy|[医] 脑切开术
+cloot|(猪,羊等的)偶蹄, 偶蹄的一边
+colloidal|胶态的, 胶质的
+cowy|似牛的
+comingle|混合；vi
+criminating|定罪；使负罪；责备
+curability|治愈可能性, 有痊愈希望
+crenelled|[医]具圆齿的
+chum|密友, 室友
+crusaded|加入十字军, 从事改革运动( crusade的过去式和过去分词 )
+complaintive|[网络] 投诉
+concreting|凝固, 凝结
+cellobiose|[化]纤维二糖
+colitis|结肠炎
+confutative|confutation的变形
+chimeric|妄想的, 荒诞不经的
+cours|(cour 的复数) abbr. courant (French=current) （法语）当前的; 通用的; 流通的; 电流
+cutwater|船头破浪处, 桥脚的分水角
+compressor|压缩物, 压缩机, 压肌
+commuted|通勤( commute的过去式和过去分词 ); 减（刑）; 代偿
+clunker|年久失修的旧机器
+calesa|二轮敞篷小马车
+confidante|知己的女友
+clamoured|喧哗, 吵闹( clamour的过去式和过去分词 ); 大声地要求或抗议
+cylinders|圆筒( cylinder的复数形式 ); 圆柱; 汽缸; （尤指用作容器的）圆筒状物
+cosmesis|[医] 美容术
+carpeting|地毯料, 地毯
+carom|连着双球的一击, 碰击而反跳
+cameleon|(Cameleon)人名；(法)卡默莱昂
+corrals|把…赶入畜栏( corral的第三人称单数 )
+cyrano|西拉诺（人名）
+catbird|北美猫鸟
+coopery|制桶业, 制桶工厂
+calcinate|[机] 焙烧
+catclaw|【植物】；猫爪施兰克亚木 (Sch- rankia nutallii)
+clype|<苏格兰>n.告密者, 搬弄是非的人
+crystalize|明确
+collogen|[医] 胶原
+cynodontia|犬齿龙附目；犬齿兽次亚目
+chamberlains|（国王的）侍从, （贵族的）管家, 收款人( chamberlain的复数形式 )
+causatively|使役的
+conglobing|使成球状；堆成圆珠（等于conglobate）
+concanavalin|[生化]伴刀豆球蛋白
+cressy|长满水芹的
+charioteers|战车的御者；御夫座
+chagul|羊皮做的水壶
+crowing|公鸡啼鸣( crow的现在分词 ); （婴儿）欢叫; （尤指在其他人不成功时）扬扬自得地夸口; 自鸣得意
+chromas|[医] 铬酸盐
+convolute|回旋, 卷绕, 盘旋
+ceres|刻瑞斯(谷类和耕作女神)
+chainwale|桅侧支索牵条
+cedrine|[建] 雪松的
+chirred|唧唧叫( chirr的过去式和过去分词 )
+coercive|强制的, 强压的, 强迫的
+cantando|（音乐术语）如歌的
+conchy|拒绝服兵役者
+cinchotine|[医] 辛可丁, 辛可尼芬, 氢化辛可宁
+cashable|可兑现的
+cobwebs|蜘蛛网( cobweb的复数形式 )
+congests|充满, 拥挤( congest的第三人称单数 )
+caline|促成素
+centillion|百万的一百次幂, 千的一百零一次幂
+countermove|相反行动, 对抗行动, 报复行动
+circumboreal|环北方的
+cytokinin|细胞激动素
+casebook|个案病例记录簿
+cavefish|[鱼]洞穴鱼(穴居水窟中的盲鱼)
+collectivise|<主英>= collectivize
+chilomastix|[医] 唇鞭毛虫属
+caloricity|食物的热量
+campanero|钟鸟
+chukkas|(chukka 的复数) n. 高帮皮马靴
+callowness|callow的名词形式; 意为：不成熟; 幼稚; 长不大
+coastwards|朝着海岸
+craterlike|[医]火山口状的, 杯状的
+craggily|craggy（多癴崖的, 多峭壁的）的变形
+cutlers|(cutler 的复数) n. 刀匠, 刀剪商
+curtseys|(curtsey 的复数) n. 屈膝礼
+cassareep|木薯浓汁
+cento|抄袭拼凑而成的文艺作品(或乐曲), 拼凑物, 杂烩
+contusions|挫伤, 擦伤, 撞伤( contusion的复数形式 )
+catskin|猫皮
+chairlady|女主席（等于chairwoman）
+chayote|[植]佛手瓜, 佛手瓜之果
+cockerel|小公鸡
+cataplasia|[生]细胞或组织的萎缩
+cecropia|[网络] 无精子症
+cavitation|成穴, 空化(作用)
+centrist|中间党派的成员, 温和主义者
+countably|[计] 可数地
+clavieristic|clavier的变形
+cometography|彗星志
+circumvents|设法克服或避免（某事物）, 回避( circumvent的名词复数 ); 绕过, 绕行, 绕道旅行
+coined|制造硬币( coin的过去式和过去分词 ); 创造
+catacoustics|回音学
+chugger|慈善募捐人士(chugger 是charity mugger的合成词, chuggers 就是为慈善机构募集捐款的人, 不过这个词也是从 mugger 强盗演变过来的听起来不太友好。)
+carcajou|[动]狼獾
+castrating|阉割（动物、人）( castrate的现在分词 )
+chok|闭塞
+cheapened|减价( cheapen的过去式 ); 降低（自己[某事物]）的身价, 贬低
+carneau|[动]卡尔诺鸽
+catenary|链, 悬链线, 链状物
+chiasma|交叉
+columnal|[建] 中柱
+carbonyl|[医] 羰基, 碳酰
+colossi|巨像( colossus的名词复数 ); 巨人; 大国; 大企业
+condensable|可凝结的, 可压缩的
+cabbagehead|卷心菜心, 笨蛋
+catchweed|猪殃殃
+conspiracies|阴谋, 密谋( conspiracy的名词复数 )
+cutis|皮肤, 真皮
+cicero|西塞罗（古罗马政治家、雄辩家、著作家）；西塞罗（美国伊利诺伊州东北部城市, 在芝加哥附近）
+coextending|在同面积或长度扩张或伸张, 共同扩张( coextend的现在分词 )
+cyanicide|消除氰化物质
+ceroxylon|[网络] 蜡棕；蜡椰属
+cyanize|[化]把…转化为氰化物
+chalazae|系带( chalaza的名词复数 )
+canarian|加那利群岛的
+cognacs|白兰地酒的一种（产于法国的柯纳克）( cognac的复数形式 )
+culpably|该罚地, 可恶地
+curring|卷边加工; 卷边加工
+cuprous|亚铜的, 一价铜的
+cuticolor|肉色的
+cryptomerous|细品质
+cribwork|叠木框
+croupon|全后背皮
+cervical|颈的, 子宫颈的
+colchicaceae|[网络] 秋水仙科
+chuvash|楚瓦什人；楚瓦什语
+concatenate|如锁链般连接, 使连锁, 连结
+chromomeric|染色粒的
+cavesson|（马）鼻勒
+cubans|古巴人（Cuban的复数）
+chamaeleo|[网络] 避役属；变色龙；典型变色龙属
+censures|指责, 非难, 谴责( censure的第三人称单数 )
+colloquial|会话的, 口语的, 口语体的
+cinder|煤渣, 灰烬
+cohabit|同居
+cinched|容易做的事情( cinch的过去式和过去分词 ); 必然发生的事
+cloudage|云量
+cadaverine|[生化]尸胺
+conirostral|有锥形尖喙的鸟的
+cruorin|[医]血红蛋白
+cheechako|新来的人,无经验的人
+canaler|运河船
+culling|选择；大批物品中剔出劣质货
+caperer|caper的变形
+censurer|谴责别人的人（censure的变体）; 指责别人的人（censure的变体）
+cocoons|茧, 蚕茧( cocoon的名词复数 )
+cageful|一笼；一笼的容量；笼中所装物
+coemption|囤积, 搜刮
+crescograph|植物生长显示器
+cristiform|鸡冠形
+corbula|笼套
+corinna|科琳娜（女子名, Cora的昵称）
+commixture|混合
+covalent|共有原子价的, 共价的
+cassowary|食火鸡
+coralline|珊瑚的, 由珊瑚组成的
+cochairmen|副主席；联合主席
+cockneydom|伦敦佬, 伦敦佬聚居处
+cystectasia|[医] 膀胱扩张术
+currying|[机] 加脂法
+cataplastic|[生]细胞或组织萎缩的
+consultative|商议的, 协议的, 咨询的
+creepily|令人毛骨悚然地
+callus|皮肤的硬皮, 胼胝, (植物伤口的)愈合组织, 老茧
+conduits|<电>管道( conduit的复数形式 ); 中转人; 中转机构; 中转国
+cyanopia|[医] 蓝视[症]
+candlestick|蜡杆, 蜡烛架
+cystoscopies|(cystoscopy 的复数) n. 膀胱镜检查
+chicquest|chic的最高级
+centrifugate|以离心力分出之物
+cephalagra|[医] 偏头痛, 发作性头痛
+colubrine|蛇的, 蛇似的
+communicable|可传达的, 会传染的, 爱说话的
+constative|表命令、计划、愿望等之假定的
+cebidae|悬猴科
+chaunt|(chant之变体)歌, 圣歌
+catting|把（锚）吊放在锚架上（cat的现在分词形式）
+chiao|角(中国钱币单位)
+concretely|具体地
+catostomidae|[鱼] 胭脂鱼科；[鱼] 亚口鱼科
+cellulous|多细胞的, 由细胞构成的
+curtly|简略地, 草率地
+chillum|[地名] [美国] 奇勒姆
+crudy|加工质量
+cogeneration|（尤指工业废热发电或发电余热利用的）同时发热发电
+corporatist|组合主义者,社团主义者
+carbonade|(洋葱啤酒)烩牛肉
+costed|花费；估价（cost的过去分词）
+canalis|(pl. -les)[拉]沟, 管, 道
+commutate|使方向转换, 整流
+contagiosity|接触传染率
+cleaned|（使）清洁( clean的过去式和过去分词 ); 变干净; 除去…的灰尘; 使…干净
+communalize|使公有化, 使集体化, 使公社化
+connectible|可联结的
+contrives|（不顾困难地）促成某事( contrive的第三人称单数 ); 巧妙地策划, 精巧地制造（如机器）; 设法做到
+cilician|,n. Cilicia的变形
+coedit|合作编辑,共同编辑(书报等)
+cursive|草书的, 草书体的
+czardas|恰尔达什舞
+compotier|高脚果盘,高脚果碟
+chamar|恰马尔
+chrysocolla|一种类似石青(蓝铜矿)的矿物颜料
+crche|[医]（日间）托儿所，育婴堂
+conchologist|贝壳学者, 贝类学家
+cartop|(大小和重量)可置于车顶上运送的
+chamaerops|[医] 棕榈
+cystocyte|包囊细胞
+caduca|[医] 蜕膜
+cecils|肉丸子, 炸肉丸
+cupuliferous|[医]具杯的, 有壳斗的
+cabasset|十六、七世纪时的一种钢盔
+constrictive|紧缩的, 收缩的, 压缩性的
+cloudier|人造云
+cuirass|胸甲, 铁甲, 装甲板
+constituents|成分（constituent的复数）
+carbonator|[化] 碳酸化器
+cistron|顺反子, 作用子
+chalazia|[医] 睑板腺囊肿, 霰粒肿
+caramba|<西>int.[表示惊讶、恼怒等]唉呀!天哪!真倒霉!讨厌! 他妈的!
+coloristic|色彩的, 用色的
+compassable|可围绕的, 可理解的, 可达到的
+choleriform|[医] 霍乱样的
+castrations|(castration 的复数) n. 去雄蕊, 修正, 阉割
+capsuliform|囊形的
+complanate|平坦的, 平面的
+carloading|以铁路货车数计算的货物运入量, 以铁路货车数计算的货物运出量
+compeller|compel的变形
+caryatids|女像柱( caryatid的名词复数 )
+chirper|唧唧声；喳喳声；啁啾声 (chirp的变形)
+chinked|裂缝( chink的过去分词 ); （论点、性格等中易成为攻击目标的）弱点; 叮当声; 中国佬
+coefficients|系数( coefficient的复数形式 ); （测定某种质量或变化过程的）率; 程度
+consigns|把…置于（令人不快的境地）( consign的第三人称单数 ); 把…托付给; 把…托人代售; 丟弃
+comports|表现( comport的第三人称单数 )
+cacesthesia|[医]感觉异常
+cruces|十字形, 十字架形, 难事, 症结, 难题, 关键, 紧要关头, 最重要点, 核心
+comically|滑稽地；诙谐地
+curdles|（使）凝结( curdle的第三人称单数 )
+chincough|百日咳
+consignation|交付, 委托, 寄存
+colorific|产生颜色的, 赋与颜色的, 色彩的
+cockers|西班牙长耳猎犬, 喜好或举办斗鸡的人( cocker的名词复数 )
+chouses|欺诈, 诈骗（chouse的第三人称单数形式）
+combiner|[计] 组合器, 组合部件
+calorifics|热学
+choirgirl|唱诗班之女童
+crumber|清沟器
+capered|跳跃, 雀跃( caper的过去式和过去分词 )
+cozier|温暖舒适的（cozy的比较级形式）
+consternate|使惊愕, 使惊恐
+celiectomy|[医] 内脏切除术, 迷走神经腹支切除术
+cowk|<苏格兰>干呕,作呕,恶心
+cannoli|[复]n.[用作单或复] 奶油甜馅煎饼卷
+counterreply|(对某一回答的)反答
+cloaca|泄殖腔, 阴沟
+countershear|反面剪切; 反向剪力
+cemetary|公墓, 墓地
+cynomys|[医] 草原犬属
+connaraceae|[植] 牛栓藤科
+canaanitish|迦南地区的；迦南语的
+cutie|漂亮女孩
+conductances|(conductance 的复数) n. 电导, 电导率, 传导力
+crocodilia|鳄目
+clayton|克莱顿（姓氏, 男子名）
+caligation|[医] 视力不清, 眼蒙
+coalmouse|日雀
+cavey|[人名] 凯维
+condimental|调味品的, 香辛料的
+cohobated|再蒸馏
+crassulaceae|景天科; 景天科
+chinbone|颏骨
+chetrum|切特鲁姆(不丹辅币名)
+cockloft|小阁楼
+coombes|(coombe 的复数) n. 山旁峡谷, 海边小溪崖
+capsidae|盲蝽科
+clouding|无光泽, 云状花纹, (图象上的)模糊, 云斑
+crossroad|交叉路, 岔道, 十字路口
+casita|小屋
+corixidae|[昆] 划蝽科
+cicatrise|<主英> = cicatrize
+chichipe|墨西哥仙人掌
+creases|摺痕；皱纹；折缝；球门区（crease的复数）
+cogitations|(cogitation 的复数) n. 考虑, 思想, 深思
+chromophilia|[医] 嗜染性, 易染性
+catnaps|小睡, 小憩( catnap的名词复数 )
+cuculliform|兜帽状的
+cuisse|(护腿的)腿甲
+chemic|化学的；炼金术的
+computerize|用电脑处理, 使电脑化
+cuisines|(cuisine 的复数) n. 烹调风格, 烹调法, 烹饪, 厨房
+cyniatrics|犬医学
+catadrome|[医] 减退
+columbo|[医] 非洲防已
+cautiousness|谨慎；小心
+clinkers|渣块；炼砖
+cerberus|守护冥府入口的三头狗
+culicifuge|驱蚊剂
+cyclonically|cyclone的变形；cyclonic的变形
+contusive|[医] 挫伤的
+cajeputol|[医] 桉油醇
+cimicifuga|[医] 美升麻, 黑升麻
+casseroling|勺皿；砂锅菜；餐桌上用有盖的焙盘
+cetylene|鲸蜡烯
+cooperations|(cooperation 的复数) n. 合作, 协力, 配合
+cris|短剑（马来亚人用之, 等于creese）
+creepie|<苏> 矮凳
+closable|紧密的；亲密的；亲近的 (close的变形)
+curvets|使腾跃
+ceratohyal|[医] 舌骨角的
+coven|女巫大聚会
+canines|犬齿( canine的复数形式 ); 犬牙; 犬科动物
+cheerios|interj.,n. cheerio的变形
+claimers|(claimer 的复数) n. 根据权利提出要求者
+carillons|钟琴；钟乐；钟乐器
+condensates|(condensate 的复数) n. 聚合物, 冷凝物, 冷凝液
+coction|[医] 煮沸; 消化
+coxcombry|虚浮, 浮夸, 花花公子的行为(或举止)
+carolers|欢唱（颂歌）的人( caroler的名词复数 )
+centeredness|自我中心
+coldslaw|凉拌卷心菜
+carapace|甲壳, 壳
+cryocautery|[医] 冻烙术, 碳酸霜烙术
+criniculture|生毛
+cuckolded|使戴绿帽子( cuckold的过去式和过去分词 )
+coachman|马车夫
+compellably|compel的变形
+croupe|四脚动物的臀部
+chlorazide|[化] 叠氮化氯
+civvies|便服, 平民
+carberry|卡伯里
+chondroitin|[生化]软骨素
+clotted|为块状物阻塞的
+cyclammonium|环铵
+chryseis|[希神]克律塞伊斯(阿波罗的祭司之女)
+casease|酪蛋白酶
+capibara|[动]水豚(产于南美湖泊溪流间的啮齿动物)
+calorize|以铝处理(钢,合金钢等之)表面
+clubrooms|(clubroom 的复数) n.俱乐部聚会室
+clapper|拍手者, 铃锤, 钟锤
+cossetted|(cosset 的过去分词) n. 供玩赏的小动物, 爱畜
+caplet|囊片(指为防不良物质搀入而设计的一种椭圆胶囊形糖衣药片)
+cookhouse|厨房, 船内厨房, 野外烧煮场
+courtzilite|[建] 一种沥青变态物
+choleuria|[医]胆尿症, 胆汁尿
+caltrop|蒺藜
+calli|胼胝；愈伤组织
+chitchatting|闲谈, 聊天( chitchat的现在分词 )
+cycloloma|[网络] 环状体
+caprylyl|[化] 辛酰
+citoyens|(citoyen 的复数) 公民, 国民；城里人；人, 家伙
+cakewalks|很容易做的事, 易如反掌的事( cakewalk的名词复数 )
+chagrins|使懊恼, 使懊丧, 使悔恨( chagrin的第三人称单数 )
+cotoneaster|枸子属植物, 枸子属
+cripplingly|cripple的变形
+cantillate|以单音调诵歌, 吟诵
+circumfusion|周围灌注, 在周围散步, 围绕
+courtrooms|法庭, 审判室( courtroom的复数形式 )
+congealed|使凝结, 冻结( congeal的过去式和过去分词 ); （指血）凝结
+concours|[单复同] <法> n.比赛,竞赛
+carcinolytic|[医] 溶癌的
+clairecolle|打底明胶; 打底腻子
+compt|点数；计算（等于count）
+catnapping|打瞌睡, 假寐( catnap的现在分词 )
+coumaran|氯杀鼠灵
+camail|盔甲披肩; 头兜; 护颈
+corniche|沿峭壁的路
+cliquey|小集团的
+calycanthemy|花萼变花瓣
+cyclecar|三轮式机动车
+copita|<西> n.(郁金香形状的) 雪利酒杯, 一杯雪利酒
+ceraunograph|雷电计
+cerillo|(Cerillo)人名；(意)切里洛
+cariosity|龋, 蛀牙
+cribber|剽窃者, 作弊者
+conquerors|征服者, 占领者( conqueror的复数形式 )
+caprice|反复无常, 多变, 任性
+conjoint|相连的, 连接的, 结合的
+cabbalist|犹太神秘哲学者
+circumjacent|周边的, 邻接的, 围绕着的
+calamities|灾祸, 灾难( calamity的名词复数 ); 不幸之事
+cubist|立体派画家
+capstones|(capstone 的复数) n. 顶石
+crannogs|(crannog 的复数) n. 湖上住宅
+curdy|成凝乳状的, 凝结了的
+castory|海狸香
+costumer|做服装的人, 服装商
+casehardened|经热处理变硬的, 无感觉的, 麻木不仁的
+crackbrain|傻子, 疯子, 无理性的人
+corsair|海盗, 海盗船, 回教徒的私掠船
+cushionless|cushion的变形
+carpopedal|[医] 腕足的
+chancrous|[医] 下疳的
+carnous|肉的
+coveys|(covey 的复数) n. (一)群, 一队
+conjurations|(conjuration 的复数) n. 祈祷, 祈求, 戏法, 咒文, 魔术, 妖术
+cabbageworm|[动]吃甘蓝菜的害虫
+chelidon|肘窝
+clovered|clover的变形
+crotchet|怪想, 奇想, 小钩
+clingy|粘住的, 紧贴的
+coleoptera|鞘翅目, 甲虫类
+coadjust|相互调节
+conked|出故障的, 停止的
+crotchety|有怪想的, 反复无常的, 想入非非的
+curled|鬈发的；卷曲的
+coalpit|煤坑, 炭窑
+confuting|驳斥, 驳倒( confute的现在分词 )
+crevalle|一种可供玩赏及食用的鱼(产于热带海域)
+confix|连接起来
+croquette|炸丸子, 炸肉饼
+conferral|(称号、学位、权力等的)授予,赐给
+cowherb|[植]麦蓝菜
+classifier|分类者, 分粒器, 分级机, 汉语中的量词
+creasy|有折痕的, 皱纹多的
+contr|contract 合同; contraction 收缩; contracted 收缩了的; contractor 订约人
+chloralum|[医] 氯化铝混合剂(成药,消毒杀菌剂), 氯醛
+concerted|商定的, 协定的, 一致的
+centenary|一百年
+conics|锥线法, 锥线论
+coef|coefficient 系数
+cavernously|cavernous的变形
+calash|篷马车, 车篷, 篷形女兜帽
+charpoy|(印度的)一种轻便床
+capricornus|[天] 摩羯星座, 摩羯宫
+connation|合生作用
+crayfishes|小龙虾
+chlorophenol|[化]氯酚
+choralcelo|克拉切洛琴
+centrum|中心, 椎体, 中枢
+coached|训练, 辅导( coach的过去式和过去分词 )
+cosponsors|共同赞助者；共同主办人
+cystoids|(cystoid 的复数) a. 囊样的, 似膀胱的
+coidentity|(两者或两者以上之间的)同一性,共同一致性
+crawfishes|小龙虾( crawfish的名词复数 )
+canales|[医] 管, 道
+cheapskates|(cheapskate 的复数) n.<美俚>守财奴,吝啬鬼
+cella|内殿
+cussedness|倔强
+cuish|(护腿的)腿甲
+crooks|骗子( crook的名词复数 ); 罪犯; 弯曲部分; （牧羊人或主教用的）弯拐杖
+copulative|连结的, 结合的, 交媾的
+crystallitis|晶状体炎
+chancer|投机分子
+coque|装饰女帽用的小丝带圈
+cochleitis|耳蜗炎
+catechizing|问答式讲授( catechize的现在分词 )
+colonopexy|[医] 结肠固定术
+christiana|克里斯蒂安娜（女子名）
+cabby|出租车司机, 出租马车的车夫
+cladding|包层
+cameist|宝石雕刻者, 宝石浮雕的收藏家或鉴赏家
+cannaceae|[植] 美人蕉科
+connecter|连接者, 联系者, 连接物, 连接器, 插塞和塞孔
+caissons|(caisson 的复数) n. 弹药箱, 弹药车, 沉箱(水下工程用)
+coventrate|考文垂式轰炸,大规模轰炸, 以轰炸摧毁(城市)
+chuff|乡下人, 粗人
+clemencies|宽容, 仁慈( clemency的名词复数 ); （尤指气候等）温和
+chuter|[人名] 丘特尔
+cuspate|尖的, 有尖端的
+cantonalism|邵县制度
+crile|[人名] 克赖尔
+canadianism|加拿大风俗;语法
+carouse|喧闹的酒会或宴会
+chiloplasty|[医] 唇成形术
+coltish|小马似的, 蹦蹦跳跳的, 不守纪律的
+chiasmata|[医] 交叉
+cropping|[计] 裁剪
+creophagism|(=creophagy)肉食, 食肉
+clonism|[医]抽搐
+comfits|(comfit 的复数) n. 糖果, 蜜饯
+capsicums|辣椒属植物( capsicum的复数形式 ); 柿子椒, 灯笼椒
+constantine|君士坦丁
+countervails|补偿, 弥补( countervail的第三人称单数 ); （通常指有力或成功地）对抗, 抵消
+classrooms|教室, 课堂( classroom的复数形式 )
+cooky|家常小甜饼, 饼干, 普通小饼, 巨型炸弹, (非正式)(女)厨师, 厨师助手
+chalcone|[化]查耳酮(芳基烯丙酰芳烃, 苯丙烯酰苯)
+crewe|克鲁郡（英格兰城镇）
+cerebrates|用脑筋, 思考( cerebrate的第三人称单数 )
+chooser|选择者, 选举人
+casebooks|个案记录簿；专题汇编集；病案簿
+cognize|认知, 认识
+crateriform|火山口状的, 漏斗状的, 似火山口的
+catamenial|[医] 月经的
+cymarose|[化] 磁麻糖; 加拿大麻糖
+carsick|晕车的
+chinaphthol|鸡纳萘酚
+catoptrics|反射光学
+corriedale|考力代羊(一种产于新西兰和澳大利亚的毛肉两用绵羊)[新西兰一地区名]
+clockings|(clocking 的复数) [计] 定时
+chard|可供食用的甜菜
+conches|贝壳, 海螺壳( conch的复数形式 )
+convolvuli|旋花植物( convolvulus的名词复数 )
+cornflour|（精制）玉米淀粉, 玉米粉
+conveyors|[医]传送机
+crumbled|（把…）弄碎, （使）碎成细屑( crumble的过去式和过去分词 ); 衰落; 坍塌; 损坏
+catchers|捕手, 捕捉器, [棒球]接球手( catcher的复数形式 )
+culverhouse|[人名] [英格兰人姓氏] 卡尔弗豪斯地貌名称, 含义是“鸽舍”(dovehouse)
+catcalled|不满之声, 嘘声
+clank|叮当声
+complaisant|谦恭的, 殷勤的, 顺从的
+cloned|（使某物）无性繁殖( clone的过去式和过去分词 )
+chavicine|[化] 胡椒脂碱; 佳味碱; 黑椒素
+camogie|卡莫奇（类似于爱尔兰曲棍球的球赛, 两支参赛队各有15名女队员）
+cashierer|(商店等的)出纳员；出纳主任；(银行或公司的)司库
+confabulate|交谈, 闲谈, 谈话
+charade|字谜游戏
+chemonite|开莫耐特溶液
+cephalaspis|头甲鱼；头甲鱼属
+curbside|靠近路缘的人行道部分,路边
+cystotome|[医] 膀胱刀
+chocker|挂木索
+complotting|共谋, 图谋( complot的现在分词 )
+cephalodymia|头部联胎畸形
+creches|托儿所；育婴堂
+cascalote|卡斯卡洛特木
+choiceless|没什么选的
+cravenette|一种防水布雨衣
+concussions|(concussion 的复数) n. 剧烈摇动, 震荡
+cadmiferous|含镉的
+chetah|印度豹(=cheetah)
+chases|追逐（chase的三单形式）
+corve|矿场的轨道斗车
+cacique|酋长, 领袖
+canzona|合组歌
+crump|轰地一声爆炸
+colloidize|胶态化（作用）
+canulating|(cannulate的变体)管状的, 中空的
+caball|结党;计划阴谋
+commendam|（暂时代理牧师职务时所享受的）薪俸代领权
+centiles|(centile 的复数) n.变数区间的百分之一, 百分位数
+cottonwoods|(cottonwood 的复数) n. 三角叶杨
+conclusory|推断性的
+curare|箭毒, 马钱子, 马钱子属植物, 番木鳖
+compiling|[计] 编译
+colicine|[微] 大肠杆菌素
+cruentous|[医]暗紫红色的
+crasher|猛击, 不速之客
+cockleshell|鸟蛤壳, 轻舟
+coasted|（汽车或自行车）（尤指不用动力向山坡下）滑行（coast的过去式与过去分词形式）
+clobber|衣服, (鞋匠用来掩饰皮革缝的)软膏
+crackdowns|压迫, 镇压, 打击( crackdown的复数形式 )
+carp|鲤鱼
+clapbread|烤燕麦饼
+corundum|刚玉, 金刚砂
+coprocessors|(coprocessor 的复数) n. 协处理器
+cycladic|基克拉迪群岛的,(史前青铜时代)基克拉迪文化的
+cooer|鸠, 鸽
+cholagogic|[生理]利胆的
+cabinetwork|细木工
+chee|化学工程师（Chemical Engineer）
+cohobating|再蒸馏
+chatoyance|变彩
+coddled|悉心照料, 娇惯( coddle的过去式和过去分词 )
+continentals|（欧洲）大陆人( continental的复数形式 )
+creese|短剑
+claptrap|哗众取宠的空话(花招)
+chave|[人名] [英格兰人姓氏] 蔡夫 Chaff的变体
+conversantly|conversant的变形
+corruptly|腐败（堕落）地, 可被收买的
+corol|花冠
+capitulation|(有条件)投降, 投降书, 条约
+cruising|巡航的
+cradled|将…置于摇篮中（cradle的过去式与过去分词形式）
+chilliest|寒冷的, 冷得难受的( chilly的最高级 )
+catheters|(catheter 的复数) n. 导管
+collutorium|(=collutory)漱口剂
+coehorn|掷弹筒
+celesta|钢片琴
+carnalized|好色；沉湎于肉欲
+ceratozamia|[网络] 角状泽米属；角果泽米铁屑；角状泽米属所有种
+cabbaged|[园艺] 卷心菜, 甘蓝菜, （俚)脑袋
+constate|证实,确定,断言
+campsites|野营地, 露营预定地( campsite的复数形式 )
+chipper|爽朗的, 活泼的, 爽快的
+corrigendum|勘误表
+cartels|<经>卡特尔, 企业联合( cartel的复数形式 )
+cloddy|土块多的, 土块一样的, 矮而结实的
+cuculla|套头罩衣
+coulisse|有槽木料, 侧面布景
+cury|currently 普遍地; 通常地; 现在; 当前
+cognized|认知, 认识( cognize的过去式和过去分词 )
+chivvied|（使）烦扰, 耍花招( chivvy的过去分词 )
+coypu|河狸鼠
+chucklehead|傻瓜
+corycavidine|[化] 紫堇维定
+cladocera|[无脊椎] 枝角目
+cockfighting|斗鸡
+conchies|(conchy 的复数) n. 拒绝服兵役者
+cheerer|欢呼者；用欢呼声激励者
+calyceal|[生]萼(或盏、盂)的
+consumables|消耗品, 消费品；耗材（consumable的复数形式）
+cracked|破碎的, 破裂的, 声音嘶哑的
+chapelries|(chapelry 的复数) n.礼拜堂的教区(辖区)或其管辖权
+cartoner|纸板包装机
+compilations|编辑, 编写( compilation的复数形式 ); 编辑物
+correlatable|相关的
+checkoff|工会会费扣款
+caveatee|被警告之人
+crappy|<俚>蹩脚的, 没价值的, 讨厌的
+coasting|海岸线；沿岸航行；沿海贸易
+creped|绉纱；绉绸
+coagulase|[生化]凝固酵素
+channer|[人名] [英格兰人姓氏] 钱纳 Challenor的变体
+coexistent|同时共存的, 和平共处的
+centrales|辐射硅藻目
+chasmogamous|开花受精的
+corrigenda|勘误表, 正误表; 应改正的错误, 勘误表( corrigendum的名词复数 )
+clattery|卡嗒声的, 喧嚷的, 咭咭呱呱的
+civilizing|使文明, 使开化( civilize的现在分词 )
+clavicornia|[昆]锤角组
+curatrix|女管理人或女监护人的团体
+coupe|双座四轮轿式马车, 小轿车, 双门轿式小汽车, (英)铁路客车尾部的分隔车厢
+clarionet|[乐]木箫, 竖笛,单簧管
+craniopathy|[医] 颅病
+comparatist|比较文学学者
+conclaves|秘密会议, 教皇选举会议, 红衣主教团( conclave的复数形式 )
+crony|密友, 亲密伙伴, 好朋友
+chemicovital|[医] 生物化学的
+crying|叫喊的, 嚎哭的, 迫切的, 臭名昭著的
+camisoles|(camisole 的复数) n. 背心式女内衣
+cannonading|连续开炮, 炮击( cannonade的现在分词 )
+cowries|宝贝科宝贝, （从前南亚和非洲部分地区作货币用的）货贝( cowrie的名词复数 ); 宝贝, 贝壳( cowry的名词复数 )
+cuspidine|[化] 枪晶石
+cymbal|铙钹
+conniving|密谋 ( connive的现在分词 ); 搞阴谋; 默许; 纵容
+clypeus|(昆虫的)唇基
+cautery|烧灼, 烧灼器, 腐蚀
+circumgyrate|绕转, 旋转
+chalcididae|粗脚小蜂科；小蜂科
+chiefess|女酋长,女首领
+comitial|comitia的变形
+carcel|卡索(法国曾经用过的一种发光强度单位。1卡索约等于10国际烛光)
+catalyzes|催化, 促进( catalyze的第三人称单数 )
+cortical|皮层的
+crip|<美俚>瘸子
+censors|删剪（书籍、电影等中被认为犯忌、违反道德或政治上危险的内容）( censor的第三人称单数 )
+coventry|考文垂
+chafferer|讨价还价者, 闲聊者
+curia|中世纪法庭, 地区元老院, 元老院, 法庭
+conserver|[医]保存者, 管理者
+canvasing|用帆布覆盖（canvas的现在分词形式）
+carrageenan|[化]角叉(菜)胶
+colera|[医]激怒[综合征]
+comdg|commanding 指挥的, 居高临下的, 发号施令的
+chilenite|软铋银矿
+coprophilous|生长在粪便上的, 嗜粪癖的
+chowk|（城市交叉路口处的）集市广场
+cacti|pl. 仙人掌
+carlylese|(苏格兰散文作家和历史学家)卡莱尔(式)的文风(常指模仿卡莱尔风格的文风)
+cuorin|心磷脂
+contractible|会缩的, 缩小的
+colauxe|[医] 结肠扩张
+cattleya|卡特米兰
+cutoff|近路, 切断, 捷径, 切掉, 中止
+codons|(codon 的复数) n. 密码子
+centranthus|[网络] 拔地响；曲霉；距药草
+calipering|用卡钳测量( caliper的现在分词 )
+cura|[法]监督
+celery|芹菜
+cephalate|有头的
+centrale|中央骨, 舟状骨
+chatterers|饶舌的人( chatterer的复数形式 )
+curlers|卷发的人, 卷发夹子( curler的复数形式 )
+cherrylike|cherry的变形
+condonation|宽恕, 赎罪
+carrels|(carrel 的复数) n. (图书馆)小阅读室
+contiguity|接触, 邻近
+cobitidae|鳅科
+chank|犬齿螺
+cheetahs|<动>（奔跑极快的）非洲猎豹( cheetah的复数形式 )
+carlism|拥护卡洛斯争取西班牙王位者
+canid|[动]犬科动物(包括家犬、狼、狐等)
+cresyl|[化]=tolyl
+consignor|委托者, 发货人, 货主
+compregnate|使成为高压夹板
+clyer|[医] 牛瘰疬瘤
+coriandrum|[医] 芜荽, 胡荽
+cauterize|烧灼, 使麻木不仁
+consortable|consort的变形
+cire|蜡光丝, 蜡光草
+campiness|campy的变形
+cookware|<美>[总称]烹饪用具,炊具
+chitarrone|[音]基塔隆尼琴 , 长双颈诗琴
+cystoschisis|[医] 膀胱裂
+colling|(Colling)人名；(德、瑞典)科林
+caping|(cape 的现在分词) n. 岬, 海角, 披肩, 斗蓬
+cannoned|与…猛撞（cannon的过去式与过去分词形式）
+chrysalid|蝶蛹的
+chondrify|软骨化, 变成软骨
+coopering|箍桶；修桶
+consisted|由…组成( consist的过去式和过去分词 ); 包括; 存在于; 表现为（常与 in 连用）
+conhydrine|[化] 羟毒芹碱; 羟基毒芹碱
+classman|…年级学生（用于复合词）
+coprocessing|[计] 协同处理
+coughing|咳嗽( cough的现在分词 ); （从喉咙或肺中）咳出; （突然）发出刺耳的噪音
+cultus|礼拜(式), 祭仪
+clodpoll|笨人, 呆子
+copal|珂巴脂
+cadinene|[化] 荜澄茄烯; 杜松烯
+champlain|山普伦（法国探险家Samuel de Champlain）
+coryphaena|[医]其？
+cosmogeny|宇宙的产生, 宇宙进化论
+cabecera|[体]固定挡板
+convecting|使热空气对流, 借对流传热( convect的现在分词 )
+catfish|鲶鱼
+chthonophagy|[医] 食土癖
+capotasto|[乐](吉他等的)品柱, 支部头目, <美>(黑手党或其他犯罪集团的)分支头目
+contended|争夺( contend的过去式和过去分词 ); 竞争; 搏斗; 争斗
+coxa|髋关节, 髋
+cockatoo|风头鹦鹉
+convective|传送性的, 对流的
+clumsier|笨拙的( clumsy的比较级 ); 复杂难懂的; 得罪人的
+carabineros|(carabinero 的复数) n. <西>马枪骑兵； 税务官员, 边防警察
+chololithic|[医] 胆石的
+conification|形成圆锥状
+coagulative|凝结物的, 凝固物的
+collative|校勘的, 整理的
+cinnamol|[医] 桂皮烯, 苯乙烯
+caramelized|（食物）含焦糖的, 浇上焦糖的
+caterers|（尤指职业的）酒席承办人, 提供饮食及服务的人( caterer的复数形式 )
+crosslet|小十字形
+cataphoresis|阳离子电泳, 电泳
+cephalitis|[医]脑炎
+coronaries|冠状动脉的( coronary的复数形式 )
+crunode|结点, 叉点
+cardanol|[化] 腰果酚; ┐如酚
+confessed|公开的, 有定论的, 明白的, 众所周知的, 已认罪的, 自认的, 自称的
+coucher|[建] 伏工
+colouration|着色, 特色, 色彩, 天然颜色
+callum|卡勒姆（人名）
+chanterelle|鸡油菌
+corrugator|皱眉肌
+contradicted|反驳, 否认…的真实性( contradict的过去式和过去分词 ); 与…发生矛盾, 与…抵触
+coinsuring|共同保险, 共同担保( coinsure的现在分词 )
+crabgrass|马唐(一种杂草)
+coccineous|([拉]=coccineus)胭脂色的
+canalboat|运河船(船体狭长,多用于装运货物,旧时常由马拉纤)
+christophany|基督再现
+contubernium|[法] 奴隶之间的婚姻, 奴隶婚姻, 被允许的同居
+commutating|使方向转换, 整流( commutate的现在分词 )
+chondrectomy|[医] 软骨切除术
+calyculus|副萼, 杯状小体
+checkups|检查, 核对( checkup的复数形式 ); 体格检查
+charlatan|庸医
+chromizing|渗铬处理, 铬化处理
+chaffers|讲价, 吹毛求疵( chaffer的第三人称单数 )
+creatress|女创造者, 女创作者
+carbuncles|红榴石, 红宝石, 痈( carbuncle的复数形式 )
+coprodaeum|粪道
+ciliiform|睫毛状的, 均匀细密的
+churl|下层自由民, 中世纪的农民, 出身低贱的人, 乡下人, 粗暴的人, 吝啬鬼, 守财奴
+condone|赦, 宽恕
+controvert|议论, 辩驳, 驳击
+cyprinids|(cyprinid 的复数) n.鲤科之鱼
+clingstone|粘核桃
+convinces|使相信( convince的第三人称单数 ); 使明白; 使确信; 说服
+chrysops|[医] 斑虻属
+canonize|封...死者为圣徒, 使加入圣徒之列, 褒扬
+concussion|剧烈摇动, 震荡
+camilla|卡蜜拉（女子名）
+cadency|有节奏的调子, 幼子之后裔
+conidae|芋螺科
+colliquative|[医] 液化的, 溶化的
+cannoneers|(cannoneer 的复数) n. 炮手
+colorful|华美的, 富有色彩的, 有趣的
+cartopper|可放在汽车顶之小舟
+clocher|(Clocher)人名；(法)克洛谢
+cornucopia|丰盛
+cabalisms|(cabalism 的复数) n. 犹太教神秘哲学
+coscoroba|扁嘴鹅
+cordia|科迪亚牌汽车
+creatorrhea|[医]肉质下泄
+croslet|小十字形
+chaplains|（王宫等的）附属教堂牧师( chaplain的复数形式 ); （军队、医院、监狱等的）牧师; 犹太教教士; （在社团等会议上）执行宗教仪式的牧师（或俗人）
+cryaesthesia|冷觉过敏
+codpieces|男裤前面的褶( codpiece的复数形式 )
+chrysaniline|[化] 柯苯胺
+callisto|木卫四（木星最亮的四颗卫星之一, 是距木星第六远的卫星）；卡利斯托（希腊神话中宙斯心爱的女神, 被赫拉所憎恨并被她变为一只熊）
+compagnie|公司（等于company）
+caseinogen|[生化]酪蛋白原
+cystic|胞囊的, 膀胱的, 胆囊的
+chasmal|深陷的, 似裂罅的
+carduelis|[网络] 金翅雀属；金翅属；黑头红金翅雀
+candite|[矿]铁镁尖晶石
+calisaya|[植]黄金鸡纳树皮
+coagulating|[建] 凝结
+coes|(coe 的复数) abbr. 卓越中心（Center of Excellence）；报名确认（Confirmation of enrollment）；计算机优化均衡（Computer Optimized Equalization）；公共操作环境（Common Operating Environment）
+confrication|[医] 磨碎
+corkscrew|拔塞钻
+canvasses|检票员, 游说者, 推销员( canvass的名词复数 )
+cigala|蝉
+croquignole|(用卷发器从发梢向发根卷发的) 化学烫发法
+checkerboard|棋盘, 方格图案
+cholera|霍乱
+cognizant|察知的, 认识到的, 有认识能力的
+chewink|红眼小鸟
+czar|沙皇
+chernozem|黑土带
+chirrupy|快乐的, 愉快的
+collimating|[计] 准直的
+cellulitis|蜂窝织炎
+coquetted|（女子）卖弄风情( coquet的过去式和过去分词 )
+culet|多面体宝石的底面
+coralwort|[网络] 珊瑚
+cubed|[医]荜澄茄
+cloyne|[人名] 克洛因; [地名] [爱尔兰、加拿大] 克洛因
+cavitate|成穴,空化
+cropped|裁切不正的
+caulome|茎的结构, 和茎结构形态相当之结构
+cataphora|昏迷, 人事不省
+calander|[化] 砑光机(造纸及纺织); 压延机(橡胶)
+collectional|collection的变形
+crustless|无硬皮的, 没有外壳的
+cardielcosis|贲门溃疡
+curran|(Curran)人名；(英)柯伦；(意、瑞典)库兰
+cupule|杯状部, 壳斗
+creviced|有裂缝的
+coprostasia|[医] 便结, 粪积
+calycled|具副萼的
+chloranthy|绿花(病), (花)绿叶化
+closter|修道院，归隐修道之处
+chemotropic|向化性的, 向药性的
+cybernate|使受电子计算机控制, 使电子计算机化
+coffle|(连锁着的)一队奴隶/一群兽类
+cyanhydrin|[化] 羟腈; 氰醇
+connives|密谋 ( connive的第三人称单数 ); 搞阴谋; 默许; 纵容
+circumflex|声调符号, 长音符号
+crawlers|爬行者, 爬行动物( crawler的复数形式 ); 童裤
+chloridizing|[建] 氯化
+cathouses|妓院( cathouse的名词复数 ); 三瓦两舍; 秦楼楚馆
+coregonidae|【鱼类】 =Salmonidae
+colitic|colitis的变形
+coifs|盖以头巾, 戴紧帽( coif的第三人称单数 )
+crores|一千万卢比（印度英语）
+concluding|结束的, 最后的
+cienaga|沼泽
+catawba|卡托巴葡萄（产于美国东部）；卡托巴红葡萄酒
+cashmerette|[纺]仿开士米斜纹绒,仿开士米织物
+creaming|[化] 乳状液分层
+contes|(conte 的复数) n. 短篇小说
+cotingidae|伞鸟科
+crumblier|易碎的, 脆的( crumbly的比较级 )
+crystallitic|微晶的
+cheoplastic|[医] 低熔[金属]铸型的
+cicatrices|斑痕, 叶痕( cicatrice的名词复数 ); 瘢痕, 脱离痕, 叶痕( cicatrix的名词复数 )
+chondritis|[医] 软骨炎
+coutel|短刀, 匕首
+caruncular|肉冠
+colk|[地质]锅穴, 瓯穴
+chasma|[医] 呵欠
+cinchonic|[医] 金鸡纳皮的
+cheeringly|令人愉快地, 兴高采烈地
+closehauled|, adv. 【航海学】迎风航行的(地)
+canting|伪善的
+catadromous|下海产卵的
+cryptomonad|[医]隐滴虫
+cymbium|跗舟
+corbies|科比
+cavernous|似巨穴的
+chelone|[医] 蛇头草属
+cerosin|[化] 蔗蜡
+civilised|文明的
+cohesionless|非粘结性的
+cornered|有...角的
+claude|克劳德（男子名）
+colicker|急腹痛的鸟
+cetaceum|鲸脑
+cottagers|住在乡下房子的人；佃农（等于cotter, cottier）
+curler|卷发的人, 卷发夹子
+cathay|中国
+cerebellitis|[医] 小脑炎
+crispated|起皱的;卷曲的[亦作 crispated]
+coextend|(使)作同等扩张, (使)作同等延伸
+caducicorn|脱落性角
+commentated|注释, 评述( commentate的过去式和过去分词 )
+chela|螯, 门徒
+caterwauling|猫叫春声, 哀诉声,抱怨声
+cleverish|有小聪明的
+circumcised|<医>割除…包皮（由于宗教或健康理由）( circumcise的过去式和过去分词 )
+crimeless|无罪的
+cotte|紧身外衣
+celastrus|[建] 南蛇藤属
+chauffeur|司机
+corpuscule|血球, 细胞, 小体, 粒子, 微粒
+chenar|法国梧桐,悬铃木
+charactery|字符, 用字符表达意思的方法
+clydesdale|强健的挽马
+camphine|(旧时点灯用的)精制松脂
+caymans|(cayman 的复数) n. 宽吻鳄, 凯门鳄
+cyanin|花色素苷, 花青苷
+carbons|<化>碳( carbon的复数形式 ); 复写纸
+countryfolk|乡下人, 同胞
+carabiniere|（意大利）警察
+conjugated|共轭的,成对的
+celsian|钡长石
+calciferous|含钙的, 含碳酸钙的
+coonhound|猎浣熊的猎犬
+cornus|山茱萸
+clinohumite|斜硅镁石
+catties|阴险的；狡猾的；如猫的
+convoked|召集, 召开（会议）( convoke的过去式和过去分词 )
+chondroclast|[医] 破软骨细胞
+currans|(Curran 的复数) n. (Curran)人名；(英)柯伦；(意、瑞典)库兰
+cashing|[经] 把...兑现
+costarred|合演( costar的过去式和过去分词 )
+capitolium|[网络] 卡庇托尔；卡皮托利山；卡皮托尔神庙
+corr|[经] 更正
+cromerian|[考古]克劳默文化的,克劳默人的
+caputium|连帽短斗篷
+catnaper|[美国英语]瞌睡, 打盹(=catsleep)
+chondroitic|[医] 软骨的
+colaborer|劳工同事
+capillitium|[医] 粘液菌孢子丝
+chaperon|年长女伴
+countersank|钻孔装埋, 打埋头孔( countersink的过去式 )
+causations|(causation 的复数) n. 因果关系, 原因
+coy|腼腆的, 怕羞的, 羞怯的
+composites|菊科植物；复合体；复合材料（composite的复数）
+caprylic|[化]辛酸的, 羊脂酸的
+cousinly|堂兄弟姐妹关系的, 表兄弟姐妹关系的
+cucurbita|[医] 南瓜属
+countdown|倒计数
+coliidae|鼠鸟科
+crotonyl|[机] 巴豆酰基
+ctenoid|栉状的, 有栉齿状边缘的, 栉齿鳞科的
+cornaceous|山茱萸科的
+corselette|女用紧身胸衣
+coeducation|男女同校
+clomping|重踏着走( clomp的现在分词 )
+carbinol|甲醇
+cilia|pl. 睫毛, 纤毛
+cardiotonic|强心的, 强心剂
+cresoxy|[建] 甲苯氧基(邻间或对)
+canoness|过修道生活的女子
+cun|坎昆（位于墨西哥）
+counterweigh|使平衡
+cheapjack|兜售便宜货的叫卖小贩
+comperes|<法>（表演会）节目主持人, 报幕员( compere的名词复数 )
+cdr|指挥员（Commander）；会长（commander）；交货收据（Cargo Delivery Receipt）
+coactivity|coactive的变形；coactive的变形
+chirruping|吱喳地叫
+congesting|充满, 拥挤( congest的现在分词 )
+caprylene|[化] 辛烯
+clotbur|[医] ǔ耳(止血药)
+coiners|(coiner 的复数) n. 造币者, 伪造货币者, 创造者
+cacographic|cacography的变形
+cariogenic|生龋齿的
+casaba|卡萨巴甜瓜
+changers|转换开关装置；改变者（change的名词形式）
+cemeterial|墓地的；公墓的
+citable|可引用的
+coumarin|香豆素, 氧杂萘邻酮
+cribbage|克里比奇牌戏
+caddied|供差遣, 当球僮( caddy的过去式和过去分词 )
+chroniclers|(chronicler 的复数) n. 年代史编者, 记录者
+copepoda|[医] 挠足亚纲
+corneous|似角的, 角质的
+conchology|贝壳学, 贝类学
+celticist|凯尔特语言专家, 研究凯尔特文化的人
+cambodians|柬埔寨人（高棉人）；柬埔寨语
+cohorts|军团; （古罗马军队的）步兵大队( cohort的复数形式 ); 一群人; 同伙; 支持者
+celloidin|火棉胶,火棉
+celadons|(celadon 的复数) n. 灰绿色, 青瓷
+chucking|夹具
+corin|corinthian 科斯林式
+coleslaw|酸卷心菜丝(凉拌生菜)
+coralene|玻璃制品上的凸花装饰
+clew|线索, 线团
+coelostat|[天]定天镜( 观测或拍摄天体时镜面与地轴一同转动可使图像固定不动)
+complaining|抱怨的
+caesium|[医] 铯(55号元素)
+curtseying|(curtsey 的现在分词) n. 屈膝礼
+cadmic|[机] 正镉的, 二价镉的
+coachwood|[植]角瓣木(澳洲产的一种木质纹理细密的树,适用于制造橱柜)[因用于制造汽车车身而得名]
+cerebrum|大脑
+choky|窒息的, 透不过气来的
+colocate|, vi. (使两个以上军事单位)驻扎在同一地点 [亦作 co-locate]
+cleanliest|清洁地,有洁癖的,清清处处地,cleanlyd的最高级
+conformist|遵奉习俗, 遵纪守法者, 遵奉国教会惯例者
+cattleman|牧牛人, 养牛人
+cricoid|环状软骨的, 环状的
+chorioiditis|[医] 脉络膜炎
+chickpea|鹰嘴豆
+cainogenesis|[生物]新性发生
+chinchilla|灰鼠, 灰鼠的毛皮, 珠皮呢
+compeer|地位相等的人, 同辈, 伙伴
+concealer|[法] 包庇者, 隐藏者
+clitoritis|[医] 阴蒂炎
+cob|圆块
+coquitlam|[地名] [加拿大] 科奎特勒姆
+chassignite|[地质]纯橄无球粒陨石
+cowpuncher|牛仔
+cotters|(cotter 的复数) n. 佃农, 茅屋小农, 雇农, 开尾销, 销, 制销
+confirmand|领受坚信礼者
+cupcake|杯形蛋糕
+consistory|宗教法庭, 议会会场, 教会议会
+cacodorous|有恶臭的
+cantar|坎塔尔(穆斯林国家的重量单位)
+chevelure|[法]头发(尤指假发)
+catananche|[植]( 地中海地区产的) 菊科草本植物
+capuche|尖顶风帽
+creat|穿心莲
+calyculi|[医] 杯状器官, 副萼
+cliffhanging|扣人心弦
+chaffered|讲价, 吹毛求疵( chaffer的过去式和过去分词 )
+coprophiliac|[医]嗜粪癖患者
+clownishness|小丑；乡下人；粗鲁笨拙的人 (clown的变形)
+chainwork|链条细工, 编织品
+chickweeds|(chickweed 的复数) n. 繁缕
+connubially|婚姻地;夫妇般地
+connubium|[法] 婚姻, 合法婚姻
+curtails|截断, 缩短( curtail的第三人称单数 )
+citators|(citator 的复数)  [法] 传讯者; 引证索引
+curates|副牧师, 助理牧师( curate的复数形式 )
+cervine|鹿的, 鹿一样的
+chlorogenic|绿原酸
+chloranthus|[网络] 金粟兰；金粟兰属；珠兰
+correctable|[计] 可校正的
+chiba|千叶市（位于日本）
+coprolitic|coprolite的变形
+convincible|可说服的, 可使信服的
+complacency|满足, 自鸣得意, 自满
+cheyney|[人名] 切尼; [地名] [美国] 切尼
+carved|有雕刻的
+clangoring|（尤指连续的）铿锵声, 叮当声( clangor的现在分词 )
+celiagra|[医] 腹痛风
+cerebroscope|[医] 脑病检眼镜(检查眼底血管以诊断脑血循环情况)
+carpolite|石子; 石籽
+catheretic|虚弱的
+cadelle|[昆]大谷盗幼虫,大谷盗成虫(成虫为黑色甲虫,幼、 成虫均蛀食仓谷)
+chyloid|[医] 乳糜样的
+carryings|(carrying 的复数) [法] 运载
+citoyen|公民, 国民；城里人；人, 家伙
+creationist|神灵论者, 上帝论者; 特创论者（即相信万物皆由上帝一次造成者）
+cand|[化] 萤石
+carangidae|鲹科
+catsup|调味蕃茄酱
+cortically|皮质地, 皮层地
+cuss|诅咒, 坏话, 家伙
+cerebrotonic|大脑紧张型的, 表示大脑紧张型特性的, 孤僻气质的
+czars|(czar 的复数) n. 沙皇
+crewed|当工作人员（crew的过去式与过去分词形式）
+crinose|[医] 多毛的, 多发的
+circled|均衡的
+comitative|随伴格
+consumership|购买力; 消费者; 购买；消费
+copperheads|(copperhead 的复数) n. 铜头(蝮)蛇, 南北战争时同情南方的北方人
+cockup|(篇首或段落开头处所用的)特高大写字母, 附在字母右肩上的字
+creel|鱼篮, 粗纱架, 经轴架, 筒子架
+cheke|[人名] [英格兰人姓氏] 奇克 Cheek的变体
+cloakroom|寄物间
+cellarette|葡萄酒柜
+cartelize|组成卡特尔,组成企业联盟
+comportment|行为, 举止, 习惯
+codecs|(codec 的复数) [计] 编码译码器
+concretist|& adj.具体派诗人(的), 具体主义者(的)
+clonal|无性系的, 克隆的
+commissive|许诺的
+chevying|雪佛兰（Chevrolet）
+curcas|[医] 泻果属
+consumes|消耗( consume的第三人称单数 ); 烧毁; 大吃; 使充满（强烈的感情）
+chattiest|（似）猫的
+codebook|电报密码本
+consented|同意( consent的过去式和过去分词 ); 赞成; 允许; 顺从
+cosmography|宇宙志, 宇宙结构学
+carvene|[化] 香芹烯
+cerate|蜡膏
+clamber|攀登, 爬上
+coroplasty|造瞳术
+chlorinity|氯, 含氯
+cyclorrhapha|[医] 环裂亚目
+clar|clarification 澄清; clarify 澄清; clarendon 笔划较粗而字体略长的一种铅字; clarinet 单簧管
+chevin|欧洲圆鳍雅罗鱼
+cramoisie|深红色的布
+chansonette|<法>n.小歌,小调
+camphorated|[医] 含樟脑的
+chiver|【植物】细香葱 (Allium schoenoprasum) [亦作 chive garlic]
+crl|cross register line 交叉登记列; crown rump length 冠尾长度
+calocarpum|[网络] 美果榄属
+contentment|满足, 使人满意的事物, 满意
+curvet|腾跃
+celiadelphus|[医] 腹部联胎
+ciseleur|<法>n.镂刻者
+camptonite|[机] 康煌岩
+conative|意动的
+copiously|丰富地, 充裕地
+caryota|[网络] 鱼尾葵属；摆尾棕榈；孔雀椰子属
+committing|犯（错误）；提交；答应负责（commit的ing形式）
+complexus|头半棘肌, 复合肌
+ceroplastic|蜡塑的
+cypraeidae|宝贝科
+cromlechs|(cromlech 的第三人称 -s形式) n.环状列石
+cleavable|可分裂的
+camerae|照相机, 暗箱, 摄像机, 摄影机
+carpers|(carper 的复数) n. 吹毛求疵者, 苛评者
+cholesteric|（液晶）胆甾型的
+crenitic|泉华化
+churchwarden|堂区俗人委员, 陶制的长烟斗
+cyclometer|旋转计数器, 计程器, 圆弧测定器
+carbonizes|使成碳, 碳化, 使与碳化合（carbonize的第三人称单数形式）
+cannulas|套管, 插管
+comelily|comely的变形
+candytuft|伞形屈曲花
+colossian|(小亚细亚古城)歌罗西（Colossae）人（基督教徒）
+cementitious|似水泥的, 有黏性的
+comportable|合适的, 适当的
+caviling|吹毛求疵；挑剔
+candyfloss|棉花糖
+cavitied|cavity的变形
+choppiest|（指海洋）波浪起伏的( choppy的最高级 )
+cancellous|网眼状的, 网状骨质的, 海绵状的, 多孔的
+cavum|空腔(如耳腔)
+craterous|crater的变形
+caccagogue|[医] 缓泻药, 轻泻药
+chowhound|<美俚>贪吃的人
+cannelure|物体表面之细槽
+crowds|人群( crowd的名词复数 ); 群众; 一群; 听众
+casebound|(书籍)精装的
+covenants|（有法律约束的）协议( covenant的名词复数 ); 盟约; 公约; （向慈善事业、信托基金会等定期捐款的）契约书
+cowardliness|懦弱, 胆怯
+conoid|圆锥形的
+choller|肉下巴
+cautions|小心( caution的名词复数 ); 谨慎; （对危险或风险的）警告; （警察向犯轻罪的人发出的）警告
+coccids|(coccid 的复数) n.[植]介壳虫
+creolite|条带碧玉
+cartographic|[计] 制图的
+clints|(clint 的复数) n. 石芽；石灰岩岩脊；岩沟
+cryst|[医]晶状体
+carburized|渗碳的
+citicorp|花旗公司
+carburate|[建] 渗碳, 汽化
+cowry|宝贝(一种腹足动物), 宝贝贝壳
+circumpolar|极地附近的, 天极附近的, 拱极的
+circinus|<拉>[天]圆规座
+champed|（马）大声咀嚼( champ的过去式 )
+chummery|同房间, 同宿舍
+convoying|护送；护卫；护航队
+carcinemia|[医] 癌血症, 癌性恶病质
+categorising|(categorise 的现在分词) vt. 分类, 归类
+camisa|女用衬衫
+chunkily|chunky的变形
+corroboree|舞蹈晚会, 狂欢会, 喧闹, 骚动
+confinements|限制, 被监禁( confinement的复数形式 ); 分娩
+clansman|族人, 同宗
+chamoising|[建] 油鞣法
+chaussee|<法>公路
+calibrated|校准使...标准化；校准（calibrate的过去分词）
+chrysoidine|[化]橘红, 柯衣定
+creosoting|杂酚油浸渍
+columella|小柱, 螺的轴柱, 蒴轴
+cantabank|漫步的歌唱者
+caryopsis|颖果
+conflictful|conflict的变形
+chirk|快活的, 兴致好的
+consummative|(能)使最终得以实现的, 最后完成的, 使完婚的
+cooee|喂(澳洲土人的招呼声)
+convulsively|痉挛性地
+cheerlessly|cheerless的变形
+cill|[法]窗台; 岩床; 基石; 门槛
+crankiest|暴躁的；古怪的；动摇的 (cranky的变形)
+councilmanic|[美国英语]议员的
+cordoban|马臀革
+calorific|生热的, 产热的, (热)卡的
+comradeship|同志关系, 友谊, 伙伴情谊
+catamite|娈童
+chagal|(帆布或皮革制的)水袋(亦作chaghal, chagul)
+cardium|鸟蛤属
+countercoup|反政变
+contra|反对, 相反
+coordinating|[计] 协调的
+carlie|[人名] 卡莉
+crashed|失事的
+clinocephaly|(=clinocephaism)鞍形头； 凹顶头
+caddice|毛线
+cloister|修道院, 回廊
+chancel|高坛
+carabid|[昆]步行虫,步甲(亦作carabid beetle)
+crankiness|狂妄, 偏执, 古怪
+cooties|虱子（cooty的复数）
+crimps|使（头发）卷曲, 把…压成褶子( crimp的第三人称单数 )
+celebrators|(celebrator 的复数) n. 祝贺的人
+chillily|冷漠地
+camstone|坚白石灰岩,漂白泥
+connubial|结婚的, 夫妇的, 配偶的
+calculative|计算的, 善于计算的, 精明的
+cadwell|[人名] [英格兰人、苏格兰人、北爱尔兰人姓氏] 卡德韦尔 Caldwell的变体; [地名] [美国] 卡德韦尔
+carelessness|粗心大意
+classifiable|可分类的
+cytochalasin|[生化]细胞松弛素,松胞素,细胞分裂抑素
+coaxer|coax的变形
+conceptive|构想的, 有构想的
+catachresis|在特定上下文中词的误用, 修辞手法生硬而自相矛盾的误用
+colusite|硫钒锡铜矿
+coze|亲热地闲谈, 聊天, 谈心
+collembola|弹尾目
+crouches|蹲着的姿势( crouch的名词复数 )
+cyanophycean|蓝藻类(的)
+copybook|字帖, 习字簿, 复写簿
+congealment|冻结, 凝结
+cyborgs|电子人, 半机械人( cyborg的复数形式 )
+concurred|同意（concur的过去式与过去分词形式）
+cantering|（使马）慢跑( canter的现在分词 )
+cinematics|电影艺术
+casper|一个卡通造型, 为一可爱的小精灵
+centavos|(centavo 的复数) n. 分(菲律宾及拉美的货币单位)
+calanque|狭海湾
+chiffon|雪纺绸, 薄绸, 女子服装装饰品
+clinoprism|斜轴柱
+cancrine|似蟹的, 具有蟹之特点的
+cacoplastic|[医] 成形不良的
+conventual|女修道院的, 似女修道院的
+chorten|(喇嘛教的)神龛,(喇嘛的)圣骨冢, 纪念碑
+cheero|interj. 再会, 再见, 干杯
+chalkography|金相学
+carburizes|使渗碳于…
+cycled|循环的
+channelized|使形成沟渠, 疏导( channelize的过去式和过去分词 )
+conto|(葡萄牙的)货币计算单位
+comforter|安慰的人, 安慰者, 圣灵
+cultellation|测点降低
+complicitous|有同谋关系的,串通一气的[由 complicity 逆构]
+clothespins|晒衣绳上夹衣服之夹子( clothespin的名词复数 )
+conocarpus|[网络] 聚合果属；使君子科聚合果属
+creepingly|creeping的变形
+chameleonic|像变色蜥蜴般善变的, 反复无常的
+chargeably|chargeable的变形
+chiefdoms|(chiefdom 的复数) n. 首领的地位, 酋长领地所辖居民, 酋长领地
+colitoxemia|大肠杆菌毒血症
+chaparejos|牧人穿的皮护腿套裤
+cumshaw|酒钱,赏钱,小帐
+chickasaws|契卡索人（美国马斯科吉印第安人一个部落成员, 过去住在密西西比州北部和田纳西州的部分地区, 现在住在俄克拉何马州）
+cohering|黏合( cohere的现在分词 ); 联合; 结合; （指看法、推理等）前后一致
+caryatid|女像柱
+coracine|乌黑的
+critiquing|发表评论（critique的现在分词形式）
+conspiration|合作, 协力; [废语]共谋, 阴谋, 密谋
+clique|派系, 集团
+cocurrent|直流； 同向
+cornering|转弯, 回转
+coprostanol|粪（甾）醇
+cannoning|与…猛撞（cannon的现在分词形式）
+capricorn|摩羯宫；摩羯座（等于Capricornus）
+calligraphy|笔迹, 书法
+cellvibrio|[医] 纤维弧菌属
+consumptive|消费的, 浪费的, 消耗性的
+condoner|condone的变形
+cecily|塞西莉（女子名）
+criosphinx|羊头狮身像
+cockcrowing|黎明
+cytocentrum|中心体
+capacitors|电容器, 电容( capacitor的复数形式 )
+contravened|取消, 违反( contravene的过去式 )
+cuticula|[动]角质层, (昆虫等的)表皮[见CUTICLE]
+compd|compound 了结付清（预约款等）; 互让解决（债务或争端）; 化合物; 化合的
+curial|元老院的
+crudites|蔬菜色拉
+churel|女鬼(因分娩而死的妇女鬼魂,某些印度人认为这种鬼魂出没于冷僻地方并传播疾病)
+cernuous|[植]俯垂的
+cutchery|(印度)行政机关, 种植园事务所, 法院
+confidantes|知己的女友( confidante的复数形式 )
+carminate|(=carminated)洋红色的, 胭脂红色的, 胭脂红酸盐
+cloveroot|[网络] 丁香根
+chorogi|甘露子(宝塔菜)
+connoted|隐含, 暗示, 意味着( connote的过去式和过去分词 )
+catalase|过氧化氢酶
+clunked|发出沉闷声( clunk的过去式和过去分词 )
+cryptography|密码使用法, 密码学
+constabulary|警察的, 警官的
+cherup|吱喳鸣叫, 啧啧咂嘴（如催马前进的声音）
+cosponsoring|共同赞助者；共同主办人
+centurial|一世纪的,百人队的
+consulter|向人商量者, 查阅者
+chalones|抑素
+cowinner|并列获奖者之一；并列优胜者之一
+calcimine|墙粉(一种涂料)
+counterpull|反引力
+carnage|大屠杀, 残杀
+colostration|[医] 初乳病
+chlorous|三价氯的, 亚氯的
+criticalness|批判性
+cyprinus|[医]鲤
+carbonometer|[医] 碳酸定量器, 二氧化碳定量器
+cagot|伪善的(人), 假虔诚的(人)
+cryalgesia|[医] 冷痛觉
+cocker|娇养, 溺爱, 放纵
+checkering|[建] 方格式
+crackajack|能干的, 杰出的, 上等的
+contorts|扭曲, 扭弯( contort的第三人称单数 )
+charmer|巫士, 可爱的人
+containedly|泰然自若地, 从容不迫地
+colonoscope|结肠镜
+clusteringly|cluster的变形
+crossbows|（昔日的）石弓, 弩( crossbow的复数形式 )
+coordinators|协调者( coordinator的复数形式 ); 同等的人（或物）
+certes|的确, 诚然
+cunila|[医] 白藓属(唇形科)
+cladosporium|[医] 分子孢子菌属
+caryopses|颖果；壳果 (caryopsis的变形)
+celliform|[医] 细胞样的
+collimation|校准, 准直
+corallorhiza|[网络] 珊瑚兰属
+cantorial|领唱圣歌的, 唱诗班席位北侧的
+cystamine|[药]胱胺,塞斯塔明,乌洛托品
+chionanthus|毒灰木皮, 流苏树皮
+cottonwick|[鱼类]仿石鲈属（Haemulon）鱼
+clathrus|格板；格网
+coulters|(coulter 的复数) n. 犁刀
+chawing|嚼, 咀嚼( chaw的现在分词 )
+chamaebatia|蕨叶属; 蕨叶属
+colorman|颜料商, 染色师
+cozened|(cozen 的过去分词) vt. 欺骗, 瞒
+cryptococcal|隐球菌的
+cyril|西里尔（男子名）
+caulocarpic|[植]每年结果的
+coarsening|（使）变粗糙( coarsen的现在分词 ); 粗化
+cannetille|[法]金银线, 金银线花边, 经棱条织物
+cyclize|[化](使)环化
+chinch|臭虫
+cratonic|有克拉通盆地特征的, 指具有厚层刚性大陆地壳（或岩石圈）、长期保持相对稳定、较少遭受变形的广大区域
+coquet|卖弄风情
+cucumiform|黄瓜状的
+crummiest|丰满的( crummy的最高级 )
+cyanate|氰酸盐
+chondrigen|[化] 软骨原
+chenopodium|[化] 美洲土荆芥
+catechumens|(catechumen 的复数) n. 新入教者, 新信徒, 初学者
+carbonadoing|黑金刚石( carbonado的现在分词 )
+commie|共产党员
+cosmoid|(鱼鳞)具有齿鳞质的
+chickpeas|鹰嘴豆( chickpea的复数形式 )
+combust|[建] 燃料
+concertante|(乐曲等)适于发挥高度技巧的
+chiasmus|交错配列
+coydog|[动]科伊狗(丛林狼和野狗的杂交后代)
+chiselly|多砂砾的, 含砂砾的, 粗颗粒的
+cineast|等于cinéaste
+crossjack|从桅下桁上挂的帆
+cavalrymen|(cavalryman 的复数) n. 骑兵
+croc|<口>=crocodile
+cytase|[生化]细胞酵素
+colonnaded|有列柱的, 有柱廊的
+conventually|conventual的变形
+cantalite|斑碱粗面岩
+caged|关在笼子里的
+centiliter|厘升
+chamaeleon|[医] 避役属
+chopping|[电] 截断
+clingier|(clingy 的比较级) a. 粘住的, 紧贴的
+cakey|成了块的, 凝固了的
+cancrum|[拉](坏疽性)溃疡
+coles|[医] 阴茎
+counterplay|反击
+cytoproct|细胞肛
+chunking|[计] 程序分块
+combinatoric|【数学】组合学的
+carnotite|钒钾铀矿
+chiming|敲出和谐的乐声( chime的现在分词 ); 报（时）; 插嘴; （以…）打断谈话
+cliched|陈腐的
+crag|峭壁, 危岩
+coan|[医] 蔻斯的(指Cos的或当地医学学说的)
+coronoid|冠状的, 喙状的
+cyathea|桫椤属
+caprylate|辛酸盐(或酯)
+christie|克里斯蒂（姓氏）；挪威首都奥斯陆的旧称
+chagrined|懊恼的, 苦恼的
+capitalizing|用大写字母写或印刷( capitalize的现在分词 ); 将（某事物）转作资本、用作资本或资本化
+cracknel|薄饼干的一种, 脆煎猪肉片
+cynocephalic|[医] 狗[状]头的
+coenesthesia|[心]普通感觉,存在感觉
+coigne|外角, 楔, 隅石, 隅
+comeuppance|应得的惩罚
+collating|[计] 整理的
+cucoline|[化] 汉防己碱
+chromonemata|[医] 染色线
+catfishes|(catfish 的复数) n. 鲶鱼
+contactant|接触性过敏原
+clotheslines|(clothesline 的复数) n. 晒衣绳
+colipyelitis|大肠杆菌性肾盂炎
+crunkle|<英方>vt.使起皱,弄皱
+conciliarism|教会会议,至上主义
+carambola|[植]五敛子,阳桃(亦作caramba)
+cobby|象结实的矮脚马似的, (英)(非正式)活跃的, 执拗的
+cellule|小细胞
+chanters|(chanter 的复数) n. 吟唱者, 调旋律管, 唱诗班成员
+compliable|依从的, 屈从的
+censoriously|好批评地
+convolutions|回旋, 盘旋, 卷绕( convolution的复数形式 )
+contemn|侮辱, 蔑视
+cyclostylar|cyclostyle的变形
+coagent|合作者, 共事者, 帮手
+conferring|<拉>商谈, 商议( confer的现在分词 ); 授予, 赋予
+cerebrotonia|[心]大脑紧张型,精神抑制型, 气质孤僻
+cypris|腺介虫
+caimito|[网络] 凯米托；黄金果；黄晶果
+cosseted|宠爱, 娇养, 纵容( cosset的过去式 )
+claudius|克劳迪亚斯(Claude的异体)(m.)
+circumflexes|（加在元音字母上的）音调符号( circumflex的复数形式 )
+cheddars|（英国产的）切达干酪( cheddar的复数形式 )
+choriambs|【韵律学】 扬抑抑扬格, 长短短长格 (一种四音节的古典韵律)
+curs|杂种狗；卑鄙的人（cur的复数）
+concelebrate|共做弥撒
+caving|洞穴探险
+coadjutor|助手, 帮手, 主教助理
+cetrarin|冰岛衣素
+clem|使饥饿, 使苦
+corcle|[医]胚, 胚芽, 胚根
+corbina|北美乌鱼, 类似北美乌鱼之海鱼
+cresegol|[医] 克里塞果耳(甲酚对磺酸汞钾衍生物)
+connatural|先天的, 固有的, 同性质的
+covenantor|契约之授方
+catechise|问答式教授, 盘问
+cooperators|(cooperator 的复数) n. 合作社社员, 合作者
+cheerfulness|高兴, 快活
+coenenchyme|共骨骼
+calamander|乌木
+correl|有相互关系的（correlative）
+craftless|craft的变形
+chirped|鸟叫, 虫鸣( chirp的过去式 )
+cowfish|海牛, 灰海豚
+calciphile|在石灰质土壤生长的植物
+chapstick|无色唇膏
+captivating|迷人的, 有魅力的
+cigarfish|圆
+copartner|合作者, 合伙人, 同犯
+chevaliers|(chevalier 的复数) n. 各级爵位的成员, 骑士, 最低级的贵族
+classism|阶级歧视, 阶级优越论
+convergent|趋集于一点的, 会聚性的, 收敛的
+coveralls|衣裤相连的工作服（coverall的复数形式）
+causeuse|<法>n.双人小沙发[字面意义： talkative woman]
+conidiospore|分生孢子
+calligraph|漂亮的书写(或抄写)
+cortin|皮质激素
+capitulary|牧师会的
+capsulectomy|[医] 囊切除术
+curiage|[物]居里数,居里强度
+cutlassfish|[医]带鱼，刀鱼
+cissoid|凹边的,蔓叶线的
+confection|糖果, 蜜饯
+cluff|[人名] [英格兰人姓氏] 克拉夫 Clough的变体
+cronartium|柱锈菌属
+canalise|开掘运河, 开掘渠道, (喻)把...引向某一途径
+chromonema|[生]染色丝
+champerty|包揽诉讼
+caryl|蒈烷基
+corvet|(古代的)木帆海防舰,轻型护卫舰,驱潜快艇,<英军俚>专门追求军官的海军女兵
+cirque|圆形场地, 圆环, 环形排列
+civilizes|使文明, 使开化( civilize的第三人称单数 )
+caprifig|野无花果(南欧及近东产)
+chokes|填塞( choke的第三人称单数 ); （使）窒息; （尤指感情激动）而哽咽; 因紧张而失灵
+cacoglossia|[医] 舌坏疽
+cupholder|奖杯保持者, （线路用）绝缘子螺脚
+corydaline|[化] 紫堇碱; 延胡索素甲
+cotunnite|氯铅矿
+cruiseway|<英>供乘船游览用的河道
+conalbumin|伴清蛋白, 伴白蛋白
+colourably|可着色地;似是而非
+crance|艏桁
+cholerically|choleric的变形
+chartreux|夏特尔猫（法国一种猫的品种）
+cheiropodist|[医] 治鸡眼者, 手足医
+chump|大木块, (羊)腰臀部的肉, 傻瓜
+chalcis|卡尔基斯（希腊港市）
+cingulectomy|[医](脑)扣带束切开术(一种精神外科手术)
+cannibal|食人者, 吃同类的动物
+congregate|(使)集合, (使)聚集
+carboxylic|[机] 羧基的
+cusso|[医] 苦苏花
+casing|箱, 盒, 包装, 框, 套管
+crystallite|皱晶, 微晶
+clagging|涂料粘附
+chirognostic|[医] 能辨别左右的
+cyrenaicism|[哲](古希腊)昔兰尼学派的快乐论, 昔兰尼主义
+candock|睡莲
+cleptomaniac|(=kleptomaniac)有盗窃癖的人
+clanked|（使某物）发出叮当声( clank的过去式和过去分词 )
+cyanidine|[化] 花色素; 花青色素
+contumacies|拒不服从, 固执( contumacy的名词复数 )
+chino|斜纹棉布裤；丝光斜纹棉布
+courteously|亲切地；有礼貌地
+claymore|双刃大砍刀
+campaigners|从军者, 出征者, 竞选者( campaigner的复数形式 )
+crewman|机组乘员
+craggedness|多岩状, 峻峭, 崎岖
+charco|水洼
+centistere|立方厘米(体积单位)
+collagist|抽象拚贴画（用报纸、布、压平的花等碎片拼合而成的） (collage的变形)
+chirurgic|[医] 外科的
+congregator|congregate的变形
+crowders|[美国] 克罗德斯
+collocates|并置排列, 配置( collocate的名词复数 )
+chelifer|[动]恶蚬,螯蝎(栖于书籍堆中的一种属于蜘蛛类的小虫)
+chekhov|契诃夫（俄国著名作家）
+clotter|(泥土、粘土的)块；团；土块；泥块；【生理学】(液体的)凝块；(血的)凝块
+clings|附着于( cling的第三人称单数 ); 抓紧或抱住; 坚持; 依恋, 依附于
+complexes|复体, 复合物
+chirurgeon|外科医生
+clavellate|小棍棒状的
+cardiopath|[医] 心[脏]病患者
+clicked|使发出咔哒声, 使咔哒（或咔嚓）响( click的过去式和过去分词 ); 突然明白; 配合默契; 在计算机荧光屏上用鼠标器)咔嗒一按
+canvasser|游说者, 检票员, 兜揽生意的人
+capote|带风帽的长大衣
+chalcophile|亲铜的
+comanchean|[地质]卡曼奇纪的
+criminality|犯罪, 有罪, 犯罪行为
+chappies|(chappy 的复数) n. 喜爱卖弄的人, 花花公子, 家伙, 小伙子
+cobaltammine|[建] 氨络钴
+coulombmeter|[化] 库仑计
+congelation|冻结, 凝结, 冻结物
+cashed|把支票兑换成现金( cash的过去式 )
+cheirology|[医] 手语
+countryward|走向乡村的, 下乡的
+cyphosis|(=kyphosis)脊柱后凸, 驼背
+carian|(Carian)人名；(法)卡里安
+celliferous|具细胞的
+cheated|欺骗, 哄骗( cheat的过去式和过去分词 ); （尤指在游戏、比赛、考试等中）欺诈; 作弊; 已婚或有固定性伙伴的人与他人有秘密性关系
+coachability|（人的）可塑性，可培养潜力
+clothesless|[网络] 无
+corers|(corer 的复数) n. (果实的)去心器
+creedless|信条, 教义 (creed的变形)
+colicky|绞痛的, 急腹痛的
+caseating|干酪样
+cotyla|(=cotyle)关节臼, 臼, 髋臼
+cornstalks|(cornstalk 的第三人称 -s形式) n. 谷类的秆, 玉米秆
+comfit|糖果, 蜜饯
+cautiously|慎重地
+cecidium|虫瘿
+cobia|[鱼]军曹鱼(产于热带海洋,可供食用)
+clods|块( clod的复数形式 ); （尤指）土块; <非正>傻瓜; 笨蛋
+crocidolite|青石棉
+cleanups|(cleanup 的复数) n. 清除, 暴利
+carolan|[日]卡罗纶(醋酯长丝、短丝)
+clef|谱号
+craneman|[化] 吊车工
+crabber|捕蟹人, 捕蟹小船, 专爱挑剔的人
+comake|(为保证借款人履行义务) 共同在(借据)上签字
+canniness|精明, 谨慎, 机警
+coarsen|(使)变粗
+chechem|丘欠姆树
+casualties|伤亡；人员伤亡（casualty的复数）
+cones|锥形体；视锥细胞（cone的复数）
+corylopsis|[网络] 蜡瓣花属；冬天榛树；瑞木属
+chantey|水手的劳动号子(或歌)
+cumbrance|拖累, 累赘
+clinking|叮当响的, 无比的, 无上的
+cionectomy|[医] 悬雍垂切除术
+crapy|皱褶的
+candies|糖果, 果饵（candy的复数）
+catostomus|胭脂鱼属
+conducible|有助于…的
+calibrations|(calibration 的复数) n. 口径测定, 刻度, 校准
+commutation|交换, 变换, 代替
+concertino|大协奏曲中的独奏乐器, 小协奏曲
+coadjuvancy|协作
+concaves|(concave 的复数) a. 凹的
+crucibles|坩埚, 严酷的考验（ crucible的复数形式 ）
+cheloniidae|渔龟科；[脊椎] 海龟科
+courtiers|侍臣, 廷臣( courtier的复数形式 )
+coliform|大肠菌
+cuprammonia|铜氨液
+chibol|[英方]带茎洋葱
+clonicotonic|[医] 阵挛紧张的
+cardiacs|(cardiac 的复数) n. 心脏病患者, 强心剂, 健胃药
+classed|把…归入某等级, 把…看作（class的过去式与过去分词形式）
+colorings|色彩( coloring的名词复数 ); 色调; 着色法; 着色剂
+confesser|[法] 认罪者, 自白者
+curvetted|使腾跃
+clanship|氏族归属状况, 氏族的团结, 氏族制度
+cryptogamia|[医] 隐花植物纲
+courant|报纸, 库兰特舞, 库兰特舞曲, (英)(非正式)四处乱跑, 闹饮, 嬉闹
+campbellite|基督门徒会教徒
+cadis|coronary artery disease 冠心病
+clonally|无性（繁殖）系地
+chymous|[医] 食糜的
+cartman|赶大车(或轻型二轮车)的人,卡车司机
+choop|丘泼籽
+credulous|轻信的, 易受骗的
+crabby|脾气坏的, 易怒的, 坏脾气的
+cordobas|(cordoba 的复数) 科尔多瓦（阿根廷城市）
+cardioplegia|[医] 心麻痹, 心瘫痪
+consumerist|用户至上主义者, 主张消费主义的人
+cloths|布, 衣料, 织物, 布块, 桌布, (某一职业的标识)服装, 帆
+cerebroside|[生化]脑苷脂
+contort|扭弯, 曲解
+chastises|严惩（某人）（尤指责打）( chastise的第三人称单数 )
+cleverly|聪明地, 全然, 完全, 巧妙地
+centaurs|（希腊神话中）半人半马怪物( centaur的复数形式 )
+coaler|运煤船, 运煤铁路, 煤商
+cinereal|[医] 灰质的
+cyaphenine|间三苯基三嗪
+cutlass|短剑, 弯刀
+cataphyll|初叶, 叶芽, 低出叶
+correa|[人名] 科雷亚
+calendry|轧光车间, 压光车间
+chessmen|棋子( chessman的名词复数 ); [体]国际象棋子
+chirrups|反复不断地发出唧唧叫声( chirrup的第三人称单数 )
+candide|憨第德（小说名）；老实人（小说名）；坎戴德（小说名）
+creophagous|食肉的
+calydonian|boar[希神]卡莱敦的野猪(被Artemis 派往古希腊城市卡莱敦蹂躏田野,后为Meleager所杀)
+chubb|丘伯保险锁（商标名称）
+coruscating|<正>闪光, 闪烁( coruscate的现在分词 )
+citrin|维生素P
+chimed|敲出和谐的乐声( chime的过去式 ); 报（时）; 插嘴; （以…）打断谈话
+cist|石棺, 墓窖, 圣器箱
+comediennes|喜剧女演员( comedienne的复数形式 )
+cookshack|灶棚
+cataloguing|为…编目录( catalogue的现在分词 ); 登记分类; 记载; 登记（某人、某事等的详情）
+caesarist|信奉君主专制主义的人
+cloaks|（尤指旧时的）披风( cloak的名词复数 ); 斗篷; 外衣; 战袍
+caniniform|[医] 犬牙样的
+cadaver|死尸, 尸体
+crablet|小蟹
+crownland|王室领地
+cleromancy|掷骰子占卜
+chondrules|(chondrule 的第三人称 -s形式) n.[地]陨石球粒
+consolations|(consolation 的复数) n. 安慰, 令人安慰的事物
+cephalomere|[动、解]头节
+crawfish|蛄, 小龙虾
+coccosphere|颗石球
+clio|主管史诗、历史的女神
+cerebra|pl. 大脑
+cremate|烧成灰, 火葬
+chaffweed|[网络] 金花草
+canalling|运河, 水道, 管, 沟渠
+churching|安产感恩礼拜
+coreopsis|金鸡菊
+comite|克螨特
+chemisette|紧胸衬衣
+clare|克莱尔（女子名）
+conceptually|概念地
+carone|蒈酮, 5-蒈酮
+crouse|克劳斯(姓氏)
+cassinoid|卡西尼卵形线
+crave|渴望, 热望, 恳求
+coproduct|副产物
+coatimundi|[动]长鼻浣熊
+circularness|circular的变形
+capeline|[医] 帽式绷带, 裹颅双头带
+caprid|羊科动物
+cushat|斑尾林鸽
+cabriolet|蓬式汽车
+cologned|cologne的变形
+carpogone|果胞(红藻)
+correlations|相互的关系( correlation的复数形式 )
+carlina|(Carlina)人名；(西)卡利娜
+casemented|casement的变形
+carpinus|鹅耳枥属
+cellulase|纤维素酶
+cairngorm|烟晶(宝石)
+cribral|[医] 筛的, 筛状的
+clinkstone|响岩
+comprises|包含( comprise的第三人称单数 ); 包括; 组成; 构成
+collyriums|洗眼剂, 坐药, 栓剂
+clusiaceae|藤黄科；金丝桃科
+cacholong|[矿]美蛋白石
+carcinogen|致癌物质
+centrists|（政治上的）中立派（centrist的复数形式）
+cephalic|头的
+checkmated|（国际象棋）将死( checkmate的过去式和过去分词 ); 输棋; 败局; 败北
+chrisma|[医] 软膏, 油膏
+crediting|相信, 信任（credit的现在分词形式）
+comfrey|聚合草
+currish|野狗似的, 脾气坏的, 没教养的
+colory|色彩丰富的, 色泽优良的
+caecostomy|盲肠穿孔手术
+compendiums|摘要, 纲要( compendium的名词复数 )
+crosscourt|& adj.[网][篮]斜线地(的),斜切地(的), 向着对方半场(的)
+convexly|中凸地, 凸圆地
+chivying|追逐( chivy的现在分词 )
+crunchers|(cruncher 的复数)  [计]数字计算器
+chemigraph|化学腐蚀凸板
+chanciness|不确定性, 危险性
+coffining|收殓（coffin的现在分词形式）
+cirri|触毛(cirrum的复数)
+conjurator|[法] 同谋者, 阴谋者
+codpiece|男裤前面的褶
+cubicles|小卧室, 斗室( cubicle的复数形式 )
+contraflow|[机] 反流
+chais|(chai 的复数) n. 印度奶茶, 印度茶；混合茶
+contemporize|vi. 同时发生
+consumed|充满的；对…著迷的
+cooker|炊事用具, 炉灶, 锅, 炊具, 烹饪用水果, 窜改者, 伪造者
+clupeine|[生化]鲱精蛋白
+cylindroma|[医] 圆柱瘤
+chimneylike|chimney的变形
+caruncles|(caruncle 的复数) n. 种阜, 肉冠, 肉阜
+cuniculus|地道, 排水沟
+crackpots|怪人, 狂人( crackpot的复数形式 )
+conspires|密谋( conspire的第三人称单数 ); 搞阴谋; （事件等）巧合; 共同导致
+confirmer|证实者; 保兑人
+camphene|莰烯
+chimer|奇莫（人名）；北地精灵（游戏人物）
+cicerone|导游
+capitally|极妙地, 极佳地
+caboose|(载货火车的)守车, 轮船上的厨房
+cheliceral|前肢的螯的
+chorographic|地图绘制术的, 地方地理学的
+constricting|压缩, 压紧, 使收缩( constrict的现在分词 )
+coversed|sine [数]余矢
+coldest|冷的
+crimpy|蜷缩的, 皱缩的
+creepers|匍匐[攀缘]植物( creeper的复数形式 ); 蛤蟆装; 爬山虎
+cerous|[化](正)铈的, 三价铈的
+czarism|专制政治, 沙皇统治
+cusping|形成水舌
+coloclysis|结肠灌洗, 灌肠
+confluences|<术>（河流的）汇合处( confluence的复数形式 ); 汇流处; <正>（事物的）汇合; 汇流
+cytoclasis|[生]细胞坏死
+consonantly|consonant的变形
+colophonic|[建] 松香的
+captaining|当首领（captain的现在分词形式）
+craftwork|工艺(品)
+cuspidation|饰以尖头, 饰以尖顶
+campground|露营场所；野营地
+camleted|羽纱；一种轻的布料
+comby|[地质]蜂巢状的
+cerargyrite|[矿]角银矿
+cherub|二级天使, 小天使, 天真美丽的儿童
+cased|包装；装入（case的过去式和过去分词形式）
+crocein|红色或橘红色染料
+castigate|惩罚, 苛评, 修订
+cousinage|堂兄弟姊妹；表兄弟姊妹 (cousin的变形)
+collieries|煤矿( colliery的名词复数 )
+callicarpa|[医] 紫珠属
+chicaned|施诡计( chicane的过去式和过去分词 ); 诈骗
+contaminator|污染物, 沾染物
+catechetic|问答式教法的
+cavernoma|海绵状(血管)瘤
+corroborees|(corroboree 的复数) n. 舞蹈晚会, 狂欢会, 喧闹, 骚动
+criterium|环行公路赛
+casas|(casa 的复数) abbr. 天文学高级研究中心（Centre for Advanced Study of Astronomy）；计算机与自动化系统（Computer and Automated System Association）；合作应用卫星A（Cooperative Application Satellite A）
+cinque|五, 五点
+cancerigenic|[医] 致癌的
+circularly|圆地, 圆形地, 循环地
+contractile|会缩的, 有收缩性的
+coccidology|[昆]介壳虫学
+curtesy|[律]鳏夫产业(夫继承亡妻财产的权利)
+commix|混合
+cessionary|受让人
+circuiting|[建] 圆的, 循环的
+curacoa|柑桂酒, 柑香酒
+charivari|喧闹的音乐, 喧闹声
+convallaria|铃兰草
+caruncula|[医] 小阜, 肉阜
+christens|在洗礼时为（某人）命名( christen的第三人称单数 )
+clumber|克伦伯长毛垂耳狗
+chiaroscuros|（绘画中）明暗对照法( chiaroscuro的名词复数 ); （文学中）对比法，对照法
+caesious|青灰色的
+capercaillie|[动]北欧产雷鸟之一种
+chimb|凸边, 桶板
+calathos|(古希腊、古埃及的)花瓶式果篮
+conflagrate|燃烧,着火
+carinthian|, n. Carinthia的变形
+cardiometry|[医] 心力测量法
+clitic|附着词素
+comique|滑稽角色, 丑角
+cravens|(craven 的复数) n. 懦夫, 怯懦者, 胆小鬼
+coquetries|卖弄风情, 卖俏, 媚态( coquetry的名词复数 )
+chevet|(教堂的)多角室
+chancroidal|[医] 软下疳的
+cacajao|[医]额猴属
+cryosurgeon|低温(或冷冻)外科医生
+covenant|契约, 盟约
+carabinier|卡宾枪手
+curvirostral|[鸟]具曲喙的
+cinnamenyl|[化] 苯乙烯基
+cardiolysis|[医] 心松解术, 心崩解
+conjectured|推测, 猜测, 猜想( conjecture的过去式和过去分词 )
+cimbia|[医] 大脑脚横束
+crinum|[植]文珠兰属
+calixtus|[人名] 卡利克斯特斯
+chervil|雪维菜
+calmed|（使）平静, （使）镇定( calm的过去式和过去分词 ); 使安静; 使冷静; 使镇定
+copyhold|誊本保有权, 登录不动产保有权
+cousins|卡曾斯（姓）
+cunnilingus|(以舌或唇刺激女性生殖器的行为)舔阴(亦作cunnilinctus)
+coagulum|凝结物, 凝固物
+clambering|（吃力地）攀登, 攀爬( clamber的现在分词 )
+catarrhine|狭鼻类动物
+cowbirds|(cowbird 的复数) n. 牛鹂
+candescent|白炽的
+cowlick|翘着不易压平的一绺头发
+cultish|狂热的
+cryoscopy|冰点测定学
+cartwright|车匠
+cacotype|[刷]拙劣的翻印或复制
+capillament|[医]花丝
+cyclophorus|圆螺属
+chorion|绒毛膜, 浆膜, 卵壳
+cyclostyle|滚齿轮刻写模版复印机
+cultic|cult的变形
+criollos|(criollo 的复数) n. 生长于拉丁美洲各国的人, 拉丁美洲繁殖的家畜
+creaked|（门）嘎吱作响( creak的过去式和过去分词 )
+calcipexy|[医] 钙固定
+commandeer|征用, 霸占
+cascalho|(巴西一带含钻石或金的)砂石沉积物
+coelentera|coelenteron 的复数
+crista|[解][动]羽冠, 脊
+cairned|cairn的变形
+creakiness|creaky的变形
+checkrower|方形穴播装置
+childbirth|分娩
+crapper|<鄙>厕所
+chorale|赞美诗
+cree|克里语；北美印第安人的克里族
+conserves|（含有大块或整块水果的）果酱, 蜜饯( conserve的名词复数 )
+casualism|偶然说, 机缘说
+contradicter|contradict的变形
+coazervation|[化] 聚析
+collutory|漱口剂
+comanche|科曼契人
+crumbed|捏碎, 弄碎（crumb的过去式与过去分词形式）
+cloop|扑哧声
+cerebrometer|[医] 脑博动描记器, 脑博动计
+campaigner|从军者, 老兵, 竞选者
+criant|<法>adj.俗艳夺目的
+comr|Commissioner 委员, 专员
+courser|猎狗, 战马
+cherisher|cherish的变形
+cleuch|沟谷
+coconscious|共存意识的
+congeal|(使)冻结, (使)凝结
+cpl|中央公共图书馆（Central Public Library）；化学物理实验室（Chemistry and Physics Laboratory）；普通程序语言（Common Programming Language）；计算机程序库（Computer Program Library）；全称电子职业联赛（Cyberathelete Professional League）
+contrariety|对立, 矛盾, 相反物
+chemosorb|用化学方法吸收
+croplands|(cropland 的复数) [经] 农地
+catenarian|链状的
+celebrations|庆祝( celebration的复数形式 ); 庆祝会（仪式）
+cytopyge|胞肛; 细胞肛
+classmen|优等升级生；…年级学生
+chinatown|唐人街, 中国城
+cochlearia|[医] 辣根属(十字花科)
+coadjustment|相互调节
+cornopean|短号
+composts|混合肥料, 堆肥( compost的名词复数 )
+cacodaemon|恶鬼, 恶人
+comal|烤盘
+conjunctiva|结膜
+crevasse|裂缝, (堤、坝等的)决口, 崩溃处
+contingence|接触
+carson|卡尔森（姓氏, 男子名）
+collaterals|(collateral 的复数) a. 并行的, 附随的, 旁系的
+cowpox|牛痘
+chapeless|chape的变形
+cashboy|传递现款的小孩
+clamatorial|(鸟)京燕的,叫禽类的
+councilmen|议员；委员
+cratering|缩孔(露底), 陷穴(漆病), 磨顶槽
+cormel|[植]新生小球茎
+concealable|可隐藏的
+coiffeuses|(coiffeuse 的复数) n.<法>(为女子做头发的)女理发师
+contractant|签契约的一方,订约人
+cunoniaceae|火把树科；南蔷薇科
+colytic|[医] 抑制的
+chanteuse|音乐会/夜总会的女歌手
+ceramal|合金陶瓷
+coursing|追赶；奔驰；携带猎犬狩猎
+condonement|不咎，默许
+curlyhead|有鬈发的人; [植物]淡黄花铁线莲(clematis ochroleuca )
+corydon|(田园诗中的)牧童, ,农夫,青年
+cambric|麻纱, 细薄布
+ciliates|(ciliate 的复数) a. 有睫的, 有纤毛的
+calliandra|[网络] 朱缨花属；红绒球；粉扑花属
+complicacy|复杂性
+caro|[医] 肌, 肉
+coinsurer|[法]共同约护人
+conveyor|搬运者, 传达者, 转让财产者, 输送机, 输送设备
+chinquapin|矮栗, 锥栗
+coequally|平等地
+caprimulgus|[网络] 夜鹰属；属名；援普通夜鹰
+chairlift|（运送滑雪者或游客上, 下上的）升降机
+coffering|格子平顶
+corinthian|科林斯人, 花花公子, 业余运动家
+closings|结束（的）( closing的复数形式 ); 结束（的）, 结语, 论文末尾的结语; （使）关, 关闭( close的现在分词 ); 终止
+currentness|趋势; （水、气、电）流
+corrie|山侧的圆形凹地
+cecile|塞西尔（女子名）
+crimper|卷发器, 卷边机, 摺缝机
+comebacker|【棒球】(直线击向投手的)地滚球, 回头球
+ceder|转让人
+corah|[人名] 科拉
+cataphracted|古希腊的重装备战船的, 穿甲胄的古罗马军人的
+cytophaga|[医] 噬细胞菌属
+commentaries|实况报道( commentary的名词复数 ); 评论; 评注; 批评
+colas|[建] 沥青乳浊液, 沥青乳胶体
+cerviciplex|[医] 颈丛
+coiffeur|男理发师
+cherty|燧石质, 石英质
+candiot|克里特岛之居民
+curtained|挂帘子的
+concentered|集合
+casuistic|决疑的, 诡辩的
+ceanothus|美洲茶
+capa|斗牛士的红色斗篷
+cardiologic|cardiology的变形
+coverages|覆盖, 覆盖范围
+crenelet|小枪眼
+cardplayer|玩牌的人
+cornemuse|风笛
+colombian|哥伦比亚人
+chariotee|四轮双座小马车
+colloquiums|(学术)讨论会, (学术讨论会上的)报告
+chloridize|用氯化物处理, 氯化
+caudated|有尾的, 有尾状附属物的
+clares|[人名] 克拉雷斯
+cosmogenetic|宇宙发生说的, 宇宙发生论的
+carretera|[地名] 公路（西班牙语）
+cursors|光标( cursor的复数形式 )
+candlepins|保龄球棒；木瓶（用于保龄球游戏中）
+cystous|囊的
+compactedly|compact的变形
+corruptions|(corruption 的复数) n. 腐败, 堕落, 贪污
+chapelet|斗式提升机, 链斗传送器, (铸造)撑子
+coastwise|沿着海岸, 沿岸
+clinopodium|[网络] 风轮菜属；塔花属；风轮草属
+citrullin|[生化]瓜氨酸
+collogues|密谈；畅谈；密谋
+crunchier|发嘎吱嘎吱声的, 易碎的( crunchy的比较级 )
+cufflink|（衬衣的）袖扣
+colorimeter|色度计, 比色计
+cecostomy|[医] 盲肠造口术
+cyclide|四次圆纹曲面
+cebil|萨贝尔树
+caird|流动铜匠, 游民
+conferrer|授与人
+carless|没有汽车的,无车的,没有被提供汽车
+clove|丁香
+cen|欧洲标准化委员会（The European Committee for Standardization）
+chagga|查加人（东非）
+cardiodynia|[医]心痛, 胸痛
+cleidohyoid|[医] 锁骨舌骨的
+cannons|加农炮, 大炮, 火炮( cannon的名词复数 )
+culp|California Union List of Periodicals 加利福尼亚期刊联盟; computer usage list processor 计算机应用表处理机
+countlessly|countless的变形
+cataclysms|（突然降临的）大灾难( cataclysm的复数形式 )
+carragheen|(=cargeen)[植]角叉菜
+composting|堆制肥料
+capacitive|[电] 电容的
+cableways|(cableway 的复数) n. 索道
+colossians|歌罗西书(圣经新约之一书)
+craal|关着栏栅的部落, 牛栏
+cubbing|幼狐之猎取
+cranks|思想奇怪的人( crank的名词复数 ); 脾气坏的人; 容易恼怒的人; (L 字形)曲柄
+crosspoint|[计] 交叉点, 相交点
+coronad|[医] 向冠; 向头顶
+constructor|建造者, 造船技师
+chocolatier|巧克力生产（或销售）商
+coats|外套（coat的复数）
+centralist|中央集权主义者
+condurrite|砷铜矿
+cliented|诉讼委托人, 委托律师诉讼的人；委托人一方；主顾, 顾客
+clerking|记账工作
+chloroplast|叶绿体
+crossfoot|横尺, 横计
+concertedly|协调地, 一致地
+copestone|(墙)压顶石, 最高潮
+cointreau|(原产于法国的)(一杯)橘味白酒
+ctr|中心（centre）；计数器（counter）
+chippy|枯燥无味的, 身体不舒服的, 易怒的
+corrugating|[机] 压波形
+crusaders|十字军；十字军战士（crusader的复数）
+crudities|粗糙；简陋；未成熟物
+communis|[医] 普通的
+castigated|严厉责骂、批评或惩罚（某人）( castigate的过去式 )
+clavers|闲话；闲谈
+codein|[药]可待因(自鸦片中提取的碱质),用以镇痛,镇咳,催眠等
+confessable|confess的变形
+chasten|惩罚；磨炼；抑制
+coccidioides|[医] 球孢子菌属
+ceils|装天花板, 装船内格子板( ceil的第三人称单数 )
+citrons|(citron 的复数) n. 香橼, 香橼果皮, 香橼色
+connectional|连接的, 接通的
+carks|使…烦恼；使…忧虑
+contemptible|卑鄙的, 可轻蔑的, 不足挂齿的
+covenanter|契约者, 盟约者
+carpospore|果孢子
+chlorococcum|绿球藻属
+convoluting|回旋, 卷绕, 盘旋( convolute的现在分词 )
+casette|卡式
+cycasin|[生化]苏铁素,苏铁苷
+coferment|辅酶
+chamaedaphne|[网络] 地桂属；矮踯躅属；河塑荛花
+capsizing|（船）翻覆, 公司裁员瘦身到无法正常运作的情况
+corrugant|[医]收敛的
+carryall|一种四轮马车, 军用大轿车, 一种载客汽车, 大提包/箱, 轮式铲运机
+chirpiest|嚓嚓叫的, 快活的, 活泼的( chirpy的最高级 )
+catasetum|[网络] 须蕊柱；龙须兰属；唇兰属
+copepods|桡足类
+consommes|清炖肉汤；肉煮的清汤
+crotalid|响尾蛇
+caudle|病人吃的混合鸡蛋、酒、香料的热饮料/麦糊
+coelialgia|(=celialgia)腹痛
+clomp|重踏着走
+canfuls|(canful 的复数) n. 满罐
+chariness|谨慎, 节俭, 吝啬, 存戒心, 怕陌生
+cheirospasm|[医] 手痉挛
+clastic|碎片的
+chaya|[医] 驱虫苋(苋科)
+chatoyancy|(宝石、织物等的)闪猫光,变彩
+chairwarmer|闲荡汉, 懒汉
+calix|杯, 杯状结构
+clerestory|天窗, 高侧窗, 长廊, 楼座, 火车车厢顶的通风部分
+chippies|(chippy 的复数) a. 枯燥无味的, 身体不舒服的, 易怒的
+captainship|首领(或队长)之职, 统率者资格
+cardioblast|[动]成心肌细胞
+crafter|工匠；气泡孔；焊弧坑；手工者；针眼纸病
+canted|有角的, 倾斜的
+chrismatite|黄蜡石
+crucifixes|耶稣钉在十字架上的苦像( crucifix的名词复数 )
+computerite|电脑技术人员, 电脑迷
+ceil|装天花板, 装船内衬板
+cornflower|矢车菊
+crags|悬崖, 峭壁( crag的复数形式 )
+cleanser|使清洁的东西, 清洁剂, 清洁工
+capilotade|炖碎肉
+chrysography|金int.色墨水书法, 用金色墨水书写之文字
+coronate|给...加冕
+chorded|（数学）弦( chord的过去式和过去分词 ); （乐器）弦; （音乐）和弦; <喻>心弦
+coadjutant|协助者, 助手
+chiro|chirography 书法; 笔法; chiropractic 脊椎指压治疗法; chiropractor 脊椎指压治疗者
+chufa|[建] 铁荸荠
+cyclostomate|有圆口的, 圆口动物的
+confiscator|没收者, 充公者
+culm|(空心)秆, 茎, 灰煤
+calorigenic|产生热量的
+conductors|<电>导体( conductor的复数形式 ); 售票员; （乐队）指挥; 导管（套管的一种）
+chelating|[机] 螫合剂
+checkline|靠岸缆索
+crookery|不正当行为
+chaetodon|[医]蝴蝶鱼
+celebes|西里伯斯岛（印尼苏拉威西岛之旧称）
+cholerrhagia|[医] 胆汁流出
+chickweed|繁缕
+cranium|颅, 头盖骨
+compositive|合成的, 综合的
+cytoplastic|胞体质的, 细胞质的
+chimneys|烟囱( chimney的名词复数 ); 烟筒; （岩石间可供攀登的）狭孔; 狭缝
+circumflect|使弯成圆形, 加高低音符
+chancellory|大臣
+corns|鸡眼；玉米（corn的复数）
+citrange|[植]枳橙(由枳与甜橙杂交而成)
+cupulate|杯形的, 有壳斗的
+currants|无核小葡萄干( currant的复数形式 ); 茶藨子属植物（的果实）
+condyloid|[解]髁状的
+christiania|挪威首都奥斯陆的旧称
+convalesced|康复( convalesce的过去式 )
+craniosacral|颅骶骨的
+coinciding|两件或更多的事情同时发生( coincide的现在分词 ); 想法、意见等相同; 相符; 极为类似
+crammers|(crammer 的第三人称 -s形式) n. 搞填鸭式教学的教师, 谎言
+champ|大声地嚼, 格格地咬
+cygnus|天鹅属
+coalbin|煤仓
+chondrophyte|软骨赘, 软骨刺
+catamites|(catamite 的复数) n. 娈童
+caff|茶馆, 小餐馆
+connochaetes|角马属
+clubfoot|畸形足
+cardol|[医] 卡多耳(5-十五碳二烯间苯二酚)
+computerizes|用计算机做, 使计算机化( computerize的名词复数 ); 将（资料）存入计算机
+cottoned|喜欢（cotton的过去式与过去分词形式）
+crossbearer|十字杖捧持者
+carissa|[人名] 卡丽莎
+countermined|用候敌地道防卫( countermine的过去式和过去分词 ); 将计就计; 以计破计; 对抗
+craziest|疯狂的（crazy的最高级）
+crapulence|暴饮, 无节制
+chauffeurs|受雇于人的汽车司机( chauffeur的名词复数 )
+calefacient|增温的, 使暖的
+capsomere|[机] 衣壳蛋白亚单位
+campiest|装模作样的,不自然的 (最高级)
+cappadocian|, n. Cappadocia的变形
+crispature|皱纹
+cacomixle|蓬尾浣熊
+childhoods|童年, 儿童时代( childhood的复数形式 )
+cruels|残酷的；残忍的；残暴的；故意使别人遭受痛苦的；以他人的痛苦为乐的；令人痛苦的
+chimonanthus|蜡梅属
+canebrake|藤丛, 甘蔗丛
+cupids|[医]Chiba University Patient Investigation Data System 千叶大学病人观察数据系统[日]
+chabasite|[化] 菱沸石
+concertise|[主英国英语]＝concertize
+censorate|检查机关
+chancres|(chancre 的复数) n. 下疳, 初疮
+crampon|起重吊钩, 金属钩, 带钉铁的鞋底
+cognominal|同名的, 同姓的
+churrus|[医] 大麻树脂
+censuses|人口普查, 统计( census的复数形式 )
+calumnies|诬蔑, 诽谤, 中伤（的话）( calumny的名词复数 )
+cabinda|卡宾达(①安哥拉西北部的省 ②该省的省会)
+conation|意动, 意图
+cts|[计] 清除发送, 同步通信终端, 用户事务处理系统, 对话式终端服务
+colliquate|熔［融］化, 溶［熔］解
+chaperons|（在社交场所陪伴未婚少女的）女监护人( chaperon的名词复数 )
+clerklike|clerk的变形
+cocainise|[主英国英语]＝cocainize
+cirsotome|[医] 曲张静脉刀
+claspers|(clasper 的复数) n. 扣子, 抱茎卷须, 鳍脚
+cabstands|(cabstand 的复数) n. 出租车停车场
+carpocarpal|[医] 腕腕的
+cycadeoid|(已绝灭的) 拟苏铁目( 或本内铁树目) 植物
+concertizing|表演, 演出( concertize的现在分词 )
+chapes|(chape 的第三人称 -s形式) n. 剑鞘顶部的金属包头, (英)皮带上的活动圈
+castrato|被阉的男歌手
+calibrating|校准( calibrate的现在分词 ); 使标准化; 使合标准; 测量（枪的）口径
+causticize|[化]苛化作用, 腐蚀, 致腐蚀
+cline|渐变群, 生态群
+cryosphere|低温层
+certificated|有授权证书的
+clou|中心思想, 最引人处
+cryptomeria|柳杉
+chrismal|圣油的
+comburimeter|燃烧计
+contraption|奇妙的装置, 稀奇古怪的玩意儿, 新发明的玩意儿, 外形奇怪的机器/装置
+clothesline|晒衣绳
+combinable|能结合的
+chuttie|<澳口>胶姆糖,口香糖,橡皮糖
+calami|省藤属植物, 菖蒲, 羽根( calamus的名词复数 )
+connately|原生地
+ceramicite|陶土岩
+cagayan|卡格扬河
+competently|胜任地；适合地
+cruised|乘船巡游( cruise的过去式和过去分词 ); 以快而平稳的速度长距离行驶; 巡航; 轻而易举赢得（或获得）
+clippings|剪下的碎边；剪报（clipping的复数形式）
+contrariwise|反之亦然, 顽固地
+caging|制动；闭锁；罩盖；吸持
+cockeyed|斗鸡眼的, 歪的, 荒唐的
+ciborium|祭坛上的天盖, 有盖圣杯
+cozening|(cozen 的现在分词) vt. 欺骗, 瞒
+chummily|友好地
+clerical|牧师
+corcass|河岸沼泽地
+cataleptic|全身僵硬症的
+cutbank|[地质]陡岸
+condom|避孕套
+caddish|下流的, 卑鄙的
+conferential|商量的
+congius|康吉斯(古罗马帝国的液量单位), [药]一加仑
+craniology|颅骨学
+colossuses|巨像；巨人；巨大的东西
+cantatrice|职业女歌手
+copen|哥本哈根蓝色
+collarband|领子
+capillose|针镍矿
+chiliastic|chiliasm的变形
+coelome|体腔
+cara|卡拉（女性人名）
+cuscuta|菟丝子属
+chased|追捕（chase的过去式与过去分词形式）
+cagmag|粗制滥造的, 半途而废的
+coonskin|浣熊毛皮
+commeasure|可与...相比
+confliction|冲突
+chippendale|(18世纪的)齐本德尔式家具
+calcanean|[医] 跟骨的
+crenelating|在…上开枪眼；使成雉堞状（等于crenellate）
+clavis|[医] 牙钥(拔牙器)
+carbolize|以石炭酸处理
+chorine|歌剧合唱队女歌唱/舞蹈员
+coxy|骄傲的
+condemnable|该受责备的, 可非难的, 该罚的
+commingled|<文>混合, 掺和, 合并( commingle的过去式和过去分词 )
+cabalism|犹太教神秘哲学
+cass|货物财务结算系统（Cargo Account Settlement System）；指令主动声纳浮标系统（Commanded Active Sonobuoy System）
+cowcatcher|排障器, 广告
+carrara|卡拉拉（意大利地名）
+cavorts|跳跃( cavort的第三人称单数 )
+counsellors|（为社会、心理等问题提供咨询的）顾问, 辅导员( counsellor的复数形式 )
+calcitonin|[化] 降钙素
+clamours|喧哗声, 喧闹( clamour的名词复数 ); 大声的要求或抗议
+cabalists|(cabalist 的复数) n. 犹太教神秘哲学家, 秘法家
+cubature|求容积法
+chondrocele|[医] 软骨状睾丸肉肿
+colts|小雄马( colt的复数形式 )
+cynodon|狗牙根
+colline|[地名] 丘陵（法语）
+coercionary|强制的, 强压的, 强迫的
+classicize|使成为古典, 模仿古典
+consulage|签证手续费, 领事签证费
+coronale|[医] 额骨; 冠状缝(额径端)点
+corkiness|软木似的；喜不自禁
+cots|检测设备Checkout Test Set；集装箱卸货与传输系统；Container off-loading and Transfer System；商用货架产品Commercial off-the-shelf
+castling|王车易位
+conferree|参加会议者,被授予荣誉(或学位,称号)的人
+conferees|参加会议者
+cockatrice|(传说中)看一眼就可以致它物于死命的毒蛇
+cozener|cozen的变形
+caruncle|种阜, 肉冠, 肉阜
+cnemidium|裸羽脚
+coulee|深谷, 小溪, 熔岩流
+cystoid|囊样的, 似膀胱的
+cruzeiros|(cruzeiro 的复数) n. 克鲁塞罗(巴西货币单位)
+conscripted|征召（某人入伍）( conscript的过去式和过去分词 )
+capitulates|投降( capitulate的名词复数 )
+cyclosporeae|【植物学】圆孢藻群
+chocking|堵塞的
+coumarone|香豆酮, 苯并呋喃, 氧茚
+callainite|[化] 绿磷铝石
+cumins|卡明斯
+chronaxie|[生]时值
+culminant|顶上的, 绝顶的, 达到顶上的, 子午线上的, 中天的
+colourman|颜料商, 染色师
+caulicolous|[植]附生在他种植物茎部的
+caliduct|暖气管
+chondromata|软骨瘤 (chondroma的变形)
+cilium|cilia的单数
+carzey|<英俚>厕所
+certifies|（尤指书面）证明( certify的第三人称单数 ); 发证书给…; 证明（某人）患有精神病; 颁发（或授予）专业合格证书
+canuck|法裔的加拿大人
+cleats|夹板( cleat的名词复数 )
+cardigan|卡迪根式开襟羊毛衫
+clasper|扣子, 抱茎卷须, 鳍脚
+causa|[法] 理由, 原因, 条件
+caulkers|(caulker 的复数) n. 捻船缝工人
+cravenness|懦弱, 胆小
+cassady|[人名] 卡萨迪
+cellucotton|纤维棉
+cuadrilla|一群, 一组, 一帮; (斗牛场上斗牛士的)一伙帮手; 一群随从
+czechish|捷克的, 捷克语的, 捷克人的
+cacodoxy|(指宗教上的)错误观念
+cotylosacral|[医] 髋臼骶骨的
+chubbily|敦实地,胖乎乎地
+coelacanth|腔棘鱼类的鱼
+cavalier|骑士, 骑手
+commodatum|[法] 寄托
+cly|County of London Yeomanry 伦敦自耕农郡
+canto|长诗的篇章, 曲调
+clapstick|<美>=clapperboard
+calfdozer|小型推土机
+condensative|易凝缩的, 可凝结的
+chal|chaleur (French=heat, warmth) （法语）热; challenge 挑战; chaldron 煤的重量单位（约等于36英国蒲式耳）; chalumeatu (ancient clarinet) （古代竖笛）
+calcinatory|[医] 煅烧器
+connascent|[医]同时生的
+clochard|流浪汉
+cornette|[医]小助听筒; 短号
+craniate|有头骨的
+camenae|[复] n.[罗神]克米尼(居于山林溪泉间的诸预言女仙,即以后希腊神话中的缪斯九女神)
+crappier|<俚>蹩脚的没价值的讨厌的( crappy的比较级 )
+candelabras|枝状大烛台（candelabrum的复数）
+craniata|[医] 有头类, 脊椎动物门
+cgs|centimeter-gram-second 厘米-克-秒制, cgs 制
+crenulated|细圆齿状的, 小圆齿状的
+changepocket|大口袋中装硬币之小口袋
+clithral|有屋顶的
+chitty|[经] 单据, 证件, 证明书
+coprolith|[医] 粪石
+chasuble|十字褡(神父用长袍)
+canonical|依教规的, 被认为圣典的, 权威的, 典型的
+conchiferous|有贝壳的, 生贝壳的
+coses|(cose 的复数) vi. 使自己舒服
+cammed|(cam 的过去分词) n. 凸轮, 计算机辅助制造, 中央地址存储器
+conciliative|安慰的, 融和的
+corsairs|(corsair 的复数) n. 海盗, 海盗船, 回教徒的私掠船
+copesettic|[网络] 反思
+carburettor|汽化器
+coda|尾音, 乐章结尾部, 结尾段
+cytotrophy|[生]细胞互向性,向细胞性,亲细胞性
+cephalomotor|[医] 头运动的
+commentating|注释, 评述( commentate的现在分词 )
+chemokinetic|[医] 化学促活的, 化学促进的
+chicha|吉开酒
+cyathozooid|不完全个员
+concision|切断, 简明, 简洁
+cosier|温暖舒适的( cosy的比较级 ); 亲切友好的
+corteges|行列, 随从( cortege的复数形式 )
+checkup|审查, 鉴定, 健康检查
+cymbals|圆盘式张力装置
+changeovers|（生产方法、装备等的）完全改变, （方针的）转变( changeover的复数形式 )
+crofters|[英国英语](小农场)佃农, 小农场主
+contextually|根据上下文
+cretic|长-短-长的韵脚
+cytogenous|细胞发生的, 细胞生成的
+conchfish|[医]星天竺鲷
+copula|系词, 介体, 接合部
+costocentral|[医] 肋骨(与)椎体的
+coccygeal|尾骨的
+clitoria|蝶豆属（植物学术语）
+copulatory|交配的
+caciques|(cacique 的复数) n. 酋长, 领袖
+chromomere|[生物]染色粒, 染色体小粒
+coccidian|球虫; 球虫的
+countrywomen|农妇, 村姑( countrywoman的名词复数 )
+cucullaris|斜方肌
+cydonia|干尼亚（希腊克里特岛的首府Canea之古名）
+carnality|肉欲, 好色
+culicid|蚊科的
+calorimeters|(calorimeter 的复数) n. 热量计
+corse|[古语、诗歌用语]尸体（等于Corsia）
+cubically|立方体地
+charing|[建] 炭化
+canine|犬齿, 犬
+celiectasia|[医] 腹腔膨大
+curdle|使凝结, 使凝固, 使变质
+cosponsored|共同赞助者；共同主办人
+conduce|有助于, 有益于, 有贡献于, 导致
+cantoris|由北侧唱诗班所唱的
+celandines|(celandine 的复数) n. 白屈菜
+cacogastric|[医] 消化不良的
+cranebill|[植]陇牛儿苗科(=geranium)
+cathouse|妓院, 猫屋
+canvased|用帆布覆盖（canvas的过去式与过去分词形式）

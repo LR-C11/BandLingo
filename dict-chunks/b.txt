@@ -1,0 +1,3896 @@
+book|书
+bird|鸟
+bad|坏的
+big|大的
+bread|面包
+blue|蓝色
+black|黑色
+button|按钮
+bed|床
+bathroom|浴室
+beach|海滩
+bus|公交车
+bicycle|自行车
+buy|购买
+biology|生物学
+beautiful|美丽的
+boring|无聊的
+begin|开始
+birth|出生
+brave|勇敢的
+bacteria|细菌
+biodiversity|生物多样性
+botany|植物学
+breakfast|早餐
+bedroom|卧室
+battery|电池
+broom|扫帚
+brain|大脑
+bone|骨头
+blood|血液
+bridge|桥
+brand|品牌
+balance|平衡
+ban|禁止
+beat|打败
+become|变成
+believe|相信
+belong|属于
+blame|责备
+borrow|借
+bother|打扰
+break|打破
+bring|带来
+build|建造
+burn|燃烧
+basic|基本的
+beneficial|有益的
+best|最好的
+better|更好的
+bitter|苦的
+blind|盲的
+bored|无聊的
+born|出生的
+both|两者的
+bright|明亮的
+broad|宽阔的
+brown|棕色的
+busy|忙碌的
+baker|面包师
+barber|理发师
+butcher|屠夫
+bacon|培根
+bagel|百吉饼
+banana|香蕉
+barbecue|烧烤
+biscuit|饼干
+butter|黄油
+bear|熊
+bee|蜜蜂
+butterfly|蝴蝶
+bank|银行
+boat|小船
+bag|包
+blanket|毯子
+bottle|瓶子
+box|盒子
+belt|腰带
+boots|靴子
+back|背部
+brother|兄弟
+beauty|美丽
+belief|信念
+bravery|勇敢
+bang|猛敲
+bare|暴露
+bargain|讨价还价
+bark|吠叫
+base|基于
+bathe|洗澡
+battle|战斗
+be|是
+beam|发光
+behave|表现
+bend|弯曲
+benefit|受益
+bet|打赌
+bid|出价
+bind|捆绑
+bite|咬
+blast|爆炸
+bleed|流血
+blend|混合
+bless|祝福
+blink|眨眼
+block|阻塞
+blow|吹
+blur|模糊
+boast|吹嘘
+boil|煮沸
+bomb|轰炸
+bounce|弹跳
+bound|跳跃
+bow|鞠躬
+brake|刹车
+branch|分支
+breath|呼吸
+breed|繁殖
+brew|酿造
+bribe|贿赂
+brief|简报
+brighten|使明亮
+broadcast|广播
+broaden|拓宽
+burst|爆发
+bury|埋葬
+badge|徽章
+badminton|羽毛球
+baggage|行李
+bakery|面包店
+balcony|阳台
+bald|秃头的
+ballet|芭蕾舞
+balloon|气球
+ballot|选票
+bamboo|竹子
+bandage|绷带
+banquet|宴会
+barely|几乎不
+barrel|桶
+barrier|障碍
+basis|基础
+bay|海湾
+bean|豆子
+beard|胡须
+beast|野兽
+beggar|乞丐
+behalf|代表
+belly|腹部
+besides|此外
+betray|背叛
+between|在...之间
+beyond|超出
+billion|十亿
+bishop|主教
+blade|刀片
+blank|空白的
+bleak|荒凉的
+bloom|开花
+blouse|女衬衫
+blueprint|蓝图
+blunt|钝的
+blush|脸红
+bold|大胆的
+bolt|螺栓
+bond|纽带
+bonus|奖金
+bookcase|书柜
+booth|货摊
+border|边界
+bosom|胸部
+botanical|植物学的
+boundary|边界
+bowel|肠道
+bowl|碗
+bowling|保龄球
+brace|支架
+breadth|宽度
+breast|胸部
+breeze|微风
+brick|砖
+bride|新娘
+brilliant|杰出的
+brim|边缘
+brisk|轻快的
+brittle|易碎的
+broken|破碎的
+bronze|青铜
+brood|一窝
+brook|小溪
+brow|眉毛
+brush|刷子
+bubble|气泡
+bucket|桶
+budget|预算
+bulb|灯泡
+bulk|大部分
+bullet|子弹
+bunch|一束
+bundle|捆
+burden|负担
+bureau|局
+bush|灌木
+business|生意
+buzz|嗡嗡声
+bandlingo|于2025年12月22号完成开发的手表词典快应用
+beryllium|元素周期表的第4个，铍，缩写Be
+boron|元素周期表的第5个，硼，缩写B
+bromine|元素周期表的第35个，溴，缩写Br
+barium|元素周期表的第56个，鋇，缩写Ba
+bismuth|元素周期表的第83个，鉍，缩写Bi
+berkelium|元素周期表的第97个，錇，缩写Bk
+bohrium|元素周期表的第107个，𨨏，缩写Bh
+beautify|美化
+beautifully|美丽地
+believable|可信的
+believably|可信地
+breakage|破损
+brokenly|破碎地
+businesslike|务实的
+busying|使忙碌
+biodiversities|生物多样性
+biodiverse|生物多样的
+biodiversely|生物多样地
+bacterium|细菌
+bacterial|细菌的
+bacterially|细菌地
+biome|生物群系
+biomes|生物群系
+biomic|生物群系的
+biomically|生物群系地
+bioluminescent|生物发光的
+bioluminescence|生物发光
+bioluminescently|生物发光地
+biodegradable|可生物降解的
+biodegradability|可生物降解性
+biodegradably|可生物降解地
+bioremediation|生物修复
+bioremediations|生物修复
+bioremediational|生物修复的
+bioremediationally|生物修复地
+britain|英国
+britains|英国
+british|英国的
+britishly|英国地
+brazil|巴西
+brazils|巴西
+brazilian|巴西的
+brazilianly|巴西地
+bangladesh|孟加拉国
+bangladeshes|孟加拉国
+bangladeshi|孟加拉国的
+bangladeshily|孟加拉国地
+bhutan|不丹
+bhutans|不丹
+bhutanese|不丹的
+bhutesely|不丹地
+belgium|比利时
+belgiums|比利时
+belgian|比利时的
+belgianly|比利时地
+bora|波拉
+boras|波拉
+boran|波拉的
+boranly|波拉地
+beijing|北京
+beijings|北京
+beijingly|北京地
+bangkok|曼谷
+bangkoks|曼谷
+bangkokly|曼谷地
+baghdad|巴格达
+baghdads|巴格达
+baghdadly|巴格达地
+beirut|贝鲁特
+beiruts|贝鲁特
+beirutly|贝鲁特地
+berlin|柏林
+berlins|柏林
+berlinly|柏林地
+brussels|布鲁塞尔
+brusselsly|布鲁塞尔地
+bern|伯尔尼
+berns|伯尔尼
+bernese|伯尔尼的
+bernesely|伯尔尼地
+boston|波士顿
+bostons|波士顿
+bostonly|波士顿地
+bankruptcy|破产
+breach|违约
+behavior|行为
+biography|传记
+ball|球
+bat|球棒
+basket|篮筐
+basketball|篮球
+baseball|棒球
+boxing|拳击
+billiards|台球
+board|棋盘
+being|存在
+benevolence|仁慈
+body|身体
+beginner|初学者
+bluetooth|蓝牙
+backup|备份
+browser|浏览器
+bye|拜拜
+background|背景
+bruise|瘀伤
+bleeding|出血
+bland|淡而无味的
+baked|烘烤的
+boiled|煮的
+braised|焖的
+boulevard|林荫大道
+briefcase|公文包
+babble|喋喋不休
+bachelor|单身汉
+backbone|脊梁
+backdrop|背景
+backfire|适得其反
+backlash|强烈反对
+backlog|积压
+backpack|背包
+backslash|反斜杠
+backspace|退格
+backtrack|原路返回
+baffle|使困惑
+bail|保释
+bait|诱饵
+bake|烘烤
+bale|大包
+balk|畏缩不前
+ballad|民谣
+ballpoint|圆珠笔
+ballyhoo|大肆宣传
+balm|香膏
+balmy|温和的
+banality|平庸
+bandit|强盗
+bane|祸根
+banish|放逐
+banister|栏杆
+banshee|女妖
+bantam|小型
+banter|打趣
+barge|驳船
+barley|大麦
+barmaid|酒吧女招待
+baroque|巴洛克
+barrack|兵营
+barrage|弹幕
+barren|贫瘠的
+barricade|路障
+barter|物物交换
+bashful|害羞的
+basil|罗勒
+basin|盆地
+bask|晒太阳
+bass|低音
+bastard|私生子
+bastion|堡垒
+baton|警棍
+battalion|营
+batter|面糊
+battlefield|战场
+bauble|小装饰品
+bawdy|淫秽的
+bayonet|刺刀
+bazaar|集市
+beacon|信标
+bead|珠子
+beagle|比格犬
+beak|鸟嘴
+beaker|烧杯
+beanstalk|豆茎
+bearable|可忍受的
+bearer|持有人
+bearing|轴承
+beastly|野蛮的
+beater|打手
+beckon|招手
+becoming|合适的
+bedridden|卧床不起的
+bedrock|基岩
+bedside|床边
+beet|甜菜
+beetle|甲虫
+befall|降临
+befit|适合
+befuddle|使糊涂
+begrudge|嫉妒
+beguile|欺骗
+behead|斩首
+behold|注视
+beige|米色
+belfry|钟楼
+belie|掩饰
+belittle|贬低
+belligerent|好战的
+bellow|咆哮
+belongings|财物
+bemoan|哀叹
+bemuse|使困惑
+bench|长凳
+beneath|在下面
+benediction|祝福
+benefactor|恩人
+beneficiary|受益人
+benign|良性的
+bent|弯曲的
+benumbed|麻木的
+bequeath|遗赠
+bequest|遗产
+berate|严厉斥责
+bereave|剥夺
+bereavement|丧亲
+bereft|丧失的
+beret|贝雷帽
+berth|铺位
+beseech|恳求
+beseem|适合
+beset|困扰
+beside|在旁边
+besiege|围攻
+besmirch|玷污
+bestial|野蛮的
+bestow|赠予
+bestowal|赠予
+betoken|预示
+betrayal|背叛
+betroth|订婚
+betrothal|订婚
+betrothed|未婚夫
+beware|当心
+bewilder|使迷惑
+bewitch|使着迷
+biannual|一年两次的
+bib|围兜
+bible|圣经
+bibliography|参考书目
+bicentenary|二百周年
+bicker|争吵
+bidder|投标人
+biennial|两年一次的
+bier|棺材架
+bifocal|双焦点的
+bifurcate|分叉
+bigamy|重婚
+bigot|偏执者
+bigotry|偏执
+bigwig|大人物
+bijou|珠宝
+bike|自行车
+bikini|比基尼
+bilateral|双边的
+bile|胆汁
+bilingual|双语的
+bilious|胆汁质的
+billboard|广告牌
+billow|翻滚
+bin|垃圾箱
+binary|二进制的
+binder|活页夹
+binding|有约束力的
+binge|狂欢
+bingo|宾果
+binocular|双筒望远镜
+biochemistry|生物化学
+biological|生物的
+biologist|生物学家
+biomedical|生物医学的
+biopsy|活检
+biosphere|生物圈
+biotechnology|生物技术
+biped|两足动物
+birch|桦树
+birdcage|鸟笼
+birdseed|鸟食
+birthplace|出生地
+birthright|与生俱来的权利
+bisect|平分
+bistro|小酒馆
+bit|位
+bitch|母狗
+bittern|麻鸦
+bittersweet|苦乐参半
+bittorrent|比特流
+bivariate|双变量的
+blabber|喋喋不休
+blackboard|黑板
+blacken|使变黑
+blackjack|21点
+blackmail|勒索
+blackout|停电
+blacksmith|铁匠
+bladder|膀胱
+blameless|无辜的
+blanch|漂白
+blandishment|奉承
+blandness|温和
+blare|刺耳声
+blaspheme|亵渎
+blasphemy|亵渎
+blatant|公然的
+blather|胡说
+blaze|火焰
+blazer|运动夹克
+blazing|燃烧的
+bleach|漂白剂
+bleat|咩咩叫
+blemish|瑕疵
+blench|退缩
+blender|搅拌机
+blessed|受祝福的
+blessing|祝福
+blight|枯萎病
+blighted|枯萎的
+blindfold|蒙住眼睛
+blinker|信号灯
+blip|光点
+bliss|极乐
+blister|水泡
+blithe|无忧无虑的
+blitz|闪电战
+blizzard|暴风雪
+bloat|肿胀
+bloated|肿胀的
+bloater|腌熏鱼
+blob|一团
+bloc|集团
+blockade|封锁
+blockage|堵塞
+blockbuster|大片
+blockhead|笨蛋
+bloke|家伙
+blond|金发的
+bloodbath|大屠杀
+bloodhound|猎犬
+bloodshed|流血
+bloodstream|血流
+bloodthirsty|嗜血的
+bloody|血腥的
+blooming|开花的
+blooper|失误
+blot|污渍
+blotch|斑点
+blubber|哭泣
+bludgeon|大棒
+bluff|虚张声势
+blunder|大错
+blunderbuss|老式火枪
+blurb|简介
+blurt|脱口而出
+bluster|咆哮
+boar|野猪
+boarder|寄宿生
+boarding|寄宿
+boardroom|会议室
+boaster|吹牛者
+boatman|船夫
+boatswain|水手长
+bob|短发
+bobbin|线轴
+bobble|晃动
+bode|预示
+bodice|紧身胸衣
+bodily|身体的
+boding|预兆
+bodyguard|保镖
+bog|沼泽
+boggle|使困惑
+boggy|沼泽的
+bogus|假的
+bohemian|波西米亚的
+boiler|锅炉
+boisterous|喧闹的
+boldface|黑体
+bolster|支撑
+bombard|轰炸
+bombardier|投弹手
+bombardment|轰炸
+bomber|轰炸机
+bombproof|防弹的
+bombshell|炸弹
+bonanza|财源
+bondage|奴役
+bondholder|债券持有人
+bonfire|篝火
+bonnet|软帽
+bonsai|盆景
+bony|骨感的
+boo|嘘声
+booby|傻瓜
+boobytrap|诡雷
+boodle|伪钞
+boohoo|哭声
+bookbinder|装订工
+bookmark|书签
+bookshelf|书架
+bookstore|书店
+bookworm|书呆子
+boombox|音响
+boomerang|回旋镖
+boon|恩惠
+boondocks|荒野
+boor|粗鲁的人
+boost|推动
+booster|支持者
+bootleg|非法制造
+bootlicker|马屁精
+booze|烈酒
+bopper|音乐迷
+borage|琉璃苣
+borax|硼砂
+boredom|厌倦
+borer|钻工
+borough|行政区
+borrower|借款人
+boson|玻色子
+bossy|专横的
+botanist|植物学家
+botch|拙劣的工作
+botfly|肤蝇
+botheration|烦恼
+bottomless|无底的
+bottoms|裤子
+botulism|肉毒中毒
+boudoir|闺房
+bough|大树枝
+boulder|巨石
+bouncer|保镖
+bouncing|跳跃的
+bounteous|慷慨的
+bounty|赏金
+bouquet|花束
+bourbon|波本威士忌
+bourgeois|资产阶级的
+bourgeoisie|资产阶级
+bourn|小溪
+bourse|证券交易所
+bout|回合
+boutique|精品店
+bovine|牛的
+bovver|骚乱
+bowdlerize|删改
+bower|凉亭
+bowler|保龄球手
+bowline|称人结
+bowman|弓箭手
+bowne|准备
+bowwow|汪汪叫
+boxer|拳击手
+boxful|满箱
+boxoffice|票房
+boxspring|弹簧床垫
+boyar|贵族
+boyhood|少年时代
+boyish|孩子气的
+boyfriend|男朋友
+bracelet|手镯
+bracer|护腕
+bracing|令人振奋的
+bracken|蕨
+bracket|括号
+brackish|咸的
+brag|吹嘘
+braggart|吹牛者
+braggadocio|吹牛
+braid|编织
+braille|盲文
+brainchild|脑力创作
+brainstorm|头脑风暴
+brainwash|洗脑
+braise|炖
+bramble|荆棘
+bran|糠
+brandish|挥舞
+brandnew|全新的
+brandy|白兰地
+brash|傲慢的
+brassiere|胸罩
+brassy|厚脸皮的
+brat|顽童
+bravado|虚张声势
+bravo|好极了
+brawl|争吵
+brawn|肌肉
+brawny|强壮的
+bray|驴叫
+brazen|厚颜无耻的
+brazier|火盆
+breadbasket|粮仓
+breadboard|面包板
+breadcrumb|面包屑
+breakable|易碎的
+breakdown|崩溃
+breaker|碎浪
+breakneck|极快的
+breakout|爆发
+breakthrough|突破
+breakup|分手
+breakwater|防波堤
+breastplate|胸甲
+breaststroke|蛙泳
+breathless|屏息的
+breech|臀部
+breeder|饲养员
+breeding|饲养
+breezy|有微风的
+brethren|兄弟们
+breve|短音符
+brevity|简洁
+brewer|酿酒师
+brewery|啤酒厂
+briar|荆棘
+bribery|贿赂
+bricklayer|砌砖工
+brickwork|砖石工程
+bridal|新娘的
+bridegroom|新郎
+bridewell|监狱
+bridle|马笼头
+brie|布里奶酪
+briefing|简报
+briefly|简短地
+brig|双桅船
+brigade|旅
+brigadier|准将
+brigand|强盗
+brightness|亮度
+brimful|充满的
+brimstone|硫磺
+brine|盐水
+brink|边缘
+briny|咸的
+brisket|胸肉
+bristle|鬃毛
+broach|提出
+broadcaster|广播员
+broadcasting|广播
+broadloom|宽幅地毯
+broadminded|心胸宽广的
+broadsheet|大幅报纸
+broadside|侧舷
+brocade|织锦
+broccoli|西兰花
+brochure|小册子
+broil|烤
+broiler|烤肉店
+brooch|胸针
+broody|沉思的
+broomstick|扫帚柄
+broth|肉汤
+brothel|妓院
+brotherhood|兄弟情谊
+brotherinlaw|姐夫
+brougham|四轮马车
+brouhaha|骚动
+browbeat|欺凌
+brownie|布朗尼
+brownish|带褐色的
+browse|浏览
+bruin|熊
+bruiser|强壮的人
+brunette|深褐色头发的
+brunt|冲击
+brushfire|灌木火灾
+brushwood|灌木丛
+brushwork|笔触
+brusque|唐突的
+brutal|残忍的
+brutality|残忍
+brutalize|虐待
+brute|野兽
+brutish|野蛮的
+bubbling|冒泡的
+buccaneer|海盗
+buck|雄鹿
+buckboard|四轮马车
+bucker|反抗者
+bucketful|满桶
+buckle|扣环
+buckler|小圆盾
+buckram|硬麻布
+buckshot|大号铅弹
+buckskin|鹿皮
+bucktooth|龅牙
+buckwheat|荞麦
+bucolic|田园的
+buddhism|佛教
+buddhist|佛教徒
+budding|萌芽的
+buddy|伙伴
+budge|稍微移动
+buffalo|水牛
+buffer|缓冲
+buffet|自助餐
+buffoon|丑角
+buffoonery|滑稽
+bugaboo|吓人的东西
+bugbear|怪物
+buggy|童车
+bugle|军号
+bugler|号手
+buildup|积累
+bulbous|球茎状的
+bulge|凸起
+bulimia|暴食症
+bulkhead|舱壁
+bulky|庞大的
+bullfight|斗牛
+bullfighter|斗牛士
+bullfrog|牛蛙
+bullhorn|扩音器
+bullion|金条
+bullpen|牛栏
+bullring|斗牛场
+bullock|阉牛
+bulrush|芦苇
+bulwark|堡垒
+bum|流浪汉
+bumble|跌跌撞撞
+bumblebee|大黄蜂
+bumboat|供应船
+bummer|令人失望的事
+bump|碰撞
+bumper|保险杠
+bumpkin|乡巴佬
+bun|小圆面包
+buncombe|废话
+bung|塞子
+bungalow|平房
+bungle|搞砸
+bunion|拇囊炎
+bunk|床铺
+bunkhouse|简易宿舍
+bunkum|废话
+bunny|小兔子
+bunt|顶撞
+buoy|浮标
+buoyancy|浮力
+buoyant|有浮力的
+burdensome|繁重的
+burdock|牛蒡
+bureaucracy|官僚主义
+bureaucrat|官僚
+burg|城镇
+burger|汉堡
+burglar|窃贼
+burglary|入室盗窃
+burgle|盗窃
+burial|埋葬
+burlap|粗麻布
+burlesque|滑稽戏
+burly|魁梧的
+burner|燃烧器
+burnish|擦亮
+burnoose|斗篷
+burnout|倦怠
+burr|刺果
+burro|小驴
+burrow|洞穴
+bursar|财务主管
+bursary|财务处
+burton|滑车
+burweed|刺果草
+burying|埋葬
+busboy|餐馆工
+bushel|蒲式耳
+bushfire|灌木火灾
+bushwhack|伏击
+businessman|商人
+busk|街头表演
+busker|街头艺人
+busman|公交司机
+bust|半身像
+bustard|大鸨
+bustier|紧身胸衣
+bustle|忙碌
+busybody|爱管闲事的人
+butane|丁烷
+butchery|屠宰场
+butler|管家
+butt|烟蒂
+buttercup|毛茛
+butterfingers|拿不住东西的人
+buttermilk|酪乳
+butternut|灰胡桃
+buttock|臀部
+buttonhole|扣眼
+buttress|扶壁
+butyl|丁基
+buxom|丰满的
+buyer|买方
+bygone|过去的
+bylaw|地方法规
+byline|署名
+byproduct|副产品
+bypass|绕过
+byplay|附带动作
+bypath|小路
+byre|牛棚
+byroad|小路
+bandbbs|米坛社区，创立于2019年3月23日
+byword|谚语
+backward|向后的
+bankrupt|破产的
+banner|横幅
+bias|偏见
+blog|博客
+boom|繁荣
+bore|使厌烦
+bug|漏洞
+bulletin|公告
+by|由
+bottles|瓶子
+behaviour|行为
+because|因为
+began|开始
+built|建造
+babies|婴儿
+building|建筑物
+beans|豆
+became|变成
+based|以…为基础的
+been|是
+blanks|空白处
+but|但是
+believed|相信
+birds|鸟
+believes|相信
+bottled|瓶装的
+books|书
+benefits|好处
+behaviors|行为
+brains|大脑
+behind|在…后面
+before|//在…以前
+businesses|企业
+birthday|生日
+bizarre|古怪的
+bipartisan|两党的
+beforehand|预先
+banker|银行家
+baby|一家中年龄最小的人
+barometer|气压计
+baron|男爵
+bull|买空的证券投机商
+bitterness|苦味
+basement|地下室
+boycott|联合抵制 n. 抵制行动
+booklet|小册子
+batch|一批
+bully|恃强欺弱者 vt. 威吓
+band|乐队
+blossom|vi. 开花
+beverage|饮料
+bud|vi. 发芽
+barn|谷仓
+bottom|底(部)
+bath|沐浴
+bar|条
+below|adv&prep. 在…下面
+boot|引导
+brass|黄铜
+beloved|心爱的
+beg|乞讨
+bell|铃
+beef|牛肉
+beer|啤酒 vi. 喝啤酒
+breathe|呼吸
+by-pass|旁路
+biased|有偏见的
+bill|帐单 v. 开帐单
+bur|刺果
+beaver|海狸(毛皮)
+barb|鱼钩 v. 装倒钩于
+bantu|班图人
+billfish|长嘴鱼
+beringia|白令海和楚可奇海海域
+burgess|(英国)市民
+basically|基本上
+behavioral|行为的
+boy|男孩
+broadway|n& a. 百老汇大街(的)
+baltic|a波罗的海的
+basalt|玄武岩
+boule|人造宝石
+brightly|明亮地
+brea|布雷亚(美国加州地名)
+brilliance|光辉
+biographer|传记作者
+baboon|[动]狒狒
+blowhole|喷水孔
+bluefin|金枪鱼
+babylonian|巴比伦人(的)
+biotic|有关生命的
+bison|(美洲)野牛
+bathhouse|公共浴室
+broadly|宽广地
+biologically|生物学地
+bushman|丛林居民
+broadleaf|阔叶烟草
+bluish|带蓝色的
+brant|黑雁
+brewster|酿造者
+battleship|战舰
+basaltic|玄武岩的
+befriend|待人如友
+bubbly|多泡的
+bulldozer|推土机
+berg|冰山
+bullrush|芦苇
+basketry|篓编织品
+badly|严重地
+bedcover|被面
+bonito|鲣
+burin|冰凿
+birdlike|敏捷轻快的
+brilliantly|辉煌地
+basketmaking|篮子编织
+baedeker|旅行指南
+burgher|公民
+bipedal|两足动物的
+burgeon|嫩芽 v. 萌芽
+bandanna|大手帕
+bongo|非洲产大羚羊
+biographical|传记的
+bravely|勇敢地
+balkan|巴尔干半岛(的)
+breathtaking|令人赞叹的
+boss|老板
+backbreaking|非常辛苦的
+breadfruit|面包果树
+bedpan|便盆
+bard|吟游诗人
+biogeochemical|生物地球化学的
+basketwork|编织物
+boxlike|象箱子一样的
+brusquely|唐突地
+beau|花花公子
+blackbird|山鸟类
+bergere|围手椅
+beng|大麻
+belter|非常好
+butte|孤立的丘
+bureaucratization|官化
+belle|美女
+barrelful|一桶之量
+balsam|香液
+behaviorist|行为主义者
+beluga|(欧洲)白色大鳇鱼
+broker|掮客
+boomer|生育高峰中出生的人
+bituminous|沥青的
+briskness|敏捷
+bluntly|坦率地
+bis|二度
+businesswoman|妇女实业家
+bluebird|北美产的蓝知更鸟
+biter|咬人的动物
+bandleader|伴舞乐队的指挥
+ballroom|舞厅
+blower|吹制工
+bulldoze|威吓
+bryn|布琳
+biochemical|生物化学的
+bilingualism|双语现象
+bellows|风箱
+beneficent|有益的
+backhand|反手击球
+bountiful|慷慨的
+backlighting|逆光
+benevolent|慈善的
+behaviorism|行为主义
+bicameral|两院制的
+breathing|呼吸
+by-product|副产品
+blues|布鲁斯音乐
+b|[计] 基地址, 数据库, 基极, 二进制, 块, 字组, 布尔, 总线, 占线, 字节
+buying|[经] 买气; 买进
+boys|男孩子们；小伙子们（boy的复数）
+boards|木板, 板子；纸板（board复数形式）
+brands|品牌；烙印（brand的复数）
+beginning|开始
+blogs|博客, 网志（网站上记有活动、意见等的个人记录）( blog的名词复数 )
+brought|bring的过去式和过去分词
+bought|买来的
+bytes|位元组, 字节数（byte的复数）；字节
+bc|公元前
+banks|银行；斜床；岸, 堤（bank的复数形式）
+beta|希腊字母表的第二个字母
+banking|银行业务
+brian|布莱恩（男子名）
+bags|许多
+breaking|[计] 断开, 停止, 设断点
+bars|马齿龈；（木、金属等的）条；栅栏；酒吧（bar的复数形式）
+bids|商业智能开发工具集（Business Intelligence Development Studio）；本迪克斯综合数据系统（Bendix Integrated Data System）
+buildings|建筑物（building的复数）
+batteries|电池（battery的复数形式）
+bbc|英国广播公司
+becomes|变为, 成为( become的第三人称单数 ); 适合; 使（人）显得漂亮; 使好看
+babes|<书>婴儿( babe的复数形式 ); 无助的人; 需要人抱的婴儿; <美俚>姑娘
+broadband|[计] 宽带
+boxes|小木箱, 盒子
+ben|内室
+blonde|(头发)亚麻色的, 淡色的, 白肤金发碧眼的, 白里透红的, 白皙的, 淡黄色的
+booking|预约演出合同
+bears|空头（卖空的证券交易投机）；熊（bear的复数）
+begins|开始( begin的第三人称单数 ); 着手; 创始; 创办
+babe|小孩, 天真幼稚的人
+blowjob|口交
+brothers|哥们儿, 兄弟
+boobs|乳房
+buyers|买主；采购者；买方市场；购货者（buyer的复数）
+bands|法官；乐队
+biggest|最大的（big的最高级）
+baltimore|巴尔的摩
+bruce|布鲁斯
+br|[计] 总线请求
+bits|后台智能传输服务（Background Intelligent Transfer Service）；建设集成时序供应（Building Integrated Timing Supply）；二进制数字（Binary digits）
+blocks|积木；黑金石；街区；[音]双头木鱼；楼群（block的复数）
+bodies|（文章、文件等的）正文；（人或动物的）身体；主体部分（body的复数）
+bidding|命令, 邀请, 出价
+barbara|芭芭拉（女子名）
+blogger|写博客的人；博客使用者
+birmingham|伯明翰
+bio|个人简历, 小传
+beds|床上用品, 床组（bed复数）
+breasts|胸脯；乳房（breast的复数）
+bills|账单；议案（bill的复数）
+blowjobs|口交
+ba|文学士
+bugs|疯狂的, 发疯的
+brings|带来；使发生（bring的三单形式）
+bestiality|兽性, 兽行, 兽欲
+biz|[计] biz机构
+betting|打赌
+breaks|地形突变；岩层中之小断层（break的复数）
+bringing|带来( bring的现在分词 ); 促使; 提供; 使朝（某方向或按某方式）移动
+busty|大胸脯的, 胸部丰满的
+burning|燃烧的, 象燃烧一样的
+bb|滚珠轴承（ball bearing）；铅笔芯（double black）
+boats|船艇；船（boat的复数）
+bedrooms|火车卧铺单间；卧室（bedroom的复数）
+bonds|镣铐, 监禁
+buttons|纽扣；按钮（button的复数形式）
+bmw|德国宝马汽车公司（Bavarian Motor Works）
+booty|战利品, 获得之物
+builder|建立者
+bulgaria|保加利亚
+balls|胡说八道
+billy|警棍, 伙伴
+blvd|大马路；林荫道
+bigger|更大的（big的比较级）
+billing|节目次序, 广告
+bs|理学士
+bi|[计] 成批输入, 总线接口
+bristol|布里斯托尔(英国西部港口)
+bandwidth|频带宽度, 通带宽度
+baskets|篮子（basket的复数）
+barry|巴里（男子名）
+basics|最简单但最重要的部分, 基本, 基础训练
+bestsellers|(bestseller 的复数) n. 畅销书
+brokers|经纪人（broker复数）
+blogging|写网志；博客
+britney|布兰妮（女歌手）
+bt|英国电信（British Telecom）
+beads|玻璃粉
+berkeley|伯克利（姓氏）；贝克莱（爱尔兰主教及哲学家）；伯克利（美国港市）
+bikes|自行车( bike的名词复数 )
+builders|生成器；施工人员（builder的复数）
+bedding|被褥, 寝具, 床上用品, 基床
+brad|角钉, 曲头钉
+byte|字节, 位组
+branches|分支机构；分支（branch的复数）
+broke|一文不名的
+browsing|[计] 浏览, 翻阅, 监视
+barcelona|巴塞罗那
+bargains|交易；廉价品；特价品（bargain的复数）
+bp|[化] 碱基对
+brooklyn|布鲁克林区(纽约行政区)
+bbw|线控制动
+boundaries|分界线( boundary的名词复数 ); 范围; 使球越过边界线的击球（得加分）; 疆界
+benjamin|[医] 安息香
+balanced|公平的, 平衡的
+boob|笨蛋, 蠢材
+brooks|布鲁克斯（姓氏）
+blair|布莱尔（男子名）
+burns|络腮胡子
+brunswick|不伦瑞克(德国城市)
+botswana|博茨瓦纳（非洲中南部国家）
+baseline|基线, 基准
+beatles|披头士合唱（摇滚乐队）
+barnes|巴尔内斯（姓氏）
+bahamas|巴哈马群岛
+borders|边界；边缘地区（border的复数）
+butts|短硬黄麻根纤维；臀部粪污毛；笑柄；粗端；大桶（butt的复数）
+bobby|警察
+beliefs|信仰；信?（belief的复数）
+bases|pl. 基础, 军事基地, 主要成分, 根据
+begun|begin的过去分词
+beaches|海滩；海滨（beach的复数形式）
+baptist|施洗礼者, 浸礼会教友
+bios|基本输入输出系统
+bolivia|玻利维亚
+barriers|障碍( barrier的复数形式 ); 屏障; 栅栏; 分界线
+bra|奶罩
+brisbane|布里斯班（澳大利亚东部城市）
+bryan|布赖恩（男子名）
+bridges|桥梁；纽带（bridge的复数）
+bdsm|绑缚与调教、支配与臣服、施虐与受虐（bondage & discipline, dominance & submission, sadism & masochism）
+boolean|[计] 布尔的, 逻辑的, 布尔型
+barbados|巴巴多斯(岛)
+buf|[计] 缓冲器
+bones|骨骼, 尸体
+backed|有背的；有财力支持的
+bosnia|波斯尼亚；波士尼亚
+browsers|浏览器（browser的复数）
+brighton|布赖顿（英国南部城市）
+bookmarks|书签（bookmark的复数）
+bathrooms|浴室( bathroom的复数形式 ); 盥洗室; （带抽水马桶的）厕所; 卫生间
+berry|浆果
+bermuda|百慕大岛
+bk|[医] 锫(97号元素)
+britannica|大英百科全书
+beverly|贝弗莉（女子名）
+bernard|伯纳德（男子名）
+biol|biologi or biologisk (Dano-Norwcgian=biology or biologist) （丹麦-挪威语）生物学或生物学家; biological 生物（学）的; biologist 生物学家
+bloggers|博客
+belarus|白俄罗斯, 白俄罗斯共和国
+backgrounds|背景图片, 背景（background的复数形式）
+buried|埋葬的；[地]埋藏的
+bradley|布兰得利（男子名）
+bali|巴厘岛
+belize|伯利兹城（拉丁美洲国家）
+bookings|[经] 未交定货
+benz|奔驰(汽车)
+breeds|品种；族类（breed的复数形式）
+bailey|城郭, 外栅
+bulgarian|保加利亚人；保加利亚语
+bennett|班尼特（男子名, 等于Benedict）
+biographies|列传, 传记（biographie的复数形式）
+bm|医学士, 不列颠博物馆
+bahrain|巴林岛
+betty|贝蒂（女子名）
+belongs|属于( belong的第三人称单数 ); 是…的成员; 应被放在; 适应
+bracelets|手镯, 臂镯( bracelet的复数形式 )
+belkin|贝尔金
+blackberry|刺, 黑莓
+brandon|布兰登（男子名）
+bon|（法）好的
+beth|贝丝（女子名, 等于Elizabeth）
+bradford|布拉德福德（英格兰北部城市）
+builds|修建( build的第三人称单数 ); 建造; 开发; 创建
+bloomberg|[人名] 布隆伯格
+banners|旗帜广告；横幅；广告横幅（banner复数）
+bd|[计] 空白显示, 框图, 布尔差分
+beats|音乐节拍；差拍振动；心脏跳动（beat的复数）
+batman|勤务兵
+beverages|饮料( beverage的复数形式 )
+bo|体臭, 汗臭, 狐臭, 暂时无法满足的订货, 戏院票房, 戏院售票处, 分支机构
+blocked|堵塞的；被封锁的
+belfast|贝尔法斯特
+bucks|雄鹿队（篮球队名）；巴克斯（英国伦敦附近的一个郡名）
+buses|公共汽车（bus的复数形式）
+boating|划船
+broader|广大的；一片的比较级
+beings|人; 生物（ being的复数形式 ）; 存在; 思想感情; 身心
+biblical|圣经的
+blocking|[计] 组成块; 粘连
+buys|购买, 购得( buy的第三人称单数 ); 做出牺牲以获得; 够支付; 买通
+burlington|伯灵顿, 柏林顿（美国地名）
+boc|中国银行（Bank of China Limited）
+brochures|小册子( brochure的名词复数 ); （某地、某旅馆等的）情况介绍手册; （印成小册子的）论文
+benchmark|[计] 基准程序; 基准
+beginners|初学者；生手；首创者（beginner的复数）
+bedford|贝德福德（英格兰一郡及该郡之首府）；贝德福德（美国俄亥俄州城市）；贝德福德（男子名）
+banned|被禁的
+briefs|三角裤
+bibliographic|书目有关的, 书目的
+boxed|醉酒的
+blah|废话
+baking|烘焙, 一次烘焙的量
+baths|公共澡堂, 公共游泳池
+brakes|刹车系统；制动；刹车（brake的复数）
+blowing|[机] 吹制
+bras|宽带接入服务器（Broadband Remote Access Server）
+belts|带子；皮带（belt的复数）
+blacks|黑人（black的复数）
+burke|秘密地除去, 秘密地消灭, 压制
+bw|细菌战
+brunei|文莱
+blades|刀刃；扁叉；刀片（blade的复数）
+bl|法学士（Bachelor of Law）；架桥装置（Bridge-Layer）；提货单（bill of lading）
+backing|后退, 衬背, 后援, 支持者
+blake|布莱克（英国作家）
+bg|[计] 后台
+bryant|布赖恩特（男子名, 等于Brian）
+budgets|预算（budget复数形式）
+barbie|芭比（女子名）；芭比娃娃（商标名）
+bool|[计] 布尔, 逻辑的
+bbs|[计] 电子公告牌系统
+budapest|布达佩斯(匈牙利首都)
+blennorrhea|脓性卡他, 脓性粘液溢, 淋病
+backrun|反转; 逆向
+balistes|鳞属
+boccaro|宜兴陶瓷
+bichir|多鳍鱼
+befalls|降临到（某人）头上, 发生( befall的第三人称单数 )
+bilbo|好剑, 带枷的铁镣
+blatherskite|爱说废话的人
+burglaries|夜盗( burglary的名词复数 ); 夜盗行为; 入户行窃; 入户盗窃罪
+bismarck|俾斯麦(Otto von, 1815-1898, 德国政治家, 德意志帝国第一任首相)
+bottomland|洼地
+boulle|镶嵌细工
+bandsman|管乐队队员
+bornane|(=camphane)莰烷
+breccias|(breccia 的复数) n. 角砾岩
+brumous|多雾的, 冬天的
+bicameralism|[法]两院制
+blobbing|弄脏（blob的现在分词形式）
+backfilled|回填（挖掘的洞穴）( backfill的过去式和过去分词 )
+boomers|baby boomer generation 从小就赶往新兴地区安家的一代人
+balsamy|balsam的变形
+bangiaceae|头发菜科；红毛菜科
+bondmaids|(bondmaid 的复数) n. 女奴隶
+brahms|布拉姆斯（姓氏）
+barbeque|(=barbecue)烤肉野餐, 烤肉架
+bieberite|[矿]赤矾, 钴矾
+biophagous|寄生的, 食生物的
+burier|埋葬者
+blizzardly|blizzard的变形
+bumbles|犯错误( bumble的第三人称单数 ); 杂乱无章地说; 发出嗡嗡声; 笨拙地进行
+burman|缅甸人[语]
+bcf|[医][=bacterial chemotactic factor]细菌趋化性因子
+bienvenue|[法](=welcome)受欢迎的(人)
+borrowers|借用人, 剽窃者( borrower的复数形式 )
+biodegrade|生物递降分解
+bouses|（用索具等）拉, 升起（bouse的第三人称单数形式）
+ballgames|（美）棒球运动
+broiling|灼热的, 酷热的, 似烧的
+bogeymen|(bogeyman 的复数) n.可怕(或可憎)的人或物,妖怪,精灵
+baptise|给...施洗礼, 命名, 使纯化, 洗炼
+belfried|有钟楼的
+baresark|不披挂甲胄地
+bacteriostat|[微]抑菌剂
+bonniness|bonny的变形
+bearish|如熊的, 粗暴的
+bixin|胭脂树橙
+bootees|毛线鞋, 女人的短靴( bootee的复数形式 )
+broadhead|[人名] [英格兰人姓氏] 布罗德黑德绰号, 宽额或大头者, 来源于中世纪英语, 含义是“宽阔的+头”(broad+head)
+balloted|（使）投票表决( ballot的过去式和过去分词 )
+bradypus|[医]三趾树懒属
+bookcraft|文学技巧, 著书工作
+brides|新娘（杂志名）
+broached|谈起( broach的过去式和过去分词 ); 打开并开始用; 用凿子扩大（或修光）; （在桶上）钻孔取液体
+blotter|吸墨纸, 记事簿
+bisulfide|[化]二硫化物
+battering|[机] 打碎, 捶薄, 混合
+bifoil|[建]双叶, 双拱
+bedrail|床侧板, 床栏杆
+barred|上了闩的, 划出线条的, 受阻的, 被禁止的
+biharmonic|[计] 重调和的
+baja|巴哈（人名）；包姚（匈牙利城市）
+behests|<文>命令, 吩咐, 请求( behest的复数形式 )
+bathochrome|[化]向红团(指能使一个化合物的吸收光谱向光谱带的红端移动的基团)
+basest|base的变形
+bismutite|泡铋矿
+behenate|山嵛酸盐[酯]
+bunglingly|bungling的变形
+biographize|为...作传记
+bistorta|拳参
+bikinied|穿比基尼泳装的
+blackies|(blacky 的复数) n.黑人,黑色鸟,黑色动物
+burgeons|发芽, 抽枝( burgeon的第三人称单数 ); 迅速发展; 发（芽）, 抽（枝）
+baptizing|给…施洗礼( baptize的现在分词 ); （施洗时）授…以教名; 给…精神上的洗礼; 使经受考验
+bdrm|bedroom 卧室, 寝室
+bails|（法庭命令缴付的）保释金( bail的名词复数 ); 三柱门上的横木
+biliverdin|[生化]胆绿素
+biparentally|biparental的变形
+bilsted|[植]北美枫香树,胶皮糖香树
+batt|棉絮
+bromellite|铍石
+belches|嗳气( belch的名词复数 ); 喷吐; 喷出物
+baldheaded|秃头的
+bogland|沼泽地；[贬义]爱尔兰的别名
+brewmaster|酿酒专家
+becloud|使变暗, 遮蔽
+broomweed|[医]多年生小头古蒂里齐亚
+bronchium|[解]支气管,小支气管
+blacklight|trap 利用不可见光的昆虫诱捕器,黑光诱虫灯
+bacalao|[动] 鲈科鱼类(西印度产)
+banderillas|(banderilla 的复数) n.斗牛用的带有倒钩的短标枪
+bellpulls|铃扣
+basely|下贱地, 卑鄙地
+blastemata|[医] 胚基, 芽基
+buckland|(Buckland)人名；(英)巴克兰
+bufotoxin|蟾毒素
+baraka|天地玄黄（电影名）；巴拉卡（男子名）
+betweenmaid|打杂女佣
+backhauling|(为了避免空车返回而)回程载货，归途运货，回程运输的货物
+bumpkins|土包子, 乡下佬( bumpkin的复数形式 )
+blackstrap|[机] 赤糖糊
+bushiness|繁茂
+beaumontia|[网络] 清明花属；炮弹果
+burgundy|勃艮第(法国一地区), 勃艮第葡萄酒
+banal|平凡的, 陈腐的
+bowstrings|(bowstring 的复数) n. 弓弦, 绞索
+boules|法国式滚球游戏（等于boule）
+backstairs|后面楼梯, 密谋(手段)
+bimaculate|具二斑的
+bloedite|[化] 白钠镁矾
+balletomane|芭蕾舞迷
+blobs|一滴, 一团( blob的名词复数 ); （板球）零分
+benedictive|赐福的, 祈求式的
+ballium|[法] 堡垒, 要塞
+baddeleyite|[矿]斜锆石
+beefing|牛肉；肌肉；食用牛；牢骚
+bickered|闪动；斗嘴；潺潺而流
+blastula|囊胚
+bractea|[医]苞, 苞片; 苞叶
+buxomly|buxom的变形
+blackdamp|窒息性空气
+bowdlerise|删除（书刊、剧本等中）有伤风化的词语或场面
+bugaboos|(bugaboo 的复数) n. 吓唬人的东西, 令人头痛的事, 无端的恐惧, 鬼怪
+bream|欧鳊属淡水鱼, 鲷科海鱼
+balefulness|灾难, 有害
+banak|巴内克木
+brushy|如毛刷的, 毛茸茸的, 矮林多的
+bastide|中世纪专为防御而建的法国的乡村(城镇)
+boult|筛子
+biperforate|[医] 二[穿]孔的
+bloodsuckers|吸血生物, 水蛭, 剥削者( bloodsucker的复数形式 )
+bencher|坐凳子的人, 律师协会的主管委员, 划手
+borosilicate|[机] 硼硅酸盐
+bananalander|<澳口>香蕉乡人( 指澳大利亚东北部昆士兰州人)
+buccaneerish|海盗似的
+backers|支持者, 赞助者( backer的复数形式 )
+burgundian|(法国)勃艮第(人)的
+buttresses|扶壁, 扶垛( buttress的名词复数 )
+beholder|观看者
+belga|贝尔加(比利时的旧时货币单位)
+bereavements|亲人丧亡, 丧失亲人, 丧亲之痛( bereavement的复数形式 )
+beauish|花花公子的, 轻浮的
+bor|掉电复位, 欠压复位（Brown-out Reset）；资源清单（Bill Of Resource）
+bobsledding|乘大雪橇, 滑大雪橇运动(或比赛)
+befrogged|饰有盘花钮扣的
+blows|吹；管乐器声；疾风（blow的复数）
+babbitt|巴比特式人物
+biocenotic|[医] 生物群落的
+biochron|生物年代, 较短时期的化石, 生物时
+burritos|(burrito 的复数) n.墨西哥玉米煎饼
+burgers|汉堡包( burger的复数形式 ); （汉堡牛肉式的）鱼松饼; 菜末饼; 果仁饼
+bodysurfer|人体冲浪, 作徒手冲浪, (不使用冲浪板)以胸腹冲浪, (不用冲浪板而将胸腹贴于水面滑行)作卧式冲浪
+baruria|[医] 高比重尿
+biopotential|[生理]生物电势
+beaconed|灯塔, 信号浮标；烽火；指路明灯
+bulimy|[医]食欲过盛
+brasses|铜管乐器（brass的复数形式）
+blotters|吸墨纸( blotter的复数形式 ); 临时记录簿, 记事本
+bailers|水斗；舀船舱水的人
+biotics|[医] 生命学
+bagrationite|[地质]褐帘石
+bisiliac|[医] 二髂嵴的(两髂嵴相距最远点)
+bounciest|有弹性的；快活的；精神饱满的；自大的 (bouncy的变形)
+bight|海湾, 绳圈
+bloodwort|[植]仙茅科植物, 血红酸模, 地榆, 美洲血根草
+besmeared|涂抹( besmear的过去式和过去分词 ); 弄脏; 败坏; 玷污
+betokened|预示, 表示( betoken的过去式和过去分词 )
+brontides|(轻微地震引起的)短暂的震声, 潮鸣[吼]
+brainy|脑筋好的, 聪明的
+bersagliere|狙击兵
+botching|修补( botch的现在分词 ); 搞坏, 搞砸, 笨拙地做
+bryonia|[化] 欧薯蓣
+basked|晒太阳, 取暖( bask的过去式和过去分词 ); 对…感到乐趣; 因他人的功绩而出名; 仰仗…的余泽
+bioptic|[医] 活组织检查的
+bibulous|饮酒的, 嗜酒的, 吸水的
+battel|(牛津大学)膳宿费(帐),膳宿及学杂费(帐)
+blockhouses|(blockhouse 的复数) n. 碉堡
+blabbering|多嘴的人；泄密者；胡言乱语
+bandolero|剪径强盗
+bournless|bourn(e)的变形
+biosterol|(=vitamin A)维生素A
+borrowed|借来的, 伪造的, 虚构的
+backcloth|背景
+backwall|[电] 背墙
+buqsha|布格席(阿拉伯也门共和国旧货币单位,40 布格席=1 riyal)
+biotherapy|生物制剂疗法
+buffaloed|水牛
+brassicaceae|十字花科
+bifronted|双面的, 双锋的
+barytine|重晶石
+bookland|[英史](经君主特准)授予私人的公地
+bookful|足够成一本书的量, 大量
+brucine|[化]番木鳖碱,二甲马钱子碱
+barbaric|野蛮的, 粗野的
+beniseed|芝麻(指籽)
+bannerman|旗手, <美>海军少校
+beetleheaded|笨的
+bds|用硬纸板作封面（bound in boards）
+baldest|秃头的( bald的最高级 ); 明显的; 简单的; 赤裸裸的
+bovids|(bovid 的复数) adj.牛科的
+boryl|硼(烷)基
+biddability|顺从, 驯良
+bootjack|V字形脱靴器
+bangle|手镯, 脚镯
+banquette|射击壕沟, 驾驶后座
+bucklers|(buckler 的复数) n. 小圆盾, 防卫物, 防卫
+bespeckled|在…上加斑点
+bluepoint|蓝点牡蛎
+blinks|闪光小鸡草；水生小鸡草；小繁缕；闪光繁缕
+butlery|(=buttery)主管家的房间, 餐具室, 配膳室
+bloodlessly|bloodless的变形
+bipolarity|[机] 双极性
+blastoid|[古生]海蕾
+bloop|做蠢事；发出剌耳杂音
+biflorous|双花的
+blackcap|黑顶莺, 威式莺
+bridesmaid|女傧相
+blundering|粗笨的, 易犯错的
+butyrate|[化] 丁酸盐(酯或根); 丁酸
+brunets|浅黑肤色的男人( brunet的名词复数 )
+boshvark|薮猪
+brattle|隆隆地响, 呱哒呱哒地跑, (动物)受惊而奔跑
+biometer|生物计, 微量二氧化碳测定仪
+badinaging|打趣, 玩笑( badinage的现在分词 )
+birthrates|(birthrate 的复数) n. 出生率
+bankroll|一卷钞票, 资金
+blepharedema|[医] 睑水肿
+bradylogia|[医] 语言徐缓
+bakula|[植]巴古拉木(亚热带的一种乔木)
+boilers|锅炉, 烧水器, 水壶( boiler的复数形式 )
+boilermaker|锅炉制造[装配、修理]工
+briefness|简单, 短促
+benzoic|安息香的
+blithesome|愉快的, 高兴的
+bakersfield|贝克尔斯菲市（美国加利福尼亚州中南部城市）
+baffleplate|障板
+bloodflower|【植物】马利筋(Asclepias curassavica,产于南美和南非)
+bahiaite|[地质]橄闪紫苏岩
+baddie|坏人, (尤指电影中之)恶人
+bookends|挡书板；书夹；书挡（bookend的复数形式）
+biota|生物区
+breathlessly|气喘地, 屏息地
+boomtown|新兴城市
+bionomic|生态的
+batholite|岩基
+bimaxillary|上颌宽
+bismuthite|[化] 泡铋矿
+bodied|有形的；有躯体的
+brigalow|<澳>[植]镰叶相思树, 粉绿相思树[土著语]
+boffo|受欢迎的, 极成功的
+bankruptcies|破产( bankruptcy的名词复数 ); 倒闭; 彻底失败; （名誉等的）完全丧失
+barghest|(英国民间传说中的)犬状妖怪
+basswoods|椴木；椴树；菩提树
+baled|将某物打成包或包装成捆
+besmearing|涂抹( besmear的现在分词 ); 弄脏; 败坏; 玷污
+bole|树干
+backheel|驴回头
+benightedly|benighted的变形
+bingey|肚子
+bromegrass|[植]雀麦草
+bystreet|横街, 胡同
+bravoes|喝彩；亡命徒
+basialveolar|[医] 颅底牙槽的
+beacher|浪涛
+banteng|[动]白臀野牛,爪哇野牛(产于南亚和东南亚, 经驯化可用作耕畜)
+bloomer|布卢默(姓氏)
+begirded|围绕, 缚, 以带子缠绕( begird的过去式和过去分词 )
+bibliothetic|书架图书分类的
+bodger|撬杆
+bales|（货物）包, 捆( bale的名词复数 )
+balsamroot|香根
+blanketed|覆盖；遮掩（blanket的过去分词）
+bumps|碰撞( bump的名词复数 ); 肿块; 轻微撞车事故; 隆起物
+becuiba|(bicuhyba(o), bicuiba)贝块巴木
+bursa|囊, 黏液囊
+berwick|贝里克郡（英国苏格兰原郡名）；伯威克（墨尔本东南40公里）
+bromoprotein|溴蛋白
+blear|朦胧的, 模糊的
+brott|[人名] 布罗特
+bedcovers|(bedcover 的复数) n. 床罩
+bhat|(Bhat)人名；(印、尼)巴特
+beastie|动物,小动物
+busbar|汇流排;  汇流条; 母线; 汇刘
+butcherly|残忍的, 笨手笨脚的
+baboonish|baboon的变形
+broadbrim|宽边帽, 贵格派教徒
+begats|系谱, 宗谱
+bethink|使考虑, 使想起
+balletic|象芭蕾舞的
+bituminizing|[化] 沥青浸渍
+baikie|[人名] 贝基
+barie|[机] 巴
+bae|航空工程学士（Bachelor of Aeronautical Engineering）
+besieged|包围, 围困, 围攻( besiege的过去式和过去分词 )
+bruisers|（尤指）职业拳击家, 彪形大汉, 粗壮的人( bruiser的复数形式 )
+biose|乙糖
+basseting|露出；矮脚长耳猎犬
+bulbiform|球茎状的
+berliners|Berlin的变形
+brockage|(铸造上)有缺陷的硬币
+buckets|水桶( bucket的名词复数 ); 一桶（的量）; 大量
+bromic|溴的, 含有溴的
+bittiest|片断的, 零碎的；细短的 (bitty的变形)
+beadhouse|感恩赈济所
+brumal|冬天的, 冬天发生的, 冬天出现的
+benisons|(benison 的复数) n. 祝福
+bura|[地名] [俄罗斯、肯尼亚] 布拉
+bicorne|双角帽
+bumpy|颠簸的, 崎岖不平的
+backscatter|[计] 反向散射
+bugeye|平底轻帆船
+balaenoptera|鲸属
+bathwater|浴缸里的水
+ballgowns|(ballgown 的复数) n. 长舞服；长舞裙；女夜礼服；舞会礼服
+bromo|[机] 溴代, 溴基
+baccharis|[医] 酒神菊属
+balled|球
+bimastoid|[医] 两乳突的
+blackly|抑郁地；愤怒地；阴险地；黑暗地
+besting|1。[口]打败, 胜过( best的现在分词 )
+blighters|可耻[讨厌]的人（尤作为轻蔑、诋毁词语）( blighter的复数形式 )
+baiter|bait的变形
+brennschluss|断火; 熄火
+becket|索环, 环扣
+blasts|爆炸( blast的名词复数 ); 一阵（疾风等）; （吹奏乐器、哨子、汽车喇叭等突然发出的）响声; 突如其来的强劲气流
+boggled|迟疑( boggle的过去式和过去分词 ); 退缩; 躲闪; 犹豫
+barfed|呕吐( barf的过去式和过去分词 )
+bouncily|活跃地; 轻快地; 骄傲地(bouncy的副词形式)
+begat|<废> beget的过去式
+babouche|巴布什平底软拖鞋
+bullethead|圆头者, 笨蛋
+buddhology|佛教学
+birettas|四角帽( biretta的名词复数 )
+biographers|传记作者( biographer的复数形式 )
+bespotting|bespot的变形
+beachmaster|登陆指挥官
+boller|[人名] 博勒
+bardic|吟游诗人的
+bismosol|[医] 活化铋(成药,含有铋酒石酸钾钠、胡椒嗪和葡萄糖的注射液,抗梅毒剂)
+beadleship|游行领队；教区执事；小吏 (beadle的变形)
+bratticing|脊饰
+brackets|支架；方括号；舱口围板支架（bracket的复数）
+booms|（生意）繁荣( boom的名词复数 ); 深沉的响声; 帆桁
+benzylic|[化] 苄型; 苄型的
+biff|一击
+betula|[医] 桦属
+blowzier|邋遢的(比较级)
+branchiopod|& adj.鳃足动物(的),叶足动物(的)
+bateleur|短尾鹰
+bakelite|酚醛塑料, 胶木
+bristlier|有刚毛的；易怒的 (bristly的变形)
+besieges|包围, 围困, 围攻( besiege的第三人称单数 )
+blastopore|胚孔, 原口
+basigamy|[植]基部受精
+brabbles|争吵, 争论（brabble的复数形式）
+bason|(=basin)脸盆, 盆地
+bellis|(Bellis)人名；(英)贝利斯；(法)贝利
+blistering|[计] 起泡, 生泡
+bianchi|比安奇（人名）
+biod|生命力, 生气
+brimless|无边的, 无边缘的
+blennemesis|粘液呕吐
+binational|两个国家的,两个民族的
+basinasial|[医] 颅底鼻根的
+bryanthus|[网络] 线香石南属
+bemoans|为（某人或某事）抱怨( bemoan的第三人称单数 ); 悲悼; 为…恸哭; 哀叹
+bastite|[矿]绢石
+baggy|袋状的, 松垂的
+blackhead|粉刺
+bifrost|(北欧神话中)连接天地的彩虹桥
+bacillogenic|[医] 杆菌[原]性的, 生杆菌的
+biasness|斜折
+bluffed|以假象欺骗, 吹牛( bluff的过去式和过去分词 ); 以虚张声势找出或达成
+benightment|benight的变形
+browny|带褐色的
+biphase|[计] 双相制
+backlit|后面打光；背光式
+bachelorette|未婚女子
+beardie|[医]泥鳅; 须鳕
+breathed|清音的, 有气的
+blusterous|狂吹的, 叫嚷的, 咆哮的
+brobdingnag|大人国(出自<<格列佛游记>>)
+bosselation|[医] 小圆凸, 圆凸形成
+baneful|有害的, 致命的
+bedrabbled|被雨和泥弄脏了的, 头发散乱的, 衣冠不整的
+bester|(Bester)人名；(德、法)贝斯特尔
+blazoning|广布( blazon的现在分词 ); 宣布; 夸示; 装饰
+biconcave|双凹的
+backlashing|反冲；强烈抵制
+blames|指责, 责怪, 归咎于( blame的第三人称单数 )
+bearder|除壳芒机
+bldg|building 房屋, 建筑物
+becker|贝克尔（美国经济学家）
+banqueted|宴会, 盛宴；宴请, 款待
+basyl|[医] 硷基
+bulkheads|隔离壁（用在船舱、隧道、太空飞行器, 以防止在一部分损坏时水或空气流入其他部分）( bulkhead的复数形式 )
+batta|战时津贴
+backlogging|（使）积压( backlog的现在分词 ); 储存; <商>（为日后装运而）登账确认（订货）
+bicep|[体]二头肌训练机
+beetlehead|笨蛋, 呆子
+blotching|大斑点, 污斑, 疹块
+buttle|<谑>做男管家(或男仆)
+barometry|气压测定法
+blissful|充满喜悦的
+bottommost|最低的, 最下的
+bowtie|领结
+bivalve|双壳类动物
+biogeny|生源论
+bengali|孟加拉人
+bahaist|, adj. Bahaism, Baha'ism的变形
+bostryx|[医] 旋伞花序
+barabara|用草皮(干草)所盖之半地下房屋
+bedizen|俗丽地打扮(或装饰)
+breads|各种面包（bread的复数形式）
+banting|班廷式减肥疗法
+beechwoods|(beechwood 的复数) n. 山毛榉木材
+bearpaw|[加拿大英语]；(多用于陡峭崎岖地带的)熊爪雪鞋
+backsheesh|(=baksheesh)酒钱, 小费
+bootprint|靴印
+bouet|小手提灯
+bemusement|困惑
+banders|打包机；打捆工，[包装] 打捆机
+blinding|使人眩目的, 使人失去判断力的
+basifies|碱化( basify的第三人称单数 )
+biont|生物, 有机体
+boho|波希米亚式的, 颓废派文化人的, 放荡不羁的
+bequests|遗赠( bequest的复数形式 ); 遗产, 遗赠物
+bidar|(主要在阿留申群岛使用的)一种大型皮艇
+bucephalus|亚历山大王的战马
+bilinigrin|胆汁黑
+bally|非常, 极
+borderline|边界, 界线
+bolshevik|布尔什维克, 激进分子
+bourses|（非英语国家, 尤指法国的）股票交易所( bourse的复数形式 )
+blacktop|沥青, 柏油路
+browallia|布洛华丽茄（一种美国热带草本植物, 布洛华丽茄属, 开蓝色、紫色或白色花, 花萼聚合在一起 ）
+backwardness|(无比较级)向后, 相反, 倒, 回顾, 倒向, 落后, 进展缓慢, 迟疑, 智力差, 畏缩
+blitzkrieged|（德）闪电战；突然袭击
+billiard|台球的
+breadmaking|[机] 做面包
+budging|（使）稍微移动( budge的现在分词 ); （使）改变主意, （使）让步
+buchanan|布坎南
+bookdealer|[网络] 书籍批发商
+bargh|矿山企业
+blared|（喇叭或其他高音器具）刺耳地大声鸣响( blare的过去式和过去分词 ); 嘟嘟地发出; 高声发出; （音乐）声音响亮
+bacterize|借细菌作用治疗或改变
+bekinkinite|方沸霞辉岩
+banderol|小旗, 飘带
+buttercups|毛茛, 金凤花( buttercup的复数形式 )
+bondwoman|女奴隶
+bandore|三弦琴
+bro|兄弟（brother）
+berghaan|山鸡
+briars|石南( briar的复数形式 )
+beckiron|(=bick-iron)角砧, 双嘴砧
+bloodroot|美洲血根草
+bates|贝茨
+bioplasmic|[医] 原生质的
+bunkmate|<美>同寝室伙伴
+broussonetia|构属
+battled|有雉堞的；有城垛的
+banat|[印]巴纳特呢(印度制, 全毛, 宽幅)
+bryaceae|真藓科；伞藓科
+beadles|(beadle 的复数) n. 教区执事, 英国大学典礼仪仗官
+blastemas|[胚] 芽基；胚芽
+baud|[计] 波特
+baculine|棍棒的, 鞭刑的
+bola|流星锤（捕牛时使用的）；两端系有铅坠的绳子（等于bolas）
+bitterns|(bittern 的复数) n. 盐卤
+bongs|（锣、大钟）发出的响声( bong的名词复数 )
+brutus|布鲁特斯（罗马政治家）
+bedabbled|泼湿
+becher|比彻(姓氏)
+bastille|城堡；牢狱
+biokinetics|[医] 生物运动学
+blatancy|喧哗
+bolted|用螺栓栓的；脱离的, 分开的
+blurting|突然说出, 脱口而出( blurt的现在分词 )
+beaugregory|[医]白斑雀鲷
+bicaudate|具二尾的, 双尾的
+baptistery|洗礼池, 洗礼用桶
+biotas|(biota 的复数) n. 生物区
+boleros|波列罗舞( bolero的复数形式 ); 波蕾若外套
+basipetally|由顶往底地, 由上往下地
+biocenology|生物群落学
+butteris|(兽医等用的)削蹄刀
+bipyramidal|双锥体
+blackhearted|黑心的, 邪恶的
+borghese|鲍格才家族(意大利一贵族世家)
+batwoman|(英国军队中的)女勤务兵, 女传令兵
+burlesquing|（嘲弄地）模仿, （通过模仿）取笑( burlesque的现在分词 )
+bemoaned|为（某人或某事）抱怨( bemoan的过去式和过去分词 ); 悲悼; 为…恸哭; 哀叹
+butchers|屠夫( butcher的名词复数 ); 肉商; 杀人狂; 刽子手
+bilection|凸嵌线
+bins|箱子；素材屉；工具屉（bin的复数形式）
+bushfires|(bushfire 的复数) n. 林区大火
+bidders|出价者, 投标人( bidder的复数形式 )
+bichrome|两色的
+binocs|[复]n.=binocle
+bondholders|债券持有人, 公司债所有者, 公债证书所有者( bondholder的复数形式 )
+bombycid|蚕蛾
+bigamist|重婚者
+bearlike|像熊一样的
+brahmanical|婆罗门(教)的
+brahmanism|婆罗门教
+birthroot|[植]直立延龄草(其根可用作催产药)
+baisakh|印度历的2月
+bibles|圣经（Bible的复数形式）
+bechancing|使发生, 产生( bechance的现在分词 )
+bastardy|私生子地位, 私生
+baun|[人名] 鲍恩; [地名] [印度尼西亚] 包恩
+baggiest|宽松下垂的( baggy的最高级 ); 2。膨胀的
+beefiest|牛肉似的( beefy的最高级 ); 结实的, 肌肉发达的
+bilharzic|[医] 裂体吸虫的, 血吸虫的
+bullshits|胡说, 哄骗( bullshit的第三人称单数 )
+bowse|（用索[船]具等）拉起
+boardings|验船条款
+bedrenching|使湿透, 弄湿
+brinkmanship|边缘政策
+billhook|钩镰
+boatwright|造木船的匠人
+boart|[矿]圆粒金刚钻
+banknotes|钞票, 纸币( banknote的复数形式 )
+baconer|猪, (尤指用作熏咸肉而饲养的)肉猪
+bannisters|栏杆
+bisegment|(等分线或等分角的)平分部分之一
+befriended|以朋友的方式对待, 照顾( befriend的过去式和过去分词 ); 帮助
+blennuria|[医] 粘液尿
+bander|打捆机, 箍工
+bursati|夏疮
+biflorate|(=biflorous)具两花的
+bedevilment|着魔, 大混乱, 苦恼, 迷惑
+bacchantes|[希腊神话] [罗马神话] 酒神的牧师, 酒神的信徒, 闹酒狂饮者; 酒神祭司, 酒神追随者( bacchant的名词复数 ); 狂饮作乐者
+billionths|(billionth 的复数) num. 第十亿个, 十亿分之一
+balmier|疯狂的
+bygones|过去的（不愉快的）事( bygone的复数形式 )
+bulbously|bulbous的变形
+blitzes|闪电战, 大规模空袭( blitz的名词复数 ); 广告战
+befog|罩入雾中, 使困惑, 使模糊
+bikeway|自行车车道
+bristles|猪鬃（bristle的复数形式）
+broadcasters|播送设备( broadcaster的复数形式 ); 广播员; 撒播物; 广播公司
+bilboa|好剑, 一种铁制之脚镣
+booboisie|<美俚>愚民大众,愚民阶级
+boloney|废话, 瞎扯
+bungler|工作笨拙的人
+battements|敲打，拍打，捶打；敲击声，拍打声；搏动，跳动；间歇；活塞冲程
+bryophyte|苔藓植物
+blinder|眼罩
+bever|毕弗（姓氏）；瑞士格劳宾登州的一个小镇
+booklets|小册子( booklet的复数形式 )
+bulginess|凸面木杆
+bisexuality|雌雄同体[株]
+boldfaced|厚颜的, 冒失的, 粗体的
+beakiron|砧,砧子
+berkeleian|贝克莱的, 贝克莱主义的
+ballo|(Ballo)人名；(匈)鲍洛；(西)巴略；(意、罗)巴洛
+backstrap|对接贴板；后带；脊框；背带
+blackfoot|(北美印第安人中的)黑脚族人
+boethian|adj. Boethius, Anicius Manlius Severinus的变形
+bragger|吹牛
+bromized|[医] 溴化的
+blaring|（喇叭或其他高音器具）刺耳地大声鸣响( blare的现在分词 ); 嘟嘟地发出; 高声发出; （音乐）声音响亮
+brutalised|(brutalise 的过去分词) vt. 使丧失人类情感, 使变残忍; 残酷对待
+beruffled|有褶皱的
+brisling|小鲱鱼
+befallen|befall的过去分词
+baptize|施洗礼, 使经受考验, 命名
+bootlessness|无益
+battlement|城垛, 雉堞墙
+blaubok|[动]蓝灰弯角羚
+broughams|一种有篷马车
+beatrice|比阿特丽斯（女子名）；碧翠斯（女子名）
+banked|有坡面的；堆积的
+bamboos|竹, 竹竿( bamboo的复数形式 )
+burrawang|<澳>[植]螺旋大泽米(或其硬壳果)
+bewitchment|中妖术, 魔力, 妖术, 迷惑
+barbarically|野蛮人, 肆无忌惮, 粗野
+bumbledom|妄自尊大, 小官僚作风
+bellyached|无故抱怨( bellyache的过去式和过去分词 )
+basipetal|由上往下的
+beltless|无带的
+brittany|布列塔尼（法国西北部一地区）
+bossism|头领的支配, 领袖的政党控制
+benamed|为…取名
+beatster|<美>=beatnik
+buckjumper|跃腾使骑者跌落的马匹
+bluing|蓝色漂白剂
+bracketed|把…括在括弧内( bracket的过去式和过去分词 ); 把…归为一类
+birches|桦树, 桦木( birch的名词复数 ); （鞭打用的）桦条
+besnowed|覆以雪；使雪白
+botryose|总状的, 葡萄串状的
+bodysurfs|人体冲浪（指不用冲浪板而以胸腹冲浪）( bodysurf的第三人称单数 )
+bottega|画室; 小手工作坊；车间；工作室; 酒馆，酒店
+batton|[人名] [英格兰人姓氏] 巴顿 Batt的昵称
+bards|诗人( bard的名词复数 )
+bijous|<法>珠宝, 宝石, 小巧美观的东西( bijou的名词复数 )
+beechnut|山毛榉果实
+bentwood|弯木制的
+bodo|[医] 波陀虫属, 胞滴虫属
+blossoming|（植物）开花( blossom的现在分词 ); 发展; 长成; 变得更加健康（或自信、成功）
+busway|[电]汇流条通道, 配电通道, 母线通道
+bohunk|从东欧来的低层工人
+billbug|[昆]喙甲, 谷象(其幼虫食谷类植物及谷粒)
+bioassay|生物鉴定, 活体检定, 生物测定
+boxthorn|枸杞
+buttony|钮扣状的, 多钮扣的
+boozy|酩酊的, 嗜酒的
+bors|鲍斯爵士（圆桌骑士之一, 兰斯洛特爵士之侄）
+beest|Bachelor of Electrical Engineering 电机工程学士
+bradytocia|[医] 分娩延缓, 滞产
+buccinal|似号角的, 似喇叭的
+barosmin|布枯叶脂
+basilian|(4世纪基督教希腊教父)圣巴西勒的, 圣巴西勒修会的
+barwood|[机] 苏木
+begad|interj. 天哪
+behoving|<英>理应, 应该, 理所当然( behove的现在分词 )
+blustering|狂风大作的, 狂暴的
+bromid|溴化物;平凡佣俗的人
+blurbs|(blurb 的复数) n. 推荐广告
+beaconless|beacon的变形
+betrim|修剪；装饰, 装点
+baskerville|巴斯克维尔体(John Baskerville 所设计的古式艺术字体)
+bluestocking|女学者, 装做有学问的女人
+bounder|粗鲁的人, 暴发户
+beggiatoa|[医] 白硫菌属
+booleans|(Boolean 的复数) [计] 布尔的, 逻辑的, 布尔型
+brack|分等, 挑选；（爱尔兰）果子面包
+basenji|[动]巴辛吉(产于非洲的小猎狗)
+borneo|婆罗洲
+bouquetiere|<法> adj.[烹]加蔬菜作配菜的
+bilifaction|[医] 胆汁生成, 胆汁分泌
+bicuspidal|[医] 二尖的, 双尖牙的
+berteroa|[网络] 团扇荠属
+bradded|曲头钉( brad的过去式和过去分词 )
+boranes|(borane 的复数) n.[化]硼烷
+blackbeard|海盗黑胡子；黑海盗（电影名）
+boswellism|博斯韦尔写作传记的风格
+brev|brevetto (Italian=patent) （意大利语）专利; breviate 摘记; brevetted 名誉晋级的; breviary （天主教）每日祈祷书
+blastodisc|[生]胚盘
+biaxal|【晶体学】(晶体)具有两个光轴的, 双轴的
+breechcloth|腰布
+behoof|好处, 利益
+beamy|光亮的, 象梁一样的, 船身宽大的
+brachygraphy|速记；速记术, 速记学
+breviradiate|[医] 短形的(神经胶质细胞)
+bonce|头；脑袋
+buffalos|(buffalo 的复数) n. 水牛
+bihari|（印度）比哈尔语；印度比哈尔邦的居民
+bigoted|盲从的, 固执己见的, 执迷的, 顽固的
+behoves|<英>理应, 应该, 理所当然( behove的第三人称单数 )
+brankursine|老鼠簕属植物
+begging|乞讨, 乞求；行乞（beg的现在分词形式）
+bluecoat|警察, 士兵
+balconies|阳台( balcony的名词复数 ); （电影院等的）楼厅, 楼座
+bacteriaemia|[医]菌血症
+bunnia|<印英>商人, 零售商
+briton|大不列颠人, 英国人
+bettered|改善, 提高( better的过去式和过去分词 )
+barracks|兵营, 营房；简陋的房子；警察所（barrack的复数）
+biometrics|生物统计学
+barostat|恒压器, [空]气压调节器
+bulter|蝇绳
+bouzoukia|bouzouki的复数
+bardolater|[美]莎士比亚崇拜者
+bulgarians|保加利亚人[语]( Bulgarian的复数形式 )
+braciola|酒烩肉卷
+branchings|(branching 的复数) n. 分歧
+bourgeon|(=burgeon) 萌发, 发展
+bigmouths|<美俚>多嘴多舌的人( bigmouth的名词复数 )
+baroscopical|baroscope的变形
+bolides|(bolide 的复数) n. 火流星
+bowdlerised|(bowdlerise 的过去分词) vt. 删除（书刊、剧本等中）有伤风化的词语或场面
+birdfarm|<美俚>航空母舰
+brainwave|脑(电)波, 灵感
+breadnut|面包坚果，这种树的种子
+bennet|水杨梅, 花梗
+bucconasal|[医] 颊鼻的
+baguios|(Baguio 的复数) 碧瑶[菲律宾夏都](在吕宋岛西部)
+bashing|[矿]用废矸石充填采空区；猛击, 抨击
+blastochyle|[生]囊胚腔液
+backstretch|<美>(跑道的)非终点直道
+bushwhacker|丛林开伐者, 在丛林中开路者, 林中居民
+brank|口钳
+biradiated|双辐射的, 双射线的
+bromobenzene|[化] 溴苯
+blubbed|哭哭着说出( blub的过去式和过去分词 )
+berri|(Berri)人名；(法、意、阿拉伯)贝里
+brock|[动]獾；[英俚]坏蛋, 臭家伙
+bestar|用星遮蔽[装饰]
+bermudite|黑云沸煌岩
+berime|作诗, 以诗讽刺或祝贺
+blunderingly|浮躁地, 粗笨地
+benson|班森（男子名）
+boarwood|小球森佛尼亚
+boughten|买来的
+beckons|（用头或手的动作）示意, 召唤( beckon的第三人称单数 )
+bsf|backscatter factor 背（向）散射因素; beta-s-fetoprotein β-S-胎蛋白; bulk shielding facilities 整体屏蔽设备（反应堆）
+blunderhead|傻瓜, 笨蛋
+biomorphic|生物形态的
+boubous|（西非男女均可穿的）宽大长袍[西非当地语]( boubou的名词复数 )
+biannually|每半年地
+bivouacks|露宿( bivouac的第三人称单数 )
+burnets|(burnet 的复数) n. 小地榆, 美洲地榆
+baggie|垃圾袋
+buyback|回购, 回买协议
+bowstrung|（用弓弦）勒死, 绞死( bowstring的过去式和过去分词 )
+bedehouse|养育院, 养老院
+bibliopegic|bibliopegy的变形
+baston|座盘, 凸圆线脚
+bronchiolus|[医] 细支气管
+barrelhead|桶盖
+buteo|[鸟]鵟(宽翼,高翔,捕食啮齿动物)
+berthed|停泊( berth的过去式和过去分词 ); 占铺位
+biconvex|双凸的
+birotation|[化]变旋(现象), 旋光改变(作用)
+beroida|瓜水母目
+boringness|boring的变形
+brumby|[澳]野马
+bloomingness|blooming的变形
+broidery|[古, 诗]=embroidery
+boasting|吹嘘, 夸耀（boast的ing形式）
+blends|（使）混合( blend的第三人称单数 ); （使）混杂; （使）调和; 协调
+bided|等待, 停留( bide的过去式 ); 居住; 等待; 面临
+banderoles|筛绢
+bloodstone|鸡血石, 血滴石
+brioches|<法>奶油糕点, 奶油蛋卷( brioche的名词复数 )
+barbaralalia|[医] 异国语言涩滞
+bumblebees|<动>大黄蜂, 熊蜂( bumblebee的复数形式 )
+bathypelagic|深海区的, 居于深海区的
+baillie|(Baillie)人名；(西)拜利耶；(英)贝利
+bagasse|甘蔗渣
+behooves|利益, 好处( behoof的名词复数 )
+beduin|贝多因人（一个居无定所的阿拉伯游牧民族）
+belgrade|贝尔格莱德
+bulldogs|斗牛犬( bulldog的复数形式 )
+broadness|阔, 明白, 粗野
+barbarously|野蛮的, 语言不规范的, 残暴的, 粗俗的
+broths|肉汤( broth的复数形式 ); 厨师多了烧坏汤; 人多手杂反坏事; 人多添乱
+bulbus|[医] 球, 鳞茎, 球茎
+bovines|(bovine 的第三人称 -s形式) adj. 牛的；似牛的；迟钝的
+benchmarked|(benchmark 的过去分词) [计] 基准程序; 基准
+bubas|(buba 的复数) [医] 雅司病
+belittling|使显得微小, 轻视, 贬低( belittle的现在分词 )
+borers|(borer 的复数) n. 穿孔者, 钻孔器, 钻孔虫
+bisetous|【生物学】具二的
+barger|[姓氏]巴吉尔; [人名] 巴杰
+bombycine|薄绸, 绢丝织物, 薄绸, 蚕的, 丝的
+buttery|配膳室
+boswell|为好友或当代名人作传者
+bestrides|骑( bestride的第三人称单数 ); 高踞…之上, 横跨
+blackness|黑, 黑色, 邪恶
+butacaine|[化] 布他卡因
+birdmen|(birdman 的复数) n. 捕鸟者, 鸟类学家, 飞行家
+beadroll|名单, 一串念珠, 目录, 名册
+boophilus|[医] 牛蜱属, 方头蜱属
+berliner|柏林市民
+barsac|(法国西南部产的)巴锡白葡萄酒
+brujeria|[医]brujeria（拉丁美洲说法）
+bambino|小孩, 婴孩
+bletting|（果实的）软化
+braidism|[医] 催眠术
+basilicon|松脂石蜡软膏
+bratticed|间壁；隔板；风布
+belting|带料, 带类
+bookable|可预定的, 可预约的, 可预购的
+bradypepsia|消化徐缓
+baroness|男爵夫人, 女性男爵
+brutalise|使丧失人类情感, 使变残忍; 残酷对待
+benzol|不纯苯, 安息油
+briggs|布里格斯(人名)
+briary|briar的变形
+babbitted|巴氏合金( babbitt的过去式和过去分词 ); 巴氏合金轴承衬
+bolometric|测辐射热的
+beavered|（海狸似地）拼命工作( beaver的过去式和过去分词 ); 忙于（某事）, 勤奋工作
+braxy|羊快疫
+becalmed|(帆船)因无风而停止不动的
+boundedness|[计] 有界性
+bifistular|[医] 有两管的, 两管的
+beriberic|[医] 脚气病的
+bovey|(Bovey)人名；(英)博维
+berger|伯杰(姓氏)
+bankbooks|银行存折
+bobierrite|白磷镁石
+baaing|羊叫( baa的现在分词 )
+billeting|给（部队）安排住处( billet的现在分词 )
+bota|马靴；酒囊
+bulblike|bulb的变形
+burgoo|稠燕麦片糊(或粥)
+beached|海滩；湖滨
+butterflyer|【游泳】蝶泳运动员；游蝶泳者
+barhop|从一家酒店喝到另一家
+brioche|<法>奶油糕点,奶油蛋卷
+begrudging|嫉妒( begrudge的现在分词 ); 勉强做; 不乐意地付出; 吝惜
+bevelment|对切, 削平
+bluebell|开蓝色铃状花的植物
+benjy|班吉（人名）
+blankety|可憎的, 毫无道理的
+breadstuff|[医]制面包的原料, 面包
+belock|锁闭, 锁住
+bandages|绷带( bandage的名词复数 )
+bulldozes|强迫（某人做某事）(-sb +into doing sth)( bulldoze的第三人称单数 ); （用推土机）推倒; 铲平; （使）强行通过
+bailment|寄托, 保释
+buffi|buffo的复数形
+butties|(butty 的复数) n. （英）三明治；伙伴；监工
+bawneen|(爱尔兰农业工人穿的)本色粗法兰绒工作服, 淡褐色粗呢
+belomancy|箭卜术
+barege|[纺]巴雷格纱罗(作面纱等用)
+breadthways|横地
+bononian|博诺阶
+bhang|(印度)大麻, 大麻叶和花制成的麻醉品
+babylonia|巴比伦王国
+bobbinite|(矿山用)筒管[硫胺]炸药
+busts|半身雕塑像( bust的名词复数 ); 妇女的胸部; 胸围; 突击搜捕
+biodynamics|生物动力学
+booming|急速发展的
+bitartrate|[化]酒石酸氢盐,酸式酒石酸盐
+biquadratic|四乘幂的, 双二次的
+bruteness|brute的变形
+biotite|黑云母
+beys|(bey 的复数) n.(奥斯曼帝国,土尔其较小地区的)州长,土耳其对要人的尊称
+briefings|简令( briefing的复数形式 ); 简要指示; 详细指示; 作战指示
+bbl|桶
+bitterer|寒冷的,苦的,刺骨的,严酷地,剧烈地(比较级)
+blenniidae|鳚科
+brent|[经] 布兰特油田
+besottedness|besot的变形
+brandishing|挥舞( brandish的现在分词 ); 炫耀
+blending|混合, 混合物, 混成
+bookbindery|装订所, 装钉厂
+bookie|登记赌注者
+barons|男爵( baron的复数形式 ); 巨头; 大王; 大亨
+blithers|瞎谈（blither的第三人称单数形式）
+brigands|土匪, 强盗( brigand的复数形式 )
+bloodleaf|[网络] 洋苋菜
+balling|[化] 成球
+bootlegger|造私酒者, 走私者, 走私犯
+burglarized|<美>闯入…盗窃( burglarize的过去式和过去分词 ); 破门盗窃
+bawcock|好人
+brainpower|智能, 智囊
+buttstrap|对接搭板, 平接盖板
+butylate|[化]把丁基引进( 化合物) , 使丁化
+belgic|Belgae 人的,荷兰或比利时的
+bromin|溴[非金属元素]
+bridgeheads|桥塔, 桥头堡( bridgehead的复数形式 )
+brambly|荆棘多的, 有刺的
+belgard|(Belgard)人名；(德、俄)贝尔加德
+berith|[网络] 比利土；贝列；比利多
+brinjaul|茄子
+bullnose|艏导缆钳
+banging|消音器内爆炸
+bushbuck|南非羚羊
+brachinus|[网络] 射炮步甲
+bonser|[人名] [英格兰人姓氏] 帮瑟绰号，来源于古法语，含义是“好先生”(good sir)
+boondocker|(=combat boot)[美俚]野战军靴
+brawniness|肌肉结实, 顽强
+badmash|恶汉, 歹徒
+battlemented|有城垛的
+borrowing|[经] 借款, 贷款
+brashness|自以为是, 莽撞无礼
+braggadocios|自夸, 吹牛大王( braggadocio的名词复数 )
+beveller|研磨仪；磨石板机
+butylamine|[化] 丁胺
+bluets|开蓝花的植物, 矢车菊( bluet的名词复数 )
+braces|背带
+bystander|旁观者, 目击者
+barylite|硅钡铍石
+backcountry|偏僻地区；边远地区；穷乡僻壤
+biriani|印度比尔亚尼菜
+beachhead|滩头堡
+banff|班芙（英国苏格兰东北部一座港市）
+bronchoscopy|[医]支气管镜检(查)
+baline|棉经马鬃纬衬里
+bibbler|起泡器
+bechamel|贝夏梅尔调味白汁
+bowhead|北极露脊鲸
+breezily|吹微风地, 活泼地, 轻松地
+blackmailer|勒索者, 敲诈者
+bisexualism|雌雄异体
+basipodite|基节, 底肢节
+bulbar|球茎的
+barometrical|气压计的, 测定气压的
+butanol|[化]丁醇
+babushka|头巾
+baronne|<法>n.= baroness
+biodegrading|生物递降分解( biodegrade的现在分词 )
+bachelordom|独身, 独身身份
+bazars|（东方国家的）市场( bazar的名词复数 )；街市；（出售花哨商品等的）小商品市场；百货商店
+bedaubs|用（涂料等）涂抹, 花哨地装饰( bedaub的第三人称单数 )
+bini|比尼人
+blunter|率直的( blunt的比较级 ); 直言不讳的; 钝的; 生硬的
+bigonial|[医] [连结]二颌角点的
+bushland|未开垦森林地带
+biconjugate|重对的, 双共扼的, 双对的
+bindable|可绑定的（bind的变体）
+bracked|(brack 的过去时) n. 分等, 挑选；（爱尔兰）果子面包
+breathy|带呼吸声的
+bamboozler|bamboozle的变形
+bloodmobile|巡回采血车
+beroe|[网络] 瓜水母；贝罗拟鮟鱇；比路尔
+budgeting|[计] 预定, 预算
+bradykinesia|[医]运动徐缓
+bedmaker|寝室清洁工, 制床的家具匠
+bankrolling|提供资金( bankroll的现在分词 )
+bomarea|[网络] 抱马；竹叶百合属
+biaural|有两耳的, 两耳用的, [声]双耳声的
+brachyskelic|[医] 短腿的
+bibliomaniac|有藏书癖的, 藏书狂的
+beltway|<美>(环绕城市或某一地区的)环路,环形公路
+bicapsular|[植]两蒴的
+britzska|四轮敞篷马车
+bypassed|绕过, 避开( bypass的过去式和过去分词 ); 不顾
+blankbook|空白账簿, 未登录账簿
+berobed|穿袍的
+bitterweed|含有苦素的植物(如豚草等)
+benthal|海底, 水底
+billtong|(在南非洲)干咸肉条
+bombed|遭到轰炸的；[美俚]醉的；被毒品麻醉了的
+bureaucratic|官僚的
+blastemic|[医] 胚基的, 芽基的
+biostrome|[地]生物层
+barrators|诉讼教唆犯；买卖圣职或官位者
+betterly|更好地
+buttoning|圆钮定位法
+braziers|火盆, 黄铜匠( brazier的复数形式 )
+bigamists|重婚者( bigamist的复数形式 )
+birk|比尔克（姓氏）
+brachylogy|简明, 省略语
+beanbag|豆子袋(儿童投掷游戏用)
+braceros|(bracero 的复数) n.<美>(合法入境干农活的) 墨西哥短期合同工
+brainteaser|难题, 谜
+bedposts|（四帷柱床的）床柱( bedpost的复数形式 )
+biffin|红苹果
+blabbing|瞎说乱讲, 泄露秘密( blab的现在分词 ); 泄漏（秘密）
+brittlely|易碎地(brittle的副词形式)
+blackens|（使）变黑, 把…弄黑( blacken的第三人称单数 ); 发暗; 败坏（名誉等）, 诋毁
+brawled|打架, 争吵( brawl的过去式和过去分词 )
+bluetick|蓝色快狗
+banda|茅屋；班达（墨西哥舞曲）
+bagginess|膨胀状
+breastless|breast的变形
+bucked|高兴的, 快乐的；疲倦的, 累的
+brooklet|细流, 小河
+batata|甘薯,白薯,山芋
+brahman|婆罗门之一员
+behemoth|庞然大物
+buggers|同性恋者, 鸡奸者, 兽奸者( bugger的名词复数 )
+boatyards|(boatyard 的复数) n. 船坞；造船厂
+bedevil|使痛苦, 使苦恼, 虐待
+breathes|呼吸( breathe的第三人称单数 ); 轻声说话; 低语; 低声说
+burseed|(=stickseed)[植]鹤虱属物
+buzzers|<口>门铃( buzzer的复数形式 ); 蜂音器（的声音）; 发嗡嗡声的东西或人; 汽笛
+brindle|斑, 斑纹
+boskiness|bosky的变形
+blasted|枯萎的, 被破坏的, 被咒的
+bipartizan|由两党(或两派)代表组成的；代表两党(或两派)的, 两党的, 两派的
+birthing|和生育有关的；在分娩过程中使用的
+bathymetric|深测法的
+buffooneries|撒科打诨；插科打诨
+bedaubing|用（涂料等）涂抹, 花哨地装饰( bedaub的现在分词 )
+bosky|矮林丛生的, 有丛林的, 有树荫的
+booked|记载入册的, 登记了的
+bixaceae|[医] 红木科, 胭脂树科
+bharal|岩羊, 崖羊(产于喜马拉雅山区)
+begrimes|积垢, 弄脏（begrime的第三人称单数形式）
+balsamic|香膏质的, 如香油的, 镇静的
+bocardo|(Bocardo)人名；(西)博卡尔多
+bisectional|bisection的变形
+baloney|胡扯, 大红肠
+berbamine|[化] 小檗胺
+bosses|老板( boss的名词复数 ); 经理; 上司; 工头
+bullboat|牛皮浅水船
+byway|旁道, 偏僻小路
+brutify|(使)具兽性, 使残酷
+borehole|地上凿洞
+botanized|研究植物, 采集植物( botanize的过去式和过去分词 )
+breastbone|胸骨
+bioactivity|生物活性,生物活度( 指杀虫剂等对生物体的影响)
+bloodied|血污的( bloody的过去式和过去分词 ); 流血的; 屠杀的; 残忍的
+bisayan|(菲律宾)米沙鄢群岛(的)
+blancher|热烫机, 烫漂器
+bayamo|(古巴)一种强风(由内陆山区所吹来的)
+boomage|护舷费
+benefices|圣俸；有俸圣职；僧侣之禄
+blacktops|柏油路；沥青质原料
+beguilement|欺骗, 欺瞒, 轻松地消磨(时间)
+beamer|投影机, 整经机
+bacula|baculum的复数
+blandisher|blandish的变形
+barmen|巴门(联邦德国城市)
+boce|Board of Customs and Excise <美国>关税和国内税务局
+bursts|爆炸( burst的第三人称单数 ); 突然发作; 突然打开; 挤满
+bookstack|书架
+bromometry|定溴量法, 溴滴定
+bemas|高座, 讲坛( bema的名词复数 )
+blandish|谄媚, 奉承, 讨好
+braconid|小茧蜂
+baned|灾星；祸根；烦人的事；使某人的生活不快（或不幸）的原因
+broadening|增宽
+blackie|黑人
+beaconage|信号系统, 负责保养信号系统的机构
+betrayers|(betrayer 的复数) n. 叛徒, 叛国贼
+bonsoir|int. （法）晚安；晚上好
+batterer|虐妻者; 虐待家属者
+brassily|厚脸皮地
+blusterers|(blusterer 的复数) n. 咆哮的人, 吓唬人的人
+braced|撑牢的；拉牢的；支撑的
+bogeying|(bogey 的现在分词) n. 妖怪, 可怕的人(物)
+ballyhooing|（为…）大吹大擂( ballyhoo的现在分词 )
+blackener|给物品上黑色的工人
+berkshire|巴克夏猪
+blasthole|炮眼
+benefactions|(benefaction 的复数) n. 善行, 施惠助人, 捐赠
+banalities|(banality 的复数) n. 平凡, 陈腐
+bijouterie|<法>[总称]珠宝首饰
+birders|(birder 的复数) n.猎鸟者
+bunsenite|绿镍矿
+blackwood|黑檀
+bedchamber|卧房, 卧室, 寝室
+blowfish|河豚
+bove|波夫（姓氏）
+bocca|小锥体
+breakaxe|[网络] 突击队
+bestill|使静, 使镇定
+brilliantine|生发油, (棉毛交织的)亮光薄呢
+blackballing|投票反对, 排斥( blackball的现在分词 )
+bromeliaceae|凤梨科
+battalions|（陆军的）一营（大约有一千兵士）( battalion的复数形式 ); 协同作战的部队; 军队; （组织在一起工作的）队伍
+bespeaks|预定( bespeak的第三人称单数 ); 订（货）; 证明; 预先请求
+boulevards|大街, 林阴大道( boulevard的复数形式 )
+bisectrix|等分角线
+bulldozers|推土机( bulldozer的复数形式 ); 恐吓者, 威胁者
+barbate|有须的, 有芒的
+bedrench|使湿透
+bangtail|<美俚>赛马用的马
+battiness|batty的变形
+bisulphate|[化]重硫酸盐
+benzazide|苯甲酰叠氮
+blowball|絮球
+browsed|吃草( browse的过去式和过去分词 ); 随意翻阅; （在商店里）随便看看; （在计算机上）浏览信息
+benzazole|吲哚, 氮茚
+braids|发辫( braid的名词复数 ); 辫子; 穗带; 辫带
+blechnum|乌毛蕨属
+buffoonish|buffoon的变形
+bowled|参加保龄球赛（bowl的过去式与过去分词形式）
+brahmoism|新印度教
+branched|分枝的；枝状的；有枝的
+biosociology|生物社会学
+brassavola|[网络] 白拉索兰；白拉索兰属；白拉索属
+beachfront|海滨地区
+boscage|丛林, 草丛
+bookrest|阅书架
+billposting|广告(或通告)张贴
+blockaded|实行封锁( blockade的过去式 ); 阻塞, 挡住
+brushback|[棒](投手为迫使击球员退离本垒投出的)头侧球
+beastings|(=beestings)(母牛生产后的)初乳
+bangup|<俚>把(牢房)锁上,把…关押起来
+bringer|带来...的人；提供者
+brooked|容忍, 忍受（brook的过去式与过去分词形式）
+bloodlines|（动物的）血统, 血族( bloodline的复数形式 )
+brutifying|,vi. brutify的变形
+blurring|[计] 模糊, 混乱, 斑点多
+beastliness|兽性, 酩酊大醉, 贪食, 粗鲁, 淫猥, 残暴
+bottoming|[计] 浓度饱和
+buenos|(Buenos)人名；(西)布埃诺斯
+bequeathing|将…遗赠给( bequeath的现在分词 ); 将（知识等）传给（后人）
+brahmana|婆罗门（印度最高的种姓，等于Brahman）；梵书（印度教经典《吠陀》的一部分）
+bolthole|能躲避危险的地方
+bleakly|风吹雨打地；荒凉地；阴郁地
+brassbound|包黄铜的; 顽固保守
+belugas|(beluga 的复数) n. 大白鳇, 白鲸
+bestreak|加以条纹
+begild|[网络] 开始
+brashy|易碎的, 阵雨的, 脆的
+bioelectric|生物电的
+bradenhead|填料函式套管头
+barhopping|从这家酒店喝到那家( barhop的现在分词 )
+bettering|改善, 提高( better的现在分词 )
+brandying|把…在白兰地酒中浸泡（brandy的现在分词形式）
+batis|(Batis)人名；(法)巴蒂
+byssinosis|绵纤维吸入性肺炎
+basidiospore|[植]担子孢子
+borning|(born 的现在分词) a. 天生的
+betise|<法>愚蠢, 愚行
+bioassayed|给…作生物测定, 给…作生物鉴定( bioassay的过去式和过去分词 )
+beaky|像鸟嘴的
+ballute|气球降落伞
+bustiest|大胸脯的, 胸部丰满的 (busty的变形)
+brewage|酿制饮料, 酿造
+baronies|男爵爵位或领地( barony的名词复数 )
+bela|[医] 印度枸桔(芸香科)
+bortsch|罗宋汤(俄罗斯甜菜浓汤)
+bevvy|饮料（尤指含酒精饮料）
+blacking|黑色鞋油, 黑色涂料
+balteus|古罗马人的腰带[肩带]
+bigeminate|成对的, 二联的
+bong|锣, 大钟等的当当声
+braillist|专长(或擅长)点写布莱叶盲字者；以点写布莱叶盲字为业者
+besmears|涂抹（besmear的第三人称单数形式）
+badmouthed|说坏话
+barres|(barre 的复数) n. 扶手杠（装在舞蹈演员练功房内墙上）；（箱包的）横档
+bionic|超越人力的(速度/力量)
+beck|点头示意, 招手, 小河
+biweeklies|两周一次地（的）( biweekly的名词复数 )；两周一次地（的）
+bogle|妖怪, 可怕的人(物)
+balestra|击剑时冲刺后朝对方的一跃
+blowfishes|河豚, 黄麻鲈( blowfish的名词复数 )
+blindness|盲目, 失明, 愚昧
+braider|编穗带的人, 缝辫机, 穗带制作机
+bewaring|当心（beware的现在分词形式）
+bridoon|小辔头
+befools|愚弄
+buba|[医] 雅司病
+balds|adj. 秃顶的；光秃的；单调的；无装饰的
+bilharzial|[医] 裂体吸虫的, 血吸虫的
+ballonets|升降气袋；小气囊
+britons|英国人( Briton的复数形式 )
+bolstered|支持( bolster的过去式和过去分词 ); 支撑; 给予必要的支持; 援助
+brokage|代理人(中间人)业务,经纪业,付给经纪人的手续费
+brownout|部分灯火管制, 部分停电
+boh|interj. 嘘
+baa|羊叫声
+betterment|改进, 改善, (不动产)增值
+bollards|（行人安全岛的）短柱, 护柱( bollard的复数形式 ); （船上或码头上的）系船柱
+bathetically|bathetic的变形
+bireme|双排桨快艇(古地中海上一种海船)
+bisontine|bison的变形
+bismuthyl|氧铋基
+burgesses|(burgess 的复数) n. (自治市的)市民, 自由民
+bicycling|[计] 联播
+beechy|山毛榉甚多的, 山毛榉的
+birthmark|胎记, 胎痣
+brigandism|土匪行为, 掠夺
+breakers|爆烈人（一款街机游戏的名称）；碎浪区；碎浪
+braking|制动系统；刹车；制动（brake的现在分词）
+battlements|雉堞, 城垛
+bucrane|(象牛的头盖骨的)雕刻装饰品
+boschvark|[动]南非野猪
+banksia|[植]拔克西木属
+beavering|（海狸似地）拼命工作( beaver的现在分词 ); 忙于（某事）, 勤奋工作
+bricken|[人名] 布里肯
+brows|眉毛（brow的复数）
+batons|（警察武器）警棍( baton的复数形式 ); （乐队指挥用的）指挥棒; 接力棒
+befouled|弄臭( befoul的过去式和过去分词 ); 弄脏; 使堕落; 败坏
+bimotored|双马达的
+binucleolate|(细胞)双核仁的
+bistoury|手术刀
+bacterioidal|[网络] 杀菌
+breakfasts|早餐, 早饭( breakfast的名词复数 )
+bandannas|印花大手帕( bandanna的复数形式 )
+buffering|[计] 缓冲, 隔离
+bioseston|生物浮游物, 微生浮游物, 浮游微小生物
+bunds|(bund 的复数) (政治上的)同盟, 联盟
+bumelia|[网络] 鲍米亚
+borolanite|霞榴正长岩
+bibbs|[人名] 比布斯
+bemoaner|bemoan的变形
+bulkiness|庞大, 笨大
+bergaptene|[化] 佛手内酯
+bullocks|阉牛, 一岁半以下的小公牛( bullock的复数形式 )
+bathysphere|深海球形潜水器
+brachium|肱, 上臂
+belady|[计] 贝莱迪
+boarhound|用以猎野猪的大猎狗
+blurred|模糊不清的；被弄污的
+beerier|(beery 的比较级) a. 啤酒的, 象啤酒的, 喝啤酒喝醉的
+backyard|后院, 后庭
+backway|后退距离
+bedighted|装扮好的, 装饰好的( bedight的过去式和过去分词 )
+birn|(Birn)人名；(英)伯恩；(德、俄、芬)比尔恩
+bipropellant|& adj.二元推进剂(的),二元燃料(的)
+bullseye|靶眼；圆心；牛眼灯
+boogie|(随着摇摆舞音乐节奏)摆动身体, [蔑]黑人
+blackguardly|流氓的, 粗鄙的
+bocci|意大利式草地滚木球戏
+bab|巴布（女子名, 等于Barbara）
+barbone|水牛(出血性)败血病, 长须病
+biotoxin|生体毒素
+bridged|在…建桥( bridge的过去式和过去分词 )
+babu|<印> 相当于Mr或Sir的称谓
+bruno|布鲁诺（男子名）
+beadswoman|救济院受施之女人, 祈求冥福之女人
+bronchia|[解]支气管
+bashkir|巴什基尔语；巴什卡尔文
+bondswoman|[法律]女保人, 女保证人, 女保释人
+barathrum|(pl. -thra)无底洞, 深渊
+busing|以公共汽车接送
+biotech|生物技术
+bottlebrush|洗瓶刷, 天花菜类
+ballistae|（发射石块的）古代武器 (ballista的变形)
+blam|(Blam)人名；(罗、塞)布拉姆
+blunts|把…弄钝, 减弱( blunt的第三人称单数 )
+byzant|银币饰
+biclavate|[医] 两端成棒状的
+blennogenic|[医] 生粘液的
+biocatalytic|生物催化的（生物学术语）
+bonduc|[植]加拿大皂荚, 印度云实, 大托叶云实
+bedye|[机] 著色, 施彩色, 染(色)
+bowditch|鲍迪奇（姓氏）
+bewailed|因（某事物）而悲愁, 悲哀( bewail的过去式和过去分词 )
+buccinidae|[无脊椎] 蛾螺科
+budwood|接穗
+brinjal|[医]茄子
+buddles|(buddle 的第三人称 -s形式) [矿]n.淘汰盘,洗矿槽
+blarneyed|, vi. blarney的变形
+brawler|争吵者, 喧闹者
+bivium|[动]二道体区
+burnup|燃耗
+bacchic|狂饮的, 闹宴的, 酒神的
+bookmobile|车上图书馆, 流动图书馆
+bleacher|漂白业者, 漂白剂, 露天看台
+backsliding|倒退；滑坡；故态复萌（backslide的现在分词）
+buret|滴定管, 玻璃量管
+blader|平路机, 推土机
+begirds|围绕, 缚, 以带子缠绕（begird的第三人称单数形式）
+bulkage|大体积物质
+biophysical|[医]生物物理学的
+bodywork|车身
+brewhouse|酿酒厂,啤酒厂
+blubbering|[机] 提取鲸脂
+bronchiloquy|支气管语音
+bide|等候, 住, 忍耐, 等待
+blinky|[美国方言](牛奶)酸的
+balinger|bale的变形
+beeman|(Beeman)人名；(英)比曼
+bodhisat|[宗]菩萨
+bespectacled|戴眼镜的
+butterscotch|奶油糖果
+bolthead|螺钉的头, 长颈烧瓶, （枪）机头
+bridling|给…套龙头( bridle的现在分词 ); 控制; 昂首表示轻蔑（或怨忿等）; 动怒, 生气
+behen|[医] 贝昂(俗名,一般指辣木Moringa oleifera,有时也指一些不同属的植物)
+bude|(Bude)人名；(德、罗、塞)布德
+bemaul|严重打伤
+bemedalled|挂着勋章的
+bellyband|腹带
+beery|啤酒的, 象啤酒的, 喝啤酒喝醉的
+blimpish|高傲无知又极端保守的；（英国报章漫画人物）毕灵普上校式的
+baccated|【植物学】；浆果似的, 浆果状的
+bursarial|财务主管的
+blinders|马眼罩
+barognosis|重觉辨识力, 压觉, 辨重能
+benzalazine|苄连氮, 亚苄基吖嗪
+biggonet|[苏]亚麻布制妇女便帽(压发帽)
+bogy|妖怪, 可怕的人(物)
+brubru|[气]布鲁布鲁飑(印尼的一种飑)
+balmiest|芳香的；温和的；止痛的 (balmy的变形)
+blennorrhoea|脓性粘液溢
+benzophenone|[化]苯甲酮
+bloodstock|纯种马
+blissfully|幸福地, 充满喜悦地
+beheading|[法] 斩首
+blastocoelic|[医]囊胚腔的
+bordered|有边的
+bestrid|bestride的过去分词
+boniness|多骨, 骨瘦如柴,憔悴
+barer|光秃秃的( bare的比较级 ); （房间、柜子等） 空的; 赤裸的; 刚好够的
+brines|卤水( brine的第三人称单数 ); 浓盐水; 海; 海水
+burghs|(burgh 的复数) n. 自治市
+bilimbi|黄瓜树, 三捻树果; 三敛
+batfowler|batfowl的变形
+bioxide|二氧化物
+baldaquin|华盖, 龛室
+blowpipe|吹气管
+bookmen|饱学之士( bookman的名词复数 ); 学者; 文人; <俗>出版商
+bable|通天塔（等于巴别塔）
+basidiophore|[医] 担子柄(菌)
+bedbugs|臭虫, 木虱, 床虱( bedbug的复数形式 )
+bricky|砖的
+bechanced|使发生, 产生( bechance的过去式和过去分词 )
+branchiae|鳃; 鳃( branchia的名词复数 )
+brownest|褐色的, 棕色的, 咖啡色的, 赭色的；皮肤(晒得)黝黑的, 皮肤给晒黑了的；肤色深的
+bewhiskered|有髯的, 陈旧的
+bryological|bryology的变形
+brotherless|无弟兄的
+breeziness|微风的轻吹, 活泼
+besetment|(被)包围, 烦恼, 烦心事, (被)困扰, (被)围攻
+blew|blow的过去式和过去分词
+bigamously|犯重婚罪地, 卷入重婚
+barebone|[人名] 贝邦
+benzine|轻质汽油
+buybacks|回购（buyback的复数）
+battue|<法>用驱赶方法狩猎,大量捕杀,大屠杀
+bino|[西](=beno)(菲律宾的)棕榈烧酒
+bodement|预兆
+bailout|跳伞
+bronchioles|(bronchiole 的复数) n. 细支气管
+benzanthrone|苯并蒽酮
+bibation|饮
+browned|褐色的, 棕色的, 咖啡色的, 赭色的；皮肤(晒得)黝黑的, 皮肤给晒黑了的；肤色深的
+bullate|起水泡的, 肿胀的
+bucketed|用桶装, 用桶运（bucket的过去式与过去分词形式）
+brob|钩头钉, 弯头道钉
+bivittate|[动]具一对纵条纹的
+blatter|滔滔不绝地说
+bulls|公牛队（美国篮球队名）；布尔斯（地名）
+bandoline|发胶
+barbarity|残暴的行为, 残忍, 粗鄙
+bronchostomy|[医] 支气管造口术
+bearding|类似胡须的生长物
+bedamn|[网络] 骂
+bedel|[法] 庭丁, 执达员, 下级工作人员
+baster|用脂油润肉者, 烤肉时淋脂油的管子
+bartramia|[网络] 珠藓属；珠苔属
+backrest|靠背
+bayed|（尤指猎犬等）吠, 叫, 咆哮（bay的过去式与过去分词形式）
+bonkers|发疯
+baratheas|(barathea 的复数) n.巴拉西厄(一种用丝或毛织成之绸或呢)
+bdellotomy|[医] 切蛭吸血法
+barly|(Barly)人名；(法)巴利
+bispinose|具两刺的
+balagan|[网络] 巴拉甘
+brandle|(Brandle)人名；(德)布兰德勒
+boucles|仿羔皮呢毛圈花式线( boucle的名词复数 )
+baubles|小玩意( bauble的复数形式 ); 华而不实的小件装饰品; 无价值的东西; 丑角的手杖
+boser|波沙牌手表
+borzoi|俄国狼狗
+bassinets|(bassinet 的复数) n. 摇篮, 摇篮车
+boraginaceae|[医] 紫草科
+brid|(Brid)人名；(西)布里德
+bemusedly|bemused的变形
+blebs|(bleb 的复数) n. 水泡, 气泡, 疱疹
+bridler|马勒(包括笼头、嚼子、缰绳等), 马笼头, 辔头；马勒形物
+barotropic|正压的
+biciliate|[生]双纤毛的
+beguilements|(beguilement 的复数) n. 欺骗, 欺瞒, 轻松地消磨(时间)
+bannerets|(banneret 的第三人称 -s形式) n. 小旗
+burga|布加风
+biosciences|(bioscience 的复数) n. 生物科学
+barylalia|[医] 言语不清
+biblicist|圣经学者, 圣经通
+bingos|宾戈游戏 (bingo的变形)
+buccinator|颊肌
+bifocals|双光眼镜
+bunted|顶撞, 推, 打( bunt的过去式和过去分词 )
+bedecked|用（旗子或花等）装饰的
+bridgewall|火墙
+bradypodidae|[脊椎] 树懒科
+bifoliolate|[植]具两小叶的
+brotulidae|油身鱼科
+bioclimatic|生物气候学的
+bleck|黑色物质, 黑鞋油, 黑润滑膏
+blore|(Blore)人名；(英)布洛尔
+boobies|呆子, 傻瓜( booby的名词复数 ); （俚）女人乳房
+bandsmen|军乐队成员, 铜管乐队队员( bandsman的复数形式 )
+benignancy|善良, 慈祥, 温厚
+byronic|拜伦的, 拜伦诗风的, 冷笑而浪漫的
+biles|(bile 的复数) n. 胆汁, 坏脾气, 暴躁
+bluehearts|[单复同]n.[植]美洲鬼羽箭
+badenite|砷铋镍钴矿
+blancard|优质半漂白亚麻布
+betaine|[化]甜菜碱, 三甲铵乙内酯
+brulee|燃爱
+bunkerage|贮煤[油]设施
+barbells|(barbell 的复数) n. 杠铃
+batea|(硝酸钠)晶体收集器
+batlike|似蝙蝠的
+biker|骑自行车/摩托车的人
+byssine|[医]细丝状的, 棉絮状的
+bassoons|（一种吹奏乐器）巴松管, 低音管( bassoon的复数形式 ); 巴松管吹奏者
+birkremite|(charnockite)紫苏花岗岩
+biomasses|（单位面积或体积内的）[生态] 生物量
+bakehead|[俚]火车司炉
+blackacre|【法律】黑地，黑田(辩论中的假设名字，与whiteacre相对)
+bessarabian|比萨拉比亚的,比萨拉比亚人的
+bosporan|Bosporus Bosphorus 的变形
+barbero|(Barbero)人名；(法)巴贝罗；(西)巴韦罗；(意、葡)巴尔贝罗
+brooklynite|布鲁克林（美国纽约西南部的一区） (Brooklyn的变形)
+booklouse|【昆虫】家书虱；书虱，书蛀虫，书蠹
+blockheaded|痴呆的, 愚蠢的
+balmacaan|宽身连肩袖大衣
+boogerman|[美国方言] = bogeyman
+bizet|比才（法国作曲家）；间奏曲
+bathoflore|减荧光物
+brutalizes|使丧失人类情感, 使变残忍( brutalize的第三人称单数 ); 残酷对待; 变残忍, 变粗暴
+bottlehead|剑吻鲸, 巨头鲸
+bornyl|[医] 龙脑基, 冰片基, 茨醇基
+beadsmen|为他人祈祷求福者( beadsman的名词复数 )；济贫院收容的受济人
+bicentric|有两个起源中心的, 有两个分布中心的
+braziery|黄铜细工
+benmost|最内的, 最深的
+bicycles|自行车；脚踏车（bicycle的复数）
+bloating|[机] 发肿
+bungling|笨拙的, 粗劣的
+backbeat|(尤指摇摆舞曲的)基调强节奏
+begrimed|污秽的
+brawly|喧嚷的, 好口角的
+barotaxis|趋压性, 向压性
+balmony|[医] 窄叶蛇头草
+buoyage|浮标, 浮标装置, 浮标装置方法
+bopeep|藏猫游戏
+beadlike|[机] (珍)珠状的
+bowdlerizer|bowdlerize, bowdlerise的变形
+bondwomen|女奴隶( bondwoman的名词复数 )
+bellyache|腹痛
+boosting|助推, 局部通风；升压加力
+binturong|[动]熊狸
+blellum|<苏格兰><古>饶舌的懒鬼
+benty|硬草的, 多硬草的
+blebby|气泡状的
+biographee|传记中的主人公
+bicarpellary|两心皮的
+blithely|欢乐的, 轻率的, 无忧无虑的, 愉快的
+bugging|[法] 窃听
+benison|祝福
+biffing|打( biff的现在分词 )
+bestudded|bestud的变形
+beechwood|山毛榉木材
+baulking|错误；失败；障碍（等于balk）
+barbas|[pl. ] 美洲牡荆
+betelgeuse|猎户星座
+beckoned|（用头或手的动作）示意, 召唤( beckon的过去式和过去分词 )
+beaning|击或打…的头部（bean的ing形式）
+burnished|抛光的, 光亮的
+bighearted|宽大的, 慷慨的
+brunet|浅黑肤色的男人
+bocage|(陶瓷艺术品的)树木花草背景
+bummers|失败( bummer的复数形式 ); <美>无赖; <俚>懒汉; <非正>令人不愉快的经历（事件）
+bizardite|霞黄煌斑岩
+bridegrooms|新郎( bridegroom的复数形式 )
+barkey|[俗]船
+bumpiest|困难重重的( bumpy的最高级 ); 崎岖的; （使） 处境艰难; 气流不稳的
+brogans|(brogan 的复数) n. (粗革高帮)劳动靴
+baikerite|[矿]贝地蜡(碳氧化合物)
+beanery|廉价小饭店
+breviped|有矮脚的
+boatage|小船运货
+bedraggles|弄脏, 弄湿, 弄皱（bedraggle的第三人称单数形式）
+burbler|burble的变形
+belowground|[化] 地面以下
+biasteric|[医] 双星体的
+besotted|愚蠢的, 糊涂的
+babylon|巴比伦
+basicranial|[医] 颅底的
+barograph|自动记录式气压计
+bemire|使弄得混身泥巴
+betakes|去, 往, 到（某处、某人处）( betake的第三人称单数 )
+bouchees|小肉馅饼（bouchee的复数）
+blubberer|鲸脂；哭泣 (blubber的变形)
+brownback|[人名] 布朗巴克
+ballots|投票表决( ballot的名词复数 ); 选举; 选票; 投票总数
+beleaguering|围攻( beleaguer的现在分词 ); 困扰; 骚扰
+berdaches|男同性恋者
+blurry|模糊的, 不清楚的, 污脏的
+bromphenol|[医] 溴酚
+bandmaster|管乐队指挥
+blin|俄式薄煎饼
+bristlelike|bristle的变形
+bylaws|章程；规章制度；细则（bylaw的复数）
+bibulously|吸水的；嗜酒的 (bibulous的变形)
+buckaroo|牛仔, 牧童
+bovate|[古]英国一种土地面积单位
+birdless|adj. bird的变形
+basiotribe|[医] 碎颅器
+bides|等待, 停留( bide的第三人称单数 ); 居住; （过去式用bided）等待; 面临
+basing|平稳期；固结于基座
+besottedly|besot的变形
+belligerency|交战状态
+butanes|(butane 的复数) n. 丁烷
+blotches|（皮肤上的）红斑, 疹块( blotch的名词复数 ); 大滴 [大片]（墨水或颜色的）污渍
+bilophodont|[动]双脊齿型, 双脊牙型(动物)
+biffins|(biffin 的复数) n. 红苹果
+biofog|生物雾
+belligerents|交战的一方（指国家、集团或个人）( belligerent的复数形式 )
+blenches|（因惊吓而）退缩, 惊悸（blench的第三人称单数形式）
+bronchitic|支气管炎的
+barodynamics|重型结构力学
+brocket|(欧洲赤鹿的)两岁雄鹿, 南美小鹿
+bibitory|饮酒的, 纵酒的
+bullarium|教皇敕书大全
+bred|breed的过去式和过去分词
+boomeranging|（计划）产生事与愿违的结果( boomerang的现在分词 ); 自食其杲
+bimalar|[医] 两颊的
+banjo|班卓琴
+bolshy|与现行社会秩序格格不入的, 不愿合作的
+bowelled|[通常用于复数]；【解剖学】(尤指人的)肠
+briseis|[希神]布里塞伊斯(荷马史诗《伊利亚特》中的美女,由Agamemnon从Achilles手中夺走)
+burlesquely|burlesque的变形
+bioxalate|草酸氢盐
+bezanty|(纹章)(有)列圆饰的
+bewildered|困惑的; 晕眩的; 混乱的; 不知所措的
+burrah|(非洲土人穿的)彩色条子棉布
+bemocking|讥笑( bemock的现在分词 )
+barrelfuls|(barrelful 的复数) n. 一桶之量；大量
+berline|四轮双座篷盖马车(=berlin)
+beatify|赐福给, 行宣福礼
+berme|城墙与外濠间之狭道, 崖径
+buttered|抹黄油于…上( butter的过去式和过去分词 )
+bimanous|(动物)有两手的
+babbler|说话模糊不清者, 胡说之人
+bloviating|发表冗长演说
+bistred|bistre的变形
+biborate|酸式硼酸盐, 重硼酸盐
+basilyst|[医] 碎颅器
+bugloss|小花牛舌草
+bearskin|熊皮, 熊皮衣
+brasse|(Brasse)人名；(法)布拉斯；(德)布拉塞
+bondager|奴役；束缚；苦役；劳役；受势力(或影响、习惯等)奴役(或束缚、支配), 对某些势力(或权势、影响)的屈服
+belleter|铸钟人
+ballplayer|棒球手
+babying|把…当作婴孩看待, 娇养（baby的现在分词形式）
+biloculate|[医] 双房的, 二格的
+bilamellate|有两片的
+beefier|牛肉似的( beefy的比较级 ); 结实的, 肌肉发达的
+beflower|洒鲜花于；用鲜花铺盖：
+brokerages|经纪业( brokerage的复数形式 ); 佣金; 手续费; 经纪费
+benzaldehyde|[化]安息香醛, 苯甲醛
+barracan|巴拉坎风雨大衣呢(地中海东部沿海地区制)
+beweep|悲伤, 叹惜
+barm|酵母
+biens|[法] 财产
+barnstormers|(barnstormer 的复数) n. 江湖艺人, 巡回演说家
+bookishly|bookish的变形
+bladdernose|[动]冠海豹
+bivane|双风向标
+barracked|向…提供营房（或棚屋）( barrack的过去式和过去分词 ); 使住入营房（或棚屋）; 大叫; 喝倒彩起哄
+bradylalia|[医] 语言徐缓
+bethesda|贝塞斯达（美国马里兰州中部城市）；毕士大（传说中耶路撒冷附近的池子, 据说池水可治百病）
+brooded|孵蛋( brood的过去式和过去分词 ); 沉思
+belittler|belittle的变形
+beno|[西](菲律宾的)棕榈烧酒
+brandywine|布兰迪维因（美国宾夕法尼亚东南部的一条小溪, 位于特拉华北部。1777年9月11日殖民地军队大败于此, 这使英军于9月27日得以进入费城）
+bradding|曲头钉( brad的现在分词 )
+bryonidin|[医] 泻根素
+bito|(=bitotree)鱼毒木, 比妥树, 埃及酸叶木
+bulletproof|防弹的
+bradypnoea|(=bradypnea)[医]呼吸迟缓
+bagworm|蓑蛾幼虫
+blacklisting|把（某人）列入黑名单( blacklist的现在分词 )
+barbed|有倒刺的
+brainwashed|<贬>对…进行洗脑, 把某种思想强加于, 通过宣传灌输说服( brainwash的过去式和过去分词 )
+bousy|醉的, 好酒的
+biforate|[生]双孔的
+bluffly|率直地, 粗率地
+baryon|重子
+bastioned|具备棱堡的
+bimanal|有两手的
+barbes|白麻巾
+beamless|无梁的
+boneless|无骨的
+bastaard|(南非欧裔白人与非洲黑人的)混血儿
+bombs|炸弹（bomb的复数）
+belatedly|延迟地；延续地
+baldhead|秃头的人, 秃头鸽
+burghal|burgh的变形
+bigarade|<法> n.酸橙
+bicollateral|双韧的
+boosted|升高的；升压的；加力的
+balalaikas|俄罗斯三角琴( balalaika的复数形式 )
+blasphemes|亵渎, 辱骂, 中伤( blaspheme的第三人称单数 )
+bewigged|戴假发的
+bemocks|讥笑（bemock的第三人称单数形式）
+bilharziosis|[医] 裂体吸虫病, 血吸虫病
+bulgari|宝格丽（意大利著名手表和珠宝品牌）
+blots|污渍( blot的名词复数 ); 墨水渍; 错事; 污点
+bebop|博普爵士乐
+brachyhieric|[医] 短骶的
+bladelike|刀剑形的
+botherer|bother的变形
+balistraria|(欧洲世纪城堡墙上的)十字形弓箭口
+bridles|约束( bridle的名词复数 ); <机>限动器; 马笼头; <解>系带
+biggity|<美俚>傲慢的, 自负的, 趾高气扬的, 厚颜无耻的
+befalling|降临到（某人）头上, 发生( befall的现在分词 )
+bibliophiles|(bibliophile 的复数) n. 爱书者, 藏书家
+boundlessly|无穷地, 无限地
+blastomycin|[医] 芽生菌素
+bended|弯曲的
+blakeite|红铁碲矿
+bender|扭弄物体的人, 六便士银币, 饮酒作乐
+bammed|bam的变形
+bows|饰片；弓形物（bow的复数形式）
+bleeder|易出血的人, 血友病患者
+beaner|托架
+bluer|染蓝检验工
+bacchae|酒神巴克斯(Bacchus)的女伴
+banshees|女鬼( banshee的复数形式 )
+befittingly|适当地, 适宜地
+blastemal|[医]胚基的, 芽基的
+busulfan|[化] 白消安; 马利兰
+binny|[人名] 宾尼
+bacchanalian|酒神节的, 狂饮作乐的
+botanists|植物学家, 研究植物的人( botanist的复数形式 )
+babine|[地名] [加拿大] 巴宾
+broodingly|brooding（沉思的, 忧思的, 冥思苦想的）的变形
+budgeter|编预算的人
+balaclava|巴拉克拉法帽
+boner|可笑的错误
+benelux|比荷卢经济联盟
+bouncy|快活的, 精神饱满的, 有弹性的, 自大的
+blondish|略带亚麻色的
+blubbered|哭诉( blubber的过去式和过去分词 ); 又哭又闹
+baptising|(baptise 的现在分词) vt. 给...施洗礼, 命名, 使纯化, 洗炼
+bartizan|城堡的箭塔, 顶塔
+bombshells|炸弹( bombshell的复数形式 ); 爆炸性事件; 令人吃惊的事; 性感美女
+basketballs|(basketball 的复数) n. 篮球
+bloomless|[医]不起霜的
+busher|第二流球队队员, 才能平庸的人
+biauriculate|[解](有)双耳的, (有)双心耳的
+bankroller|提供资金者, 资助者
+bulimus|[医]豆螺属
+beechnuts|山毛榉坚果
+bulimic|[医] 善饥的, 食欲过盛的
+boud|[人名] 鲍德
+benzylidene|[化] 亚苄基; 苯亚甲基
+baroswitch|以气压来控制的开关
+baptisteries|洗礼池, 洗礼用桶( baptistery的名词复数 )
+briquettes|[冶] 团矿
+barbels|(barbel 的复数) n. 触须
+boxers|拳击短裤；四角裤
+baubee|半便士, 小事
+bespoken|bespeak的过去分词
+bicornous|[医] 双角的
+battailous|[古语]；已作好战斗准备的
+behindhand|拖欠的, 迟的, 落后的
+bendwise|【纹章学】斜地, 成对角线地
+belated|迟来的
+backings|支持( backing的复数形式 ); 支持者; 背衬; <美口>（独唱或独奏的）伴奏
+biggety|<美俚>傲慢的, 自负的, 趾高气扬的, 厚颜无耻的
+bawn|灰色泥炭；围墙
+boffs|(boff 的复数) n. 高声大笑, 为博取大笑的台词, 卖座的戏
+bocking|博金粗毛呢
+bicircular|由两个圆周组成的, 象两个圆周的
+buyout|全部买下; 买下（公司或产业）
+brining|[化] 浸盐液
+bellbirds|(bellbird 的复数) n.铃鸟
+basketfuls|一满篮, 一满筐( basketful的名词复数 )
+bergsonism|柏格森主义(直觉主义)
+brunizem|[地]湿草原土
+broomy|金雀花茂盛的, 似扫帚的
+brigantine|双桅帆船
+bushhammer|石工锤
+bleariest|bleary（睡眼惺忪的, 因缺觉而眼睛模糊的, 视线模糊的）的变形
+bagful|一袋之量, 满口袋
+baroquely|baroque的变形
+broaching|[计] 拉削, 拉孔
+belee|置之下风
+burbling|气流分离, 起泡, 附面层分离
+blued|变蓝的
+benches|法官( bench的名词复数 ); （木制）长凳; （英国议会的）议员席; 场边的运动员休息区
+barmecide|答应给人好处而不兑现的人, 口惠而实不至的人
+barophobia|[心理]重力恐怖
+beddable|诱人的, 有魅力的, 性感的
+baffy|木制短高尔夫球棒
+browntail|[网络] 浏览
+bromatology|饮食学, 食品善食学
+bombarded|炮击( bombard的过去式和过去分词 ); 轰炸; 连珠炮般地提问; <核>以高能量粒子或放射能冲击
+baptistic|[网络] 洗礼
+billingsgate|粗俗话, 下流话
+blunge|掺水拌
+baka|African pygmy 非洲俾格米人, 非洲矮人
+bandido|[电影]伯纳多
+barrowman|沿街叫卖之小贩
+burnings|(burning 的复数) a. 燃烧的, 象燃烧一样的
+bitterbrush|(产于北美洲西部干旱地区的)蔷薇科淡灰色灌木
+boarded|vbl. 搭乘
+berylloid|绿柱石晶状的
+breastbeam|船楼端梁
+berthierite|[机] 蓝铁矿
+beseemed|适合于( beseem的过去式和过去分词 )
+backwashing|(backwash 的现在分词) n. (划桨引起的)反流, 激流区, 反响
+boardy|粗硬织物, 僵硬的, 发紧的
+bibliothecal|属于图书馆的
+baedekers|(baedeker 的复数) n. 旅行指南, 入门手册
+buttonmold|钮模
+balbuties|[医]口吃
+brainstormer|集思广益；头脑风暴；灵机一动 (brainstorm的变形)
+braes|(brae 的复数) n. 斜坡, 山坡
+bloodies|血污的( bloody的第三人称单数 ); 流血的; 屠杀的; 残忍的
+buxus|[医] 黄杨
+brakesmen|(brakesman 的复数) n. 司闸员, 制动手
+baffled|带有挡板的
+boardable|board的变形
+bloodletting|放血
+blighter|讨厌的人, 可厌的家伙
+brooding|沉思的；徘徊不去的
+bleedings|(bleeding 的复数) n. 出血, 流血
+brats|调皮捣蛋的孩子( brat的复数形式 )
+businessese|[网络] 商业行话
+berhyming|berhyme的变形
+boxhauling|使船顺风势转向( boxhaul的现在分词 )
+brimfull|满到边的, 洋溢着...的, 满溢的
+bonhomie|愉快, 温和, 和蔼
+bacillite|[矿]由许多平行的长联雏晶形成的杆状微晶, 杆雏晶束
+belaboured|痛打, 责骂( belabour的过去式和过去分词 )
+backseat|后座, 次要位置
+biorgan|[医] 生理器官
+balanitis|[医] 龟头炎
+baume|[机] 波美
+barring|不包括, 除非
+bookplates|(bookplate 的复数) n. 藏书标签
+bisetose|【生物学】具二的
+baroscope|验压器
+brazenness|厚颜无耻, (喻)猖狂
+beachboy|海滨服务员
+benzoflavine|苯并黄素(制菌剂)
+benefiting|有益于, 有助于（benefit的现在分词形式）
+biosome|生物体
+bannermen|八旗子弟
+bromal|三溴乙醛
+brushup|复习, 刷新
+biannulate|[动]有二环纹的, 具两个色环的
+brisance|[军](炸药)震力,(炸药)破坏效力
+bestrew|撒满...表面, 使遍布
+bunks|（车、船等倚壁而设的）铺位( bunk的名词复数 ); 空话, 废话
+burlesquer|杂耍表演者
+bluffs|恐吓( bluff的名词复数 ); 悬崖; 峭壁
+bedsore|褥疮
+bullwork|牛马活, 苦活
+baronet|准男爵
+brome|布罗姆(姓氏)
+brashly|胃灼热地, 骤雨般地
+bhadon|印度历的6月
+bevy|一群
+biotically|biotic, biotical 的变形
+bouch|[人名] [英格兰人姓氏] 鲍奇 Budge的变体
+bicornuous|双角的, 新月状的
+brassica|[医] 芥属, 芸苔属
+brachydont|[医] 短牙的
+brittler|易碎的
+betided|发生( betide的过去式和过去分词 )
+beckoningly|引诱人地, 令人心动地
+burglarizes|<美>闯入…盗窃( burglarize的第三人称单数 ); 破门盗窃
+bluethroat|[鸟](产于北欧和亚洲的)蓝点颏,蓝喉歌鸲
+baited|引诱；在…中放诱饵；折磨
+bonitoes|鲣（等金枪鱼科鱼类）( bonito的名词复数 )
+bluffers|(bluffer 的复数) n. 吓唬人的人
+bathes|给…洗澡, 游泳( bathe的第三人称单数 ); 冲洗; 浸; 用水清洗（尤指身体部位）
+boxhaul|使船顺风势转向
+baptizer|baptize的变形
+bacilli|pl. 细菌, 杆菌
+bantling|婴孩, 小孩
+bacilluria|[医] 杆菌尿
+beards|胡须( beard的名词复数 )
+bonos|(bono 的复数) n. 宝鸟服饰；报喜鸟（品牌名）
+blusher|脸红的人,使脸色红润的化妆品
+burrhead|<美俚>黑人
+busters|起破坏, 制止作用的人或物；庞然大物；非凡的人或物；小鬼, 小家伙；茁壮的孩子
+boody|屁股，外阴或阴道，性交
+banquo|班柯(莎士比亚悲剧《麦克佩斯》中人物, 被麦克佩斯下令杀死,后以鬼魂显灵,使麦克佩斯暴露自己的罪行)
+bilabial|双唇音(如h,m,p等)
+biotical|有关生命的;生物的
+banneret|小旗
+berzelianite|硒铜矿
+bosoming|胸；胸怀；中间；胸襟；内心；乳房；内部
+biding|等待, 停留( bide的现在分词 ); 居住; （过去式用bided）等待; 面临
+blencher|blench的变形
+bowsing|, vi. bowse的变形
+boathouse|船库, 艇库
+beplumed|用羽毛装饰的
+burlesqued|（嘲弄地）模仿, （通过模仿）取笑( burlesque的过去式和过去分词 )
+buteonine|, n. buteo的变形
+baryons|[高能] 重子
+bawdiness|bawdy的变形
+byard|[人名] 拜厄德
+bewit|(=bewet) 在养鹰术中用来将铃拴在鹰腿上的皮滑圈
+basten|[人名] 巴斯滕
+bipectinate|[动][植]双栉形的
+basocyte|[医] 嗜硷细胞, 嗜硷白血球
+bilocellate|具两分室的
+baphomet|巴风特
+breme|(Breme)人名；(德)布雷梅
+bankbook|银行存折
+bandar|[动]印度狭鼻猴
+bulrushes|芦苇；灯心草
+backlogs|积压未办之事( backlog的名词复数 ); 没交付的订货; 备用; 备用物
+bibliog|bibliographic 书目的；bibliographical 书目的；bibliographer 书目编著人；bibliography 书志学
+blooped|做蠢事, 将棒球打到内外野之间( bloop的过去式和过去分词 )
+belays|把绳索拴在系绳栓上（belay的第三人称单数形式）
+basidorsal|背基骨
+bedarken|使完全黑暗
+breathalyse|对(驾驶员)作呼气测醉检验
+bountifully|慷慨地
+brambling|燕雀
+bowering|荫蔽（bower的现在分词形式）
+bagatelles|琐事; 小事（bagatelle的复数）; 断章小品（音乐）
+belying|掩饰（belie的ing形式）
+bulgur|碾碎的干小麦
+blocker|[医] 阻滞物, 阻滞剂, 阻滞抗体
+brose|麦片汤
+bewrays|<古>泄露, 暴露, 显示（bewray的第三人称单数形式）
+bootstrapped|bootstrap（拔靴带, 靴襻；自己单独从事的, 自力的, 靠自身努力的, 自力更生的；靠自身努力摆脱某种状况）的变形
+braggingly|brag的变形
+batters|面糊（煎料）( batter的名词复数 ); 面糊（用于做糕饼）; （ 棒球） 正在击球的球员; 击球员
+bromethyl|乙基溴, 溴乙烷
+bennets|贝内茨
+bobtailed|短尾；截尾的动物；截短的尾巴
+bashes|重击, 猛撞( bash的名词复数 )
+bettor|打赌者
+barbecued|烘烤过的
+biflagellate|[生]双鞭毛的
+bastinado|棒打, 打脚掌的刑罚, 杖
+beltways|环形公路, 环路( beltway的名词复数 )；华盛顿特区的
+balian|[物]态
+betoss|投, 摇动
+bacteriosis|细菌病害
+bcd|[计] 二-十进制
+bice|灰蓝色, 灰绿色
+bahutu|布隆迪和卢旺达农民
+backfills|回填（挖掘的洞穴）( backfill的第三人称单数 )
+bangiales|紫菜目
+bedrails|(bedrail 的复数) n. 床侧板, 床栏杆
+balldress|[网络] 妇女参加舞会时穿的长礼服；晚装；舞会服
+breathiness|[医]气息声
+blusterer|咆哮的人, 吓唬人的人
+bnf|[计] 巴科斯范式; 巴科斯-诺尔范式
+bauxitic|铁铝氧石的, 铁矾土的
+burk|伯克, 马莎·简((1852？-1903) 美国女拓荒者和西部的传奇人物。她经常身着男装, 被认为是一位神枪手和技艺高超的骑手)
+bumbled|犯错误( bumble的过去式和过去分词 ); 杂乱无章地说; 发出嗡嗡声; 笨拙地进行
+bahamians|, n. Bahamas的变形
+bastilles|(bastille 的复数) n. 城堡；牢狱
+bluely|带蓝颜色地
+boning|去(鱼)骨
+bulldozing|推土；糊炮爆破
+boong|原住民, 新几内亚土著
+bipinnately|bipinnate, bipinnated 的变形
+besot|使糊涂, 使痴迷, 使沉醉
+bandmasters|乐队指挥；军乐队或管乐队首度
+biosterin|生甾醇
+burse|钱包；（大学 ）奖学金
+bastile|城堡;牢狱
+biforked|分叉的
+barchan|新月形沙丘, 弧形沙洲
+boychick|小朋友, 小孩
+beadsman|替施主祈祷者, 乞丐
+brontophobia|[医] 雷电恐怖
+basileus|[网络] 巴赛勒斯；巴西琉斯；巴塞勒斯
+barnburner|破釜沉舟派，极端派(为灭鼠而不惜烧谷仓)，激进派，行为过激的人；[b-][美国方言]木质火柴
+bookmakers|图书编纂者, 书商( bookmaker的复数形式 ); [赛马]赌注登记经纪人
+behn|[人名] 贝恩
+bravest|勇敢的
+billsticking|广告(或通告)张贴
+baubling|毫无价值的东西；华而不实的东西；小摆设, 小装饰, 花哨的小玩意儿
+bindheimite|水锑铅矿
+breakpoints|(breakpoint 的第三人称 -s形式) [计] 断点
+brocard|[法] 法律格言, 法律原理
+bibliopolar|bibliopole, bibliopolist的变形
+barmecidal|画饼充饥的, 口惠而实不至的
+barabbas|巴拉巴(基督教《圣经》所载一犹太死囚名, 经祭司长等怂恿,民众要求赦免此人而处死耶稣)
+bezels|(bezel 的复数) [计] 窗口
+blab|泄漏, 胡扯
+bathonian|巴通阶
+bedpans|（病人在床上用的）便盆( bedpan的复数形式 )
+bombiccite|[地质]晶蜡石
+bellarmine|贝拉明酒瓶
+blondine|把(头发)染成亚麻(或金黄)色
+banishing|放逐, 驱逐( banish的现在分词 )
+barmy|发酵的
+bename|为...取名
+beano|雇主一年一次款待雇工的宴席,<俚>快乐的宴会
+backcross|vi. 使回交, (使)逆代杂交
+buffable|（皮革）能被磨面的
+buckaroos|(buckaroo 的复数) n.牛仔, 牧童
+braye|[人名] 布雷; [地名] [法国] 布赖河
+bechic|治咳嗽的, 镇咳的
+bitumen|沥青
+burbled|（流水）发汩汩声( burble的过去式和过去分词 ); （婴孩般）咿呀学语; 嘟囔; 窃笑
+bandits|盗贼；土匪（bandit的复数）
+barenecked|露着脖子的
+botticellian|具有(意大利画家)波堤切利作品特点和风格的
+bodkin|大眼粗针, 锥子
+blisters|水疱( blister的名词复数 ); 水肿; 气泡
+bubblier|bubbly（起泡的）的比较级形式
+boominess|嗡嗡声
+bibbery|酒鬼 (bibber的变形)
+beslaver|以唾沫弄污, 谄媚
+barythymia|[医] 忧郁症
+buggered|同性恋者, 鸡奸者, 兽奸者( bugger的过去式和过去分词 )
+bushings|[电] 套管；轴衬；支架避震组（bushing的复数形式）
+brachycardia|[医]心搏过缓, 心动徐缓
+boated|小船；轮船
+banqueting|设宴
+biliment|服饰, 装饰
+blackfeet|黑腿（blackfoot的复数）
+bisymmetry|两侧对称, 二轴对称
+bermudians|(Bermudian 的复数) n. 百慕大居民
+bindi|（印度教妇女等的）眉心红点, 眉心饰记
+briner|腌制桶
+bumptiously|bumptious的变形
+brooches|胸针, 饰针( brooch的复数形式 )
+baronduki|(=baranduki, barunduki, burunduki)花鼠(五道眉)
+bowlines|(bowline 的复数) n. 单套结；帆脚索
+bolstering|支撑, 支持
+brimmer|满溢的杯, 满杯
+bloods|血帮（blood复数）
+broadened|使…变宽, 扩展( broaden的过去式和过去分词 ); 增长（经验、知识等）
+bunder|码头, 港口
+boatswains|水手长( boatswain的复数形式 )
+bardling|青年吟游诗人, 末流诗人
+blimp|软式小型飞船, 顽固的保守分子
+bloodier|血污的( bloody的比较级 ); 流血的; 屠杀的; 残忍的
+believers|信仰者（believer的复数形式）
+binate|成对的
+butterflower|[网络] 黄油花
+betwixt|在其间, 不走极端
+blastosphere|[生]囊胚, 囊胚泡
+boomed|激增( boom的过去式和过去分词 ); 猛涨; 发出隆隆声; 以低沉有力的声音说话
+bombardments|炮击, 轰炸( bombardment的复数形式 )
+bangboard|(收粮食的)边板
+bathinette|婴孩用折叠式浴盆
+babism|巴布教(伊朗的一种宗教)
+betulaceous|[植物]桦木科（Betulaceae）树木的(包括桦木、赤杨等)
+bridging|造桥
+billetwood|非洲乌木
+ballyhoos|呐喊( ballyhoo的名词复数 ); 喧闹; 大吹大擂; 假大空的宣传
+blacked|弄脏( black的过去式和过去分词 ); 使变黑; 抵制; 把黑油彩抹在（演员）脸上
+brail|卷帆索, 抄网
+burinist|（铜版）雕刻家
+battier|疯狂的( batty的比较级 )
+bountied|慷慨；丰富；奖励金；赠款
+banakite|粗面粒玄岩
+bobbling|漏接, 弄坏( bobble的现在分词 )
+bissextile|闰的
+batteau|两端尖的平底小舟
+booed|发出嘘声( boo的过去式和过去分词 )
+blazers|宽松运动外衣( blazer的复数形式 )
+baken|博肯（男子名）
+barycenter|重心
+biggins|帽子；风帽；兜帽；高级律师白帽
+bromyrite|溴银矿
+blended|blend的过去式和过去分词
+bromelia|[化] 2-乙氧萘
+baguet|切成长方形的宝石, (宝石的)长方形
+bakeboard|[机] 烘板, 烘烤面团板
+boe|back outlet eccentric 后偏心（轮）出口
+breamed|鲤科鱼；欧鳊属淡水鱼；用加热和刮擦的方法清扫船底
+brusk|(在态度或言词方面)粗暴的, 简慢的, 生硬无礼的, 鲁莽的, 粗率的, 唐突的
+brothy|肉汤的
+bick|开机的iso施工工具（Bootable ISO Construction Kit）
+bls|（美）劳工统计局（Bureau of Labor Statistics）；文科学士（Bachelor of Liberal Studies）
+bater|易货
+backstrokes|还击, 反手击球, 仰泳
+bushels|蒲式耳（在美国相当于2150。42立方英寸, 或35。42升）( bushel的名词复数 ); 大量; 一蒲式耳重量的东西; 拿自己作标准来衡量别人
+bivalent|二价的
+bibenzyl|[化] 联苄
+bitonal|[音]双调的
+battologist|battology的变形
+basisphenoid|基蝶骨, 蝶底骨
+brownnoser|拍马屁者；阿谀奉承者；趋炎附势者
+brontosaurs|(brontosaur 的复数) n. 雷龙
+besprinkle|洒遍, 使布满
+brecht|(Brecht)人名；(英)布雷赫特；(德)布雷希特
+bauk|障碍, 梁木
+bioacoustics|[复]n.[用作单] [生]生物声学
+bioplasm|原生质
+baching|过独身生活, 乡村小屋, 海滨小屋( bach的现在分词 )
+binned|扔掉, 丢弃( bin的过去式和过去分词 )
+britt|小鲱鱼
+beamish|春风得意的
+balloonlike|adj. balloon的变形
+backwardly|(无比较级)向后, 相反, 倒, 回顾, 倒向, 落后, 进展缓慢, 迟疑, 智力差, 畏缩
+beadier|起泡的；饰有珠子的；晶亮如小珠的 (beady的变形)
+burking|[医] 伯克扼杀法, 阻闭口鼻扼杀法
+bimestrial|持续两个月的, 每两个月一次的
+bellman|敲钟者, 男听差, 更夫
+besottingly|besot的变形
+backhaul|(货运车的)回程(通常亦载货),回程运费
+biocatalyst|生物催化剂
+benjaminite|铜银铅铋矿
+bahadur|阁下
+bistephanic|[医] 二冠状点的
+bookish|好读书的, 书呆子的
+brio|元气充沛, 生动
+bdle|bundle 束, 捆, 包
+beggared|乞丐；穷人；家伙
+beachy|多沙砾的
+bilks|蒙骗( bilk的第三人称单数 )
+bejewelling|饰以珠宝( bejewel的现在分词 )
+basinal|basin（盆）的变形
+bosun|水手长
+bibliopoly|书籍贩卖, 珍本贩卖
+beggarliness|贫穷, 赤贫, 卑贱
+batan|巴丹（尼泊尔城市）
+bellicism|[法] 好战性, 好战倾向
+boubou|(西非男女均可穿的)宽大长袍[西非当地语]
+brimstony|似硫黄的, 似地狱的
+bilimbing|三敛
+borzois|俄国狼狗( borzoi的名词复数 )
+bioflavonoid|[生化]生物类黄酮,维生素P
+bleeped|发出哔哔声( bleep的过去式和过去分词 ); 召唤（某人）
+bouleuterion|(pl.-teria)(古希腊的)议事厅, 会议室
+baseplate|底板, 装假牙齿的底板, 支承板
+bonesetting|接骨术
+balker|不顺从者
+bahts|铢（泰国货币单位）, 铢的硬币( baht的名词复数 )
+brahmins|婆罗门, 教养好的人( Brahmin的名词复数 )
+blackfellow|澳洲土著
+benzpyrene|[化]苯并芘
+boxroom|杂物收藏室
+buttocks|臀部
+beastman|牧人；残暴的人, 残忍的人
+backpacked|双肩背包，背包；远足用的背包
+blondes|白肤金发碧眼女人( blonde的复数形式 )
+bristletail|蛀虫, 蠹虫
+blowtube|吹火筒, 吹管
+buzzwords|（报刊等的）时髦术语, 流行行话( buzzword的复数形式 )
+beading|起泡, 泡沫
+barmkin|[古语]；城堡外墙
+braccate|(鸟类)胫骨上和足上有羽毛的
+billycock|圆顶礼帽
+blathering|说蠢话, 胡说( blather的现在分词 )
+booklore|书本知识
+barf|呕吐
+breeches|马裤
+bitte|(Bitte)人名；(瑞典)比特
+balder|秃头的( bald的比较级 ); 明显的; 简单的; 赤裸裸的
+brutified|,vi. brutify的变形
+brawnier|(brawny 的比较级) a. 肌肉结实的, 顽强的
+bigwigs|<口>要人, 有重大影响的人( bigwig的复数形式 ); 显贵; 权贵
+bandstands|（有顶盖）室外音乐演奏台( bandstand的复数形式 )
+breakups|(breakup 的复数) n. 分裂, 崩溃, 解散, 解体
+bolson|[地](尤指美国西南部和墨西哥的)沙漠盆地, 封闭盆地
+benzoinated|[医] 含安息香的
+boyishly|少年地, 稚气地
+brakeless|无制动的
+bowlin|[人名] 鲍林
+beezer|鼻子
+boof|狗吠声
+bonehead|笨蛋
+behove|理应, 应该
+bicellular|两室的
+bodhi|tree 菩提树(佛教的圣树,相传佛祖在此树下得道成佛)
+bundist|（美国三十年代的）亲纳粹派
+beegerite|银辉铋铅矿
+balmily|芳香地
+birchwood|[地名] [美国、新西兰] 伯奇伍德
+bergschrund|冰川边缘裂缝
+bullterrier|布尔得利亚
+backside|背部, 背后, 后方
+bitched|埋怨( bitch的过去式 ); 发牢骚; 挖苦; （背后）说坏话
+brast|(Brast)人名；(德)布拉斯特
+bayldonite|[化] 钒酸铅矿
+brabbled|争吵, 争论( brabble的过去式和过去分词 )
+bonesetter|接骨师
+bromatium|[生]饲蚁菌丝
+benzenes|[有化] 苯
+barkan|(Barkan)人名；(英)巴坎；(俄、意、土、法)巴尔坎
+bombastical|(言词、文章等)夸夸其谈的, 言过其实的, 空洞浮夸的, 矫揉造作的, 浮华的, 夸大的
+brocatelle|凸花厚缎
+billot|杆
+bustling|熙熙攘攘的, 忙乱的
+boneset|贯叶泽兰
+bibliolatry|书籍崇拜, 圣经崇拜
+blatherer|胡说；废话 (blather的变形)
+blooded|纯种的, 血统优良的
+breweries|酿造厂, 啤酒厂( brewery的复数形式 )
+backhouse|后面的小屋, (尤指)厕所
+bathmats|浴室防滑垫( bath mat的复数形式 )
+boottop|水线带（等于boottopping）
+besnow|覆以雪, 使雪白
+bulkiest|庞大的( bulky的最高级 ); 大块头的; 粗壮的
+bedlamer|幼海豹
+barratry|诉讼挑唆
+bespot|使有斑点
+buchmanism|道德重整运动
+bute|保泰松（一种止痛药）
+babakoto|[网络] 巴巴科托
+bilking|蒙骗( bilk的现在分词 )
+bailiffs|法警, 法院执行官( bailiff的复数形式 )
+bostonian|波士顿的
+beriberi|脚气病
+bagatelle|琐事, 小事, 弹球戏
+bustler|bustle的变形
+biddably|biddable的变形
+breakstone|碎石
+beauties|美容化妆；美丽, 美的东西；美人（beauty的复数）
+bicone|(珠子等)双锥体
+backsword|单刃刀, 木剑
+blackwater|[医]黑尿病
+buxaceae|[植] 黄杨科
+blackjacks|以棒打, 胁迫（blackjack的第三人称单数形式）
+brawling|[法] 吵架, 喧闹, 吵闹罪
+bees|蜜蜂（bee的复数）
+btl|beginning tape label 磁带起始标记; behind the lens (camera) 曝光表法（照像机）; bottle 瓶
+bunching|[计] 捆札, 聚束, 胶合
+bebeerine|[医]比比林(一植物碱)
+barrable|可以拦阻（排斥）的
+boondoggles|<美俚>细小而无用的事, 手工品( boondoggle的名词复数 )
+barky|[机] 含有树皮的
+bedwarfed|使矮小；阻碍…的生长
+bonding|结合, 屏蔽接地, 搭接
+besa|(Besa)人名；(西、意)贝萨
+birefringent|[计] 双折射的
+begnaw|咬, 啃
+brans|(bran 的复数) n. 糠, 麸
+breezing|发虚, 不清晰
+brahminism|婆罗门教
+brigandage|土匪行为, 掠夺
+bursty|阵发性的；间歇的
+bathybius|深水类生物
+blunting|把…弄钝, 减弱( blunt的现在分词 )
+bibbed|有围兜的
+bicornate|[医] 双角的
+byon|含宝石的黄褐色土
+basifier|碱化剂
+bleaches|使（颜色）变淡, 变白, 漂白( bleach的第三人称单数 )
+bassia|[网络] 雾冰藜属；巴斯水母属；雾冰草属
+braininess|博学；聪明；机智
+birdling|幼鸟
+bunger|[人名] 邦杰
+branchiata|[医] 有鳃类
+benedict|新婚男人
+buckeen|破落贵族
+bubs|Bubbles 泡沫, 幻想的计划
+benefic|有益的,行善的
+bowdlerism|删除
+bassets|露出；矮脚长耳猎犬
+beeches|山毛榉( beech的名词复数 ); 山毛榉木材
+basilical|重要的, 显要的
+boise|博伊西（美国爱达荷州首府）
+birks|(Birk 的复数) n. 比尔克（姓氏）
+bronzier|(bronzy 的比较级) adj.青铜色的,仿青铜的
+blowpit|[机] 泄料槽
+bannered|旗帜, 横幅；标语
+babbage|巴贝奇（男子名）
+butyrone|[化] 二丙基酮; 二丙基甲酮
+bechance|使遭遇, 降临于
+balladist|民谣的作者, 唱民谣的人
+bipyramid|[机] 双锥体
+brainwork|脑力工作, 劳心工作
+birdbrain|笨蛋, 轻佻的人, 轻率浮躁的人
+bezzled|(在盗用公款或贪污未被发现前带来的)挪用公款收益, 贪污收益
+badasses|坏蛋
+bonging|锣, 大钟等的当当声
+bact|bacteria （复数）细菌; bacterium （单数）细菌; bacteriology 细菌学; bacteriological 细菌学的
+bedfordshire|英格兰南部的州名
+beltings|(belting 的复数) n. 带料, 带类
+belletrist|纯文学作品作者
+blowguns|吹箭筒；喷漆的器具
+blearing|模糊( blear的现在分词 )
+bulwarking|壁垒；保障；防波堤
+bouse|[航海](用索[船]具等)拉, 升起, 任何饮料, 酒, 饮(酒), 痛饮
+bleeps|哔哔声( bleep的名词复数 )
+birding|捕鸟, 玩鸟
+bakings|(baking 的复数) n. 烘焙, 一次烘焙的量
+bringers|(bringer 的复数) n. 带来...的人；提供者
+blackmailed|胁迫, 尤指以透露他人不体面行为相威胁以勒索钱财( blackmail的过去式 )
+backbitten|backbite的过去分词
+billiardist|打台球者,打弹子者
+burlies|(burly 的第三人称 -s形式) a. 结实的, 粗壮的, 率直的
+blouses|（妇女穿的）短上衣, 女衬衫( blouse的复数形式 )
+bullyboy|架子十足的恶棍, 受人雇用的流氓
+bezique|伯齐克牌戏
+blae|[机] 灰青炭质页岩, 苏格兰产蓝灰色粘土
+budged|（使）稍微移动( budge的过去式和过去分词 ); （使）改变主意, （使）让步
+blas|放射
+balconied|有阳台的
+bdelloid|(=bdelloideus)蛭形的
+brambled|长满灌木的
+brunts|（来自攻击一方的）主要力量（brunt的复数形式）
+brotherlike|brother的变形
+bacillary|杆状的, 杆状细菌的, 芽胞杆菌, 杆菌
+biosystematy|生物分类学, 生物系统学
+bifurcates|（指道路、河流、树枝等）分岔, 分成两支( bifurcate的名词复数 ); 使分枝, 使分叉; 分叉的
+beasthood|野兽；畜生, 人面兽心的人 (beast的变形)
+barquette|船形馅饼皮
+blee|面部肤色
+benj|(作为麻醉品的)大麻茎；大麻叶
+bilobated|【动物学】有两叶的, 分成两叶的；【植物学】两裂片的, 两裂的；具两叶的[亦作 bilobed]
+bogard|伯加德（姓氏）
+bendell|[人名] 本德尔
+biarticular|[医] 两关节的
+bitonality|双重调性；复调性
+bleachers|漂白剂（bleacher的复数形式）；（美）露天看台
+bodybuilder|健美运动者；锻炼肌肉者
+barflies|(barfly 的第三人称 -s形式) n. 常赴酒吧的人, 酒鬼
+berryman|贝里曼（姓氏）
+bushido|武士道
+bearishly|粗鲁地, 笨拙地
+bourride|[烹]蒜味蛋黄鱼羹
+brazilians|(Brazilian 的复数) n. 巴西人
+bating|[化] 软化; 鸟粪鞣化
+batmen|（部队中的）勤务兵( batman的名词复数 )
+beatless|beat的变形
+bionomy|生理学, 生态学
+baddest|最坏的
+bosomed|胸部的
+butenyl|丁烯基
+biffs|打( biff的第三人称单数 )
+barragan|(Barragan)人名；(西、法)巴拉甘
+buceros|[网络] 角犀鸟属
+bibliopolism|书籍销售原则；书籍销售业
+boldine|[化] 波尔定碱
+bise|(法国东南部等地的)干冷北风
+bedsock|睡时穿的保暖袜子
+bardo|巴多（男子名）
+bskt|basket 篮, 篓, 筐
+bordello|妓院
+blackmailers|敲诈者, 勒索者( blackmailer的复数形式 )
+bromination|溴化(作用)
+brined|卤水( brine的过去式和过去分词 ); 浓盐水; 海; 海水
+bagoong|[菲]百公酱, 发酵鱼酱
+beautifies|美化, 装饰( beautify的第三人称单数 ); 变美
+benny|安非他明(药片)
+bloodily|血迹斑斑地, 残忍地
+bantered|开玩笑, 说笑, 逗乐( banter的过去式和过去分词 ); （善意地）取笑, 逗弄
+bowfront|弓状前缘的, 前面设计或安装了弓形窗户的
+bloodguilty|杀人的
+boozed|喝醉的
+bisley|比利兹(英国Surrey 的一个村, National Rifle Association 的打靶场)
+brazilin|[化]巴西木素
+bares|使赤裸( bare的第三人称单数 ); 使露出; 揭开; 脱（衣服）
+balsamum|[医] 香脂, 香胶
+bantingism|班亭氏疗法(减肥法的一种)
+boutade|念头, 怪念头, 反复无常
+breccia|角砾岩
+brittleness|[计] 脆度, 致命性
+bingy|胃, 肚子
+bonged|锣, 大钟等的当当声
+bulletining|公布, 公告（bulletin的现在分词形式）
+bungled|搞糟, 完不成( bungle的过去式和过去分词 ); 笨手笨脚地做; 失败; 完不成
+baignoire|剧院最下一层的包厢
+bikers|(biker 的复数) n. 骑自行车/摩托车的人
+barogram|气压图
+bywoner|<南非>佃农
+barbra|芭芭拉（人名）
+brecciation|角砾岩化
+balustered|baluster的变形
+browbeats|（以言辞或表情）威逼, 恫吓( browbeat的第三人称单数 )
+bulging|[机] 打气, 膨胀
+bywords|格言( byword的复数形式 ); 谚语; 笑柄; 代名词
+brith|[网络] 布里斯
+bilaminar|[医] 二层的, 两板的
+blankness|空白, 空虚, 单调
+burls|节, 树节, 节瘤( burl的名词复数 )
+brandade|奶油烙(鳕)鱼,鱼羹
+bodge|修补
+basally|基础地（basal的变体）; 根本地（basal的变体）
+beloid|前窄后宽的
+bracero|<美>(合法入境干农活的) 墨西哥短期合同工
+botanise|[网络] 植物学
+blesbok|南非白面大羚羊
+beingness|存在的性质
+bombinating|发嗡嗡声( bombinate的现在分词 )
+baptismally|（尤指教堂中）用作洗礼的地方, 洗礼地, 圣洗地
+bauge|博热粗厚呢
+bandwagon|乐队彩车, 流行
+bractlet|[植]小苞片
+bradyphrenia|[医]思想迟钝
+bristlecone|pine[植]狐尾松(生长于美国西部山区,地球上最古老的树木之一)
+bawdier|低级下流的( bawdy的比较级 )
+backer|援助者, 支持者
+bluetit|[鸟类]青山雀 (Parus caeruleus,产于欧洲)
+balkanize|分割成小国, 使割据
+bigeyes|大眼鲷( bigeye的名词复数 )
+badder|的非正式写法
+buffoonism|丑角；滑稽剧演员 (buffoon的变形)
+burliness|结实
+behoved|<英>理应, 应该, 理所当然( behove的过去式和过去分词 )
+buccaneering|海盗行为, 掠夺
+bouton|[医] 疖, 小结(哑铃状脓肿)
+banksman|矿坑口的监工
+blindest|盲的,盲目的,轻率的,使看不见蒙蔽,帘子,屏风(最高级)
+bungalows|<英>平房( bungalow的复数形式 ); <美>单层小屋, 多于一层的小屋
+borderlands|(borderland 的复数) n. 边界地方, 边陲, 两可间的状态
+backus|巴克斯
+butyne|丁炔
+blowgun|吹箭筒
+bunchflower|百合科草本植物
+baptisin|[医] 灰叶苦甙, 野靛苦甙
+bicrenate|具重圆齿的
+barographs|(barograph 的第三人称 -s形式) n. 自动记录式气压计
+bifolium|对折的书页
+betta|［鱼］搏鱼；搏鱼属的鱼
+bupleurum|柴胡属
+biffed|打( biff的过去式和过去分词 )
+bistriate|具双条纹的
+bourrelet|定心带
+bestowing|砖窑中砖堆上层已烧透的砖
+bedsteads|床架, 床的框架( bedstead的复数形式 )
+bufagin|[化] 蟾蜍精; 南美蟾毒配质
+belayed|把绳索拴在系绳栓上( belay的过去式和过去分词 )
+befriendment|befriend的变形
+biconvexity|biconvex的变形
+bedraggle|弄湿
+bolshevists|(Bolshevist 的复数) n. 布尔什维克主义者, 激进分子
+ballproof|子弹打不穿的, 防弹的
+blackeyes|(blackeye 的复数)  [医]顶鳍段虎鱼
+bushes|灌木（丛）( bush的名词复数 ); [机械学]（金属）衬套; [电学]（绝缘）套管; 类似灌木的东西（尤指浓密的毛发或皮毛）
+buckjump|腾跃
+betted|bet的过去式和过去分词
+brede|编带,刺绣
+blowdown|[化] 排料; 泄料; 放空; 排污; 吹除
+bandy|向外弯曲的
+bluesy|布鲁斯乐的(一种摇摆乐)
+bessie|贝茜（女子名）
+baldrib|无肋骨的瘦肉
+bicarb|[化]重碳酸盐
+bisson|[人名] 比森
+bandboxes|(bandbox 的复数) n. 硬纸盒
+brewsterite|[化] 锶沸石
+buffoons|愚蠢的人( buffoon的复数形式 ); 傻瓜; 逗乐小丑; 滑稽的人
+bacchanals|酒神节, 狂饮作乐者
+backhanding|(backhand 的现在分词) n. 手背拍, 反手抽击, 左斜手写体
+bibliotist|笔迹鉴定专家
+bepraise|大吹大擂,过分颂扬
+barman|酒吧间男招待
+brandering|板条子操作; 双层灰条
+ballerine|芭蕾舞女
+baht|铢(泰国货币单位)
+bellbine|篱天剑
+bradyuria|[医] 排尿徐缓
+baybolt|基础螺栓, 地脚螺栓
+banisher|banish的变形
+benzal|[化]苯亚甲基的
+buat|(Buat)人名；(法)比亚
+beaverite|铜铅铁矾
+burlesques|滑稽模仿( burlesque的名词复数 ); <美>（包括脱衣舞的）滑稽歌舞杂剧
+bangers|香肠( banger的复数形式 ); 破旧的汽车; 老爷车; （声音很响的）爆竹
+bromophenol|溴苯酚
+bellmouthed|钟口形的,漏斗口的,承口的
+behung|[与with连用]挂了...的, 挂满...的
+bandpass|[电] 通带
+brett|布雷特（男子名）
+biking|自行车, 骑单车；踏单车
+babesiosis|巴贝西虫病
+bussed|接吻, 一种帆船( buss的过去式和过去分词 )
+bombay|孟买
+barbet|热带巨嘴鸟
+borazon|博拉任(一种硼和氮的化合物)
+blockers|阻断剂; 护航者; 雏形锻模(blocker的复数形式)
+beasts|野兽；畜牲（beast 的复数）
+beira|贝拉[莫桑比克东南部港市]
+benzo|苯并
+brackened|(bracken 的过去分词) n. 欧洲蕨
+ballonet|气室(调节气球升降)
+beleaguered|围攻（beleaguer的过去式和过去分词）
+brilliants|(brilliant 的复数) a. 光辉的, 灿烂的, 有才气的
+bardship|吟游诗人 (bard的变形)
+bartonella|[微]巴尔通氏体属
+breastwork|(临时)矮防护墙
+barcarolle|威尼斯的船歌
+bangy|(=bang-up)[美俚]上等的, 最好的, 一流的
+byzantine|拜占庭帝国的, 拜占庭式的
+begum|穆斯林国家的王后(或公主)
+baptizement|baptize的变形
+brodie|失败, 倒下
+bacillaceae|[医] 芽胞杆菌科
+bestials|adj. 野兽的；野兽般的；兽状的
+bigness|大, 伟大, 重大
+boomiest|(boomy 的最高级) 景气的
+becripple|使跛, 使成残废
+bechances|使发生, 产生（bechance的第三人称单数形式）
+basidigital|[医] 指(趾)根的
+busbars|(busbar 的复数)  汇流排;  汇流条; 母线; 汇刘
+bothrenchyma|[医] 孔纹组织
+barnard|巴纳德（男子名）
+bepaint|着色, 化妆, 在...上涂漆
+bilification|[医] 胆汁生成, 胆汁分泌
+bandbox|硬纸盒
+berceuse|摇篮曲, 催眠曲
+borderlines|(borderline 的复数) n. 边界, 界线
+bombesin|[化] 铃蟾肽; 盘舌蟾素
+buckled|有扣的
+bayous|小海湾( bayou的名词复数 ); 支流; 河口; （美国南部水流缓慢、多水草的）河道支流
+beanies|有大豆腥味的
+bezzle|(在盗用公款或贪污未被发现前带来的)挪用公款收益, 贪污收益
+betels|(betel 的第三人称 -s形式) [医] д叶(用д叶卷一些槟榔子碎片及石灰,作为咀嚼剂,有强壮、兴奋作用)
+buddhistical|佛陀的, 佛教的
+bezzling|(在盗用公款或贪污未被发现前带来的)挪用公款收益, 贪污收益
+badmouth|说坏话
+briard|布里牧羊狗（原产法国）
+binervate|二脉的
+beaus|喜修饰者( beau的名词复数 ); 纨绔子弟; 情郎; 求爱者
+biscayan|(西班牙)比斯开省的; 比斯开人的; (泛指西班牙)巴士克地区人的
+blowlamp|喷灯
+babirussa|野猪（产于东印度）; 鹿豚
+balers|(baler 的复数) [化] 打包机
+backflip|后翻式；后滚翻；倒翻筋斗
+boilery|煮物器[处]
+birded|观察和辨认鸟（bird的过去式与过去分词形式）
+balan|平衡品质
+brushland|灌木林地, 矮灌丛
+blimps|(blimp 的复数) n. 软式小型飞船, 顽固的保守分子
+bajocian|[地质]巴裘 阶
+blintzes|一种薄饼卷
+belleek|[总称]伯利克陶器皿(一种上有珠光彩釉的薄陶瓷)
+balter|[人名] 巴尔特
+blastophitic|变余辉岩
+buprestidae|吉丁科
+buskins|(buskin 的复数) n. 厚底靴, (喻)悲剧
+biochemic|生物化学的
+badmouthing|说坏话
+bedkey|装/拆床架用的板钳
+beclouding|使遮暗, 蒙蔽( becloud的现在分词 )
+bologna|一种大腊肠
+birt|伯特（姓氏）
+buckish|爱时髦的, 浮华的
+busted|破产了的, 失败了的, 被降级的, 被逮捕的
+bobbysocks|<美口>短袜（尤指少女穿的）
+beget|为某人之生父, 招致, 产生, 引起
+bryales|[植] 真藓目
+bromides|溴化物( bromide的复数形式 ); 溴化物镇静剂; 安眠药; 陈词滥调
+bottine|半长靴, 女靴
+bicoloured|<英>双色的
+boral|[药]硼酒石酸铝, 碳化硼结(用作收敛剂)
+butein|紫铆因
+basal|基础的, 基本的
+buttonhold|<古>强留(人)谈(或听)
+burbly|burble的变形
+bedroll|铺盖卷
+bulldogging|bulldog的变形
+bagpipes|风笛
+biracial|两种人种的
+bullies|仗势欺人者, 横行霸道者( bully的名词复数 )
+bellowed|发出吼叫声, 咆哮（尤指因痛苦）( bellow的过去式和过去分词 ); （愤怒地）说出（某事）, 大叫
+botrychium|[网络] 阴地蕨属；小阴地蕨属
+bumptious|瞎自夸的, 瞎自大的, 傲慢的
+bluecoats|(bluecoat 的复数) n. 警察, 士兵
+byssin|byssinosis 棉纤维吸人性肺炎
+bunter|本特阶；触杆
+bursal|[医] 囊的, 粘液囊的
+biga|(pl.bigae)(古代地中海国家的)双马双轮战车
+bicaudal|[动]二尾的
+biologies|生物学( biology的名词复数 )；生理
+bastardise|, vi. [主英国英语] = bastardize
+bullae|bulla的复数
+burningly|burning的变形
+boggler|怀疑者; 畏缩不前的人; 令人惊奇的事物
+balboa|巴波亚(巴拿马货币单位)
+buckleya|[网络] 米面蓊属；米面翁属
+battleplane|战斗机
+bespoke|bespeak的过去式和过去分词
+backfiller|[机] 回填机
+bangled|adj. bangle的变形
+bibliophily|bibliophile, bibliophil, bibliophilist  的变形；= bibliophilism
+baptisia|[化] 野靛
+betrothing|将某人许配给, 订婚( betroth的现在分词 )
+backbends|卖艺人身体向后仰作弓状的姿势
+bromhidrosis|臭汗, 腋臭
+banditti|匪徒(bandit的复数形式)
+basso|最低声部, 男低音歌手
+buncher|[电] 集束器
+bodycheck|[冰球]
+bustlers|(bustler 的复数) n. bustle的变形
+brewis|肉汤
+bacteriocin|[微]细菌素(细菌分泌的抗菌物, 如大肠杆菌素)
+bellerophon|柏勒罗丰（科林斯英雄）；神螺属
+bluetongue|蓝舌病(羊、马等的病毒性疾病,似口蹄疫, 最早出现于南非)
+batak|[地名] [保加利亚] 巴塔克
+bobbers|浮子；钓鱼用的浮标
+bronchiocele|[医] 细支气管扩大
+batidaceae|[网络] 藜木科；朳打科
+baling|[机] 包装, 打包
+bronchiolar|[医]细支气管的
+briolette|( 有三角形切面的 ) 椭圆形钻石 ( 或宝石 )
+brunettes|黑头发的妇女, 咖啡色头发的女人, 深褐色头发的白人女子( brunette的复数形式 )
+buchu|[化] 布枯; 南非季叶(芸香料植物Barosma betulina的干叶)
+backwater|死水, 滞水, 停滞, 回水
+bloodline|血统, 种系
+bengaline|孟加拉织品
+biometrician|生物统计学家
+bessel|[计] 贝塞尔
+barnabite|【宗教】(罗马天主教)圣保罗教士会会士[亦作 Regular Clerk of St. Paul]
+birefraction|双折射
+boyang|[工人的] 裤子垫膝
+briefer|短暂的( brief的比较级 ); （衣着）短的; 简洁的; 简明的
+brainworker|脑力劳动者, 劳心的人
+blanco|<英> ([复]-cos) n.布兰可擦白剂
+bridals|新婚的, 婚礼的( bridal的名词复数 )
+broncos|（美国西部的）野马, 半驯化马( bronco的复数形式 )
+bribes|赃物
+beader|加珠饰者, 卷边器, 卷边工具, 弯边装置
+bourne|小溪；目的地；边界
+braining|打破…的脑袋（brain的现在分词形式）
+boeotian|迟钝的, 愚笨的
+butterflies|蝴蝶（ butterfly的名词复数 ）
+bullace|布拉斯李
+barbarizes|使（变）野蛮, 使（变）粗俗( barbarize的第三人称单数 )
+brochette|小烤肉串
+boodler|受贿者
+beetled|快速移动( beetle的过去式和过去分词 )
+benchmarks|基准( benchmark的复数形式 )
+barrooms|酒吧间( barroom的名词复数 )
+bhandari|(Bhandari)人名；(尼、印度)班达里；(印)班达里
+bolshevize|使布尔什维克化, 使共产主义化
+broiderer|broider的变形
+broadest|宽广的
+blacklegs|骗子；罢工破坏者；[兽医] 黑腿病
+biophysics|生物物理学
+bioassays|[生物] 生物检定
+banefully|致害地, 有毒地
+baldly|率直地, 露骨地, 无掩饰地
+bayberries|月桂树的果实( bayberry的名词复数 )
+biophagism|[医] 食生物作用
+burnoosed|burnous(e)的变形
+barkers|(barker 的复数) n. 招徕顾客的人, 剥树皮者
+barilla|苏打灰
+bedder|管理床铺的人, 供观赏的植物
+bloodless|无血色的, 不流血的, 没精神的
+bronchospasm|[医]支气管痉挛
+biennials|(biennial 的复数) n. 两年生植物, 两年一次的事
+bch|广播信道（Broadcast Channel）
+bels|(BEL 的第三人称 -s形式) [计] 报警符
+bifurcating|（指道路、河流、树枝等）分岔, 分成两支( bifurcate的现在分词 ); 使分枝, 使分叉
+buist|[人名] 比伊斯特
+botanizer|botanize的变形
+bowker|[人名] [英格兰人姓氏] 鲍克职业名称，浸泡棉或布者，来源于中世纪英语，含义是“洗”(to wash)
+brabble|吵嘴, 争论
+burmese|缅甸人, 缅甸语
+boggard|[英国方言] = bogle
+borassus|[网络] 糖棕属；扇椰子属；树头榈属
+bickiron|砧,砧子
+blindfolded|（尤指用布）挡住（某人）的视线( blindfold的过去式 ); 蒙住（某人）的眼睛; 使不理解; 蒙骗
+brattices|间壁；隔板；风布
+bai|黄雾
+bellwaver|徘徊不已
+biternate|二回三出的
+babelism|混乱
+brisker|快的( brisk的比较级 ); 轻快的; 爽快而清新的; 兴隆的
+bahera|[植]红果榄仁树
+bardee|( pl. bardees, -dies)(=bardy) 马甲虫
+bijugous|二对的
+bolographic|bolograph的变形
+bloodworm|做钓饵用的血红色的虫
+burundians|(Burundian 的复数) n. 布隆迪人
+beeswing|陈年葡萄酒表面上的浮薄膜, 有此种浮膜之陈年老酒
+bassoonist|巴松管手
+brume|雾, 霭
+botryoidal|一束葡萄状的
+bathophobia|深渊恐怖
+baru|(Baru)人名；(俄、罗)巴鲁
+bipartition|二分, 双开
+banded|有带子的
+bevies|（尤指少女或妇女的）一群( bevy的名词复数 ); （鸟类的）一群
+brucellae|pl. 布鲁氏(杆)菌属
+barbar|（男）理发员
+bakeapple|<加拿大>云莓干,云莓(植物云莓的浆果)
+bleacheries|[纺] 漂白工场；晒场
+blastomeric|blastomere的变形
+barehanded|不戴手套的, 赤手空拳的
+bepuff|过分赞扬, 竭力称赞
+bestiaries|(bestiary 的复数) n. 动物寓言集
+beloveds|(beloved 的复数) a. 心爱的
+bargepole|驳船钩杆
+bewails|因（某事物）而悲愁, 悲哀( bewail的第三人称单数 )
+balaenidae|露嵴鲸科
+bowshot|箭的射程, 一次射击
+bathometer|水深测量器
+boatsman|船工, 船夫, 船员
+bambara|(西非的)班巴拉族(人), 班巴拉人所用之曼丁哥语
+backcasts|回测
+baptisms|（基督教的）洗礼( baptism的复数形式 ); <喻>洗礼; 初次经历; 火的洗礼
+beatrix|比阿特丽克斯(Beatrice的异体)(f.)
+bourree|<法>法国十七世纪活泼的奥弗涅舞蹈
+boxfuls|(boxful 的复数) n. 一箱的
+bol|[医] 溴二乙麦角酰胺
+bromocamphor|溴樟脑
+budgeted|& vi. 把…编入预算（budget的过去式与过去分词形式）
+baku|巴库
+baldish|秃头的, 无草木的
+barytone|男中音, 男中音歌手, 低音的铜管乐器
+biomass|生物量
+basks|晒太阳, 取暖( bask的第三人称单数 ); 对…感到乐趣; 因他人的功绩而出名; 仰仗…的余泽
+beveling|[医] 斜镶法, 斜面
+bioecology|生物生态学
+bellboys|（旅馆里为客人搬运行李到房间里的）男侍者( bellboy的复数形式 )
+blastocyte|[胚]胚球, 胚细胞, 芽胞
+bacterioid|(=bacteroid)类似细菌体
+barite|重晶石
+biliteralism|双字母词根的运用, 由两个字母组成的词根的运用
+barfing|呕吐( barf的现在分词 )
+balanic|[医] 阴茎头的, 龟头的
+bootery|鞋靴店
+bec|雇员伤亡赔偿局（Bureau of Employees' Compensation）；商务英语证书（Business English Certificate）
+beguines|(beguine 的复数) n. 比津舞
+butterhead|球生菜
+bicolor|二色的
+bedplate|底板, 座板
+beplaster|覆满, 布满
+blacktopped|给（道路、停车场、操场等）铺上沥青面层（blacktop的变形）
+bathvillite|黄褐块碳
+bursars|（大学等的）财务主管( bursar的复数形式 ); 奖学金获得者
+beek|(Beek)人名；(英、德、荷)贝克
+biolytic|生物分解的, 破坏生物的
+biliousness|[医] 胆汁质
+bargainers|交易者；买卖约定者；讨价还价的人
+basanite|试金石
+bushfighting|丛林游击战
+bitchiness|坏脾气
+browses|吃草( browse的名词复数 ); 随意翻阅; （在商店里）随便看看; （在计算机上）浏览信息
+beadle|教区执事, 英国大学典礼仪仗官
+bimorphemic|[语]双语素的
+biseptate|两层隔膜的, 二分隔的
+botuliform|[医] 腊肠形的, 腊肠状的
+bigots|抱偏见的人, 执拗的人, 心胸狭窄的人( bigot的复数形式 )
+bubonalgia|[医] 腹股沟痛
+biosatellite|生物卫星
+blague|吹牛, 荒唐
+bacile|碗形深碟
+beaconing|[计] 报警的, 发信标
+bedquilt|棉被
+bote|森林采伐权

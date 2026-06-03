@@ -1,0 +1,3791 @@
+moon|月亮
+music|音乐
+movie|电影
+meat|肉
+milk|牛奶
+morning|早上
+month|月
+million|百万
+mountain|山
+museum|博物馆
+market|市场
+motorcycle|摩托车
+money|钱
+material|材料
+magazine|杂志
+mathematics|数学
+medicine|医学
+memory|记忆
+modest|谦虚的
+mean|刻薄的
+mutation|突变
+mitochondria|线粒体
+microbiology|微生物学
+metabolism|新陈代谢
+molecule|分子
+motion|运动
+mass|质量
+magnetism|磁
+measurement|测量
+mineral|矿物
+machine|机器
+microwave|微波炉
+mop|拖把
+mirror|镜子
+muscle|肌肉
+mall|购物中心
+manager|经理
+major|专业
+maintain|维持
+manage|管理
+marry|结婚
+match|匹配
+matter|重要
+measure|测量
+meet|遇见
+melt|融化
+memorize|记忆
+mention|提到
+merge|合并
+mind|介意
+miss|想念
+mix|混合
+move|移动
+murder|谋杀
+magic|魔法的
+magnetic|磁性的
+main|主要的
+male|男性的
+manual|手动的
+many|许多的
+marine|海洋的
+married|已婚的
+master|主人的
+mature|成熟的
+maximum|最大的
+medical|医学的
+mental|心理的
+messy|凌乱的
+metal|金属的
+middle|中间的
+mild|温和的
+military|军事的
+minimum|最小的
+minor|次要的
+minus|负的
+misleading|误导的
+missing|缺失的
+mixed|混合的
+mobile|移动的
+modern|现代的
+moral|道德的
+multiple|多个的
+mutual|相互的
+mechanic|机械师
+musician|音乐家
+melon|瓜
+mushroom|蘑菇
+monkey|猴子
+mouse|老鼠
+mouth|嘴巴
+mother|母亲
+midnight|午夜
+moment|时刻
+marriage|婚姻
+mistake|错误
+make|制作
+maneuver|机动
+manifest|显现
+manipulate|操纵
+march|行进
+mark|标记
+mask|掩饰
+massage|按摩
+mate|配对
+meddle|干预
+mediate|调解
+memorise|记忆
+mend|修补
+mess|弄乱
+mine|开采
+minimise|最小化
+misunderstand|误解
+moan|呻吟
+mobilise|动员
+mock|嘲笑
+modify|修改
+moisten|湿润
+monitor|监控
+mope|忧郁
+motivate|激励
+mould|塑造
+mount|安装
+mourn|哀悼
+mow|割草
+muddle|使困惑
+multiply|乘
+must|必须
+magnesium|元素周期表的第12个，鎂，缩写Mg
+manganese|元素周期表的第25个，錳，缩写Mn
+molybdenum|元素周期表的第42个，鉬，缩写Mo
+mercury|元素周期表的第80个，汞，缩写Hg
+mendelevium|元素周期表的第101个，鍆，缩写Md
+meitnerium|元素周期表的第109个，䥑，缩写Mt
+moscovium|元素周期表的第115个，鏌，缩写Mc
+management|管理
+manageable|可管理的
+manageably|可管理地
+meaning|意义
+meaningful|有意义的
+meaningfully|有意义地
+movement|运动
+moving|移动的
+movingly|移动地
+musical|音乐的
+musically|音乐地
+musicality|音乐性
+musicate|使音乐化
+methodical|有条理的
+methodically|有条理地
+methodize|使有条理
+marketable|有销路的
+marketably|有销路地
+medically|医学地
+medicate|用药治疗
+mindful|有意识的
+mindfully|有意识地
+motivational|激励的
+motivationally|激励地
+method|方法
+motivation|动机
+metabolize|新陈代谢
+metabolic|新陈代谢的
+metabolically|新陈代谢地
+mutations|突变
+mutational|突变的
+mutationally|突变地
+mitosis|有丝分裂
+mitoses|有丝分裂
+mitotic|有丝分裂的
+mitotically|有丝分裂地
+meiosis|减数分裂
+meioses|减数分裂
+meiotic|减数分裂的
+meiotically|减数分裂地
+migrate|迁徙
+migration|迁徙
+migratory|迁徙的
+migratorily|迁徙地
+moss|苔藓
+mosses|苔藓
+mossy|苔藓的
+mossily|苔藓地
+mesic|中生的
+mesics|中生生物
+mesically|中生地
+mycoremediation|真菌修复
+mycoremediations|真菌修复
+mycoremediational|真菌修复的
+mycoremediationally|真菌修复地
+monosaccharide|单糖
+monosaccharides|单糖
+monosaccharidic|单糖的
+monosaccharidically|单糖地
+metabolisms|新陈代谢
+mexico|墨西哥
+mexicos|墨西哥
+mexican|墨西哥的
+mexicanly|墨西哥地
+malaysia|马来西亚
+malaysias|马来西亚
+malaysian|马来西亚的
+malaysianly|马来西亚地
+myanmar|缅甸
+myanmars|缅甸
+myanmarly|缅甸地
+mongolia|蒙古
+mongolias|蒙古
+mongolian|蒙古的
+mongolianly|蒙古地
+morocco|摩洛哥
+moroccos|摩洛哥
+moroccan|摩洛哥的
+moroccanly|摩洛哥地
+marshall|马绍尔
+marshalls|马绍尔
+marshallese|马绍尔的
+marshallely|马绍尔地
+micronesia|密克罗尼西亚
+micronesias|密克罗尼西亚
+micronesian|密克罗尼西亚的
+micronesianly|密克罗尼西亚地
+manila|马尼拉
+manilas|马尼拉
+manilan|马尼拉的
+manilanly|马尼拉地
+males|马累
+malily|马累地
+mumbai|孟买
+mumbais|孟买
+mumbailly|孟买地
+madrid|马德里
+madrids|马德里
+madridly|马德里地
+moscow|莫斯科
+moscows|莫斯科
+moscovite|莫斯科的
+moscovitely|莫斯科地
+miami|迈阿密
+miamis|迈阿密
+miamian|迈阿密的
+miamianly|迈阿密地
+montreal|蒙特利尔
+montreals|蒙特利尔
+montreally|蒙特利尔地
+melbourne|墨尔本
+melbournes|墨尔本
+melbournely|墨尔本地
+merger|合并
+mortgage|抵押贷款
+meeting|会议
+minutes|会议记录
+mission|使命
+mediation|调解
+mindset|心态
+medication|药物
+maturity|成熟
+mentorship|导师制
+masterpiece|杰作
+melody|旋律
+makeup|化妆
+metaphor|隐喻
+medal|奖牌
+martial|武术
+marathon|马拉松
+monitoring|监测
+mentor|导师
+model|榜样
+member|成员
+magnitude|大小
+morality|道德
+meditation|冥想
+mood|情绪
+merit|优点
+microphone|麦克风
+message|消息
+membership|会员
+minister|部长
+magnet|磁铁
+marker|记号笔
+memo|备忘录
+mumble|嘟囔
+mutter|嘀咕
+murmur|低语
+myth|神话
+mixture|混合物
+mechanical|机械的
+manufacture|制造
+midtown|中区
+metropolis|大都市
+motorway|高速公路
+mud|泥
+might|威力
+machinery|机械
+magnificent|壮丽的
+mainland|大陆
+mainstream|主流
+majority|多数
+manuscript|手稿
+margin|边缘
+massive|大规模的
+mathematical|数学的
+mayor|市长
+meadow|草地
+meanwhile|同时
+mechanism|机制
+medium|媒介
+memorial|纪念的
+merchant|商人
+mercy|仁慈
+methodology|方法论
+mill|磨坊
+ministry|部
+minority|少数
+miracle|奇迹
+missile|导弹
+moderate|适度的
+module|模块
+moisture|水分
+monopoly|垄断
+monument|纪念碑
+moreover|此外
+mosque|清真寺
+motive|动机
+mystery|神秘
+managers|经理
+members|成员
+man|男人
+means|意味着
+most|最多的
+makes|制造
+multitasking|多任务处理
+may|可以
+meals|餐
+me|我
+maybe|可能
+mistakes|错误
+mostly|主要地
+movies|电影
+media|媒体
+months|月
+math|数学
+made|制造
+more|更多的
+making|制造
+my|我的
+marking|标记
+manufacturers|制造商
+men|男人
+marked|有标记的
+much|许多的
+misinterpret|误解
+markedly|显著地
+misfortune|不幸
+memorable|值得纪念的
+misled|(mislead过去式)误导
+monopolize|垄断
+milestone|里程碑
+municipal|市政府的
+modernize|现代化
+metropolitan|大都市的
+motel|汽车旅馆
+malicious|恶毒的
+mobility|流动性
+materialize|实现
+mismanagement|管理不当
+minimal|最低的
+moist|潮湿的
+mortality|死亡率
+mournful|悲哀的
+mining|采矿业
+magnify|放大
+memorandum|备忘录
+mysteriously|神秘地
+momentum|动力
+miniature|微型的
+monetary|货币的
+maintenance|维修
+marsh|沼泽地
+multiplication|乘法
+mint|造币厂
+marshal|元帅
+metallurgy|冶金学
+microscopic|显微镜的
+mast|桅杆
+microprocessor|微信息处理机
+majesty|雄伟
+mesh|网眼
+misery|痛苦
+modulate|调整
+mischief|调皮
+momentary|瞬息间的
+miser|守财奴
+moderately|适度地
+moor|使停泊
+minimize|使减到最小
+mingle|vt. 使混合
+maid|少女
+maiden|少女
+merchandise|商品
+mute|弱音器
+merciful|仁慈的
+mistress|情妇
+mighty|强大的
+modesty|谦逊
+maple|槭树
+marvel|奇迹
+milky|牛奶的
+masculine|男性的
+magician|魔法师
+martyr|烈士
+mitten|连指手套
+mechanics|力学
+monstrous|极大的
+monarch|君主
+mob|团团围住（名人等）
+metallic|金属的
+mustard|芥子
+marginal|边缘的
+muscular|肌肉发达的
+mars|火星
+mixer|搅拌器
+modification|修改
+monk|和尚
+monster|怪物
+molecular|分子的
+malice|恶意
+mountainous|多山的
+mobilize|动员
+magistrate|地方法官
+massacre|大屠杀
+mansion|大厦
+multitude|大批
+missionary|传教士
+muse|沉思
+meditate|沉思
+mammal|哺乳动物
+mist|薄雾 v. 下薄雾
+millionaire|百分富翁
+menace|威胁 v. （进行）威胁
+moslem|穆斯林 adj. 穆斯林的
+melancholy|忧郁的 adj. 忧郁
+messenger|送信人
+merely|仅仅
+muddy|泥泞的
+medieval|中世纪的
+midst|中部
+mere|仅仅的
+manufacturer|制造商
+minibus|小型公共汽车
+migrant|移居者
+materialism|唯物主义
+marble|大理石
+mortal|终有一死的
+militant|激进的
+millimeter|(millimetre)毫米
+marital|婚姻的
+merry|欢乐的
+monthly|每月的 adv. 每月一次
+monotonous|单调的
+malignant|恶性的
+metric|米制的
+mode|方式
+modernization|(modernisation)现代化
+motor|发动机
+marvelous|(marvellous)惊人的
+mankind|人类
+manner|方式;举止;(pl.)风度
+menu|菜单
+metre|(meter)米
+monday|星期一
+mislead|误导
+miserable|悲惨的
+mad|疯狂的
+madame|（法语）夫人
+mysterious|神秘的
+microscope|显微镜
+mutton|羊肉
+mosquito|蚊子
+marxist|马克思主义者 adj. 马克思主义的
+maths|数学（等于mathematics）
+meantime|其时
+mosaic|摩西的
+mat|垫
+mug|杯子
+marvellous|令人惊奇的
+millimetre|毫米
+mold|模子
+manoeuvre|演习
+meteorite|陨石
+meter|米
+mile|英里
+mar|污点
+mediterranean|地中海
+map|地图 v. 绘制地图
+minute|分钟
+maya|玛雅人
+millennium|太平盛世
+motif|主题
+modem|[计]调制解调器
+mesozoic|中生代(的)
+maker|制造者
+mantle|斗蓬 v. 披风
+mail|邮件
+martian|火星人(的)
+mercantile|贸易的
+mississippi|密西西比河
+massachusetts|马萨诸塞(美国州名)
+mammoth|猛犸
+missouri|密苏里州(美国州名)
+molt|vi&n. 脱毛
+mississippian|密西西比河的 n密西西比州人
+magma|岩浆
+meltwater|冰雪融化成的水
+monumental|纪念碑的
+mathematician|数学家
+marseille|马赛(法国港口城市)
+moth|蛾
+mechanize|机械化
+mandan|曼丹人
+mutualism|互助论
+methane|甲烷
+moraine|冰碛
+microorganism|微生物
+mound|土墩
+meager|兆
+mackerel|鲭
+midwest|中西部
+mutoscope|(早期的)电影放映机
+mutually|互相地
+movable|活动的
+mythical|神话的
+maturation|化脓
+magnetosphere|磁气圈
+measurable|可测量的
+maritime|海上的
+moose|[动] 驼鹿
+mineralization|矿化作用
+marlin|枪鱼
+meal|餐
+manhattan|曼哈顿岛(美国纽约一区)
+meticulously|仔细地
+meteoric|流星的
+michigan|密歇根州(美国州名)
+mule|骡子
+midcontinent|大陆中部
+mainstay|支柱;骨干
+magenta|红紫色(的)
+maser|微波激射器
+minuscule|草写小字(的)
+micron|微米
+mechanization|机械化
+mural|墙壁的  n壁画
+midair|半空中
+motionless|不动的
+meaningless|无意义的
+mesquite|豆科灌木
+mussel|[动]贻贝
+mismatch|配错
+multiplicity|多样性
+maximize|取最大值
+marshy|沼泽般的
+manifestation|显示
+myriad|无数的 n无数
+minimalist|最低限要求者
+magical|魔术的
+makeshift|临时的 n. 临时替代物
+megawatt|兆瓦特
+multicellular|多细胞的
+matrix|矩阵
+metalworker|金工工人
+mortise|榫眼  v用榫接合
+microbial|微生物的
+microbiologist|微生物学家
+mallet|槌棒
+macdonald|麦当劳快餐店
+mundane|平凡的
+mystical|神秘的
+mandarin|官话
+miner|矿工
+minneapolis|明尼苏达[美国州名]
+metalwork|金属制品
+mythology|神话
+mythological|神话(学)的
+manure|肥料
+masonry|石工术
+mediocre|平庸的
+methyl|甲基
+maroon|栗色 a栗色的
+marrow|精华
+mudflats|泥滩
+mineralize|使矿物化
+molasses|<美>糖蜜
+meteor|流星
+magnetize|使磁化
+morally|道德上
+militaristic|军国主义的
+morphology|[生物]形态学
+meteorologist|气象学者
+mesopotamian|美索不达米亚（两河流域）
+meaty|肉的
+mystique|神秘性
+morris|莫理斯舞(英国传统民间舞蹈)
+mentally|精神上
+midway|中途
+midday|正午
+maize|玉米
+microscopy|显微镜检查
+monoxide|一氧化物
+mandible|下颚
+malleability|有延展性
+microfossil|微体化石
+mudstone|[地]泥岩
+meteoritic|陨星的
+manipulation|处理
+mantel|壁炉架
+mandate|(书面)命令
+mammalian|哺乳动物 adj. 哺乳动物的
+minstrel|吟游诗人(或歌手)
+monroe|门罗(m)
+massif|山丘
+militarily|以武力
+mottle|使有斑点 n杂色
+misunderstanding|误会
+myxoma|[医]粘液瘤
+milligram|毫克
+miocene|中新世的
+monoid|独异点
+maine|缅因州(美国东北角的州)
+momentarily|暂时地
+medicinal|药物的
+misty|有薄雾的
+marketplace|集会场所
+moody|易怒的
+minutely|每分钟的
+monolithic|单片电路
+meticulous|一丝不苟的
+millet|[植]稷
+marvelously|奇迹般地
+microbe|微生物
+mite|微小的东西
+mistrust|不信任
+milkweed|乳草属植物
+monogamous|一夫一妻的
+monochrome|单色 单色的
+momentous|重要的
+misdeed|罪行
+multifaceted|多层面的
+maternal|母亲的
+morphological|形态学的
+morale|士气
+malleable|有延展性的
+mechanically|机械地
+marshland|沼泽地
+multivolume|多卷的
+modernist|现代主义者
+moat|护城河
+misinterprete|误解
+macaque|短尾猿
+mote|尘埃
+micronutrient|[生]微量营养素
+moccasin|鹿皮鞋
+meteoroid|流星体
+microcosm|微观世界
+melodic|有旋律的
+meander|蜿蜒而行
+merciless|残忍的
+multidirectional|多方向的
+mycology|[植]真菌学
+matron|主妇
+mimic|模仿
+modestly|谨慎地
+mormon|摩门教徒
+minnesota|明尼苏达州(美国州名)
+maraca|[音]沙球
+mystify|迷惑
+mesmerize|施催眠术
+miasmic|毒气的
+majestic|雄伟的
+modernistic|现代的
+mirage|海市蜃楼
+midwestern|美国中西部的
+manifesto|宣言
+malfunction|故障
+mermaid|美人鱼
+metaphysical|形而上学的
+mountainside|山腹
+moralistic|狭隘道德观的
+moralism|道德主义
+monarchy|君主政体
+meltdown|彻底垮台
+modus|方法
+mouldy|发霉的
+modal|模态的
+multifunctional|多功能的
+modulation|调制
+marsupial|有袋动物 a有袋动物的
+multipurpose|多种用途的
+metamorphic|变质的
+mastodon|[古生]乳齿象
+monochromatic|单色的
+mania|[医]颠狂
+melodrama|情节剧
+mortar|灰泥
+musicologist|音乐学者
+multistory|多层的
+midocean|海洋中央
+mennonite|门诺派教徒
+merchandis|商品
+mimetic|模仿的
+midlatitude|中间纬度
+moralize|教化
+megalopolis|巨大都市
+miraculous|奇迹的
+matrilinear|母系的
+mildly|温和地
+masthead|桅顶
+megafossil|大化石
+modicum|少量
+muscularly|肌肉的
+maverick|标新立异的
+misconception|误解
+mitigate|减轻
+mason|泥瓦匠 vt. 用砖瓦砌成
+magnification|扩大
+melange|混合物
+mandatory|命令的
+mime|哑剧 v. 做哑剧表演
+maw|动物的胃
+mainsheet|主桅帆操纵索
+mollusk|[动]软体动物
+metazoan|[动]后生动物(的)
+milieu|周围
+mottled|有杂色的
+mellow|醇香的
+meridian|子午线
+molten|熔化的
+melanin|黑色素
+muggy|闷热的
+mannerism|怪癖
+monastery|男修道院
+maze|迷宫
+maglev|磁力悬浮火车
+malnutrition|营养不良
+mischievous|恶作剧的
+matrimony|婚姻
+melodious|旋律优美的
+modernity|现代性
+multiplicative|倍增的
+morgue|停尸房
+middleman|中间人
+mesolithic|中石器时代的 n.  中石器时代
+monogamy|一夫一妻制
+meteorology|气象学
+monotony|单调
+methanol|甲醇
+midterm|中间的
+mortify|使蒙受屈辱
+mismanage|对…管理不当
+modeling|立体感
+meteorological|气象学的
+membrane|薄膜
+myopic|近视的
+motto|座右铭
+m|[计] 尾数, 主要, 媒体, 介质, 中等, 存储器, 方式, 分, 模, 乘法器, 兆, 毫
+messages|信息, 留言板（message的复数形式）
+marketing|行销, 买卖
+microsoft|(美国)微软公司
+miles|英里（1英里约合1609米, mile的复数形式）
+methods|方法, 方式；研究方法（method的复数）
+models|模型( model的名词复数 ); 模特儿; 模式; 典型
+michael|迈克尔（男子名）
+materials|材料；材料费；材料科学；材质（material的复数）
+mon|发动机辛烷值（Motor Octsne Number）；星期一（Monday）
+ms|美国微软公司
+maps|管理分析与规划系统（Management Analysis and Planning System）
+ma|妈
+mac|防水胶布, (英)雨衣, 老兄, 老弟
+max|[计] 最大
+md|医学博士, 总经理, 常务董事
+mb|兆字节
+mr|先生
+multi|[计] 多
+mary|玛丽（女子名）
+mailing|邮寄, 投递, 邮件, 农场租金
+mm|毫米
+mini|同类中的极小者, 微型汽车, 超短裙
+modified|改良的；改进的, 修改的
+msn|微软网络服务（Microsoft service Network）；即时通讯软件（MSN Messenger）；总编号（等于Master Serial Number）；军事编号（Military Serial Number）
+min|部长（Minister）；部（Ministry）
+martin|马丁, 圣马丁鸟
+mike|偷懒, 游手好闲
+mi|检疫, 军事情报
+magazines|杂志（magazine的复数）
+markets|市场, 市场组合（market 复数）
+milf|（菲律宾）摩洛伊斯兰解放阵线（Moro Islamic Liberation Front）
+met|meet的过去式和过去分词
+manufacturing|制造业
+measures|措施；层组（measure的复数）
+mid|中间的, 中央的, 中部的
+meetings|会议, 集会, 会见（meeting的复数形式）
+myself|我自己, 我亲自, 我独自
+machines|机器；机械（machine的复数）
+motorola|摩托罗拉（美国主营电子的公司）
+mo|顷刻, 瞬间, 函购, 邮购, 军医, 军医主任, 汇票, 邮政汇票
+multimedia|多媒体
+moved|移动, 移动到；感动（move的过去式, 过去分词）
+matching|相同的, 协调的
+miscellaneous|各种的, 多方面的
+maryland|马里兰州
+managed|与中央化计划及管制有关的；托管的
+mt|峰, 山
+matters|事项；事态；事件；情事（matter的复数）
+mom|妈妈
+mg|[化] 微粒剂
+mentioned|提到( mention的过去式和过去分词 ); 说起; 提名表扬; 传令嘉奖
+maintained|被保持的
+miller|厂主, 蛾
+mn|[医] 锰(25号元素)
+matches|火柴；比赛（match的复数）
+managing|管理的, 节约的
+modules|加载模块列表；模块（module的复数）
+matt|表面暗淡的, 无光泽的, 表面粗糙的, 不光滑的
+mysql|数据库系统（一种免费的跨平台的）
+montana|蒙大拿州
+mens|[医] 精神, 意志
+manchester|曼彻斯特
+millions|数百万
+misc|[计] 杂类新闻组
+ml|法学硕士, 摩托艇, 汽艇
+marks|标记, 记号；唛头, 分数；台面标志
+mapping|[计] 映射; 变换; 映象
+moore|摩尔（男子名）
+mc|国会议员, 典礼官, 司仪, 医疗队
+metro|地铁
+missed|投偏；未抓住；错过（miss的过去分词）
+monitors|监视器, 监控器；情况通报（monitor复数形式）
+meant|mean的过去式和过去分词
+meets|相遇( meet的第三人称单数 ); 相识; 开会; 接触（某物）
+measured|整齐的, 慎重的, 基于标准的
+medline|<美>联机医学文献分析和检索系统
+med|教育学硕士
+moderator|主席, 会议主持人, 仲裁人
+matthew|马太, 马太福音
+morgan|摩根马
+mortgages|抵押贷款；财产贷款；房屋贷款（mortgage的复数）
+madison|麦迪逊（姓氏）；麦迪逊（美国城市）
+mainly|主要地, 大抵
+mp|国会议员, 下院议员
+mph|每小时...英里, 哩/时
+mountains|山脉；山区；山岳（mountain的复数）
+moves|移动；搬家；感动（move的第三人称单数）
+memorabilia|值得纪念的事物, 大事记
+masters|主人；硕士；大师赛（master的复数形式）
+memories|回忆；记忆（memory的复数）
+mod|现代派的, 时髦的
+mpeg|[计] 动画专家小组
+measurements|测量值, 尺寸（measurement的复数）
+milwaukee|（美国）密尔沃基
+mit|手, 连指手套, 棒球手套, 拳击手套, 马萨诸塞理工学院, 麻省理工学院
+maria|玛丽亚（女名）
+modes|分辨率；方法；模式（mode的复数形式）
+merchants|商人( merchant的复数形式 ); （某活动的）爱好者, 热中于…的人
+mechanisms|机械( mechanism的复数形式 ); 机械装置; [生物学] 机制; 机械作用
+motors|汽车公司证券；汽车；发动机（motor的复数）
+maintaining|[化] 维护; 保养
+makers|迈克（美国一家公司）
+marc|榨渣
+margaret|玛格利特（女子名）
+marie|玛丽（女子名）
+manga|日本漫画
+mhz|[计] 兆赫兹
+meta|[计] 元的
+mounted|安在马上的, 裱好的
+median|中央的, 中间的, 正中的
+moments|片刻（moment复数形式）
+mitchell|米切尔（男子名, 等于Michael）
+mrs|太太
+memphis|孟菲斯
+mice|pl. 老鼠
+mercedes|梅塞德斯（人名）；梅赛德斯（公司名）
+mills|米尔斯（人名）
+mx|麦克斯韦（maxwell, 磁通量单位）；中性（Middlesex）
+michelle|米歇尔（女子名）
+messaging|消息传送；信息传送；通知
+murray|默里（男子名）；墨累河（澳大利亚东南部一条河流）
+meters|米；公尺（meter的复数形式）
+muslim|伊斯兰教, 伊斯兰教教徒
+measuring|测量
+medicare|医疗照顾方案, 医疗照顾项目
+museums|博物馆（museum的复数形式）
+mins|需监护的未成年人（Minors In Need of Supervision）；分钟（minutes）；微惯性导航系统（micro inertial navigation system）
+mlb|金属链带（Metallic Link Belt）；航海劳工局（Maritime Labor Board）；美国职棒大联盟（Major League Baseball）
+mitsubishi|[经] 三菱
+mozilla|摩斯拉（浏览器名）
+msg|[医] 谷氨酸一钠
+melissa|[医] │蜜蜂花, 蜜里萨香草
+marriott|马里奥特（美国第二大宴会承包商）
+manuals|手册, 指南；说明书（manual的复数）
+montgomery|蒙哥马利（姓氏）；蒙哥马利（英国郡名）
+macintosh|[计] Macintosh计算机
+movements|运动, 运转；运动健身；动作（movement的复数形式）
+monica|莫尼卡（女子名）
+mart|商业中心, 市场
+madonna|圣母玛利亚, 圣母像
+murphy|马铃薯
+mirrors|反光镜；写实；[罕]模范；镜子（mirror的复数）
+macro|pref. 宏
+midi|中长裙, 乐器数字化接口
+mounting|装备, 衬托纸, 舞台效果, 上马
+minds|思想；主意（mind的复数）
+musicians|音乐家( musician的复数形式 )
+mario|马里奥（男子名）
+mothers|母亲；根源（mother的复数）
+manufactured|制造的, 已制成的
+mega|[计] 兆; 百万
+moms|密西根数学系统（Michigan's Own Mathematical System）
+malta|马尔他
+medications|药物治疗；药物（medication的复数形式）
+modifications|缓和( modification的复数形式 ); 限制; 更改; 改变
+mem|[计] DOS外部命令:显示内存的使用情况
+macromedia|全球最大的网络多媒体软件公司; 旗下的软件包括Macromedia Flash; Macromedia Dreamweaver; Macromedia Fireworks
+mastercard|万事达信用卡
+myspace|“我的空间”, 美国在线社交网站名称
+mba|工商管理学硕士（Master of Business Administration）；海洋生物协会（Marine Biological Association）；主要战区（Main Battle Area）
+mono|单声道的
+mag|杂志, 星期专刊, 期刊, 仓库, 军火库, 弹药, 库存物, 弹仓, 弹盘, 弹盒, 胶卷盒
+martha|马大(<<圣经>>故事人物)
+metals|五金
+minerals|矿物质；矿物；矿产, 矿产品（mineral的复数）
+menus|菜单（menu的复数形式）
+mls|复式造表服务处（Multiple Listing Service）
+manitoba|马尼托巴湖（加拿大中南部）
+missions|任务；传教工作；代表团（mission的复数）
+myers|迈尔斯（姓氏）
+ministers|大臣( minister的名词复数 ); 部长; 公使; 牧师
+mcdonald|麦克唐纳（男子名）；麦当劳（快餐店名称）
+mixing|混合, 混频
+maternity|母性, 怀孕, 妇产科医院
+mf|中频
+motels|汽车旅馆( motel的复数形式 )
+mw|[计] 毫瓦
+marina|码头
+mobiles|motion sculptures (plastic forms in motion) 运动雕塑（运动造型）
+mazda|马自达汽车
+masturbating|（对…）进行手淫( masturbate的现在分词 )
+ment|mention 提到; mental 精神的; mentalis 精神的; mentioned 提及的
+midlands|英国中部
+mailed|披甲的, 装甲的
+medicaid|医疗补助方案, 医疗补助项目
+milton|米尔顿（男子名, 英国诗人）
+monaco|摩纳哥
+minolta|美能达牌照相机（日）
+mozambique|莫桑比克
+manor|庄园
+milan|米兰
+marilyn|玛里琳（女子名）
+matched|相配的；敌得过的
+muslims|穆斯林（muslim复数）
+marion|马里恩（男子名）
+metallica|金属乐队（美国乐队名）
+mardi|(Mardi)人名；(阿拉伯)马尔迪
+marcus|马库斯（男子名）
+mesa|台面, 岩滩, 平顶山
+maintains|保持( maintain的第三人称单数 ); 保养; 坚持; 保卫
+modular|模数的, 有标准组件的
+macedonia|马其顿
+moderators|(moderator 的复数) n. 主席, 会议主持人, 仲裁人
+mas|[化] 低碳混合醇
+ministries|（政府的）部( ministry的复数形式 ); 神职; 牧师职位; 神职任期
+metadata|[计] 元数据
+modelling|模特儿职业, 立体感
+madagascar|马达加斯加岛
+markers|标记；记分员；书签；马克笔（marker的复数）
+monte|[计] 蒙特卡罗
+mil|千分之一英寸
+mauritius|毛里求斯
+medicines|药( medicine的复数形式 ); 内服药; 医术; 医学
+munich|慕尼黑
+malawi|马拉维
+maui|毛伊岛
+mileage|英里数
+mods|载人的轨道研究站（manned orbital development station）
+mustang|野马, (海军行伍出身的)军官
+mu|希腊字母(M,μ)
+muscles|肌肉（muscle的复数）
+motherboard|底板, 母板
+manually|用手
+mv|市面价值, 平均变化, 中压, 商船, 内燃机船, 初速
+mpg|每加仑汽油能行驶的英里数
+mh|报文处理程序（message handler）
+mats|军事空运局（Military Air Transport Service）
+motorcycles|摩托车, 电单车（motorcycle的复数）
+molecules|分子, 微粒；摩尔（molecule的复数）
+marijuana|大麻
+madness|疯狂, 愚蠢的行为
+malpractice|不当治疗, 不端行为, 渎职
+mic|[计] 介质接口, 连接器
+mj|玛帝脂接缝（Mastic Joint）；[物]兆焦耳（megajoule）
+moses|摩西, 领导者, 立法者
+mattress|床垫, 空气垫, 沉床
+mai|[医][=microscopic aggregation index]显微镜下聚集指数
+mines|地雷；矿山（mine的复数）
+metres|米( metre的复数形式 ); （诗的）格律; 用于竞赛名称 metres
+mali|马里
+mtv|音乐电视（Music Television）
+masturbation|[医] 手淫
+monitored|指导, 检测；监控（monitor的过去分词）
+motivated|有动机的, 目的明确的
+mails|邮件（mail的复数形式）
+mae|（苏格兰）更多（等于more）
+moldova|摩尔多瓦
+mel|[医] 蜂蜜
+mariah|玛丽亚（女子名）
+municipality|自治区, 市当局, 市民
+marco|马尔科（人名）；显示地图；展现地图
+modems|调制解调器( modem的复数形式 )
+mia|战斗中失踪的（Missing In Action）
+mailman|邮递员
+movers|（会议上的）提议人( mover的复数形式 ); 搬家工人; …走动的人; 兴旺发达的事物
+mrna|[化] 信使核糖核酸
+meyer|迈耶（日耳曼语, 指首席侍从或农夫）
+mounts|加载的文件系统；山峰（mount的复数）
+michel|米歇尔（男子名）
+maldives|马尔代夫(群岛)[亚洲岛国]
+mambo|曼博舞, 曼博音乐
+morrison|莫里森（姓氏）
+myrtle|桃金娘科植物
+mating|交配
+monsters|怪物( monster的复数形式 ); 小恶魔; 恶棍; 坏人
+morisco|(建筑等)摩里斯科风格的,摩里斯科式(即摩尔式)的
+mountebanks|江湖郎中, 骗子
+morcellation|[医] 分碎术
+maundy|(天主教的)洗足礼
+monest|(居住在缅甸东部和泰国西部的)孟人；孟语(属南亚语系高棉语族)
+mascle|(13世纪铠甲的)菱形钢铠片
+misdiagnose|误诊
+meshugga|发疯似的, 失常的
+manhandles|粗暴地对付；人工推动
+muddiest|泥泞的( muddy的最高级 ); 暗的; 模糊的; 糊涂的
+mummies|<口>妈妈( mummy的名词复数 ); 木乃伊; 干尸; 软弱的男孩（或男人）
+mantid|& adj.[昆]螳螂(的)
+metra|[医] 子宫
+milner|米尔纳(姓氏)
+membraned|细胞膜的
+manteaus|斗篷；披风
+miargyrite|[化] 辉锑银矿
+megampere|[电] 百万安
+malacca|马六甲海峡(在亚洲东南部马来半岛和印度尼西亚的苏门答腊岛之间,沟通太平洋和印度洋)
+mycodermic|形成醭的
+musa|[电信]可变方向图的多元菱形天线( 亦作MUSA, Musa)
+mirrored|反映( mirror的过去式和过去分词 ); 反射; 映照; 将（玻璃）喷镀成镜子
+marcosian|[网络] 马科西安
+mongers|(monger 的复数) n. 商人, ...商, ...贩
+munitions|军火, 军需品
+mythicized|视为神话, 解释为神话( mythicize的过去式和过去分词 )
+microfilmer|缩微机
+moff|莫夫绸
+momi|莫米（刚果民主共和国城市名）
+moderatist|温和主义者, 稳健主义者
+marsupia|（有袋目动物腹部的）育幼袋( marsupium的名词复数 ); [医]（单marsupium）育儿袋, 卵袋, 阴囊
+myall|垂枝相思树
+muggur|泽鳄
+manoeuver|作战行动, 大演习; 调动
+militating|产生作用或影响( militate的现在分词 )
+mislabelling|(mislabel 的现在分词) v.贴错标签
+maumet|[英方]玩偶, 傀儡, 怪样的人
+mince|切碎物
+masculinism|女子男征
+minnetaree|[网络] 曼丹人；人明尼它利族；曼丹部落人
+motorically|motoric的变形
+masticic|乳香树的, 乳香树脂的
+motorboater|摩托艇, 汽船 (motorboat的变形)
+meeker|米克（姓氏）
+monotonic|单调的
+marcescence|枯而不落(现象)
+monacetin|[化] 甘油一乙酸酯; 一醋精
+monarchess|女君主,女王,女皇
+madrier|军用厚橡木板
+melanomas|黑瘤
+mahlstick|腕杖
+myringa|[解]鼓膜
+melaena|[医]黑粪症
+mezuza|(犹太教)门柱圣卷(一面记有《圣经》文字一面写着神的名字的羊皮纸卷)
+merchantmen|商船, 商人( merchantman的名词复数 )
+millirem|[核]毫雷姆(=1/1000雷姆,略作mrem)
+macao|澳门
+meq|[医] 毫[克]当量
+metaplast|后形质体; 后成体
+mentation|精神作用, 心理状态
+morphophyly|[医] 成形发育
+mumper|mump的变形
+myriare|1 平方公里(约合247英亩,略作 mya.)
+malting|麦粒发芽, 制成麦芽糖, 麦芽作坊
+matchcoat|印第安斗篷
+mniaceae|[网络] 提灯藓科；提灯藓属
+methodic|细心的, 有规律的, 有条理的, 有方法的
+monosome|单体
+manticora|[网络] 曼帝可拉；大王虎甲
+monopolised|(monopolise 的过去分词) vt. 垄断, 独占, 专营, 专利
+mnemosyne|[希神]摩涅莫辛涅(记忆女神)
+milko|售奶工人, 送奶工人
+matty|马蒂（女子名, 姓氏）
+mesopotamia|美索不达米亚
+microfiches|单片缩影胶片( microfiche的复数形式 )
+matricaria|母菊属
+mide|Middle East 中东地区
+manger|马槽, 牛槽, 挡水板
+maximized|使（某事物）增至最大限度( maximize的过去式和过去分词 ); 最大限度地利用（某事物）
+milline|百万行(广告的计算单位)
+marches|（坚定地向某地）前进( march的第三人称单数 ); 进军; 进展; 游行示威（或抗议）
+matha|[地名] [法国] 马塔
+motifs|<法> （文艺作品等的）主题( motif的复数形式 ); 中心思想; 基本模式; 基本图案
+mainsworn|[法] 发假誓, 作伪证, 发假誓者
+melanoderm|黑种人,黑人
+macrosomatia|[医] 巨体
+manganic|锰的, 得自锰的
+masculinize|[医] 男性化(指女子)
+menstruated|行经, 月经来潮( menstruate的过去式和过去分词 )
+magna|麦格纳（全名为麦格纳国际, 为世界第三大汽车零部件供应商）
+microtomy|超薄切片机使用术, 超薄切片法
+moco|[动]岩豚鼠
+mastopexy|乳房固定术
+merks|(merk 的第三人称 -s形式)  [人名] 默克
+methene|亚甲基
+magnes|[人名] 马格内斯
+microstomous|小口的,小嘴的
+moroccans|摩洛哥人( Moroccan的复数形式 )
+moorings|停泊处, 系船处
+muckerer|[俚语]粗俗的人；无赖
+morkin|[人名] 莫金
+magnifies|放大( magnify的第三人称单数 ); 扩大; 夸大; 夸奖
+mizzling|下蒙蒙细雨( mizzle的现在分词 )
+miting|Massachusetts Institute of Technology (美国)马萨诸塞理工学院,麻省理工学院
+myoid|[解]肌样的
+minauderie|[法]娇态
+mellon|[化] 三聚二氰亚胺
+millable|可轧的, 可铣的
+mima|米玛（电影名）
+misremember|记错
+mitogen|[生]有丝分裂原,促细胞分裂剂,分裂素
+mumsy|家常的；呆板的；不时髦的
+mammas|妈妈；乳房
+marshier|沼泽的；湿地的 (marshy的变形)
+multiplane|多翼机
+monetization|定为货币, 作为货币, 货币铸造
+minicomputer|小型计算机
+monorchidism|[医] 单睾丸[畸形]
+methylidyne|[化] 次甲基
+moanful|呻吟的, 悲伤的
+misapplying|误用, 滥用( misapply的现在分词 )
+mankilling|[法] 可致人于死的, 可杀死人的, 令人筋疲力竭的
+maquisard|反纳粹游击队员
+malacon|(变)水锆石
+mismanager|mismanage的变形
+mennonist|门诺派教徒(16世纪起源于荷兰的基督教新派,反对婴儿洗礼,服兵役等,主张生活俭朴)
+mellowy|<古>= mellow
+monotriglyph|[建]在嵌线上只有竖条纹饰的分柱法, 单排档
+mesenchyme|间质
+misdemeanors|轻罪
+madrague|捕鲭网
+myelitic|[医](病毒等)侵入脊髓的
+maneless|无鬃毛的
+mothproofer|[医]防蛀剂
+mugget|绵羊内脏
+matins|晨祷
+mournfulness|悲凄
+moraceae|[医] 桑科
+massacred|残杀；彻底击败
+micropipette|[化] 微量吸移管
+middler|[人名] 米德勒
+maronite|[宗]( 流行于黎巴嫩的天主教教派) 马龙派教徒
+mtg|Mounting 安装; mounting 安装; meeting 会议; main turbogenerator(s) 涡轮发动机主机
+macromere|[生]大(分)裂球
+moleskin|鼹鼠皮, 斜纹棉布, 斜纹棉布裤
+moderation|缓和, 适度, 温和
+makuta|likuta 的复数
+myxoviral|myxovirus的变形
+manducate|<罕> 咀嚼, 吃
+mesothorax|[昆]中胸
+morus|[植]桑属
+mumblingly|作[如] mumble之状地
+martingales|(martingale 的复数) n.手法,诀窍
+mesocratic|[地](尤指火成岩等)中色的
+malapropisms|(malapropism 的复数) n. 文字的错用
+modulations|(modulation 的复数) n. 调制, 调节, 语调
+muncher|大声咀嚼
+mesostyle|中齿尖
+mutualizing|,vi. mutualize的变形
+montenegrin|黑山的
+mesogastrium|(=mesogaster)[解](胚胎的) 胃系膜, 脐部
+multibreak|[电] 多断
+mender|修缮者, 修理者, 修改者
+marsupials|有袋类
+myomorph|鼠形动物
+minorities|少数( minority的名词复数 ); 小部分; 少数民族; 未成年
+messias|人名；(葡)梅西亚斯
+mann|曼（姓氏）；曼恩法案（美国国会1910年6月通过的一项法案, 禁止州与州之间贩运妇女）
+memoir|传记, 实录, 追思录, 回忆录, 自传
+maydays|救难信号( Mayday的复数形式 )
+mxd|mixed 混合的
+mossback|头脑守旧的人, 极端保守的人, 老乌龟
+microculture|显微培养; 小文化区; 微型培养皿
+metallide|[化]使(金属表面)起金属间化合
+macrophagus|[医] 巨噬细胞
+mammillated|[医] 有乳头的
+melaniferous|(毛发等)含黑素的
+marquesses|(marquess 的复数) n.侯爵, 侯爵长子的尊称
+moires|(moire 的复数) n. 波纹丝绸
+monophyllous|[植]单叶的,具一叶的
+mandarins|中国汉语普通话（mandarin的复数形式）
+miasmatical|miasma的变形
+mandibles|下颌骨；上颚, 嘴的上部
+mandragora|[植] 曼陀罗草, 醉仙桃
+mucedin|面筋蛋白
+moraceous|[植]桑科的
+mustaches|胡子( mustache的名词复数 ); 髭; 须状物; （哺乳动物的）触须
+marrowed|髓, 骨髓；脊髓；最深的地方；精髓, 精华；实质
+milligrade|[网络] 千度的
+malarious|[医] 疟疾的
+mabel|梅布尔（女子名）
+murderer|凶手, 杀人者, 谋害者
+mafic|[矿]铁镁质的
+maraschino|[医] 马拉斯金酒(樱桃酒的一种)
+malingery|装病
+magistracies|地方行政官, 执法官, 地方行政官员的职位( magistracy的名词复数 )
+mendozite|[矿]钠明矾, 水钠铝矾
+menoschesis|[医]经闭,月经潴留
+multifidus|[医] 多裂肌
+monitory|训诫的
+mush|浓粥, 感伤的话, 软块
+madhouse|精神病院, 极为吵闹的场所
+massotherapy|按摩疗法, 推拿疗法
+mastigophore|[网络] 大蟾蜍
+muriated|盐卤的; 含氯化物的
+monocerous|[动]独角的, 一角动物的
+monuments|纪念碑( monument的复数形式 ); 遗迹; 遗址; 丰碑
+murk|暗的, 阴沉的
+monthlies|[医] 月经
+moabite|摩押人, 摩押语
+milanaise|[网络] 米兰纳斯
+macintoshes|苹果公司生产的一种型号的计算机；Apple公司于1984年推出的一种系列微机；麦金托什机
+metacyclic|亚循环的
+monodactyl|[动]单指的,单趾的,单爪的
+monophagous|[生]单食性的, 单主寄生的
+mnemonics|记忆术
+malacology|软体动物学
+merriment|欢喜, 嬉戏
+matteuccia|[网络] 荚果蕨属
+moonlighting|[经] 兼职工作
+miscounts|数错( miscount的第三人称单数 )
+macrognathic|[医]巨颌的
+monaxon|一轴型, [pl.]单(轴)骨针
+morphinist|[医] 吗啡瘾者, 吗啡中毒者
+muskrats|(muskrat 的复数) n. 麝鼠
+myoneuralgia|[医] 肌神经痛
+motherliness|慈母心
+monochromasy|[医]全色盲(症)
+morone|石鮨
+murrelet|[鸟]小海鸦
+majuscule|大字, 大写字母
+merengue|梅伦格舞(海地和多米尼加的一种交际舞)
+milage|哩数, 运费
+morice|[人名] 莫里斯
+mahuang|[医] 麻黄
+murks|(murk 的复数) a. 暗的, 阴沉的
+mogigraphia|[医] 书写痉挛
+metaline|[地名] [美国] 梅塔林
+mauser|毛瑟枪
+mulga|[医]岩蕨
+morcellement|[法]分成多块, 将田地分成多份
+meritocrat|精英领导阶级(或阶层)的一员,精英管理班子的一员
+misgoverning|管理不当；对…施行恶政
+millenniums|一千年( millennium的复数形式 ); 千年期; 千禧年; 全人类未来的幸福时代
+microspecies|[单复同]n.[生]小种(指与亲缘类型显然有别的地方性物种)
+maybush|山楂
+mumming|（圣诞节时）戴面具化装表演
+moderated|慢化的, 适中的
+matriliny|母系继嗣
+minder|看守者, 照顾者
+malocclusion|[医](牙)咬合不正
+mayberry|(Mayberry)人名；(英)梅伯里
+mimed|指手画脚地表演, 用哑剧的形式表演( mime的过去式和过去分词 )
+meo|(Meo)人名；(意、法、英)梅奥
+mastery|征服, 统治权, 优势, 精通, 掌握
+martyrize|vi. (使)殉难
+mediatise|<主英> = mediatize
+motivator|激起行为(或行动)的人(或事物),促进因素, 激发因素
+munitioning|给某部门提供军火( munition的现在分词 )
+mistal|[英方]奶牛棚
+maharajas|（印度的）王公
+mealymouthed|说话转弯抹角的, 不必开门见山说的, 说话时过分注意选择字眼的, 说话不真诚的
+mettle|气质, 耐力, 勇气
+mnemic|记忆的, 记忆力的
+micawberish|米考伯式的, 无远虑而老想走运的
+masturbate|手淫
+marcello|(Marcello)人名；(葡)马尔塞洛
+mitre|僧帽, 主教冠, 斜接, 斜榫
+mastoidale|[医] 乳突尖
+metarule|[计] 元规则
+mistry|[人名] 米斯特里
+mesaxonic|中轴的
+mesoblastic|[医] 中胚层的
+mussing|使混乱( muss的现在分词 )
+medusoid|像水母的,水母状的
+malaccan|,n. Malacca的变形
+maximizers|(maximizer 的复数) n. 达到极大
+madzoon|亚美尼亚酸奶
+myelemia|髓细胞血症, 骨髓生白血病
+midnights|(midnight 的复数) n. 午夜, 子夜, 半夜
+myelogenic|[医]骨髓性的
+macumba|马库姆巴(巴西黑人的一种宗教仪式)
+murr|[人名] 默尔; [地名] [德国] 穆尔河
+metroliner|都市间高速列车
+microgramme|微克
+microsporum|[医] 小孢子菌属
+miscreate|误造, 误创, 误作
+moe|有效性量度（Measure of Effectiveness）
+mimosaceae|含羞草科
+misbehaved|行为不正当的, 不规矩的
+muffed|弄糟, 漏接（球）, 失败( muff的过去式和过去分词 )
+microcardius|[医] 心过小者
+myelocoele|[医] 脊髓中央管
+misteaching|错误地教导, 拙劣地教导( misteach的现在分词 )
+murshid|[网络] 穆里希德；穆尔希德；穆尔西德
+moviemaker|电影制作人
+mythically|神话地;虚构地
+malleal|[医]锤骨的
+misfiling|(misfile 的现在分词) vt. 归错文挡
+manavelins|[复]n.<俚>[海]各式设备,船具
+masculinity|男子气, 刚毅, 大丈夫气概
+muskier|(musky 的比较级) a. 麝香的, 产生麝香的, 麝香似的
+mullock|矿山垃圾, 破烂的东西, 废物
+miscreancy|[法] 不道德, 卑鄙
+mastodonic|mastodon的变形
+mitred|<英>斜接的, [纺]斜拼接的,戴着主教冠的
+monogenism|人类同源说
+mahone|(Mahone)人名；(英)马洪
+misdeem|错认, 判断错
+midwesterner|美国的中西部 (Midwest的变形)
+mattered|要紧( matter的过去式和过去分词 ); 化脓; 有重大影响; 有重要性
+maidenhead|处女膜, 处女时期, 处女性
+monopterous|单翅的
+melonite|[矿]碲镍矿
+manequin|(Manequin)人名；(法)马内坎
+marseillaise|马赛曲
+myeloplast|骨髓白细胞
+misbehaviour|行为无礼貌, 行为不端
+maimed|受伤的, 残废的
+mixup|混合；混合物
+molestation|调戏, 干扰, 妨碍
+mandalas|(mandala 的复数) n. 曼荼罗, 坛场
+moir|莫伊尔（苏格兰人姓氏）
+mohur|印度旧金币名(值15卢比)
+maleruption|(=maleruption)错位长出
+maleate|[化]马来酸盐(或酯),顺丁烯二酸盐(或酯), 马来酸阴离子,顺丁烯二酸阴离子
+mayoresses|市长夫人, 女市长( mayoress的复数形式 )
+mahdi|救世主
+mutants|<生>突变体（因遗传基因结构改变以致与同类生物有异的生物）( mutant的复数形式 )
+myeloplax|骨髓多核巨细胞
+melanosed|[医] │黑变病的
+metabasite|准基性岩
+martyring|牺牲；折磨；杀害
+misentry|[计] 错误输入, 不准确引入
+maki|[日]真希（女子名, 也可作为姓氏）
+mobs|快闪暴走族
+motivating|作为…的动机, 激发, 诱发( motivate的现在分词 )
+motet|圣歌, 经文歌
+mankiller|[法] 杀人者
+metachemical|[医] 原子结构[化]学的
+menaccanite|[矿]碎屑钛铁矿
+megalosaur|[古生]斑龙
+matcher|[计] 匹配程序, 配对程序
+morningstar|[人名] 莫宁斯塔
+monicker|标记, 外号
+myxinoidei|[网络] 霉菌毒素
+mazut|重油(用作燃料油或润滑油)
+metagelatin|[医] 变性明胶
+mosan|[语](印第安语群的)莫桑语组
+morsal|[医] Ж面的
+millstone|磨石, 磨难, 重担
+misogynism|[网络] 厌恶女性主义；厌恶女人；厌恶女入
+multicide|大屠杀
+morbid|致病的, 病态的, 疾病的, 可怕的
+macrodontic|[医] 巨牙的
+misvalue|误估, 低估
+musketoon|短火枪,短滑膛枪(枪身短、枪膛大的火枪)
+mousquetaire|[法]=musketeer
+milkmaids|挤奶的妇女, 在酪农场工作的女性( milkmaid的复数形式 )
+maglemosian|马格尔莫斯文化的, 北欧中石器时期文化的
+maims|使残废
+mummying|[医] 木乃伊样裹身
+mairs|(Mair 的第三人称 -s形式) [苏]更多的, 更大的, 更好的, (=more)另外的, 其余的
+multiband|[电信]多频带的
+matrocliny|偏母遗传
+mahometan|伊斯兰教徒
+mountie|加拿大骑警
+myelinic|[医] 髓鞘质的; 髓磷脂的
+morose|郁闷的, 孤僻的
+maypoles|(maypole 的复数) n. 五朔节花柱
+midspan|中跨
+melicitose|[医] │松三糖
+musjid|清真寺
+monad|单孢体, 单轴
+maced|Macedonia （巴尔于半岛中南部的）马其顿地区; Macedonian 马其顿的; 马其顿人（的）; 马其顿语（的）
+melena|[医]黑粪症
+mesembryo|[医] 中胚期, 囊胚曲
+myceloid|[植]菌丝体状的
+melis|(用水洗涤过的)粗糖
+misogynic|厌恶女人的
+mooner|多在月圆时作案的罪犯
+muffins|（涂牛油趁热吃的）松饼( muffin的复数形式 )
+mediateness|mediate的变形
+mispunctuate|标点错误
+methanometer|甲烷计; 沼气检定器
+mishmi|米什米语(印度东北部的一种藏缅语)
+metacneme|后隔膜
+manning|人员配备
+metallurgist|冶金家, 冶金学者
+musclemen|(muscleman 的复数) n. 打手
+mourned|哀悼( mourn的过去式和过去分词 ); 为…哀痛, 向…志哀
+merismatic|内裂成段的, 分生组织的
+moldavian|摩尔达维亚人, 摩尔达维亚语
+mone|局部激素
+minimisation|极小化（求最小值, 最简化）
+mithridate|(古代的)万应解毒剂
+muschelkalk|壳灰岩
+mulattoes|白黑混血儿( mulatto的名词复数 )
+mentioning|提到( mention的现在分词 ); 说起; 提名表扬; 传令嘉奖
+motordom|汽车世界,汽车王国
+mantis|螳螂
+morulation|[医] 桑葚[胚]形成
+maypole|五朔节花柱
+microcoulomb|[医] 微库[仑]
+maharajahs|(maharajah 的复数) n. （印度的）土邦主, 王公（的称号）
+mux|使混乱
+mugging|行凶抢劫；（美）哑剧
+missay|说坏话, 说错
+melanodermic|[医] 黑皮的
+menstrual|月经的, 一月一次的, 每月的
+massagist|按摩师
+mixtures|配合料；混合物（mixture的复数）
+malleableize|韧化
+megafarad|[电]兆法(拉)
+melastome|[植]野牡丹科植物的
+merlion|鱼尾狮（新加坡城市的标志）
+mantelpieces|壁炉架；壁炉台
+mitapsis|[医] 染色质粒融合
+marshalate|[法国]元帅军街, [美国]执法官(司法官)职位
+mollycoddles|娇养, 宠坏( mollycoddle的第三人称单数 )
+moutan|[植]牡丹(亦作moutan peony)
+melanocratic|暗色的
+manducated|manducate的变形
+muffin|松饼
+mts|微软事务服务器（Microsoft Transaction Server）；微针疗法（Microneedle Therapy System）；机器翻译系统（Machine Translation System）
+morella|[地名] [西班牙] 莫雷利亚; [地名] [澳大利亚] 莫雷拉
+measurably|可以测定的程度, 适度地, 可目视地
+methobromide|甲溴化物
+mockery|嘲弄, 笑柄, 歪曲
+mocked|愚弄, 嘲弄( mock的过去式和过去分词 ); 使受挫折; 不尊重, 蔑视
+moulds|铸模( mould的名词复数 ); 模型; 性格; 霉
+misdid|vbl.misdo的过去式
+millimho|[电]毫姆(欧)(电导、导纳和电纳单位,= 1/1000姆(欧),略作mmho)
+midianitish|adj. Midianite的变形
+minglingly|mingle的变形
+mayence|<法>=Mainz
+misguidance|错误的指示, 领导错误
+mesoxalate|[化] 二羟丙二酸盐(或酯)
+masoreth|[网络] 马索雷斯
+mislaid|mislay的过去式和过去分词
+miserere|求主祈怜之祷告或其乐曲, 恳求之声
+maximise|把...增加到最大限度, 把...扩大到最大限度, 充分重视, 找出...的最高值
+mahi|(Mahi)人名；(西)马伊；(阿拉伯)马希
+megalopsia|[医]视物显大症(亦作 megalopia)
+matelote|以葡萄酒和洋葱炖的鱼
+muggings|(mugging 的复数) n. 行凶抢劫；（美）哑剧
+megaera|[希神][罗神]墨纪拉(司复仇的三女神之一)
+manacled|束缚；手铐
+mutilate|切断, 使残废, 使不完整
+moderations|(moderation 的复数) n. 缓和, 适度, 温和
+mirth|欢笑, 欢乐, 愉快
+mellowness|成熟; 芳醇; 肥沃; 怡然
+metalworkers|(metalworker 的复数)  金属制造工
+monotonist|单调；单音调 (monotone的变形)
+mazatec|马萨特克人
+merchanting|(merchant 的现在分词) n. 商人, 店主
+mercerizing|作丝光处理( mercerize的现在分词 )
+mesoarium|[医] 卵巢系膜
+muscardinus|[网络] 榛睡鼠属
+munj|[网络] 慕尼黑
+macrofossil|巨体化石,大化石
+modena|深紫色
+montebrasite|[矿]磷锂铝石
+myelatrophy|脊髓萎缩
+mottos|箴言, 警句, 题词, 格言, 座右铭
+motivates|作为…的动机, 激发, 诱发( motivate的第三人称单数 )
+mirfak|天船三
+mantraps|[法] 罪恶场所
+mendacious|虚假的, 说谎的
+maturate|化脓, 成熟
+mannequin|服装模特儿, 人体模型
+monoester|[化]单酯
+melioration|改善
+mucoidal|黏液样的
+matman|摔跤运动员
+morendo|（音乐术语）逐渐消失
+microgranite|微晶花岗岩; 细花岗岩
+mondaine|<法>n.上流社会女士,凡俗女人
+madly|发狂地, 精神失常地, 愚蠢地
+monetising|(monetise 的现在分词) vt. 使货币化；把…定位法定货币（等于monetize）
+mistassini|米斯塔西尼湖(在加拿大魁北克省中部)
+melic|歌的, 诗的
+mucigen|[医] 粘蛋白原
+microphonics|[电] 微动
+maternalism|纵容，溺爱
+metaphloem|[医] 后生韧皮部
+misdemeanour|行为不端
+monocracy|独裁政治
+medico|医师, 医科学生
+moats|（古时城堡为了防御而在四周挖的）壕沟, 护城河( moat的复数形式 ); （现代动物园为防止动物逃跑而在场地四周挖的）深沟
+mumblings|(mumbling 的复数) n. 喃喃；含糊话；晦涩词语
+mole|痣, 鼹鼠, 防波堤, 摩尔, 克分子
+malled|购物商场；林荫路；铁圈球场
+mesiopulpal|[医] 近中髓的
+manege|驯马术, 马术练习场
+motley|杂色的, 穿杂色衣的, 杂乱的, 混杂的
+morphologic|形态的, 形态学的, 词法的
+moseys|<非正>漫步, 溜达( mosey的第三人称单数 )
+malachi|玛拉基(希伯来先知), <<玛拉基书>>
+mudded|抹泥（mud的过去式与过去分词形式）
+mitra|笔螺属
+moistureless|无湿气(或水分)的,干燥的
+moistest|潮湿的, 微湿的( moist的最高级 )
+morphometric|[医]形态测定的
+morphemic|morpheme的变形
+misspell|拼错
+markswomen|(markswoman 的复数) n. 射手, 神枪手
+misogynists|厌恶女人的人( misogynist的复数形式 )
+monestrous|[动](每年)一次发情期的
+mor|粗腐殖质
+mahogany|桃花心木, 红褐色
+multipolar|多极的
+marge|边缘（等于margin）
+monadic|单一体的, 单细胞生物的
+maltese|马尔他的
+mesonychidae|中兽科
+multirooted|[医] 多根的(牙)
+millime|米利姆(突尼斯辅币名)
+melodized|谱成乐曲( melodize的过去式和过去分词 )
+moistness|湿
+melangeur|[法](糖果食品工业中用的)搅和器, 调和器, [医]血液稀释管, 血液混合管
+minima|最小量, 极小值, 极小, 最低限度, 最小数
+mullioned|有竖框的
+mammonism|拜金主义
+maldonite|黑铋金矿
+mackintoshes|橡皮布防水衣；橡皮布
+moonfish|[鱼]翻车鱼(鱼体白如月色,故名)
+macroscopic|肉眼可见的, 宏观的, 目视的
+mouldered|<美>腐朽( moulder的过去式和过去分词 ); 腐烂, 崩塌
+mangle|乱砍, 损坏, 轧布
+mawger|<加勒比英语>(人或动物)瘦的
+milleped|千足虫
+menials|（干粗活的）家仆( menial的复数形式 )
+mythoi|mythos 的复数
+mutiny|叛变, 兵变
+meanderingly|meander的变形
+mingling|混合, 混入( mingle的现在分词 ); 混进, 与…交往[联系]
+metanotion|[计] 元概念
+muckhill|粪堆
+midgut|[解]中肠
+miching|偷窃
+metol|硫酸甲氨基酚
+mashona|马绍那人
+mulches|用护根覆盖（植物根部或其周围地面）( mulch的第三人称单数 )
+manteau|披风, 斗蓬
+massilia|[地名] [法国] 马西利亚（马赛的旧称）
+muscicide|杀蝇剂
+monde|时髦社交界, 上流社会
+miglio|[人名] 米利奥
+muon|[化] μ子
+microfungus|[植]微直菌
+memoriter|凭记忆
+myricales|杨梅目
+mansions|宅第, 公馆, 大厦( mansion的复数形式 )
+mohr|莫尔（测定海水氯化物的方法）
+misers|守财奴, 吝啬鬼( miser的复数形式 )
+margarate|十七(烷)酸盐
+monstera|[植]蓬莱蕉
+milfoil|蓍属植物, 狐尾藻属植物
+misdeeds|违法行为, 罪恶( misdeed的复数形式 )
+mutinied|违抗上级命令, 叛变, 反叛( mutiny的过去式和过去分词 ); （尤指士兵或船员）不服从, 反抗, 反叛
+museography|博物馆技术学
+maisonette|小屋, 小住宅, (公寓大楼中)占两层楼面的一套公寓, (二层楼的)公寓房子
+milammeter|毫安计
+monodomous|(蚁群等)同巢的
+monoptera|monopteron的变形
+maro|波利尼亚腰布
+mele|夏威夷歌曲(或旋律)
+moonshine|月光, 大话, 非法酿制的酒
+musica|(Musica)人名；(意、西)穆西卡
+matrixes|母体, 子宫, 基质, 脉石, 模型, 矩阵
+milliarium|距离单位(=1.48公里=0.92哩)
+minesweepers|扫雷舰( minesweeper的复数形式 )
+morganatic|贵贱通婚的
+microcheiria|[医] 小手, 手过小
+myriametre|万米(即10公里, 略作 mym.)
+mannitose|甘露糖
+metathetic|[医] 病变移植的, 复分解的, 置换的, 易位的
+moider|使混乱, 迷惑
+misspender|misspend的变形
+mayas|(Maya 的复数) n. 马雅人, 马雅语
+mined|开采
+marring|毁坏, 损坏, 玷污( mar的现在分词 )
+myotomes|(myotome 的复数) 肌刀
+microcurie|[核]微居里(能量单位)
+muckraker|探听丑闻的人
+marketeer|市场商人
+megaword|[计] 兆字
+misdemeaned|做不规矩事；行为不正
+megaparsec|[天]百万秒差距
+mammock|碎片,碎块
+microsclere|小骨片
+mended|修改（mend的过去式）
+mewed|作猫或海鸟叫, 咪咪叫( mew的过去式和过去分词 )
+mustelidae|[医] 鼬科
+muckiest|粪肥的, 肮脏的( mucky的最高级 )
+myodynamia|[医] 肌力
+myristin|[化] 豆蔻酸甘油酯
+metatitanate|偏钛酸盐
+misgiven|misgive的过去分词
+malodorously|malodorous的变形
+metasomal|[网络] 分生孢子
+metasoma|后体
+molybdous|[化]亚钼的,二价钼的
+muscatels|(muscatel 的复数) n.葡萄酒的一种, 麝香葡萄
+millimeters|毫米( millimeter的复数形式 )
+manipulator|操作者, 机械手
+mannerless|无礼貌的
+marxism|马克思主义
+molothrus|贪食鸟属
+mastheads|桅顶, 报头( masthead的复数形式 )
+minted|崭新的；新制作的；刚完成的
+monorhina|单鼻亚纲
+mammoni|秋季无花果
+melam|蜜白胺
+membrana|[医] │膜
+macanese|澳门人
+melanic|[医]黑变(病)者
+mioplasmia|[医] 血浆减少
+mistigri|猫
+moratoriums|正式的延缓, 暂停( moratorium的复数形式 )
+mercenarily|雇用地, 唯利是图地
+murrine|(像)默勒石的, 默勒石制的
+misguiding|对…指导错误, 把…引入歧途( misguide的现在分词 )
+mays|[医] 玉蜀黍, 玉米
+morcellate|[医]切碎, 分碎
+macadams|(macadam 的复数) n. 碎石, 碎石路
+medievalists|(medievalist 的复数) n. 中世纪史专家, 中世纪史研究者
+muciform|[医] 粘液样的
+milchig|乳制的, 乳制品的
+mentions|提及( mention的名词复数 ); 通报表扬
+mezuzot|mezuza的复数形
+migrators|(migrator 的复数) n. 候鸟, 移居者
+mordellidae|花蚤科
+myositic|[医] 肌炎的
+meacon|假像雷达干扰
+moustached|长胡子的；有胡子的
+mylodon|磨齿兽(一种南美洲南部近代灭绝的动物)
+manstopper|用以杀伤冲锋士兵的枪弹, 大威力枪弹
+muckers|(mucker 的复数) n. 重重跌倒, 灾难, 装岩工
+misrepresent|不如实地叙述(或说明), 不称职地代表
+mimeo|& vt.<口>=mimeograph
+midsummer|仲夏, 夏至期
+magnetopause|磁顶,磁(大气层)顶层
+mistakable|易弄错的
+mbaya|[地名] [刚果民主共和国] 姆巴亚
+mastoplastia|[医] 乳房组织增生
+mestiza|mestizo的女性形式,女混血(尤指西班牙或葡萄牙和印第安人)儿
+museful|沉思的
+moussaka|茄合(希腊的一道菜名, 盖以白酱汁和干酪然后烤熟)
+margarita|玛格丽塔(Margaret的异体)(f.)
+meningeal|脑膜的
+muslins|(muslin 的复数) n. 平纹细布, 麦斯林纱
+myoma|肌瘤
+mystacoceti|须鲸亚目
+manipulative|处理的, 巧妙处理的, 操纵的
+macrodontia|[医]巨牙
+mesocolon|[解]结肠系膜
+misdating|填错日期
+molidae|[网络] 翻车鲀科；翻车魨科；鲀形目翻车鲀科
+minuend|被减数
+mopboard|踢脚板
+myelination|[解]髓鞘形成(亦作 myelinization)
+maracas|(maraca 的复数) n. 沙球
+miscarriages|流产( miscarriage的复数形式 )
+massing|块化；总体
+myrmecochory|蚁布
+monogamian|一夫一妻的, [动]单配的, 一雌一雄的
+multihop|多次反射
+manipuri|(印度)曼尼普尔人, 曼尼普尔(舞)风格的
+macropterous|[动]有长翅的,有大翅的, 有长鳍的, 有大鳍的
+monocystic|[医] 单囊肿的
+midways|(midway 的复数) n. 中途, 中间, 娱乐场
+marginated|有边缘的
+mountings|配件, 装置件
+macan|[人名] 麦坎
+moisturizer|润肤霜; 保湿霜
+mesophryon|[医] 眉间
+mafia|黑手党, 秘密政党
+mollah|毛拉(伊斯兰教国家对老师,先生、学者的敬称)
+masting|(帆船)船桅定位技术
+microglossia|[医] 小舌, 舌过小
+medicable|可治疗的
+murra|默勒石(指萤石、瓷或玛瑙等,=murrha)
+motherfucker|（通常指男性）不要脸的家伙, 混账东西
+moralizing|说教；使有德行（moralize的ing形式）
+mccoy|本人；真品
+misericord|一种短剑, 凳下方的横木, 免戒室
+mixen|<英方><古>粪堆, 混合肥料堆
+mitogenicity|丝裂原活性
+metate|凹面(或平面)磨盘(墨西哥和美国西南部用以碾磨谷粒、玉米等)
+maytide|(=Maytime)五月时节
+magnetized|磁化的
+munsif|土著执法官
+magnoferrite|镁铁矿
+maturer|成熟的人
+misjudgement|[法] 审判错误, 判断错误
+madge|马奇（女子名）
+morphography|形态描述学
+mountainer|山, 山岳；[复数]山脉；山区
+metaphrastic|metaphrast的变形
+milepost|里程标志, 里程碑
+meadowsweet|绣线菊属植物
+manginess|生满疥癣, 污秽
+myenteron|[解]肠肌层
+musal|(Musal)人名；(意、土、捷)穆萨尔
+mnemotechnic|记忆的, 记忆术的
+mandatories|受托管理国( mandatory的名词复数 )
+maraboutism|隐士；伊斯兰教隐士的坟 (marabout的变形)
+minish|缩小, 减小
+melinite|麦宁炸药
+microthorax|小胸
+mesne|中的, 中间的
+maha|紫面叶猴
+musciform|藓状
+marmoration|大理石表面装饰
+macrochaeta|长毫(双翅目)
+meterman|仪表调整者
+mooncalf|白痴
+matzoth|matzo(h)的复数
+mbori|[医] 姆波利(一种骆驼病,可能为兽类锥虫病)
+myiasis|[医]蝇蛆病
+monilia|[医] 念珠菌属
+muscologist|苔藓植物学家
+murre|海鸠
+moiling|辛苦工作, 做苦工( moil的现在分词 )
+mucedinous|[微](似)霉的
+macrodactyly|[医]巨指, 巨趾
+marsoon|白鲸
+moton|[人名] 莫顿
+masers|(maser 的复数) n. 微波激射器
+mycotoxic|adj. 霉菌毒素的
+metricize|改为公制
+maleficent|有害的, 做坏事的, 犯罪的
+molts|换羽, 脱毛( molt的第三人称单数 )
+misconceived|对…有错误看法, 误解( misconceive的过去式和过去分词 )
+materializes|具体化, 成为现实( materialize的第三人称单数 )
+monisher|[古语] =admonish
+monochasial|[植]单歧聚伞花序的
+mentioner|mention的变形
+misadvise|给错误的劝告
+marjoram|墨角兰
+madreporite|[动](棘皮动物的)筛板,穿孔板
+micromodule|[计] 微模块; 微模组件; 微程序模块
+myoplastic|[医] 肌成形术的
+metabasis|[医]转移, 病状转变
+momma|妈咪
+minbar|敏拜尔,敏拜楼(指清真寺殿内的宣教台,形如楼梯)
+myelomalacia|[医]脊髓软化
+merohedrism|[晶](晶体的)缺面对称
+mortimer|莫蒂默（男子名）
+mouldiest|发霉的；霉状的, 霉臭的
+mattoid|半疯子
+metachrome|[生]异染粒,变色粒
+martins|马丁斯（男子名）
+minuscular|微小的
+mazing|使困惑（maze的现在分词形式）
+melolontha|[网络] 鳃角金龟属
+moocher|乞丐, 敲诈者
+marish|沼泽
+macks|(mack 的复数) n. 防水胶布, (英)雨衣
+mahjong|麻将
+monarchistic|君主主义的, 君主政治的
+middled|中央, 中间, 腰部
+midrashic|midrash的变形
+miniating|以铅丹涂…；用朱红着色或画
+michiganite|密歇根人
+merodach|[网络] 米罗达；原罪；梅若达柯
+mandarinic|mandarin的变形
+marketstead|<古> = marketplace
+minstrelsy|吟游技艺
+metoposcopy|[医] 相面术
+muddying|使沾上泥( muddy的现在分词 )
+majesties|雄伟( majesty的名词复数 ); 庄严; 陛下; 王权
+miaul|猫的叫声
+menders|(mender 的复数) n. 修缮者, 修理者, 修改者
+multipliable|可增加的, 可乘的, 可增殖的
+mescalism|[医] 仙人球瘾
+monochromous|monochrome的变形
+mentalis|[医] 颏肌
+mesomyodi|中接肌类
+mobula|[网络] 蝠鲼属；蝠鱝属；蝠魟
+malediction|咒, 坏话
+maimedly|maim的变形
+meliorative|改善的, 改良性的
+manteltree|壁炉过梁
+metalization|金属镀层;金属化
+megalopyge|[医] 绒蠹属
+myricyl|[化] 蜂花基; 三十烷基
+mercuric|水银的, 含水银的, 汞的
+multipass|多道的; 多程
+miocardia|[医] 心收缩
+machination|阴谋, 图谋, 策划
+monogenist|人类同源论者
+mulier|[法] 女子, 妇人, 妻子
+matzah|无酵饼
+misreads|读错, 念错, 对…判断错误( misread的第三人称单数 )
+merging|[计] 合并, 归并
+multiethnic|多种民族的；涉及不同种族的
+methaqualone|[药]安眠酮(安眠和镇静药)
+mesmerizer|催眠者
+mutualize|使相互间发生关系, 使成为共有, 使(公司/企业)为雇主及雇员/客户所共有
+moeritherium|始祖象属
+mankin|[人名] 曼金
+midfields|(midfield 的复数) n. 球场中央部分
+monoski|[体]单型滑水板
+metalloidal|非金属
+manx|马恩岛的, 马恩岛人的
+metalworking|金属加工术, 金属工
+menostasis|[医] 经闭, 绝经
+miacis|[古生]小古猫(一种史前的食肉动物,狗和猫的祖先)
+marcos|马科斯（姓氏）
+molecast|(由鼹鼠打洞扒出的泥土堆成的)鼹鼠丘, 无意义的事, 小困难(或障碍)
+microptic|[医] 视物显小的
+munting|[建]门中梃
+mickles|adj. 很多的
+miscounted|数错( miscount的过去式和过去分词 )
+manzanita|熊果树
+moderatism|温和主义, 中庸主义, 稳健主义
+mortises|<术>榫眼, 卯眼, 接合( mortise的名词复数 )
+multipotent|能产生多种效果(或结果)的
+monopolising|(monopolise 的现在分词) vt. 垄断, 独占, 专营, 专利
+megadont|[医]巨牙的 (亦作 megadontic)
+maoridom|(新西兰的)毛利人社会,毛利人文化
+magaziner|[人名] 马加齐纳
+mellowing|[机] 柔和
+mugwort|艾蒿
+majestically|雄伟地; 庄重地; 威严地; 崇高地
+mantes|mantis的复数
+milt|脾脏, 鱼白, 精液
+magnetist|磁学家, 催眠术家
+manures|施肥于；耕种
+mobilizing|动员起来, 调动, 鼓动起( mobilize的现在分词 )
+mechanizable|可机械化的
+mercurize|[化]给…加汞, 使汞化
+menarche|初潮
+mundificant|[医] 清除的; 清洗剂
+malrotation|[医] 旋转不良
+mountable|可登上的
+mistaken|犯错的, 错误的
+magnetise|使磁化, 使有磁力, 使生磁性, 使醉迷, 吸引
+melismata|装饰音( melisma的名词复数 )
+mesovarium|[解]卵巢系膜
+mollifying|抚慰的；使软化的；使缓和的
+muckworm|粪
+magi|多阵γ线照射器（Multi-Array Gamma Irradiator）
+modillion|飞檐托饰
+manstealing|诱拐,绑架
+moralists|道德家, 道德主义者, 说教者( moralist的复数形式 )
+memorially|memorial的变形
+meteorologic|气象的, 气象学的
+marcor|[医] 消瘦, 消耗
+monosomatous|[医] 单体的(畸形)
+metaphrase|逐字翻译, 直译
+marxian|马克思主义者
+matchlocks|(matchlock 的复数) n. 火绳枪
+microform|缩微成像
+mathurin|(Mathurin)人名；(西)马图林；(法)马蒂兰
+monopolise|垄断, 独占, 专营, 专利
+mustiness|霉臭, 陈腐, 无力气
+montane|山地森林的
+murmuration|低声咕哝
+millimicron|毫微米
+metamers|不同光谱能量分布的同色光
+moonpath|水波月影
+microsporic|microspore的变形
+monotypes|(monotype 的复数) n. 莫诺铸排机, 单型
+mouche|[医] 斑点; 蝇
+malingerers|装病逃差者
+menominee|美浓米尼族[的]
+monochloride|[化]一氯化物
+monoplane|单翼机
+microlite|微晶
+mecopteran|[昆]长翅目昆虫,蝎蛉
+mazy|迷阵似的, 错综的, 复杂的
+monostrophic|单韵律(诗节构成)的
+mibs|管理信息数据库（Management Information Bases）；莫斯科船艇展览会（Moscow international boat show）
+miscellany|杂集, 杂录, 混杂
+monorhinous|[动]单鼻孔的( 如圆口纲脊椎动物)
+miseducative|[网络] 错误教育
+mwa|美国现代林业人员协会（一种互助福利性组织, 成员包括林业工人、猎人等, Modern Woodmen of America）
+masculation|男征发生
+masscult|商业化的廉价大众文化
+masquerader|参加化装舞会者, 伪装者
+marasmius|小皮伞属
+melicocca|[网络] 梅花子
+melioristic|meliorism（社会向善论）的变形
+methylated|甲基化的, 加入甲醇的
+mentalities|心态( mentality的复数形式 ); 思想方法; 智力; 智能
+mitering|斜接
+metavanadate|[医] 偏钒酸盐
+managements|管理（management的复数形式）
+menhaden|[动] 鲱鱼
+megaphones|扩音器( megaphone的复数形式 )
+macerator|[医] 浸渍器
+marshalled|整理, 排列, 集结（marshal的过去式与过去分词形式）
+melanocomous|[医] 黑毛发的
+myographical|[网络] 肌肉学
+mestizos|麦斯蒂索人；混血儿
+mirthfully|愉快地, 喜气洋洋地
+moner|[医] 无核原生质团
+microbic|[医] 微生物的
+manul|(西藏、蒙古的)小野猫, [动]兔狲
+malkin|邋遢女人
+monoclinism|单斜态
+monobromated|[医] 一溴化的
+millijoule|毫焦耳(能量、热量、功的绝对实用单位)
+maskable|[计] 可屏蔽的
+mycoses|[医]霉菌病
+meak|(Meak)人名；(柬)密
+mariticide|杀夫(或妻)的人,杀夫,杀妻
+mani|落花生；嘛呢堆（用石块垒成的方形或圆台形石堆）
+muezzins|报告祷告时刻的人( muezzin的复数形式 )
+monkeypod|un. 豆雨树
+mundle|[英方]用于搅动的棍棒
+markis|(Markis)人名；(匈)毛尔基什
+muftis|便服( mufti的名词复数 )
+millicurie|毫居里(千分之一居里)
+mendi|[地名] [巴布亚新几内] 门迪
+madames|夫人
+militaries|军人，军队，武装力量( military的名词复数 )
+monography|专论
+muffetee|毛织围巾
+mudcap|糊炮爆破(法),外部装药爆破(法)
+melanotekite|硅铅铁矿
+molas|(mola 的复数) [动]翻车鱼
+morbidezza|柔美, 细腻
+mediumship|灵媒(或巫师)的能力(或功能、职业)
+multibus|[计] 多总线
+malapropism|文字的错用
+mende|光滑细里子哔叽
+megachile|切叶蜂属
+mao|[医] 单胺氧化酶, 一元胺氧化酶
+morion|高顶头盔
+mythomania|[心]渲染狂,说谎狂
+moonlet|小卫星, 小人造卫星
+mured|禁闭；幽禁（等于immure）
+muser|沉思者
+mangue|[地名] [安哥拉] 曼盖
+moneys|钱币, 钞票( money的名词复数 ); 款项, 钱款
+menologies|（希腊教）圣诞节日历；（记有大事的）月历
+morchella|[医] 羊肚菌属
+machineries|(machinery 的复数) n. 机器, 机械装置, 机构
+monodon|[网络] 一角鲸属；独角鲸属；单角
+magnetical|磁性的
+misfired|（指枪、发动机等）不发火, 不启动( misfire的过去式和过去分词 ); （指计划等）失败
+malachite|孔雀石
+missiles|导弹( missile的复数形式 ); 投射物
+metalanguage|元语言
+macrogamete|[生]大配子,巨配子
+methodizer|methodize的变形
+minever|(=miniver)白鼬皮,[动]白鼬
+merak|天璇, 北斗二(大熊座 β)
+mullen|(=mullein)毛蕊花属的植物
+monomer|单体
+misallege|[法] 虚伪陈述, 错误举证
+microelement|微量元素
+motivelessly|motiveless的变形
+mosaicist|马赛克设计者, 马赛克制作工
+macrographic|低倍照相
+mangler|乱切者, 乱砍者, 压延机, 榨甘蔗汁机, 绞肉机
+mulishness|mulish的变形
+monosomatic|[医] 单体的(畸形)
+mycoplasmic|[网络] 支原体
+milvus|[网络] 鸢属；鹰状无刺鲼；鹰形圆吻燕魟
+megohmit|(换向器)云母片
+mouflon|欧洲盘羊,摩弗伦羊(南欧产的一种野生羊)
+micawber|米考伯（男子名）
+meliorism|社会向善论
+miscibility|可混合性
+marouflage|贴画法(用胶粘剂将油画贴到墙上的方法)
+manioca|麻风树
+manubrial|[医] 柄的
+minometer|微放射计
+mantuan|(意大利北部城市)曼图亚的
+mytilus|贻贝属
+monophasic|[电]单相的
+machan|<印英>(猎虎时搭在树上的)狩猎台
+monogamist|一夫一妻制者
+malaprop|用词错误可笑的
+metronomic|节拍器的
+milkiest|牛奶的, 像牛奶的, 掺奶的( milky的最高级 )
+miler|一英里跑运动员
+minasragrite|钒矾
+miscalled|叫错…的名字, 误称( miscall的过去式和过去分词 )
+metabolising|(metabolise 的现在分词) v.使物质替换, 使变形
+manumitting|<史>解放（奴隶）( manumit的现在分词 )
+mummed|沉默的
+muddily|尽是泥, 浑身是泥, 污浊地
+multipartite|分成多部分的, 多国参加的, 多方的
+meatus|口, 道
+multimeter|[化] 多用表; 多用电表; 万用表
+melanesian|美拉尼西亚的
+moldiness|霉臭
+mondial|全世界范围的
+matrons|（受人尊敬的）已婚老妇人( matron的复数形式 ); 夫人; 女看守; 女警卫
+maturities|成熟（maturity的复数形式）
+multilobe|多叶的
+methodist|墨守成规者
+myelography|脊髓照相术；[特医] 脊髓造影术；[特医] 脊髓X射线摄影术
+mingrelian|(高加索库塔伊西地区的)明格里利亚人；明格里利亚语
+morphosis|[生]形态形成
+muscat|马斯喀特（阿曼首都）
+mateship|同事之谊, 同伴之谊
+misaligned|线向不正的,方向偏离的,不重合的,未对准的
+matzo|(pl. matzot, matzoth, matzos)(=matsah)犹太逾越节薄饼(逾越节期间犹太人所吃的一种不发酵的硬面饼)
+mammy|妈妈, 保姆
+megabyte|[计]兆字节
+melts|（使）融[溶, 熔]化( melt的第三人称单数 ); 溶解; （使）消散, 消失; （使）软化, 变得温柔
+morass|沼泽, 困境, 乱糟糟的一堆
+mountaineer|登山家, 山地人
+meliphagidae|[网络] 吸蜜鸟科；食蜜鸟科；黄鹂科
+moralless|(故事等)无寓意的
+myxaemia|(=myxemia)粘蛋白血症
+moghul|(Moghul)人名；(巴基)莫卧儿
+mesitite|铁菱镁矿
+microsurgery|[医] 显微外科, 显微手术
+mala|[医] 颊, 颧骨
+marabunta|[动]圭亚那黄蜂
+megadontic|[医] 巨牙的
+meatman|屠夫, 肉商
+medallist|奖章获得者
+mimir|米密尔(北欧神话中守卫智慧之泉的巨人)
+microphyte|微小植物, 细菌
+mishandles|处理不当[不力]( mishandle的名词复数 ); 粗暴地对待
+mescal|麦斯卡尔酒, 龙舌兰, 威廉斯仙人球
+mooring|系泊, 系留, 停泊处, 系船处
+misbranded|贴错标签；贴假商标于
+machetes|弯刀；大砍刀；马谢特琴
+maggy|低质的
+mammary|乳房的
+menostaxis|[医]经期延长
+moun|(Moun)人名；(老)门
+myomelanosis|[医] 肌黑变
+multiplicate|复合的, 多倍的, 多重的, 多样的
+mahal|马哈尔（姓氏）；宫殿
+minot|迈诺特(①姓氏 ②George Richards, 1885-1950, 美国内科学家, 曾获1934年诺贝尔生理学-医学奖)
+motherkins|[网络] 母亲
+mammalia|[医] 哺乳类
+mortised|<术>榫眼, 卯眼, 接合( mortise的过去式和过去分词 )
+myelorrhaphy|[医] 脊髓缝术
+monilial|[医] 念珠菌的
+moonlights|月光( moonlight的名词复数 ); （通常为躲债而）潜逃; 月光下的活动; 参与夜袭的人
+macadamia|〈植〉澳大利亚坚果
+marcobrunner|莱茵河流域产的白葡萄酒
+moggy|家猫, 牛, 小牛
+mellitum|[药]蜜剂
+meddlers|干涉者；爱管闲事的人
+moravian|摩拉维亚的, 莫拉维亚教徒的
+mulcting|处以罚金, 抢夺( mulct的现在分词 )
+mezzotinter|网线铜版；金属版印刷法 (mezzotint的变形)
+mounding|[医] 肌耸起, 肌耸肿(肌受击时所产生)
+misima|[地名] [日本] 三岛; [地名] [坦桑尼亚] 米西马
+macromania|[医] 夸大狂, 夸大妄想, 显大妄想
+mummify|做成木乃伊
+misuser|误用者, 虐待者, 滥用者
+mesozoan|中生动物
+mailclad|穿盔甲的人
+mimetically|拟态地
+mulla|毛拉(伊斯兰教国家对老师,先生、学者的敬称)
+metrostaxis|[医] 子宫渗血
+midgets|侏儒, 小矮人( midget的复数形式 )
+magniloquent|使用夸大文句的, 夸张的, 吹牛的
+majordomo|男管家, 男总监
+metathesize|[语](使)(音位或字位)变换,(使)换位
+malagma|[医] 泥罨剂
+marcher|边界地区居民, 行进者, 游行者, 行军者
+mopy|没精打采的,闷闷不乐的,消沉的
+mylohyoid|[解]Ⅰ adj.下颌舌骨的
+musculature|肌肉系统
+mises|[人名] 米泽斯
+morphinize|用吗啡治疗,用吗啡麻醉
+myomas|肌瘤
+multithread|[计] 多流
+medle|[地名] [瑞典] 梅德勒
+multiaxial|有多个轴的,多轴的
+megavitamin|(用)大剂量维生素的
+mocker|嘲弄者, 模仿者
+meuniere|做粉饼的
+moults|换羽, 脱毛( moult的第三人称单数 ); <喻>去掉（旧习惯、观点等）
+microgyria|[医] 小脑回, 多小脑回
+medalist|奖章获得者, 奖章设计者, 奖章制作者, 勋章制作者, 奖章搜集者, 勋章搜集者
+mandorla|圣像画中人体周围放射出来的柔和的光, (椭圆形)装饰板[图案]
+multitubular|多管的
+maltsters|(maltster 的复数) n. 麦芽制造(或出售)者
+macedonian|马其顿的
+mohawk|莫霍克族, 莫霍克语, 前刃变后刃溜冰半周跳
+mutilator|切断者, 毁损者
+meas|(mea 的复数) abbr. 维修工程分析（Maintenance Engineering Analysis）；β-巯基乙胺（β-Mercaptoethylamine）；沿航线最低高度（Minimum Enroute Altitude）
+mashru|棉背丝绸
+mort|通知猎物已死的号角声, 很多, 许多
+mortgagee|承受抵押人
+metabolon|蜕变中间物质
+militarized|军事化( militarize的过去式和过去分词 )
+mugwumpism|（美）（政治上的）超然派；骑墙派；中立者；共和党独立派（1884年美国大选中拒绝支持本党候选人者）；大人物；印第安酋长 (mugwump的变形)
+manicate|(=manicatus)具毡状毛的
+mislabeling|[医]错贴标签
+mensa|[医] Ж面
+meresman|[人名] 米尔斯曼
+murry|[人名] [苏格兰人、爱尔兰人、英格兰人姓氏] 默里 Murray的变体
+miohippus|中新马属
+misdates|填错日期
+monseigneur|阁下；有此荣衔的人
+mammality|哺乳动物
+massively|大而重, 厚实, 粗大, 强有力, 结实, 魁伟, 大块, 大量, 大规模, 实心, 块状
+moorlands|高沼地, 广袤的荒野( moorland的复数形式 )
+meekly|温顺地, 柔和地, 忠厚地
+megacephalic|大头的, 巨额的
+multiplexing|[计] 多路复用技术
+midsection|中央部分, 上腹部
+melanotic|以黑色素为特征的, 黑变病的
+maister|(Maister)人名；(俄)迈斯特尔
+matildite|硫银铋矿
+myology|肌学
+monorhymed|monorhyme的变形
+maia|玛雅（希腊神话中女神）；玛雅（女子名）
+monkeying|胡闹（monkey的现在分词形式）
+minim|量滴(液量单位), 一滴, 微量
+mangonel|投石机, 军用射石机
+metalware|金属器皿
+metanephron|[医] 后肾
+mountaintop|山顶
+melanuria|[医]黑素尿
+myopachynsis|[医] 肌肥大
+mesocaecum|[医]盲肠系膜
+minifies|缩小( minify的第三人称单数 )
+mesarch|[植]中始式的
+mavericks|未烙印的牲畜( maverick的复数形式 ); 标新立异的人, 不合常规的人
+malate|[化]苹果酸盐(或酯)
+magdalen|(=Magdalene)从良的妓女, 妓女收容所
+monomorphism|[计] 单一同态
+masculinist|男权主义者, 大男子主义者
+mutilated|严重残害…的身体, 使残缺不全, 肢解( mutilate的过去式和过去分词 )
+moviegoer|常看电影的人
+mazard|野樱
+mage|博学者；魔术师
+minimally|最低限度地；最低程度地
+murderous|凶狠的, 杀人的, 致命的
+mezzanines|（尤指介于一层与二层之间的）中层楼, （戏院中的）包厢( mezzanine的复数形式 )
+modulating|[计] 调制的
+molariform|[医] 磨牙形的
+mesophilous|adj. （细菌）嗜温的
+metrifies|, vi. (把…)译成诗；用诗体写
+majagua|[植]牙买加黄槿
+mammalogist|哺乳动物学家
+modulates|调整( modulate的第三人称单数 ); （对波幅、频率的）调制; <音>转调; 调整或改变（嗓音）的音调
+misjoinder|[律]不合法的共同诉讼
+mirabilia|[复]<拉> n.不可思议的事物,奇迹
+mollified|使变软, 使平静, 抚慰( mollify的过去式和过去分词 )
+mules|骡( mule的复数形式 ); 拖鞋; <口>顽固的人; 越境运毒者
+monist|一元论者
+medleys|混杂物( medley的名词复数 ); 混合物; 混杂的人群; 混成曲（多首声乐曲或器乐曲串联在一起）
+melas|(mela 的复数) n. 梅拉（女子名）
+mulatta|穆拉托女人
+microreader|缩影胶片阅读器
+marse|主人(美国南部黑人用语, 亦作mars, massa)
+mikasuki|[网络] 米卡苏基语
+mordancy|辛辣, 尖酸, 刻薄
+metapsychics|心灵研究
+melanopathy|[医] │黑变病
+manyplies|重瓣胃
+martello|[亦作m-]= Martello tower
+mesotrons|(mesotron 的复数) n.[核]介子
+mundari|[网络] 南苏丹蒙达里；蒙达语；蒙达里语
+malignly|有害地
+macroscale|大规模, 宏观尺度
+mysis|糠虾属
+mincers|切碎机, 绞肉机( mincer的复数形式 )
+marianna|[人名] 玛丽安娜; [地名] [美国] 玛丽安娜
+menurae|琴鸟亚目
+musketeers|火枪手（musketeer的复数）
+monoketone|[医] 一元酮
+mitres|斜接；主教法冠；僧帽
+machinating|图谋, 策划( machinate的现在分词 )
+monozoa|[医] 单细胞动物类
+marconigram|马可尼式无线电报
+militia|义勇军, 民兵组织, 国民军
+myoinositol|[机] 肌醇
+muridae|[医] 鼠科
+multijet|(飞机)有多个喷气发动机的
+miniaturizes|使小型化；使微型化（等于miniaturise）
+mandatary|受托人,代理人
+metamorphism|变态, 变形, 变质
+melissyl|三十烷基
+mustelus|星鲨属
+misleader|错误引导者, 错误领导人
+musks|(musk 的复数) n. 麝香, 麝香的气味
+mollifies|使变软, 使平静, 抚慰( mollify的第三人称单数 )
+monotheistic|一神论的
+melograph|音谱自记器
+malaxate|捏, 揉(混), 拌和
+molla|(Molla)人名；(法、俄、意)莫拉；(西)莫利亚
+maintainor|[律]( 英美刑法) 犯包揽诉讼罪者
+melee|互殴, 激烈的论战, 混战
+mercaptal|缩硫醛
+meliorates|改善, 改良, 变好（meliorate的第三人称单数形式）
+microfilms|（拍摄文件等用的）缩微胶卷( microfilm的名词复数 )
+monoplegia|[医]单瘫
+motioning|打手势（motion的现在分词形式）
+motorization|动力化, 摩托化
+mythmaking|编造神话
+milometer|计程表
+makeups|天性( makeup的名词复数 ); 性格; 气质; 组成成分
+monads|(monad 的复数) n. 单孢体, 单轴
+miasmatology|[医] 瘴气学
+messianic|弥赛亚的
+malleolar|踝的
+motorised|[英国英语] ＝ motorize
+martians|火星人（Martian的复数形式）
+mahonia|十大功劳
+mace|狼牙棒, 权标, 权杖, 执权标者
+mydriatic|瞳孔放大
+marsala|马沙拉葡萄酒
+misanthropy|厌恶人类, 不愿与人来往
+malposed|[医]错位的,异位的
+mucedine|霉菌
+muscularity|肌肉发达, 强壮, 力大
+mattery|充满脓的, 有脓的
+magnifico|贵族, 大官, 显要人物
+mimbar|敏拜尔,敏拜楼(指清真寺殿内的宣教台,形如楼梯)
+mousebird|[鸟]鼠鸟,齿鹑
+morassy|沼泽的, 沼泽似的,湿软的
+morbillous|麻疹的
+mythomaniac|&adj. mythomania（说谎症, 谎语癖）的变形
+minoring|[主美国英语]副修，选修，兼修( minor的现在分词 )
+milsey|[主苏]滤乳器
+malarkey|假情假意的话, 蠢话, 空话
+marmosets|狨猴；小猿
+mako|灰鲭鲨
+moksha|[宗](佛教、印度教、耆那教中的)解脱,从轮回中得到解脱
+mesotrophic|[地]( 水体) 中滋育的, 中营养的
+masked|戴假面具的, 隐现的, 伪装的
+mentalism|心灵主义
+melpomene|墨尔波墨涅(悲剧女神)
+morainic|冰碛的
+moorwort|[植]马醉木
+microhenry|[计] 微亨
+multifil|[化] 复丝
+micromelus|[医] 细肢者, 小肢者
+mannerist|矫揉造作者
+muharram|(伊斯兰教历)第一月
+miri|mir的复数
+meanings|含义；价值（meaning的复数）
+mesial|中央的, 中间的
+mossbacked|长满苔藓的; 迟钝的, 缓慢的;老朽过时的
+mucking|清理坍方；清理岩石；清理
+monadology|[哲]单子论( = monadism)
+moratoria|moratorium 的复数
+myogenetic|[医] 肌生成的, 肌发生的
+madreporian|madrepore的变形
+motormen|(motorman 的复数) n. 电车司机
+megalopteran|[昆]广翅目昆虫
+mesophyll|[植]叶肉
+mesocranic|[医] 中型头的(头长幅指数在75-80之间)
+manometer|压力计
+muriate|[化]氯化物,盐酸盐, 氯化钾
+mophead|拖把头, 乱糟糟的头
+mtd|[计] 平均故障检测时间
+mazur|[人名] 梅热
+mannish|男子似的, 成人似的
+mesion|[医] 正中面
+makopa|加耶檬果
+macacus|[医] 猕猴属
+moldy|发霉的, 腐臭的
+multifoil|多叶饰
+meson|介子
+miliarial|miliaria的变形
+multiparty|多党的,包括多党的,包含多党党员的, 导致多党并存的选举(或政治)制度的
+metaplasmic|adj. metaplasm的变形
+microdot|微粒的
+mosso|<意>adj.& adv.[音]活跃的( 地)
+mouldier|发霉的；霉状的, 霉臭的
+micros|微指令（micro复数形式）
+medrick|梅里克
+mythologic|神话的, 虚构的
+matchmaking|火柴制造, 缔缘, 做媒
+moping|<贬>忧郁地闲荡( mope的现在分词 )
+mercery|布店, 绸布业, 布类
+malcolm|马尔科姆（男子名）
+manses|牧师住宅
+monoecism|雌雄同体, 雌雄同株
+microcephaly|小头畸型
+muttonfish|[鱼]高鳍笛鲷
+multicuspid|[医] 多尖的
+militias|民兵组织, 民兵( militia的复数形式 )
+meated|肉；食用肉类；(蛋、坚果、贝等的)可食部分；肉；仁
+monetised|(monetise 的过去分词) vt. 使货币化；把…定位法定货币（等于monetize）
+magian|魔术师, 古波斯之祭司
+maitreya|[网络] 弥勒；弥勒菩萨；弥勒佛
+macrothere|巨爪兽
+manna|吗哪天赐食物, 精神食粮, 甘露
+monodists|(monodist 的复数) n. 挽歌作家
+mesognathy|中颌
+memoried|充满往事的
+mutillidae|蚁蜂科
+merrythought|(鸟胸的)叉骨
+marchese|<意> n.侯爵
+molasse|[地]摩砾层(相)
+marae|毛利会堂；毛利人集会地
+monetarism|[经] 货币主义
+madid|潮湿的,湿润的, 泪汪汪的
+microzoon|微小动物
+morningtide|早晨, 晨间
+metis|混血儿
+meandrous|迂回曲折的
+milled|碾碎的, 碾磨过的, 粉碎的, 铣过的
+mahmoud|穆罕默德（伊斯兰男名）
+microns|微米( micron的复数形式 )
+mellitate|苯六甲酸酯
+mournings|(mourning 的复数) n. 哀痛, 居丧, 举哀, 哀悼, 丧服, 戴孝
+marketplaces|市场, 集市（marketplace的复数形式）
+multiflash|(照相机)使用多个闪光灯的, (照片) 使用多个闪光灯拍摄的
+myriads|无数, 极大数量( myriad的复数形式 )
+magistrality|magistral的变形
+mangy|疥癣的, 污秽的
+miterwort|<美>=mitrewort
+morral|(装马饲料的)纤维袋
+magnificat|(用于晚祷的)圣母玛利亚颂, 颂歌
+miffed|稍有点恼火, 有点生气
+metabolise|使物质替换, 使变形
+maquis|灌木地带的, 反纳粹游击队员
+medicative|有药效的, 有治疗作用的
+mousetail|[植]鼠尾巴
+moling|地下排水沟设置
+maestri|大音乐家，名作曲家
+microdontic|[医] 小牙的
+misjudges|错误地判断, 冤枉( misjudge的第三人称单数 )
+mancinism|善用左手, 左撇子
+monacid|一(酸)价的, 一元的, 一酸的
+macerative|[医] 浸渍的, 浸软的
+modality|样式, 形式, 形态
+metopion|[医] 额中点
+minims|半音符( minim的复数形式 ); 半休止符; 量滴; 极小之物
+mammoths|长毛象；猛犸象；庞然大物
+mainframe|主机
+maunder|唠叨地讲, 徘徊
+mange|兽疥癣
+mortgagors|(mortgagor 的复数) n. 抵押人, 出押人
+moslemic|穆斯林的,伊斯兰教的,伊斯兰教义的,伊斯兰文化的
+murderers|谋杀犯, 凶手( murderer的复数形式 )
+marmarosis|大理岩化(作用)
+mourningly|mourning的变形
+mdse|message delivery service element 信息发布服务单元
+monimolite|绿锑铅矿
+medula|毛髓
+morenosite|碧矾
+ming|明朝
+mongrelized|（种族主义者污蔑性用语）使血统混合, 使成杂种, 使成混合种( mongrelize的过去式和过去分词 )
+myographic|[医] 肌动描记的
+madeiras|(Madeira 的复数) n. 马德拉群岛, 马德拉白葡萄酒
+meshes|网孔( mesh的复数形式 ); 网状物; 陷阱; 困境
+macromelia|[医]巨肢
+medicinable|<古>有疗效的
+mollusca|[医] 软体动物门
+mitu|[医][=mobile inflatable treatment unit]流动充气式治疗单元
+mincio|(Mincio)人名；(意)明乔
+macabre|以死亡为主题的, 可怕的
+myriophyllum|[网络] 狐尾藻属；杂属；狐尾藓属
+mixedly|混合的
+majorcan|(西班牙东部的)马略卡岛的, 马略卡人的
+masseuses|女按摩师( masseuse的复数形式 )
+margarite|珍珠云母
+mythicizer|编神话者
+maximite|马克沁炸药(一种以苦味酸为主要成分的高爆力炸药)
+millman|炼胶工
+meathead|笨蛋
+meroblastic|[生](卵)不全裂的
+mallein|[生](马)鼻疽菌素
+mongeese|mongoose的复数
+miaskite|[化] 云霞正长岩
+modularly|组合式地(modular的变形)
+mitigating|减轻, 缓和( mitigate的现在分词 )
+mockage|mock的变形
+meatworks|[复]n.[用作单或复](澳大利亚的)屠宰场,肉类包装厂
+matures|成熟, 长成( mature的第三人称单数 ); （票据等）到期; （情感和认识）成熟; 使（技能或素质）成熟
+materialness|material的变形
+macho|[医] 结节型皮肤利什曼病
+memorability|值得记念
+malices|(malice 的复数) n. 恶意, 蓄意害人, 怨恨
+milor|阁下;英国绅士
+matronlike|主妇似的, 主管的, 安祥的, 尊严的
+millennian|[网络] 千年
+metas|metastasis 转移; metastasize 转移
+megarad|[核]兆拉德(吸收剂量的标准单位)
+mineralizes|使矿物化, 使含无机化合物, 采集矿物( mineralize的第三人称单数 )
+mixtion|调料, 媒介物, 用于在木上贴金的媒染剂
+mariet|(Mariet)人名；(法)马里耶
+mystifier|mystify的变形
+marconi|马可尼式无线电报
+muleteer|赶骡人
+moonlighters|(moonlighter 的复数) n. 参与夜袭的人; 非法酿[卖]酒的人; 同时兼两个职业的人; <美>月光团员
+myocolpitis|[医] 阴道肌层炎
+materialman|材料供给人
+musth|狂暴状态
+maidish|少女的, 老处女的, 少女似的
+meltable|可溶的
+multangulum|多角骨
+micrographic|显微的;  显微摄影业;  低倍照相的;  微文象状
+myrcia|[医] 香叶, 玉桂叶
+multipliers|[数] 乘数（multiplier的复数）；[计] 乘法器
+mongering|买卖
+masonwork|石工(工程),砖瓦工(工程), 砖石建筑物
+miscasting|指配不适当的角色, 角色分配不适当( miscast的现在分词 )
+mercurialis|[医] 山靛属
+mystic|神秘的, 奥秘的
+middlemost|正中的, 最当中的
+minipill|迷你避孕丸
+macrobian|长寿的
+menses|月经
+moonily|moony的变形
+mesiodistal|[医] 近中远侧的
+melanosome|[生]黑(色)素体
+minnesinger|吟游诗人
+margination|[医] 着边(炎症初期白细胞附集于血管壁)
+malacoderm|软皮动物
+macule|[医] 斑[点]
+mixability|混合程度
+moistening|润湿
+mammillary|乳头的, 乳头状的
+metus|[法] 恐惧, 忧虑, 担心
+millennial|一千年的, 千福年的
+manned|有人驾驶的, 有人操纵的
+mosques|清真寺; 伊斯兰教寺院, 清真寺; 清真寺, 伊斯兰教寺院( mosque的复数形式 )
+membranipora|膜孔苔虫属
+matinees|（剧场、影院等的）午后的演出, 午场( matinee的复数形式 )
+mothballed|封存( mothball的过去式和过去分词 )
+mammotropin|[生化]催乳激素
+mandamus|命令书
+minnow|鲤科淡水小鱼
+maison|（法）商店；房屋；家庭；公司
+manidae|[网络] 穿山甲科；鲮鲤科；鳞鲤科
+monotonal|[网络] 音调单一
+mycostatic|[医] 制霉[菌]的
+misused|使用…不当( misuse的过去式和过去分词 ); 把…派作不正当的用途; 虐待; 滥用
+misuses|用错, 滥用( misuse的名词复数 ); 误用者
+menostasia|[医] 经闭, 绝经
+microgram|微观图
+modoc|[医]反密码子
+moistly|濡湿地, 有湿气地, 潮湿地
+mikvah|正统犹太教的浸礼池
+mammographic|乳房摄影的
+medic|苜蓿属植物, 医师, 医科学生
+majorities|多数( majority的名词复数 ); （获胜的）票数; 票数差距; 法定年龄
+montauk|[地名] [美国] 蒙托克
+mountained|山一样的, 多山的
+milkstone|乳结石
+mommas|<口>妈妈（尤儿语）( momma的复数形式 ); （雌性哺乳动物的）乳房; （雄性哺乳动物的）乳房残迹
+morwong|[鱼]唇指鲈(澳洲产的一种主要食用鱼, 亦作sea carp)[土著语]
+mastax|(动物的)咀嚼囊
+mapmaker|地图制作者, 制图师
+monotrichate|(细菌)单鞭毛的
+moblike|mob的变形
+mascouten|[网络] 马斯古顿
+misruling|施暴政( misrule的现在分词 )
+meagerness|贫乏；枯瘦
+monopolist|垄断者, 专卖者, 垄断论者
+malty|麦芽的, 有麦芽的, 喝醉的
+macrorhinia|[医] 巨鼻
+maltreating|虐待；滥用；粗暴对待
+matrice|矩阵；真值表；母式
+misbegot|(=misbegotten)私生的, 可鄙的
+mogador|[地名] [摩洛哥] 摩加多尔（索维拉的旧称）
+methyldopa|[药]甲基多巴(C&-{10}H&-{13}NO&-{4}, 降血压药)
+manumit|解放, 释放
+muchacha|[西]姑娘, 年轻女人
+maximizes|使（某事物）增至最大限度( maximize的第三人称单数 ); 最大限度地利用（某事物）
+manso|[地名] [加纳] 曼索
+meehan|米汉（人名）
+millier|公吨
+mack|防水胶布, (英)雨衣
+minos|[计] 米诺斯
+meteorism|[医]腹中积气, 膨胀
+molysite|铁盐(FeCl3)
+mouthiness|说大话, 大声叫嚣, 多嘴
+metrical|韵律的, 有韵律的, 测量的
+motory|引起运动的, 运动神经的
+midmonth|中旬
+mendelian|孟德尔学说的
+manhandled|[电影]狼溪
+mavrodaphne|马弗罗达夫尼酒(一种产于希腊的甜味红葡萄酒)
+microburette|[化] 微量滴定管
+minification|[计] 缩小倍数, 缩率
+mannose|[生化]甘露糖
+manipulates|熟练控制[操作]( manipulate的第三人称单数 ); （暗中）控制, 操纵, 影响; 正骨; 治疗脱臼
+mam|[英方]妈（等于mamma）
+micrometric|测微的, 测微术的
+mothercraft|育儿法
+modalism|三位形态式
+moisty|[常与misty连用]潮湿的
+midrashim|米德拉什（针对希伯来圣经额外的圣经注释） (midrash的变形)
+megabytes|(megabyte 的复数) n. [计]兆字节
+multiformity|多形, 多样性
+metapore|[医] 后孔, 马让迪氏孔, 第四脑室正中孔
+miniseries|电视连续短剧
+metathesis|音位转换, 转移, 置换
+mos|[计] 管理操作系统, 金属氧化物半导体
+monotic|[医] 单耳的
+monniker|名字, 绰号, 外号
+micromazia|[医] 小乳房, 乳房过小
+mazdoor|(印度的) 劳工, 苦力
+meritless|不道德的
+messinese|[网络] 中文
+macrosporic|macrospore的变形
+mastatrophy|[医]乳腺萎缩
+maximises|(maximise 的第三人称 -s形式) vt. 把...增加到最大限度, 把...扩大到最大限度, 充分重视, 找出...的最高值
+monkeyish|猴子似的, 顽皮的, 胡闹的, 愚蠢的
+milker|挤奶人, 挤奶器, 乳牛
+micromicron|微微米
+methylol|[化] 羟甲基
+marlena|(Marlena)人名；(俄)马列娜
+manors|庄园（manor的复数形式）
+mirthlessly|忧伤地, 阴森地
+millers|（尤指面粉厂的）厂主( miller的复数形式 ); 磨房主; 碾磨工; 铣工
+measurer|[计] 测量仪表, 测量器
+marmots|(marmot 的复数) n. 土拨鼠
+metacoele|[医] 第四脑室后部, 后室
+myristate|[化](肉)豆蔻酸盐(或酯),十四(烷)酸盐(或酯)
+mokes|(moke 的复数) n. 驴, 笨人, 黑人
+mooneye|(马的)月盲症, 患月盲症的马眼
+marsupian|,adj. marsupial的变形
+mosstrooper|匪徒, 流寇
+marara|[网络] 红澳桤木；遗迹
+megasse|(作燃料或绝缘材料用的)蔗渣
+maltiness|malty的变形
+misdate|填错日期
+melocactus|[网络] 花座球属；瓜玉属；晚刺花座球
+minesweeping|[军]扫雷
+magistrand|研究生(苏格兰大学攻读文科硕士学位的学生)
+monadical|monad的变形
+molding|模制, 铸造物, 模制件, 浇铸
+manana|明天, 不久以后
+mockernut|[网络] 克果
+maidservant|女仆, 女佣
+motorcar|汽车
+mythologise|<主英> = mythologize
+microword|[计] 微字
+myoscope|[医]肌缩观测器
+mulish|似骡的, 执拗的, 顽固的
+mysid|[动]糖虾
+mong|[澳俚]杂种狗
+majuscules|(majuscule 的第三人称 -s形式) n. 大字, 大写字母
+matelotes|(matelote 的复数) n. 以葡萄酒和洋葱炖的鱼
+micas|(mica 的复数) n. 云母
+mottles|使成杂色, 使有斑点( mottle的第三人称单数 )
+madams|女士( madam的名词复数 ); 小姐; 喜欢指使他人的年轻妇女; （妓院的）鸨母
+manuel|曼纽尔（男子名）；曼努埃尔二世（拜占庭皇帝约翰五世的次子）
+maldigestion|消化不良
+mauling|（尤指动物）撕裂…的皮肉( maul的现在分词 ); 伤害; 虐待; 粗手粗脚地摆弄
+macruran|虾(甲壳纲十足目长尾亚目动物的通称)
+masseter|[解]嚼肌,咬肌
+mandrin|细探针
+monobloc|整体的,单块的, 单层的
+mouther|吹牛的人, 说话装腔作势的人
+mussal|<印英>(通常用浸油的破布燃着的)火炬
+mazel|运气
+meniscoid|新月形的,凹凸的
+maysin|玉米的可凝性球蛋白
+murderesses|女凶手( murderess的复数形式 )
+monitorial|级长的, 使用监听器的, 告诫的
+mesosauria|中龙目
+monorails|单轨（铁路）( monorail的复数形式 ); 单轨索道
+marquisate|侯爵身份, 侯爵领地
+microammeter|[电] 微安计
+marrowbones|(marrowbone 的第三人称 -s形式) n. 髓骨
+martyrise|使殉难(或殉教)；折磨；使受痛苦
+muriel|穆里尔（女子名）
+melaconite|[矿]土黑铜矿
+mounds|土堆, 土丘( mound的名词复数 ); 一大堆
+multiplexes|多元的( multiplex的名词复数 )
+mildewproof|防霉的
+moire|波纹丝绸
+mymaridae|柄翅卵蜂科
+monoacetin|一醋精, 甘油一乙酸酯
+miscorrect|误改
+misopedia|嫌子女症
+midband|中频
+marchantia|[医] 地钱属植物
+metachronism|继时性
+micromho|[电] 微姆欧
+maxis|超长式长裙；迷嬉装（maxi的复数）
+malignity|恶意, 歹意, 恶性
+mastorrhagia|乳腺出血
+minuthesis|[医] 感觉器疲劳
+marocain|马罗坎平纹绉
+monoploid|& adj.[生]单倍体(的)
+microtia|[医] 小耳, 耳过小
+monopathic|[医] 单病的, 局部病的
+mothball|樟脑丸, 保藏
+monogrammic|monogram的变形
+muktuk|食用鲸皮(或鲸脂)
+miter|僧帽, 主教冠, 斜接, 斜榫
+mammose|具乳突形突起的
+macrochiria|[医] 巨手
+matchlock|火绳枪
+moorage|停泊, 定泊处, 定泊费
+microsporous|microspore的变形
+mesoderm|中胚层
+metairie|梅泰里[美国路易斯安那州东南部城市]
+mucific|分泌黏液的
+megalith|巨石
+misogyny|厌恶女人
+marksman|射手, 狙击兵, 神射手
+muzzle|动物之鼻口, 口套, 枪口
+malvoisie|白葡萄酒的一种
+mota|粘土
+misperceived|(misperceive 的过去分词) vt. 误解；看错
+marveled|奇迹
+municipalism|自治制, 地方自治论
+manganate|锰酸盐
+magnesite|菱镁矿
+mgr|经理（等于manager）；大人, 阁下（等于Monsignor）；高压玻璃釉电阻器；经纬智库（公司名）；复合气体再呼吸（等于multiple gas rebreathing）
+meer|米尔（人名）
+misemploy|误用, 应用不当
+microseme|[医] 小眼型的(眼眶指数在84以下)
+moonstruck|发狂的, 月光照到的
+morpheus|梦神, 睡神, 睡眠
+mandingo|曼丁果语；西非洲曼丁果人
+martyry|忠烈祠, 烈士纪念堂
+mulled|将（葡萄酒、啤酒等）制成热饮（加糖、香料等）( mull的过去式和过去分词 ); 思索或思考（某事物）; 认真琢磨; 反复思考（计划、建议等）
+migs|(Mig 的复数) n. 米格飞机
+mistigris|百搭; 有百搭牌的扑克牌戏
+mawworm|伪君子
+mirky|黑暗地的, 阴郁地的
+medalled|佩带勋章的
+mergansers|(merganser 的复数) n. 秋沙鸭
+micronize|使微粉化
+mucuna|黎豆属; 油麻藤属
+megadeath|一百万人之死亡
+melanoid|黑变病的
+megalops|[动]大眼幼体( 蟹类)
+maharani|maharaja[h] 之妻
+micropsia|[医] 视物显小症
+mitogenic|[生]促有丝分裂的, 致有丝分裂的
+missaid|missay的过去式及过去分词
+moneyed|有钱的
+mignons|(mignon 的复数) adj.可爱的, 娇小美丽的
+mobbist|暴徒
+myrtles|(myrtle 的复数) n. 桃金娘科植物
+mande|(pl. Mande, Mandes)曼丁哥人(西非黑人, 包括马林凯人等)
+metanalysis|[语]再分化
+mesabite|赭针铁矿
+mercerizes|作丝光处理( mercerize的第三人称单数 )
+marikina|[地名] [菲律宾] 马里基纳
+manoeuvring|[军]调遣, 部署, 操纵
+meiler|炭窑
+matrilateral|母系的, 母亲一方的,姑表(或姨表)关系的
+mather|马瑟（人名）
+mademoiselle|[法] (pl.mademoiselles, mesdemoiselles )小姐(相当于英语Miss , 单数略为Mlle, 复数略为Mlles), [英]法国女(家庭)教师
+mergus|[网络] 秋沙鸭属；秋沙属
+motherwort|[植]益母草,茺蔚
+millefleurs|(挂毯图案的)万花斑驳的
+miharaite|三原岩(苏英玄武岩)
+mammals|哺乳类；哺乳纲；哺乳类动物（mammal的复数）
+moderateness|适度；温和；暖和（moderate的名词形式）
+monotonize|使单调
+metalist|<美>= metallist
+metallike|有金属特性的,像金属的,金属般的
+monos|monitor out of service 监视器停用，不工作的监视器，非服务监视器; [计]= MONitor Out of Service,非服务监视器
+myxomycetes|[医] 粘液菌门
+mourners|哀悼者; 哀悼者, 送葬者( mourner的复数形式 )
+monometer|单音步诗行
+morin|[化] 桑黄素
+machilidae|[网络] 石蛃科；石蚤科；石蛹科
+marrowless|无髓的
+misreading|[化] 错译
+maternities|(maternity 的复数) n. 母性, 怀孕, 妇产科医院
+micturated|排尿( micturate的过去式和过去分词 )
+mazodynia|[医] 乳房痛
+midseason|季节中期(指仲春,仲夏,仲秋,仲冬),旺季,忙季
+macrograph|宏观图
+melodrame|<古> = melodrama
+matti|(Matti)人名；(法、意、芬、以、瑞典)马蒂
+myelogenous|骨髓内产生的, 骨髓的
+marines|[人名] 马林斯; [地名] [西班牙] 马里内斯; [地名] [法国] 马里讷; [电影]时空奇兵之海豹突击队
+moundsman|棒球投手
+mandyas|[宗](东正教)黑色短斗蓬, 紫色斗篷
+mucose|粘的
+muniment|契据, 证券, 文件, 防御手段
+micrological|micrology的变形
+mandir|(印度教或耆那教的) 寺庙
+matzos|(matzo 的复数) (pl. matzot, matzoth, matzos)(=matsah)犹太逾越节薄饼(逾越节期间犹太人所吃的一种不发酵的硬面饼)
+misknowledge|错误的认识, 误解
+makeshifts|(makeshift 的复数) n. 权宜之计, 临时代用品
+manyatta|( 非洲南部用篱笆围起来的) 村庄, 村塞
+mumblers|(mumbler 的复数) 咕咕哝哝的人；说话含糊的人
+macaronis|意大利粉, 通心面( macaroni的名词复数 ); 通心粉
+mimosis|[医] 拟态(生物), 模仿, 模拟, 疾病模仿
+mapmakers|(mapmaker 的复数) n.地图制作者, 制图师
+missourian|密苏里的
+mercedarian|[网络] 梅塞德会
+minar|(尤指印度的)塔
+missel|(=mistle thrush)[鸟]獬鸫
+mayapple|[植]盾叶鬼臼
+microfiche|缩微平片
+mohammad|穆罕默德（穆斯林真主）；（阿拉伯）穆罕默德（男子名）
+milksopping|(milksop 的现在分词) n. 懦弱的人
+midfielder|中场队员
+myxoid|[医] 粘液样的
+mossberry|蔓越橘
+magnificos|（古威尼斯的）贵族，高官，显要人物( magnifico的名词复数 )
+memorizes|记住, 熟记( memorize的第三人称单数 )
+macrology|烦冗, 烦冗的语句
+madoqua|[医]小羚羊属
+mannitol|甘露糖醇
+misnurture|[网络] 误导
+merotomy|[医] 分节, 节裂
+mediastinum|纵隔
+mant|[人名] 曼特
+mogilalia|[医]出语困难,难语症(如口吃)
+moke|驴, 笨人, 黑人
+magnetizer|磁化器
+manifoldly|多种多样的
+merits|功绩；是非曲直；优点（merit的复数）
+makable|可制作的；可标记的
+mitome|[医] 原质丝, 胞网丝, 原浆网质
+mistuning|失调
+malfeasance|不正当, 不法行为, 坏事, 渎职
+mirk|黝暗, 阴郁
+muso|<俚>乐师
+millets|(millet 的复数) n. 稷, 粟, 黍
+methodized|使有条理( methodize的过去式和过去分词 )
+monger|商人, ...商, ...贩
+melamed|(犹太宗教小学或其他犹太学校的)小学教师
+microcopied|缩微复制( microcopy的过去式和过去分词 )
+mucoraceae|[医] 毛霉菌科
+maratha|(印度中、西部的)马拉地人
+microclastic|微细屑状; 细屑质的
+malleated|锻；压延；将…锤薄
+makar|<苏格兰>诗人
+magicking|用魔法变出（magic的现在分词形式）
+musk|麝香, 麝香的气味
+mizzled|下蒙蒙细雨( mizzle的过去式和过去分词 )
+mutillid|蚁蜂
+mooder|心情, 心境, 情绪；精神状态, 思想倾向；郁郁寡欢；生气；心情不好
+messman|炊事兵
+microvolt|[计] 微伏
+mesostoma|中口涡虫属
+monody|独唱颂歌, 无伴奏齐唱, 挽歌
+movably|可移动地, 可动性地
+moldery|(=mouldery) 造型车间
+maungy|<英方>(尤指小孩)坏脾气的,闹别扭的
+manlike|象男人的, 有男子气概的, 男子似的
+morbific|引起疾病的
+maleo|[医]马利奥冢雉
+monogenesis|无性生殖
+mithra|密特拉（波斯神话中的光明之神, 等于 Mithras）
+metrorrhea|[医] 子宫液溢
+milligramme|毫克
+mitt|棒球手套, 拳击手套, 连指手套
+machaira|(古埃及和古希腊时的)双刃弯刀
+midden|垃圾堆, 堆肥
+mussiness|mussy的变形
+muntingia|[网络] 文定果属；西印度樱桃属；南美假樱桃属
+moniliform|念珠形的
+mycohaemia|(=mycohemia)霉菌血症
+monotonies|(monotony 的复数) n. 单调, 缺乏变化
+monazite|[矿]独居石
+massless|[物]无质量的
+manostat|稳压器
+marinated|把…浸泡于腌泡汁中（marinate的过去式与过去分词形式）
+mediates|调停, 调解, 斡旋( mediate的第三人称单数 ); 居间促成; 影响…的发生; 使…可能发生
+microfarad|微法拉
+majorism|[网络] 梅杰主义；主义
+mocks|（英国）模拟考试( mock的名词复数 )
+milter|繁殖期的雄鱼
+micmac|加拿大的印第安人;其语言
+muted|变弱了的, 变柔和了的
+mullid|羊鱼
+molests|骚扰( molest的名词复数 ); 干扰; 调戏; 猥亵
+mollifiers|(mollifier 的复数) 安慰者
+mimically|mimical的变形
+maurist|[宗]莫尔会修士
+manducable|manducate的变形
+mought|<古><方>may的过去式
+multiparous|一胎多子的, 多产的
+muntin|[建]门框或房屋侧翼凸出部 分框架的直木条(或铁条)
+manit|(=man minutes)每人每分钟所做的工作, 人分
+malmstone|灰砂岩
+manter|[人名] 曼特; [地名] [美国] 曼特
+mudrocks|(mudrock 的复数) 泥岩
+monologue|独白, 独脚戏, 独白场面, (非正式)(贬)滔滔不绝的话
+misarranged|排列凌乱的
+monogrammed|有交织字母(或花押字)的
+mellifluous|加了蜜糖的, 甜蜜的, 甜美的, 流畅的
+makluk|髭海豹
+mediaeval|中古的, 中世纪的
+mesodontic|[医] 中型牙的
+methodics|[医] 方法医学派
+muong|芒人
+mixoploid|混倍体
+moonshiny|月光照耀的, 空虚的, 空想的
+maiming|[法] 伤害他人身体
+miniate|涂红色于
+moderant|和缓物
+mynah|[动] 八哥
+magdalenian|马格达林时期的
+metrics|韵律学, (诗等的)韵律特色
+mansarded|mansard的变形
+maranta|[植]竹竽
+mgt|management 经营, 管理, 资方
+multifid|多裂的, 多瓣的
+malemute|马拉摩特雪橇狗
+myoplasm|[医] 肌浆, 肌质
+murids|(murid 的复数) adj.鼠的, 鼠科的
+macrouridae|长尾鳕科
+micropipet|[化] 微量吸移管
+mandril|心轴, 心子, 紧轴, (非正式)鹤嘴锄
+manhole|人孔
+microprobe|[计] 微探针
+melodizes|谱成乐曲（melodize的第三人称单数形式）
+macrocarpous|[植]有大果实的
+mischanceful|mischance的变形
+malodorous|有恶臭的
+mulched|用护根覆盖（植物根部或其周围地面）( mulch的过去式和过去分词 )
+medullitis|骨髓炎
+manometers|(manometer 的复数) n. 压力计
+mannishness|mannish（男子气的, 男子似的）的名词形式
+menstrua|menstuum 的复数
+mesmeromania|[医] 催眠狂
+mayst|<古>may的第二人称单数现在时(仅与thou连用)
+millilambert|[物]毫朗伯(亮度单位,=1/1000朗伯,略作mL)
+meloncus|[医] │颊瘤
+magellanic|(葡萄牙航海家)麦哲伦的,以麦哲伦命名的, 麦哲伦海峡的
+maar|低平火山口；小火山口
+meatorrhaphy|[医] 尿道口缝术
+mesenteritis|肠系膜炎
+multiplexor|[计] 多路开关选择器; 多路转接器; 多路复用器
+mum|菊花, 沉默
+myrtiform|[医] 桃金娘形的
+maimon|Maimonides 迈蒙尼德
+moreen|波纹织物
+maturant|[医] 催脓药
+monogynist|[网络] 实行一妻制的人
+micropore|微孔
+microspore|小孢子
+mammula|[动]乳头突(如蜘蛛类的吐丝器)
+mediatizing|并吞；使居于中间
+monophyodont|不换性齿的
+muscidae|[医] 蝇科
+marbling|大理石花纹；大理石纹加工法；猪、牛肉的细脂肪纹路
+mammotomy|乳房切开术
+medialize|[网络] 内向化
+moistener|[化] 湿润器
+mashed|捣烂的；被捣成糊状的；捣碎的
+molucca|摩鹿加群岛
+myxospore|[医] 粘液孢子
+maximizer|达到极大
+myocarditic|[医] 心肌炎的
+mealtime|进餐时间
+myomotomy|[医] 肌瘤切开术
+mutinying|违抗上级命令, 叛变, 反叛( mutiny的现在分词 ); （尤指士兵或船员）不服从, 反抗, 反叛
+mortiferous|致命的
+marquees|大帐篷（marquee的复数形式）
+mazovian|[网络] 马佐维亚人
+millioersted|毫奥(斯特)
+mediocrities|平庸, 第二流, 平庸人( mediocrity的复数形式 )
+metabolizing|使发生新陈代谢( metabolize的现在分词 )
+malinois|玛伦牧羊犬
+mesiobuccal|[医] 近中颊[侧]的
+measles|麻疹, 风疹, 家畜囊尾蚴病, 米珠
+moorburn|烧荒
+mischose|,vi. mischoose的变形
+marx|马克思（无产阶级的伟大领袖）
+malarial|[医] 疟疾的
+macula|斑点, 斑疵点, 黑点, 太阳黑子, 斑疹
+metroscopy|[医] 子宫镜检查
+mixoploidy|混倍性
+meditator|深思者, 策划者
+mamoncillo|蜜果
+mothlike|moth的变形
+morong|[人名] 莫龙; [地名] [菲律宾] 莫龙
+malodour|恶臭
+manograph|流(体)压力[强]记录器, 压力计, 示功器, 压力记录仪
+mawseed|罂粟籽
+millenium|千禧年；千年
+megacycle|兆周
+mirthfulness|欢乐
+maimer|残害者
+mutilation|切断, 毁损
+miniscule|(=minuscule)草写小字的, 小字的
+mudlarks|(mudlark 的第三人称 -s形式)  清沟工人, 掘泥工人
+multipole|多极的
+metathetical|复分解的
+micelles|[化学] 胶团；微粒；[分子生物] 微胶粒（micelle的复数形式）
+monophagism|[医] 单食, 偏食
+melanian|黑色人种的, 黑色素的
+middlebrows|知能学识平凡的人；中庸
+melanterite|水绿矾
+mycoplana|[医] 支动杆菌属
+morphogeny|形态发生
+menisci|meniscus 的复数
+matadors|斗牛士( matador的复数形式 )
+monohull|单体船
+manfully|男子气概地；雄伟地
+metricizes|改为公制( metricize的第三人称单数 )
+marchman|边境居民
+morasses|缠作一团( morass的复数形式 ); 困境; <文>沼泽; 陷阱
+monkeyshines|<美俚>恶作剧
+metallics|(metallic 的复数) a. 金属的, 含金属的, 产生金属的
+monoplanes|(monoplane 的复数) n. 单翼机
+mesosaur|中龙
+maltster|麦芽制造(或出售)者
+muck|垃圾, 肥料
+miskin|[人名] 米斯金; [地名] [阿曼、乌兹别克斯坦] 米斯金
+manpack|单人可携带的
+mandioca|[植]树薯, 树薯粉
+minyan|(相传住在古希腊中部的)米尼安人
+myorrhaphy|肌缝术
+macrocosm|大宇宙, 大世界, 全域, 整体
+mostra|(Mostra)人名；(意)莫斯特拉
+miking|千分尺测量
+malonate|丙二酸
+monatomic|单原子的
+melanophore|[生](尤指鱼类、 两栖动物和爬虫的)载黑素细胞
+metromania|女子淫狂; 赋诗狂
+megalocornea|[医] 球形角膜
+metarossite|[矿]变木钒钙石
+millisecond|毫秒
+mesmerizes|使入迷( mesmerize的第三人称单数 )
+moleskins|(moleskin 的第三人称 -s形式) n. 鼹鼠皮, 斜纹棉布, 斜纹棉布裤
+moabitess|摩押妇女
+muttonchops|圆形络腮胡子
+monoline|[计] 单线
+metalize|使金属化, 使...硬化
+musci|[医] 藓纲, 藓类
+marathi|马拉地语(属印欧语系印度语族)
+muscadelle|[网络] 密思卡岱；慕斯卡德；麝香葡萄
+metin|(Metin)人名；(俄)梅京；(土)梅廷
+methanolysis|甲醇分解作用
+milesian|爱尔兰的
+monstrously|可怕地；荒唐地；强烈地
+miscopying|基因错抄
+mesocephalic|[解]中头型的(头指数在76.0-80.9之间)
+mythus|神话
+magmatism|岩浆作用
+minuet|小步舞, 小步舞曲
+mimicked|模仿（活象）
+methide|甲基化物
+monocultural|（具有）单一文化的
+microtone|[音](小于半音的) 微音程
+motific|[网络] 气质
+manroot|[网络] 根人
+modernise|vi. (使)现代化, (使)适应现代需要
+marquesan|(大洋洲)马克萨斯人, 马克萨斯群岛的, 马克萨斯人的
+majlis|(伊朗)议会
+milliliter|毫升
+metatarsal|跖骨的
+moo|发哞声
+melamine|三聚氰胺
+maltol|带焦糖味并有苦味的物质(用于巧克力制品, 清凉饮料等)
+marmoset|狨
+misogynous|厌恶女人的
+materialized|具体化, 成为现实( materialize的过去式和过去分词 )
+misproud|[古语]目空一切的；妄自尊大的
+microcytosis|[医] 小红细胞症
+mediatorial|倾向于调解的, 调解的
+microbicidal|杀微生物的
+mesoscapula|[医] 肩胛冈
+malinke|马林凯人(非洲西岸)
+mindfulness|留心, 警觉
+morticing|<术>榫眼, 卯眼, 接合( mortice的现在分词 )
+mudder|善于在泥地上跑的马
+medievalize|使中古化
+martite|假象赤铁矿
+modernness|现代, 近代
+morainal|冰碛的
+minorite|(天主教)小兄弟会修士
+mucago|[医] 粘液
+monogene|单成因的
+mopoke|蟆口鸱, 笨人
+minstrels|游方音乐家( minstrel的复数形式 ); 游方艺人; 吟游; 吟游诗人
+mainlined|,vi. mainline的变形
+melodically|旋律地（melodic的变体）
+moringa|辣木属
+magnetron|磁控管
+mediaevalist|中世纪研究家, 中古史学家
+multiparity|[医] 经产; 多胎产
+monas|[医] 单胞菌属, 滴虫属
+mesotropic|[医] 腔中央的
+mesioversion|[医] 近中向位
+memorialized|请愿( memorialize的过去式和过去分词 )
+midiskirt|(长至小腿肚的)中长裙
+metalling|铺路碎石, 喷镀金属
+mummified|成木乃伊状( mummify的过去式和过去分词 ); 干瘪; 使干瘪; 使成木乃伊
+micrologic|[计] 微程序控制逻辑
+moruloid|[医] 桑葚样的
+mumchance|<古><方> adj.& adv.不出声的(地), 不说话的(地)
+missounding|[网络] 不正当
+meadowlands|(meadowland 的复数) n.草地, 牧场, (割制干草用的)饲料种植地
+metacarpale|掌骨
+miltonian|弥尔顿（英国诗人, 政论家, 1608-1674）的或其作品的, 似弥尔顿的作品的
+motherhood|母道, 母性, 母亲们
+misfit|不适合, 不适合的东西, 不适应环境的人
+mezereum|[化] 瑞香
+multicolor|[计] 多色绘图的
+modernising|现代化（等于modernize）
+masha|玛莎（人名）
+mosquitofish|[鱼]食蚊鱼
+machinal|机械式的, 无意识的, 不由自主的
+moniliasis|[医]念珠菌病
+mailability|mailable的变形
+muscarine|[生化]蝇蕈碱, 蕈毒碱
+myogram|[医]肌动(描记)图
+markswoman|射手, 神枪手
+missional|[网络] 宣教的；宣教性；使命导向
+macadamize|以碎石铺
+myocele|[医] 肌突出
+marginalia|pl. 旁注, 次要项目
+moellon|油鞣废油, 乱石圬工
+macroglossia|[医]巨舌
+myiosis|[医] 蝇蛆病
+mormal|[地名] [白俄罗斯] 莫尔马利
+mollescence|[医] 软化
+mirv|Multiple Independently (Targetable) Re-entry Vehicle 多弹头分导重返大汽层运载工具
+moorland|高沼地
+motorisation|[医]机械化
+monometallic|使用单金属的, 单(金属)本位制的
+martes|[医]貂属
+modumite|霞辉斜长岩
+methylase|[生化]甲基化酶
+micromere|[生]小(分)裂球
+mercurify|与水银混合, 混合
+mimicries|(mimicry 的复数) n. 模仿
+microhm|微欧姆
+mobilizers|(mobilizer 的复数)  [医]剥离器, 活动器
+maligning|污蔑, 诽谤（malign的现在分词形式）
+mammered|[英国方言]；口吃
+morcha|(印度的)反政府示威
+malladrite|氟硅钠石
+multibit|[计] 多路的
+monostrophe|(各诗节韵律相同的)单韵律诗
+moveless|静止的,不动的
+metroxylon|[网络] 西谷椰属；西谷椰子属；西菱忖l属
+metalise|化为金属;使[橡胶] 硬化
+marguerite|雏菊
+metalworks|(metalwork 的复数) n. 金属制品, 金属加工
+milliner|女帽制造商
+manstopping|用以杀伤冲锋士兵的, 大威力的
+moonshots|(moonshot 的复数) n. （火箭等的）向月球发射
+mealtimes|进餐时间, 吃饭时间( mealtime的复数形式 )
+mausolean|mausoleum的变形
+marianist|( 天主教) 巴黎圣母会成员
+maters|(mater 的复数) n. 母亲
+moonstone|月长石
+mortgaging|抵押( mortgage的现在分词 )
+magically|用魔法地；如魔法般地
+millwrights|(millwright 的复数) n. 磨粉厂的设计者, 机器安装工
+minded|有意的, 有心的, 具有意志的
+mung|[植]绿豆
+marwari|马尔瓦尔人
+mercator|墨卡托（地理学家, 地图制作家）
+masquerade|化装舞会, 伪装
+mytilidae|贻贝科
+mammilla|乳头
+monoclinal|单斜的
+muddled|混乱的；糊涂的；头脑昏昏然的
+muroid|鼠类
+metallizing|[计] 金属喷镀法, 金属化
+megapode|[鸟]■雉
+maculation|斑点, 污点, 玷污
+medians|(median 的复数) a. 中央的, 中间的, 正中的
+mastiff|大驯犬
+mands|Maintenance and Supply 维修与保养
+myopathia|[医] 肌病
+moulin|[地]冰川锅穴
+myna|家八哥
+midfield|球场中央部分
+mamba|树眼镜蛇
+meritocracy|精英领导阶级
+mussuck|<印英>皮水袋
+miters|Minor Traffic Engineering and Road Safety Improvements 支线交通工程和道路安全改进
+masurium|钨
+milligals|(milligal 的复数) n.[物]毫伽(重力加速度单位,=1/1000伽,略作mGal或mgal)
+meditated|深思, 沉思, 冥想( meditate的过去式和过去分词 ); 内心策划, 考虑
+minidisks|(minidisk 的第三人称 -s形式) [计] 小型磁盘
+muguet|[医] 霉菌性口炎, 鹅口疮
+misplays|失误( misplay的第三人称单数 )
+morrice|[人名] [英格兰人、威尔士人、苏格兰人、爱尔兰人姓氏] 莫里斯 Morris的变体
+missals|(missal 的复数) n. 弥撒书
+manservant|仆役, 男仆
+magnifique|[网络] 璀璨红情；璀璨香水；曼尼菲克
+mensurate|测定, 测量
+metrectasia|[医] 子宫扩张
+measled|患麻疹的
+merryman|<古>小丑,丑角
+midriffs|膈, 中腹部( midriff的复数形式 )
+motorizes|给（车辆）装上发动机( motorize的第三人称单数 ); 使机动化; 用机动车装配（部队等）; 使（部队等）机动化
+mouldboard|模板, 型板
+marconigraph|(马可尼式)无线电报机
+mortarless|无灰泥的
+moulted|换羽, 脱毛( moult的过去式和过去分词 ); <喻>去掉（旧习惯、观点等）
+masturbatory|手淫的,自淫的
+mayan|马雅人的, 马雅语的
+melitis|颊炎
+meatier|多肉的( meaty的比较级 ); 肉厚的; <非正>内容丰富的; 发人深思的
+mythography|(绘画、雕刻等的)神话艺术
+manganesian|manganese的变形
+mensk|[地名] [白俄罗斯] 明斯克
+malaria|疟疾, 瘴气
+malady|病, 疾病, 弊病
+metonic|(古代雅典天文学家)默冬的
+mafioso|黑手党成员, 秘密政党成员
+misdirecting|给…指错方向( misdirect的现在分词 )
+monoprotic|一元的
+mirthful|愉快的, 高兴的
+midwives|接生婆, 助产士( midwife的名词复数 )
+marage|[冶]使(金属等)受马氏体时效处理
+mundanely|世俗地
+marmot|土拨鼠
+musicophobia|对音乐的反常恐惧(或厌恶)
+meticulosity|一丝不苟
+modeler|[计]模型作者, 造型者, 模型工
+mizenmast|后桅
+mortgaged|抵押( mortgage的过去式和过去分词 )
+mesophytism|中生性
+mixtec|(pl. Mixtecs, Mixtec)米斯特克人(墨西哥瓦哈卡, 盖雷罗和普埃布拉州的一支印第安人)
+monogenistic|monogenist的变形
+multiples|跨国公司；多倍制图仪；连票；倍数
+macaronic|两种语言混合的
+mus|[医] 鼠属
+madden|使发狂, 激怒
+mileometer|计程表
+molluscs|<动>软体动物( mollusc的复数形式 ); 贝类
+mistrusted|不信任( mistrust的过去式和过去分词 )
+myocardium|心肌, 心肌层
+mismate|使匹配不当
+mortiser|凿榫机
+messier|(Messier)人名；(意)梅谢；(英)梅西尔；(法)梅西耶
+moused|鼠标；老鼠；胆小羞怯的人
+mesolite|中沸石
+marsupialize|[医]给…造袋
+meanspirited|卑鄙的
+maulstick|支腕杖
+mitered|斜接的, 戴礼冠的
+moussakas|(moussaka 的复数) 茄合(希腊的一道菜名, 盖以白酱汁和干酪然后烤熟)
+moribund|垂死的
+microscopes|显微镜( microscope的复数形式 )
+marchesi|[人名] 马基西
+maunders|唠叨地讲, 徘徊( maunder的第三人称单数 )
+molilalia|[医]出语困难,难语症(如口吃)
+meliatin|[医] │睡菜甙
+malpighia|[植]金虎尾科的
+medics|医学工作者；苜蓿（medic的复数）
+militiaman|国民兵, 民兵
+mononitrate|一硝酸盐
+myrrhy|多没药的, (似)有没药香味的
+margravine|候爵夫人
+muskogee|马斯科吉（美国城市）；马斯科吉人；马斯科吉语
+mythoheroic|歌颂神话英雄事迹的
+manages|管理；负责；控制；设法对付（manage的三单形式）
+multipacket|[计] 多组的
+maypop|粉色西番莲, 粉色西番莲果实
+meristically|meristic的变形
+marekanite|[地质]似曜岩斑状体, 珠状流纹玻璃
+metacarpals|(metacarpal 的复数) a. 掌的
+makings|发展(成...)的可能性, 素质
+moonblink|[医] 月光盲, 夜盲
+missetting|错调, 未调准
+mudguards|挡泥板, 汽车的挡泥板( mudguard的复数形式 )
+mesalliance|和低身份者结婚, 门不当户不对的婚姻
+mester|<英方>主人,老爷(用作对男主人的称呼语)
+middy|海军军校学员, 水手衫
+molland|(Molland)人名；(法、挪)莫兰
+monetarists|货币主义者( monetarist的复数形式 )
+merozoite|[动]裂殖子
+mundanity|尘俗
+muezzin|宣礼员
+mesas|(mesa 的复数) n. 台面, 岩滩, 平顶山
+merosome|[医] 节片, 体节
+metathalamus|[解]丘脑后部
+minored|[主美国英语]副修，选修，兼修( minor的过去式和过去分词 )
+mucker|重重跌倒, 灾难, 装岩工
+mediant|中音
+mediastinal|[医] 纵隔的
+metayage|[法] 折半佃法
+maharanee|<印> 王公之妻, 女君主
+multiengined|多发动机的
+martensite|马氏体
+meannesses|(meanness 的复数) n. 吝啬；卑鄙；劣等
+mussitate|[网络] 麻烦
+mineable|可开采的
+monetizes|定为货币, 铸造成货币( monetize的第三人称单数 )
+milos|买罗高梁，西非高梁白[黄]穗芦粟( milo的名词复数 )
+manchet|[古][英方](上等面粉制的)白面包
+martialness|martial的变形
+mau|[计] 媒体连接器, 多访问部件
+margined|[医]具边的
+medicinally|用药物, 当做药
+metasome|[地]新成体
+massecuite|(制糖时)煮沸浓缩后的甘蔗汁( 即糖结晶体与糖浆混合物)
+manatee|海牛
+moas|(moa 的复数) n. 恐鸟
+mohammed|穆罕默德(伊斯兰教创始人)
+medicals|医学的( medical的复数形式 ); 医疗的; 医术的; 内科的
+monographs|专著, 专论( monograph的复数形式 )
+moreness|more的变形
+melatope|光轴点, [pl. ]光轴影
+megadontia|[医]巨牙 (亦作 megadontism, megadonty)
+marvellously|绝妙地, 惊奇地, 不可思议地
+morula|[动]桑椹胚
+modelled|& vi. 做模特儿（model的过去式与过去分词形式）
+metrologist|计量学家
+mythographer|神话收集者, 神话讲述者
+motordrome|汽车试车场, 赛车道路
+midautumn|仲秋
+mucronated|有尖端的, 棘状的
+melursus|[网络] 懒熊属
+mudfish|泥鱼
+moniker|名字, 绰号
+manism|崇拜祖先
+malter|[人名] [英格兰人姓氏] 莫尔特职业名称，酿造者，来源于中世纪英语，含义是“麦芽”(malt); [人名] [英格兰人姓氏] 莫尔特地貌名称，来源于古法语，含义是“贫瘠的土地”(bad land)
+molar|磨碎的, 臼齿的, 摩尔的, 克分子的
+metaxenia|[植]后生异粉性,果实直感
+meriting|值得, 应获得( merit的现在分词 ); [宗教]（因行善而）应得（善报）; 应受赏（或罚）, 应受报答; [宗教]积德
+medullated|有髓的
+manilla|马尼拉, 吕守烟, 马尼拉麻, 白棕绳, 吕守绳
+muraenidae|[网络] 糯鳗亚目；鯙科；海鳝科
+marabou|秃鹳, 秃鹳毛
+miscreating|误造, 误创, 误作
+masticable|可咀嚼的
+manchurian|满族人
+mouthwash|漱口剂, 洗口药
+minacity|威吓性, 威胁性
+mercurate|用汞处理
+mips|[计] 每秒百万条指令数
+meed|报酬, 奖赏
+miscalling|叫错…的名字, 误称( miscall的现在分词 )
+matriarchs|女家长, 高雅的老妇人( matriarch的复数形式 )
+mollienisia|[鱼]帆鳍鳉( 一种观赏鱼)
+metazoea|[动]后(期)水蚤幼虫
+maidu|迈杜人(美国加利福尼亚州的美洲印第安人的一支); 迈杜语
+murmi|[网络] 又称穆尔米人；菩提亚人或穆尔米人
+muckite|穆氏树脂石
+millionaires|百万富翁( millionaire的复数形式 ); 大富翁; 大财主; 有钱人
+misexplain|错误解释
+mashing|打浆；淀粉糖化
+mozzetta|(天主教会首脑披于法衣之外的)带兜帽短斗篷
+melodizing|谱成乐曲( melodize的现在分词 )
+molal|(重量)克分子的
+methyprylon|[化] 甲乙哌酮; 脑了达
+mandrills|[脊椎] 山魈（西非洲产的大沸沸）
+migraine|严重的周期性偏头痛
+matai|萨摩亚人的部落酋长氏族族长
+mesnalty|[律]中间领主的封地(或身份)
+midrash|(从犹太人被巴比伦俘虏奴役起至公元1200年间所作的)犹太法学博士的圣经注释
+marcid|凋萎的, 皱缩的
+multimegaton|(热核武器)有数百万吨级爆炸力的
+micawberism|空想乐天主义
+monesia|[医] 巴西金叶树浸膏
+musters|集合, 召集, 集结（尤指部队）( muster的第三人称单数 ); （自他人处）搜集某事物; 聚集; 激发
+moll|情妇, 妓女
+mittens|连指手套, 露指手套( mitten的复数形式 )
+manxman|马恩岛人, 马恩岛居民
+macaroon|蛋白杏仁饼干
+marshman|沼泽地居民, 在沼泽地谋生的人
+mythmaker|神话创作者; 虚构者, 杜撰者
+macedonians|马其顿人；马其顿派（Macedonian的复数）
+menotyphla|[网络] 盲肠目
+marcan|(基督教四福音书作者之一) 马可的, 《马可福音》的
+mandola|大型曼陀琳(琴)
+mcf|mille cubic feet 千立方英尺
+minivet|山椒鸟
+majorship|少校的职位
+midparent|中间亲, 双亲中值, 中亲值
+menservants|manservant 的复数
+myeloic|[医] 中性髓细胞的
+macrotin|[医] 美升麻脂
+microsoma|[医] 矮小[身材], 微粒体
+multivariate|[计] 多元
+manorialize|置…于庄园制度下
+mycologic|真菌学的
+maire|莫雅（女子名）
+muckle|多量, 重要的事
+mobber|欺负者、大欺小或强凌弱的人
+minutia|细节, 琐事
+menstruant|[医] 有月经者
+mugful|一大杯的容量
+minas|[地名] [厄瓜多尔、古巴、乌拉圭、印度尼西亚] 米纳斯
+messines|[地名] [加拿大] 梅西讷
+messaged|通知（message的过去式与过去分词形式）
+mesocoelia|[医] 中脑水管, 西耳维厄斯氏导水管
+mechanology|机械学, 机械学论文
+mols|(mol 的复数) n. 摩尔, 克分子
+minicam|小型照相机
+myxedematous|[医] 粘液[性]水肿的
+monochromes|(monochrome 的复数) n. 单色画, 单色, 黑白
+marattia|观音座莲属；莲座蕨属
+mutase|[生化]变位酶
+montadale|蒙特代羊(一种产于美国密苏里州用哥伦比亚羊与雪福特羊杂交育成的羊,以毛厚肉美著称)
+mavourneen|<爱尔兰语>宝贝,亲爱的
+merluccius|[医]无须鳕
+mopstick|拖把柄
+morton|莫顿（男子名）
+meltdowns|彻底垮台( meltdown的名词复数 )
+miracidium|纤毛幼虫, 毛蚴
+mirrorlike|镜似的
+miso|味噌, 日本豆面酱
+millepore|千孔虫
+mingo|(Mingo)人名；(意、西、英)明戈
+morrhuin|鳕肝尸胺
+magog|[人名] 梅戈格; [地名] [加拿大] 梅戈格
+maldivian|马尔代夫(群岛)的,马尔代夫人的
+muskat|[网络] 斯卡特；慕斯卡特；穆什卡特
+monotypic|单型的
+malleoli|平衡棒
+melene|蜂花烯, 三十碳烯
+myohematin|肌高铁血红素, 肌细胞色素
+mycetology|真菌学
+mirvs|(mirv 的复数) abbr. Multiple Independently (Targetable) Re-entry Vehicle 多弹头分导重返大汽层运载工具
+militantness|militant的变形
+misprint|印错, 印刷错误
+micrognathia|[医] 小颌
+manufactures|制成品（manufacture的复数）
+maharishi|（印度的）智者, 圣贤
+mogo|<澳>(土著居民用的)短柄小石斧[新南威尔士土著语]
+molestations|(molestation 的复数) n. 调戏, 干扰, 妨碍
+misplacement|误放, 遗忘; 错位
+mamilla|乳头
+mastix|[化]乳香
+marl|泥灰, 泥灰土, 土
+medicolegal|法医学的
+mano|（美）上磨石；流体压力表
+muzhiks|(muzhik 的复数) n.农人, 农夫
+macropyramid|长轴锥
+marasmoid|(进行性)消瘦样的
+myotic|瞳孔收缩剂
+motions|（物体的）运动( motion的名词复数 ); 提议; 通便
+micropenis|[医] 小阴茎
+malacopoda|软足亚门
+mallophaga|[医] 食毛目
+misogamy|厌恶结婚
+mandatorily|命令地
+multilineal|多线的
+misjoined|[网络] 错误地
+mnemonical|帮助记忆的, 记忆术的
+matrah|马特拉[阿曼北部港市]
+monozygotic|[医] 单合子的
+marlinespike|穿索针, 解索针
+materialise|vt. (使)物质化, (使)具体化, (使)追求物质利益, (使)显形, 成为事实, 实现
+masterdom|支配
+maneuvers|策略, 谋略, 花招( maneuver的名词复数 )
+microchip|微型集成电路片, 微片, 芯片
+mudspate|泥流
+metage|称量, 计量费
+maleability|可锻性
+mobbism|暴乱行为,无法无天的行为
+myelonic|[医] 脊髓的
+mithraist|& adj.密特拉神的信徒(的), 密特拉教教徒(的)
+maven|内行, 专家
+muciferous|生黏液的,分泌黏液的,充满黏液的
+moca|(Moca)人名；(罗)莫卡；(塞)莫察
+myrick|[人名] 迈里克; [地名] [美国] 迈里克
+monegasque|摩纳哥的；摩纳哥人的
+moshav|<希伯来>n.莫夏夫( 以色列的一种土地私有、本人劳动、共同销售的农业合作居民点)
+mandator|命令者, 委任者
+microprogram|[计] 微程序
+manganosite|方锰矿
+manitou|(北美土人的)神灵
+mosaics|马赛克( mosaic的复数形式 ); 镶嵌; 镶嵌工艺; 镶嵌图案
+mesosuchia|中鳄亚目
+maids|鼠艾滋病（the Mice AIDS）
+myoedema|[医] 肌水肿; 肌耸起
+murmuring|抱怨的声音；喃喃的声音
+mementos|纪念品, 令人回忆的东西( memento的名词复数 )
+mensch|公正的人；受尊敬的人；高洁的人
+monolog|独白, 独脚戏, 独白场面, (非正式)(贬)滔滔不绝的话
+mesostethium|中胸腹板
+minutiose|关心小事的,注意琐碎细节的
+makua|(pl.Makua, Makuas)马库阿人(莫桑比克北部和附近的坦噶尼喀人)
+metaphyte|[植]后生植物 , 多细胞植物
+multilocular|[生]多室的( 指具有许多小室或囊泡的)
+multivalve|多瓣的
+medellin|麦德林(哥伦比亚城市)
+monothetic|单生的, 单一生成的
+meshuga|发疯似的, 失常的
+maxillary|颌的, 上颌骨的
+medusa|水母
+metazoans|后生动物的；多细胞动物的
+merman|男性人鱼, 善泳的男子
+matriline|母系
+muskwood|[植]麝香树
+motionlessly|不动地（motionless的副词）
+mesodermal|[医] 中胚层的
+mullocker|废石装运工
+myotrophy|[医] 肌营养
+manipulated|熟练控制[操作]( manipulate的过去式和过去分词 ); （暗中）控制, 操纵, 影响; 正骨; 治疗脱臼
+megaseism|剧震
+martaban|马达班[缅甸]
+monostable|单稳态的
+megarian|& n.[哲]麦加拉学派的(成员)(麦加拉学派是古希腊小苏格拉底派之一)
+mastabah|石室坟墓
+misbound|(书籍)装订失当的,装订错误的
+maskalonge|[鱼]北美狗鱼
+meristem|分生组织
+marshaling|把货车等编级的
+microfloral|微生物区系, 微生物群落
+muckier|粪肥的, 肮脏的( mucky的比较级 )
+moored|系泊的；停泊的
+micrococcus|微球菌
+modifiable|可修正的, 可变更的, 可修饰的, 可缓和的
+mether|(旧时爱尔兰用的)木制方酒器
+micrurgical|[医] 显微操作的
+miche|偷窃
+micrurus|[网络] 珊瑚蛇属；二名法；意大利品牌
+murex|骨螺
+muscicolous|[植]苔上生的,苔间生的
+mythopoeic|创作神话的, 神话时代的
+moly|有白花和黑根的魔草
+metrocele|[医] 子宫疝
+murillo|[人名] 穆里洛; [地名] [玻利维亚、哥伦比亚] 穆里约; [地名] [加拿大] 缪里洛
+millimol|[医] 毫克分子, 毫模
+mammiferous|有乳房的
+marinaded|腌泡（marinade的过去式与过去分词形式）
+mentimeter|[医] 智力测验器
+merogenetic|[医] 卵裂的
+midbody|中间体
+matlow|水手
+melinae|[动]獾亚科
+mungo|短弹毛
+moneychanger|货币兑换商, 货币兑换机
+micrograms|(microgram 的复数) n. 微观图
+mescaline|墨斯卡林
+musette|(法国的)小风笛, 缪赛特曲
+mogs|(mog 的第三人称 -s形式) vi. 沉重缓慢地走
+matroid|矩阵胚, 拟阵
+moronity|低能, 鲁钝
+meromorphic|[数]亚纯的
+marvy|int. <美俚>妙极了,好极了
+microcytic|小红细胞
+mazer|(金属或木制)大杯, 大盏
+mismating|错误接合, 错配合
+monont|[医] 裂殖体
+mesohippus|中马属
+makimono|<日>n.书画卷轴
+metonymous|[网络] 换喻的
+malts|麦芽（malt的复数形式）
+mesosoma|[医] 中等身材
+mingles|混合, 混入( mingle的第三人称单数 ); 混进, 与…交往[联系]
+machinable|可机加工的
+menuridae|琴鸟科
+milktoast|胆小者, 意志薄弱的人
+mikania|[网络] 假泽兰属；蔓泽兰属；二名法
+maskanonge|[鱼]北美狗鱼
+mycetogenous|霉菌所致的; 霉菌原的
+melanitic|melanite的变形
+myelopathic|[医] 脊髓病的; 骨髓病的
+missives|信件( missive的复数形式 )
+multivoltine|(尤指昆虫)多化的,多抱的
+mailer|邮寄者, 邮船, 包装邮件的东西
+monstrance|圣体匣
+myalgia|肌痛
+monactin|单活菌素
+microsporon|[医] 小孢子菌属
+myopathy|肌病
+morph|[计] 形态, 词态
+muds|泥, 泥淖（mud的复数形式）
+mujik|(=muzhik)农夫
+melalgia|肢神经痛
+macassar|望加锡头(发)油
+misusage|误用, 滥用, 虐待
+mightily|强烈地, 非常地
+molles|[地名] [法国] 莫勒; [地名] [秘鲁、乌拉圭] 莫耶斯
+magnifier|放大镜, 放大器
+mischosen|,vi. mischoose的变形
+mineralizer|矿化剂
+mesdames|<法>（用于已婚妇女姓名前的尊称）太太, 夫人, 女士( madame的名词复数 )
+meconology|[医] 鸦片学
+mediaevalism|中世纪精神[特征, 信仰, 风俗]
+moratorium|延期偿付, 暂停
+misgauge|[网络] 误报
+machinelike|机器般的
+midyear|年中, 学年中期
+mobilization|动员, 调动, 活动法
+maguey|龙舌兰, 龙舌兰纤维
+mainspring|主发条, 主要动机, 主要原因, 主要动力
+metadiorite|变闪长岩
+mislabeled|贴错标签
+montia|小鸡草属
+motorcades|一长列汽车, （汽）车队( motorcade的复数形式 )
+monadina|[医] 纤毛滴虫属
+mongst|在…之中
+markstone|标石
+mitral|二尖瓣的, 僧帽状的
+membraniform|膜样的
+morpion|阴虱
+melania|[医] 川蜷螺属
+millpond|用水池, 水车用贮水池
+motorable|<主英>(道路或地区)可行驶汽车的
+mazhabi|马扎比(由伊斯兰教改信锡克教者,主要在印度旁遮普邦)
+mazopathia|[医] 胎盘病, 乳房病
+maros|(Maros)人名；(匈)毛罗什
+micks|[人名] 米克斯
+malaxerman|拌料工
+minces|切碎( mince的第三人称单数 ); 剁碎; 绞碎; 用绞肉机绞（食物, 尤指肉）
+metonymical|换喻的, 转喻的
+millieme|米利姆(埃及和苏丹辅币名,1000米利姆 = 1 pound)
+measliest|患麻疹的；极少的；低贱的 (measly的变形)
+masthelcosis|(=mastelcosis) 乳房溃疡
+myzostome|吸口虫
+misclassify|对…进行错误的分类
+mangiest|mangey的变形；mangy的变形
+monomaniacal|狂热的, 偏执狂的
+mammilliform|乳头状的
+microsegment|[语]小音段
+manikin|侏儒, 人体模特, 时装模特
+mea|维修工程分析（Maintenance Engineering Analysis）；β-巯基乙胺（β-Mercaptoethylamine）；沿航线最低高度（Minimum Enroute Altitude）
+motorman|电车司机
+malus|[天]船樯星座, 罗盘星座
+magnifying|[医] 放大的
+metapolitics|[复]n.[用作单]抽象政治学,理论政治学, <贬> 空头政治学
+muscleman|打手
+maslin|[英](小麦和黑麦等的)混合粉, 混合粉面包, 谷类和豆类间种的庄稼, 混合物
+muzhik|农人, 农夫
+misanthrope|厌恶人类的人, 不愿与人来往者
+misdealt|misdeal的过去式和过去分词
+machineman|印刷工人, 钻石工人
+mourning|哀痛, 居丧, 举哀, 哀悼, 丧服, 戴孝
+magnanimity|宽宏大量
+morrow|次日
+multiplet|[物]多重谱线, 多重态
+macroblast|巨成红细胞, 幼巨红细胞
+milliampere|毫安
+maray|[人名] 马雷
+musculus|[医] 肌
+melteigite|[地质]霞霓纳辉岩
+monoclinic|[晶体] 单斜的；[晶体] 单斜晶体的
+micrococci|微球菌, 球状细菌( micrococcus的名词复数 ); [医]〔单micrococcus〕微球菌
+mepacrine|<英>[药]麦帕克林,阿的平(抗疟药)
+milliammeter|毫安计, 毫安表
+misgovernor|治国不善者, 行虐政的人
+morada|[网络] 莫拉德干红葡萄酒；莫瑞达；紫黑色
+mamelukes|(mameluke 的复数) n. 奴隶
+madreporic|[医] 石珊瑚状的
+misgiving|疑虑, 不安, 害怕, 担扰, 疑惧
+masklike|[医]假面具样的, 面具样的
+magyar|马札尔人, 乌戈尔语
+mizzen|后桅
+megafog|浓雾警报器
+minicars|(minicar 的复数) n. 微型小客车
+motherlands|祖国（motherland的复数形式）
+melanemia|[医] 黑血[症]
+millrace|水车用的水流, (磨坊)引水槽
+menshevist|<俄>n.孟什维克, 孟什维主义者
+moneymakers|(moneymaker 的复数) n. 很会赚钱的人
+merocrine|局泌的, 局部分泌腺的
+muscovites|俄国人；莫斯科居民
+monotreme|单孔目动物
+miotic|瞳孔缩小的
+marinades|腌泡（marinade的第三人称单数形式）
+mediofrontal|[医] 额中部的
+manta|女用披巾, 外套
+mousseline|真丝薄稠
+morphologies|形态论; [语] 词法（morphology的复数形式）; [生物][晶体] 形态学
+missionize|传教
+memorizing|记忆；熟记
+mampalon|[印尼]獭狸
+maeonian|[网络] 湄公河
+mainlanders|(mainlander 的复数) n. 本土人, 大陆人
+monologues|（戏剧）长篇独白( monologue的复数形式 ); 滔滔不绝的讲话; 独角戏
+montessori|蒙台梭利(Maria, 1870-1952意大利女医师及教育家)
+menilite|[地质]硅乳石
+minimite|共结花岗岩
+megadeaths|(megadeath 的复数) n. 一百万人之死亡
+myoelectric|[医] 肌电的
+malonylurea|[化]丙二酰脲, 巴比土酸
+moldable|[化] 可模压的; 适于模压的
+menosepsis|[医] 月经滞留中毒
+mistic|(=mistico)(地中海)小型大三角帆帆船
+morgen|摩根(荷兰、南非等的地积单位,合2.116英亩)
+maniac|发狂的, 癫狂的, 疯狂的
+mothered|母亲；大娘；女修道院院长
+mayo|[口]蛋黄酱（等于mayonnaise）
+meddler|爱管闲事的人, 干涉者
+murky|黝暗的, 阴沉的, 朦胧的
+madnesses|(madness 的复数) n. 疯狂, 愚蠢的行为
+matchmark|(为装配机器而在零件上所作的)装配标记
+mirish|[网络] 米里
+mounties|mounted policemen (especially Royal Canadian Mounted Police) 骑警（尤指加拿大皇家骑警）
+mazalgia|[医] 乳房痛
+multiped|多足动物
+magnetoscope|验磁器
+muhlenbergia|[网络] 乱子草属
+mortlake|<英>[地]弓形湖,牛轭湖
+maund|莫恩德(重量单位)
+methylation|[化] 甲基化作用(指加甲基作用和加甲醇使酒精变性的作用)
+myological|myology的变形
+mucilage|粘质物, 粘液, 胶水
+malleating|锻；压延；将…锤薄
+melting|熔化的, 温柔的, 令人感动的, 甜美的
+makefast|系船柱
+mordenite|发光沸石
+manwise|人一般地,像人一样地
+metropathy|[医] 子宫病
+mideast|中东的
+magot|(中国及日本的瓷器或象牙制品等的、装在瓶盖等上面作捏手的) 奇形偶像
+murkiest|阴暗的( murky的最高级 ); 昏暗的; （指水）脏的; 混浊的
+metazoal|[动]后生动物, 多细胞动物
+microgyne|小型雌蚁
+mammea|[网络] 黄果木属；格脉树属；满美果属
+mealybug|[昆]水蜡虫,粉蚧
+meu|[植]秃钱芹
+milesimo|米莱西莫(智利旧辅币名)
+mastigoneme|茸鞭茸毛
+mongrelizing|（种族主义者污蔑性用语）使血统混合, 使成杂种, 使成混合种( mongrelize的现在分词 )
+monophone|送受话器, 收发话器
+mozetta|(天主教会首脑披于法衣之外的)带兜帽短斗篷
+matricidal|杀母的
+manchette|(椅子的)靠手垫
+microtubular|微导管
+memoranda|备忘录, 节略, 便笺, 便函
+metagenetic|metagenesis的变形
+malakin|马拉锦
+mutilates|严重残害…的身体, 使残缺不全, 肢解( mutilate的第三人称单数 )
+monoamine|[化] 一元胺
+meditates|深思, 沉思, 冥想( meditate的第三人称单数 ); 内心策划, 考虑
+mansuetude|温顺, 柔和
+mullets|(mullet 的复数) n. 胭脂鱼
+mukhtar|(阿拉伯或土耳其经选举产生的) 镇长, 乡长
+moyo|[地名] [刚果共和国、刚果民主共和国、乌干达] 莫约
+myelic|[医] 脊髓的; 骨髓的
+mariology|圣母马利亚研究, 关于圣母马利亚的学说
+marigolds|金盏花（marigold的复数形式）
+mesoscutum|中胸盾片
+monoatomic|单原子的
+meroxene|黑云母类
+misspelled|拼写错( misspell的过去式和过去分词 )
+moran|莫兰（人名）
+millirems|(millirem 的复数) n.[核]毫雷姆(=1/1000雷姆,略作mrem)
+maggots|蛆虫（maggot的复数）
+mecon|罂粟
+mosul|摩苏尔[伊拉克北部城市]
+merism|[植]分生性
+motocar|汽车
+macaroni|通心面, 纨绔子弟
+momordica|[医] 苦瓜属
+mesmerise|对...施催眠术, 使目瞪口呆, 使入迷
+mechanists|(mechanist 的复数) n. 机械技师, 机械学者, 机械论者
+mawkish|淡而无味的, 令人作呕的, 感伤的
+moresco|&([复]-coes)n.=Morisco
+museology|博物馆学
+muriform|[植]壁砖状的
+molinist|莫林那主义；莫利那教 (Molinism的变形)
+mealiest|[南非英语]；[复数]-lies玉米, 玉蜀黍
+mobilisation|动员, 运用
+metaller|钣金工
+meekest|温顺的, 驯服的( meek的最高级 )
+murtherer|murther的变形
+megaptera|[网络] 座头鲸属；大翅鲸属；梅氏隐带丽鱼
+myenteric|[医] 肠肌层的
+mobilizer|[医]剥离器, 活动器
+mulattress|穆拉托女人
+ministration|牧师执职, 服侍, 援助
+mycohemia|[医] 霉菌血症
+mandalay|曼德勒(缅甸城市)
+muid|[网络] 缪；新浪无线设计中心；辨识器
+muhly|乱子草
+mamaguy|& n.<加勒比英语>哄,哄骗
+majored|主要的；重要的；主修的；较多的
+misspeaks|讲错，发错…的音，使讲得词不达意( misspeak的第三人称单数 )
+megalosaurus|斑龙
+multispeed|[计] 多速率
+margaric|珍珠的, 珍珠般的
+mahican|马希坎部落(美国印第安人的一个部落, 主要居于哈德逊河上游流域), 马希坎人的, 马尔代夫[亚洲], 马尔代夫人[语]
+mahala|玛哈拉（女子名）
+mosquitoey|蚊子多的
+masham|(英国)马沙姆杂交羊
+montant|(嵌板的)竖杆
+mealworm|大黄粉虫幼体
+muskhogean|(北美印第安语群中的)马斯科吉语组
+myeloblast|[生]成髓细胞,原(始) 粒细胞
+messengers|信使, 信差, 送信人( messenger的复数形式 )
+malcontented|不满的；不满现状的；反抗的
+metagenic|交替的
+modulus|标准, 系数, 模数
+marplot|好干扰他人的人, 捣乱者
+metaplasis|[动]成熟期, 完全发育期
+mercuride|汞化物
+myxobacteria|粘细菌
+misliking|厌恶( mislike的现在分词 )
+mitigates|减轻, 缓和( mitigate的第三人称单数 )
+mangifera|[网络] 芒果属；杧果属；芒果树
+microfilaria|[动]微丝蚴
+mudwort|水芒草属
+myrmecophaga|食蚁兽属
+mercaptol|[化]缩硫醇
+mermithogyne|索寄生雌蚁
+matronship|主妇的身分
+mouselike|胆小如鼠的；灰头灰脸的；老鼠的
+mohegan|莫希干人(居住在美国康涅狄格州的北美印第安人)；=Mahican
+monopolists|(monopolist 的复数) n. 垄断者, 专卖者, 垄断论者
+mahaleb|[植]马哈利酸樱桃(其核可制香水, 亦作mahaleb cherry)
+mitigatory|缓和的, 减轻的
+muttered|轻声低语, 咕哝地抱怨( mutter的过去式和过去分词 )
+mendy|曼迪（人名）
+maglemosean|马格尔莫斯文化的, 北欧中石器时期文化的
+mediosilicic|中硅质的; 中性的
+meiobar|低压区
+machiner|机床, 机器, 机械；机关, 机构
+mangoro|[地名] [马达加斯加] 曼古鲁河
+multicolored|多种色彩的, 五彩缤纷的
+micromeria|小薄荷属
+masterwort|[网络] 阿尔卑斯山冰花；无符合资料
+methodistic|循道宗教徒的
+monarchizer|像君主那样统治, 实行君主统治
+mitraille|[军]小铁霰弹
+misadvised|误导, 给错误的劝告
+melodizer|melodize的变形
+melton|麦尔登呢
+marque|商品型号
+matchet|弯刀
+microcosmic|小宇宙的, 小世界的, 微观的
+micrograph|显微图
+myxedema|粘液水肿
+madrigaler|抒情短诗；情歌；(无伴奏的)重唱歌曲
+mitosome|纺锤剩体
+macaca|[医] 猕猴属
+mandrel|心轴
+millibarn|毫靶恩
+mecometer|婴儿长度计
+moormen|(Moorman 的复数) n.摩尔人,穆斯林,伊斯兰教徒
+myosin|肌浆球蛋白, 肌凝蛋白
+muthmannite|[矿]板碲金银矿
+moolvee|回教的法学者;学者;老师
+megass|甘蔗渣
+monomark|代号, 标记
+maisonettes|公寓；小房屋
+mentholated|含薄荷醇的
+moonwalker|月面行走者
+moskeneer|<英>以超出典品价格典当,超价典当
+maturating|成熟( maturate的现在分词 )
+mischoosing|选择错误
+maidan|<印> 练兵场, 操场
+maltobiose|[化]=maltose
+metacentric|具中间着丝粒的
+mischances|厄运, 不幸( mischance的复数形式 ); 倒霉事
+makeless|无配偶的；无配对物的
+mucorales|[医] 毛霉菌目
+matutinal|早晨的, 黎明的, 早的
+morphic|形态学(上), 语形学的
+menispermum|[网络] 蝙蝠葛属
+migrator|候鸟, 移居者
+minoan|克里特文化的
+marmalade|(橘子等制成的)果酱
+meany|小气鬼, 卑鄙家伙
+mastectomy|乳房切除术
+maggoty|狂想的, 多蛆的
+mustards|(mustard 的复数) n. 芥末, 芥菜, 强烈的兴趣
+manipulable|可以操作的, 可操纵自如的
+mazopexy|乳房固定术
+musings|沉思；冥思；冥想（musing的复数形式）
+metaphysis|[解]干骨后端
+mycetomas|足分支菌病( mycetoma的名词复数 )
+melees|<主文> 混战( melee的复数形式 ); 乱战; 混乱; 混乱的人群
+macronuclear|macronucleus的变形
+matchbox|火柴盒
+mneme|[心][生理]记忆力, 记忆基质
+manes|灵魂；阴间的诸神
+mobbing|聚扰
+maloperation|[计] 不正确操作
+mortared|砂浆砌合的；砂浆涂抹的；黏合的
+malt|麦芽
+machicolated|开堞眼（枪眼）( machicolate的过去式和过去分词 )

@@ -1,0 +1,3391 @@
+tree|树
+teacher|老师
+tea|茶
+time|时间
+today|今天
+tomorrow|明天
+two|二
+three|三
+ten|十
+thousand|千
+thank|谢谢
+table|桌子
+train|火车
+television|电视
+tablet|平板电脑
+technology|技术
+tired|累的
+thirsty|渴的
+true|真实的
+try|尝试
+teach|教
+test|测试
+travel|旅行
+trip|旅行
+talent|天赋
+temperature|温度
+theory|理论
+trash|垃圾
+towel|毛巾
+toothbrush|牙刷
+toothpaste|牙膏
+treatment|治疗
+therapy|疗法
+transportation|交通
+traffic|交通
+tunnel|隧道
+ticket|票
+textbook|教科书
+tuition|学费
+take|拿
+talk|谈话
+tear|撕裂
+telephone|打电话
+tell|告诉
+tempt|诱惑
+threaten|威胁
+throw|扔
+touch|触摸
+translate|翻译
+treat|对待
+trust|信任
+turn|转动
+type|打字
+tall|高的
+temporary|暂时的
+tense|紧张的
+terrible|可怕的
+terrific|极好的
+thankful|感激的
+theoretical|理论的
+thick|厚的
+thin|薄的
+third|第三的
+thorough|彻底的
+thoughtful|体贴的
+tight|紧的
+tiny|微小的
+tough|艰难的
+toxic|有毒的
+traditional|传统的
+transparent|透明的
+tremendous|巨大的
+trivial|微不足道的
+tropical|热带的
+troubled|麻烦的
+typical|典型的
+translator|翻译
+tomato|番茄
+tiger|老虎
+turtle|乌龟
+temple|寺庙
+theater|剧院
+taxi|出租车
+truck|卡车
+tie|领带
+trousers|裤子
+teeth|牙齿
+tongue|舌头
+thought|思想
+truth|真理
+tabulate|制表
+tackle|处理
+taint|污染
+tame|驯服
+tangle|缠结
+tap|轻敲
+taste|品尝
+tease|取笑
+terminate|终止
+terrify|使恐惧
+thaw|解冻
+theft|盗窃
+theorise|理论化
+thicken|变厚
+think|思考
+thrive|繁荣
+thrust|推
+thump|重击
+tick|滴答
+tidy|整理
+tighten|收紧
+tilt|倾斜
+tinge|染色
+tinkle|叮当作响
+tire|使疲劳
+toss|抛
+toughen|使坚韧
+tour|旅游
+trace|追踪
+track|跟踪
+trade|交易
+transfer|转移
+transform|转变
+transmit|传输
+transport|运输
+trap|陷阱
+tread|踩
+tremble|颤抖
+trick|欺骗
+trigger|触发
+trim|修剪
+triple|三倍
+triumph|胜利
+trouble|麻烦
+trout|鳟鱼
+trudge|跋涉
+tuck|塞进
+tumble|翻滚
+tune|调音
+turf|草皮
+twist|扭曲
+titanium|元素周期表的第22个，鈦，缩写Ti
+technetium|元素周期表的第43个，鍀，缩写Tc
+tin|元素周期表的第50个，錫，缩写Sn
+tellurium|元素周期表的第52个，碲，缩写Te
+terbium|元素周期表的第65个，鋱，缩写Tb
+thulium|元素周期表的第69个，銩，缩写Tm
+tantalum|元素周期表的第73个，鉭，缩写Ta
+tungsten|元素周期表的第74个，鎢，缩写W
+thallium|元素周期表的第81个，鉈，缩写Tl
+thorium|元素周期表的第90个，釷，缩写Th
+tennessine|元素周期表的第117个，鿬，缩写Ts
+thoughtfully|深思熟虑地
+truly|真正地
+talkatively|健谈地
+teachable|可教的
+teachably|可教地
+thankfully|感谢地
+traveledly|旅行地
+talkative|健谈的
+teaching|教学
+thanks|感谢
+traveled|旅行过的
+theoretically|理论上地
+theorize|理论化
+tradeable|可贸易的
+tradeably|可贸易地
+technological|技术的
+technologically|技术上地
+technologize|技术化
+treatable|可治疗的
+treatably|可治疗地
+therapize|治疗
+therapeutic|治疗的
+therapeutically|治疗地
+theatrical|戏剧的
+theatrically|戏剧地
+theatricalize|戏剧化
+traditionally|传统地
+traditionalize|使传统化
+tradition|传统
+transcribe|转录
+transcription|转录
+transcriptive|转录的
+transcriptively|转录地
+translation|翻译
+translational|翻译的
+translationally|翻译地
+tropics|热带
+tropically|热带地
+temperate|温带的
+temperateness|温带性
+temperately|温带地
+terrestrial|陆生的
+terrestrials|陆生生物
+terrestrially|陆生地
+threatened|受威胁的
+threats|威胁
+threatenedly|受威胁地
+trophic|营养的
+trophics|营养级
+trophically|营养地
+turkey|土耳其
+turkeys|土耳其
+turkish|土耳其的
+turkishly|土耳其地
+thailand|泰国
+thailands|泰国
+thai|泰国的
+thailily|泰国地
+tanzania|坦桑尼亚
+tanzanias|坦桑尼亚
+tanzanian|坦桑尼亚的
+tanzanianly|坦桑尼亚地
+tunisia|突尼斯
+tunisias|突尼斯
+tunisian|突尼斯的
+tunisianly|突尼斯地
+tonga|汤加
+tongas|汤加
+tongan|汤加的
+tonganly|汤加地
+tahiti|塔希提
+tahitis|塔希提
+tahitian|塔希提的
+tahitianly|塔希提地
+tokyo|东京
+tokyos|东京
+tokyoly|东京地
+thimphu|廷布
+thimphus|廷布
+thimphuly|廷布地
+tehran|德黑兰
+tehrans|德黑兰
+tehranly|德黑兰地
+tel|特拉
+tels|特拉
+telly|特拉地
+town|敦
+towns|敦
+townly|敦地
+tunis|突尼斯
+tripoli|的黎波里
+tripolis|的黎波里
+tripolitan|的黎波里的
+tripolitanly|的黎波里地
+toronto|多伦多
+torontos|多伦多
+torontoly|多伦多地
+tax|税
+teamwork|团队合作
+trend|趋势
+task|任务
+transparency|透明度
+trademark|商标
+testimony|证词
+termination|终止
+temperament|气质
+trauma|创伤
+tolerance|宽容
+technique|技巧
+texture|纹理
+tempo|速度
+theme|主题
+team|团队
+training|训练
+tournament|锦标赛
+trophy|奖杯
+tactics|战术
+tennis|网球
+testing|测试
+tracking|追踪
+threat|威胁
+title|头衔
+territory|领土
+target|目标
+thrill|刺激
+trainer|培训师
+taxpayer|纳税人
+tornado|龙卷风
+tsunami|海啸
+textile|纺织品
+tape|胶带
+thread|线
+tourist|游客
+tug|猛拉
+tooth|牙齿
+thinking|思考
+tasty|好吃的
+terminal|终点站
+trail|小径
+toll|收费站
+tar|焦油
+toner|碳粉
+trunk|箱子
+tension|紧张
+tendency|倾向
+terror|恐怖
+therefore|因此
+thesis|论文
+threshold|门槛
+tide|潮汐
+tissue|组织
+tobacco|烟草
+tolerant|宽容的
+tone|音调
+topic|主题
+torch|火炬
+torture|折磨
+tragedy|悲剧
+trait|特征
+transaction|交易
+transition|过渡
+treasure|宝藏
+trial|审判
+tribe|部落
+tribute|贡品
+troop|部队
+tube|管
+turbine|涡轮机
+term|学期
+taken|拿
+taking|拿
+teenagers|青少年
+teens|十几岁
+takes|拿
+them|他们
+top|顶部
+things|事物
+toward|向
+there|在那里
+that|那
+this|这
+teachers|教师
+through|通过
+they|他们
+than|/比
+the|这
+turned|转动
+twice|两次
+these|这些
+technologies|技术
+their|他们的
+themselves|他们自己
+terms|条款
+types|类型
+together|一起
+tests|测验
+thus|因此
+though|虽然
+took|拿取
+trying|令人厌烦的
+too|太
+then|然后
+total|总的
+told|告诉
+thing|东西
+towards|向
+talking|谈话
+tasks|任务
+to|向
+teams|队
+text|文本
+tourists|旅游者
+those|那些
+times|时期
+tend|倾向于
+tank|水箱
+tempting|吸引人的
+trade-off|权衡
+temptation|诱惑
+turbulent|动荡的
+transcend|超越
+testify|作证
+tedious|冗长的
+tangled|纠缠的
+tasteless|没有味道的
+tutor|辅导
+throne|王位
+thrilling|令人兴奋的
+turbulence|气流
+torque|转（力）矩
+tensile|张力的
+therein|在那里
+tulip|郁金香
+torpedo|鱼雷
+tanker|油船
+transmission|传播
+token|辅币
+taper|细小的蜡烛
+theatre|剧场
+trifle|玩忽
+tile|瓷砖
+torment|痛苦 v. 折磨
+thrash|痛打
+thereof|它的
+treasurer|司库
+terminology|术语学
+trolley|手推车
+tiresome|使人厌倦的
+trench|深沟
+tradesman|商人
+trader|商人
+triangular|三角的
+thermal|热的
+tropic|回归线
+thoughtless|欠考虑的
+tack|平头钉 v. 钉住
+terrace|平台
+tranquil|平静的
+tickle|挠
+twilight|黄昏
+troublesome|困难的
+terrorist|恐怖分子
+tightly|紧地
+tuna|金枪鱼
+tuberculosis|结核病
+thrifty|节俭的
+timely|及时的
+tact|机敏
+traverse|横越
+transverse|横的
+thigh|股
+tower|高耸
+thanksgiving|感恩节
+theorem|定理
+telex|电传
+triumphant|得胜的
+thresh|打谷
+thereafter|此后
+toad|蟾蜍
+tragic|悲惨的
+tyranny|暴政
+tyrant|暴君
+tramp|以沉重的脚步走（过） n. 跋涉
+trample|践踏
+transplant|移植（器官、皮肤等）
+trot|（马）小跑 n. （马）小跑
+tow|拖引
+temper|韧度
+timid|羞怯的
+tub|桶
+tariff|关税
+tenant|房客
+telecommunications|通信
+transit|运输
+tract|传单
+terrain|地形
+tentative|试探的
+transistor|晶体管
+transient|短暂的
+thorn|刺
+turnover|营业额
+tan|vi. 晒成棕褐色 vt. 使晒成棕褐色
+treaty|条约
+technical|技术(性)的
+thermometer|温度计
+timber|木材
+tomb|坟
+trumpet|喇叭
+tractor|拖拉机
+tactic|(s)策略
+technician|技术员
+teenager|十几岁的青少年
+tip|给小费
+tolerate|忍受
+throat|喉咙
+thirty|三十年代 num. 三十 adj. 三十个的
+thumb|翻阅
+typewriter|打字机
+tv|abbr. 电视（television）
+tailor|剪裁
+till|[地理][水文] 冰碛
+ton|吨
+thrift|节俭
+tuesday|星期二
+toast|干杯
+treason|[法] 叛国罪
+twin|使成对 n. 双胞胎中一人 adj. 双胞胎的
+thirteen|十三
+torrent|奔流
+triangle|三角（形）
+tag|标签
+typhoon|[气象] 台风
+tonight|在今晚 n. 今晚
+telegram|电报 vt. 用电报发送 vi. 发电报
+typist|打字员
+tender|温柔的
+thief|小偷
+telegraph|[通信] 电报机
+twinkle|闪烁
+thunder|雷
+tale|故事
+traitor|叛徒
+tram|电车轨道
+tray|托盘
+thursday|星期四
+toe|脚趾
+toy|玩具
+tumour|[肿瘤] 瘤
+thirst|渴
+tent|帐篷
+toil|艰难地进行
+turmoil|混乱
+thereby|因此
+telescope|望远镜
+tumor|肿瘤
+taboo|禁忌
+trolly|手推车
+twentieth|第二十
+throughout|遍及
+timberline|树带界线
+twenty|二十
+tail|尾巴 v. 跟踪
+transformation|变化
+texas|德克萨斯州(美国州名)
+tennessee|田纳西州
+turnpike|收费公路
+twig|嫩枝
+tribal|部落的
+tiredness|疲劳
+topi|遮阳帽
+tectonic|构造的
+telecommuting|远程联机
+trillion|万亿
+tasmania|塔斯马尼亚岛
+twelve|十二
+totally|完全地
+toddler|初学走路的孩子
+territorial|领土的
+thickness|厚度
+termite|白蚁
+tentacle|(动物)触角
+tundra|苔原
+thoroughly|十分地
+transitional|变迁的
+theorist|理论家
+tethys|古地中海
+tidal|潮汐的
+tannin|[化]丹宁酸
+tourism|旅游业
+timescale|时标
+tutelage|监护
+trance|恍惚
+telecommunication|电信
+tine|(尖)齿
+taxes|赋税
+toolmaker|精密工具制造者
+timer|计时员
+tenement|公寓
+thunderstorm|雷暴雨
+typify|代表
+tapestry|挂毯
+translucent|半透明的
+topsoil|表层土
+treeless|没有树木的
+twain|两
+tertiary|第三的
+tally|记分  vi符合
+trilobite|[古生]三叶虫
+temporal|现世的
+tenth|第十
+talbot|[动]塔尔博特提猎狗
+tricycle|三轮车
+temporarily|临时
+tavern|酒馆
+tenfold|十倍的 ad成十倍
+tang|有浓味 n特殊气味
+tapeworm|[动]绦虫
+tributary|支流(的)
+televise|广播
+tempera|蛋彩画
+tentatively|试验性地
+theropod|兽性的
+tenon|[木工]榫 vt. 接榫
+treasury|财政部
+torrid|晒热的
+toolmaking|工具(或刀具)制造
+textural|组织的
+tusk|长牙 v. 以牙刺戳
+thriller|使人毛骨悚然的东西
+transmitter|转送者
+triassic|[地]三叠纪的 n. 三叠纪
+thinly|稀疏地
+talented|有才能的
+thousandfold|千倍地 adj. 千倍的
+thresher|打谷者
+topographical|地志的
+tonal|音调的
+taproot|[植]主根
+taut|(绳子)拉紧的
+tourniquet|止血带
+teem|大量出现
+tremendously|非常地
+telescopic|望远镜的
+thinker|思想者
+tressed|有一绺绺长发的
+tollgate|征收通行税的关卡
+teacup|茶杯
+thwart|阻挠
+tambourine|小手鼓
+turkic|土耳其语(的)
+tribespeople|[复]n. 部落(或宗族等)成员
+topography|地形学
+turnip|[植]芜箐(甘蓝)
+tenet|原则
+tantamount|同等的
+taro|芋头
+tepee|美国印第安人的圆锥形帐篷
+totality|全部
+toehold|（攀岩时的）立足点
+tieback|牵索
+tiffany|纱的一种
+tedium|厌烦
+townspeople|市民
+thimble|顶针
+totemism|对图腾的信仰
+tendon|[解]腱
+telltale|泄密的
+tether|范围
+trickle|滴流
+therapist|临床医学家
+terylene|涤纶
+turmeric|[植]姜黄
+teller|讲话的人
+threadlike|线状的
+theological|神学(上)的
+televisual|电视的
+tint|色彩
+thunderous|打雷的
+trapper|捕兽者
+trestle|架柱
+trespasser|侵入者
+tapir|[动]貘
+trainload|装载量
+troupe|剧团
+tern|三个一组
+tadpole|[动]蝌蚪
+trespass|侵犯
+telecommuter|远程工作者
+tardiness|缓慢
+transpose|调换
+topical|有关时事的
+terrifyingly|恐怖地
+torpor|麻木
+trumpeter|喇叭手
+tenuous|纤细的
+trove|被发现的东西
+tableland|高原
+treetop|树稍
+twine|合股线 v织
+torrential|猛烈的
+tranquillity|宁静
+teapot|茶壶
+tinplate|镀锡铁皮
+timidity|胆怯
+thorny|多刺的
+thames|泰晤士河(流经牛津
+tessellation|棋盘形嵌石饰
+ted|翻晒 n. 泰德
+tele|电视
+tycoon|企业界大亨
+tingle|造成麻刺的感觉
+traction|牵引
+thousandth|第一千的
+topographically|地形地
+tyrannical|暴虐的
+trilogy|三部剧
+taxonomy|分类法
+tonnage|登记吨位
+tavernkeeper|小餐馆老板
+thermodynamic|热力学的
+twinkling|闪光的 n. 瞬间
+tinker|做焊锅匠
+tangent|切线的
+turnout|出席人数
+toed|有趾的
+transact|交易
+tortuous|折磨人的
+tout|吹捧
+terminus|终点站
+troposphere|对流层
+toady|谄媚
+tantalizing|诱人的
+trek|艰苦跋涉
+treadmill|踏车
+tactile|触觉的
+tangible|可触摸的
+tectonics|构造地质学
+trivialize|使显得琐碎
+terrorism|恐怖主义
+tolerable|可忍受的
+tremulous|发抖的
+transcendent|卓越的
+tarnish|失去光泽
+towering|高耸的
+template|模板
+throng|群集
+t|[计] 表, 终端, 测试, 磁道, 树, 真, 太, 万亿
+tools|工具, 工具菜单；工具箱（tool的复数形式）
+teen|愤怒, 悲哀
+tickets|票；罚单（ticket的复数）
+topics|总联机程序和信息控制系统（Total On-line Program and Information Control System）
+tips|秘诀, 技巧；小贴士, 小窍门
+tech|技术学院或学校
+toys|玩具（toy的复数）
+thomas|多马(耶稣十二门徒之一)
+tool|工具, 机床, 傀儡
+tue|星期二（Tuesday）
+thu|星期四（Thursday）
+tx|[计] 终端执行程序
+trademarks|（注册）商标( trademark的复数形式 ); （人的行为或衣着的）特征, 标记
+tom|雄性动物, 雄猫
+th|[医] 钍(90号元素)
+titles|标题；字幕；主题（title复数形式）
+trading|[经] 交易
+techniques|方法；技巧；技术（technique的复数）
+thousands|数千（thousand的复数）
+thoughts|思想；思维；想法（thought的复数）
+tours|图尔斯（姓氏）；图尔市（法国城市名）
+tags|标签；（机动车）牌照；称呼（tag的复数）
+tits|以牙还牙( tit的复数形式 ); <古>小马; 山雀; 奶头
+tables|桌子；附录；表格（table的复数）
+tried|试验过的, 可靠的
+trees|树木；乔木；树状结构（tree的复数）
+taylor|泰勒
+trackback|引用；引用通知
+tim|蒂姆（男子名）
+trends|动态, 趋势
+tn|[计] 终端节点, 传送网络
+tony|高贵的, 时髦的
+tracks|轮胎；磁道；轨道（track的复数）
+transactions|处理, 会报；汇报（transaction复数）
+tm|商标
+treated|对待；招待；治疗（treat的过去分词）
+tested|经过试验的, 经受过考验的, 经验定的, 检验无病的
+threads|线；相关串连；线程（thread的复数）
+taiwan|台湾
+themes|主题（theme的复数）；布景主题；桌面主题
+textbooks|教科书, 课本( textbook的复数形式 )
+templates|模板；属性单元；范本（template的复数）
+tab|制表(键), 搭襻, 标号, 调整片, (易拉罐)拉环, 帐单, 标签, 制表符
+toshiba|东芝（公司名, 财富500强公司之一, 总部所在地日本, 主要经营电子电气）
+typically|代表性地；作为特色地
+trailer|追踪者, 拖车
+tampa|坦帕市（美国佛罗里达州西部港市）
+tutorial|个别指导, 论文, 学习指南, 指导手册
+tutorials|导师的个别指导( tutorial的复数形式 ); 教程; 辅导材料; 使用说明书
+trips|与贸易有关的知识产权（Agreement On Trade-related Aspects of Intellectual Property Right）
+turns|转弯；匝数；圈数（turn的复数形式）；手动车床
+thongs|丁字裤；平底人字拖鞋（thong的复数形式）
+taught|teach的过去式和过去分词
+toyota|日本丰田汽车（公司名）
+turning|旋转, 转弯处, 车削工作
+tr|[计] 磁带记录器, 磁道, 磁带驻留, 故障报告
+tells|告诉；说（tell的第三人称单数）
+talks|会谈
+testimonials|推荐书( testimonial的复数形式 ); 证明书; 鉴定书; 表扬信
+trials|尝试, 努力；考验；审判；顿顽（trial的复数）
+thompson|汤普森（姓）
+te|[医] 碲(52号元素); 破伤风
+tion|象征式互动；支票电托收
+targets|目标；枪靶；投放范围（target的复数）
+trusted|可信的；受信任的
+thumbnail|大拇指指甲, 极小之物
+trans|[电] transimitter的简写
+telling|有效的, 显著的, 显露内心活动的
+traveler|旅行者, 游客, 旅客, 旅行推销员, 活动起重架, 行车, 临时记帐单
+trailers|篇身片；追踪者；拖车（trailer的复数形式）
+terry|毛圈, 毛圈织物
+tabs|跳格设定, 制表符
+troops|军队, 装甲部队, 骑兵队, 部队
+trucks|卡车（truck的复数）
+telecom|telecommunication 电信
+tranny|半导体收音机；晶体管收音机
+trained|训练过的, 受过培训的；培训
+td|（美）财政部（Treasury Department）；任务说明书（Task Description）；反坦克自行火炮（Tank Destroyer）
+tones|声调；基本音色（tone的复数）
+ta|interj. 谢谢
+tvs|瞬变电压抑制二极管（Transient Voltage Suppressors）；电视观察系统（Television Viewing Systems）
+teenage|十三岁到十九岁的
+toolbar|[计] 工具栏
+titans|[希神]泰坦巨神；（美）大力神Ⅱ型洲际导弹（Titan的复数）
+treatments|处理( treatment的复数形式 ); 对待; 治疗; 疗法
+texts|课文, 文字（text复数形式）
+tit|山雀, 打击, 轻佻女人, 奶头, 按钮
+temp|[口]临时雇员
+tramadol|[化] 曲马朵; 反胺苯环醇
+tracked|有履带的
+tops|第一流的, 最上等的
+ts|[计] 正文段
+thou|汝, 你, 尔
+tt|电汇
+tee|T字形, T字形之物, 发球区, 球座, 目标
+township|小镇, 镇区
+tcp|[计] 终端控制程序, 测试检验程序, 传输控制协议
+transfers|迁移；传输（tansfer的复数）
+timing|时间选择, 时间测定, 定时, 调速
+tales|候补陪审员召集令
+tu|工会, 训练单位
+thumbs|拇指( thumb的名词复数 ); （手套的）拇指部份
+targeted|[医]定向的
+tons|吨；大量；许多（ton的复数形式）
+tracker|追踪者, 跟踪雷达, 拉纤者
+transferred|呼叫转移；已转运
+tc|[计] 任务控制, 终端控制, 传输控制
+tagged|标记的；示踪的；加标记的
+ties|结
+territories|领土( territory的名词复数 ); （某人负责的）地区; （个人、群体、动物等占据的）领域; 地盘
+thru|穿越, 从头至尾
+totals|总量；总计（total的复数）
+turner|车工, 体育协会会员
+ti|[计] 终端接口, 得州仪器公司, 变换实现
+todd|托德（姓氏, 英国化学家, 曾获1957年诺贝尔化学奖）
+turbo|涡轮增压器
+thinks|想( think的第三人称单数 ); 思索; 以为; 认为
+tricks|技巧, 诀窍；骗局（trick的复数形式）
+thy|你的
+tri|[计] 三
+transmitted|传输；传送（transmit的过去分词）
+tapes|录音带, 胶纸带；条带, 边带
+traveling|旅行的, 旅行用的, 移动的
+toilet|厕所, 梳妆
+tied|系（tie的过去式和过去分词）
+talked|讲话, 交谈 talk的过去式
+theaters|剧场( theater的复数形式 ); 戏剧界; 戏剧效果; [军]战区
+threaded|有线状图案装饰的
+trails|山径；游径；踪迹（trail的复数）
+tommy|配给面包, 实物工资制
+tears|眼泪；泪水（tear复数形式）
+thomson|汤姆森（①姓氏 ②Sir George Paget, 1892-1975, 英国物理学家, 曾获1937年诺贝尔物理学奖 ③Sir Joseph John, 1856-1940, 英国物理学家, 曾获1906年诺贝尔物理学奖）
+thumbnails|拇指甲, 极小的东西( thumbnail的复数形式 )
+temperatures|温度( temperature的复数形式 ); 气温; 高烧; 发烧
+tft|薄膜晶体管, 薄膜工艺（thin film transistor）
+theories|理论（theory的复数形式）
+tribune|护民官, 军团指挥官, 公民权利保护者, 讲坛
+taxation|课税, 征税, 抽税, 税款, 估定的税额
+transcript|抄本, 副本, 成绩单
+thee|你
+topless|无顶的, 袒胸的
+tanks|坦克；贮水池；大容器（tank的复数）
+twinks|(twink 的第三人称 -s形式) n. （游戏用语） 高等级带练低等级玩家, 通常通过给与该等级通常无法获得的强力盔甲和武器。
+techno|[计] 技术
+travelers|旅行者；旅客（traveler的复数形式）
+trains|火车；行列（train的复数形式）
+threesome|三人一组, 三人的竞赛
+tries|尝试, 试验（try的复数）
+tucson|图森（美国亚利桑那州南部城市）
+timothy|梯牧草
+translated|译本
+trivia|琐事
+tires|轮胎（tire的复数）
+tgp|三峡工程（Three Gorges Project）；白芍总苷（total glycosides of paeony）
+trinidad|特立尼达拉岛
+trades|交易；商业, 各种营业；贸易（trade的复数）
+trinity|三人一组, 三个一组的东西, 三位一体
+troy|金衡, 金衡制, 特洛伊城
+twins|双子座, 双子宫
+thong|装皮带, 用皮鞭打
+transexual|有异性转化欲的
+toolbox|工具箱
+traditions|传统( tradition的复数形式 ); 惯例
+throws|曲拐（throw的复数形式）
+tablets|药片( tablet的名词复数 ); （木、竹）简; 碑; 一块肥皂
+tuning|调音, 调谐, 协调
+tyler|泰勒（男子名）；秘密会所看守人（共济会的）
+towers|塔；塔器；空中跳台（tower的复数）
+trustees|受托人( trustee的复数形式 ); 信托公司; （公司、学院）理事; （慈善事业或其他机构的）受托人
+tubes|管子, 导管；管状虫；伦敦地铁（tube的复数）
+treo|[医][=tandem Romberg eyes open]罗姆伯格（氏）病的串联性眼开合
+tex|[化] 特; 特克斯
+tp|[计] 磁带, 终端打印机, 终端处理器, 终端协议, 测试程序, 事务处理
+testament|遗嘱, <<圣约书>>
+tournaments|锦标赛, 联赛( tournament的复数形式 ); 中世纪的骑士比武
+trio|三重唱
+terrorists|恐怖分子；恐吓者（terrorist的复数）
+thesaurus|专类辞典, 宝库, 知识宝库, 叙词表, 主题词表
+tier|排, 层, 等级
+tigers|老虎（tiger复数）
+tb|结核, 肺结核, 结核病, 结核杆菌
+treating|[机] 处理
+tribes|部落( tribe的复数形式 ); （动、植物的）族; （一）帮; 大群
+tattoo|归营号, 连续有节奏的敲击, 文身, 矮种马
+timeline|时间轴, 时间表
+telephony|电话学, 电话通信, 电话制造
+translations|译文；翻译（translation的复数形式）
+tba|电视广播台协会（Television Broadcasters Association）；应予宣布（to be announced）
+tunes|曲调, 曲子( tune的名词复数 )
+typing|打字, 键入
+tobago|多巴哥岛（南美洲特立尼达和多巴哥的第二大岛）
+troubleshooting|发现并修理故障, 解决纷争
+theology|神学
+twisted|扭曲的
+transsexual|换性者
+trainers|训练员；运动鞋；练习器（trainer的复数）
+trusts|信任( trust的名词复数 ); 信托; 照管; 受托基金机构
+travelling|旅行的, 旅行用的, 移动的
+tuner|调音师, 调音的人, 调节器
+thrown|throw的过去分词
+trustee|受托人, 理事
+tracy|特蕾西（女子名）
+tmp|[计] 终端监控程序
+traveller|旅行者
+tomatoes|蕃茄（tomato的复数形式）
+televisions|电视( television的复数形式 ); 电视机; 电视台; 电视系统
+thinkpad|ThinkPad 在2005年以前是IBMPC事业部旗下的便携式计算机品牌; 凭借坚固和可靠的特性在业界享有很高声誉。在Lenovo收购IBMPC事业部之后; ThinkPad商标为Lenovo所有。ThinkPad自问世以来一直保持着黑色的经典外观并对技术有着自己独到的见解; 如：TrackPoint（指点杆，俗称小红点）、ThinkLight键盘灯、全尺寸键盘和APS(Active Protection System,主动保护系统)。
+tions|(tion 的复数) n. 象征式互动；支票电托收
+til|芝麻
+touring|游览
+travels|旅途, (非正式)旅行笔记, 游记
+teddy|连衫衬裤；泰迪玩具熊
+teaches|教( teach的第三人称单数 ); 教书; 训练; 教育
+tribunal|法庭, 法官席, 裁决
+titled|有头衔的
+ty|总产量；总收率（total yield）
+tulsa|塔尔萨（美国俄克拉菏马州东北部城市）
+tahoe|美国塔霍湖
+tf|[化] 转移因子
+travis|崔维斯合唱团；特拉维斯（男子名）
+textiles|纺织品；纺织面料；纺织业；纺织品类（textile的复数）
+treasures|金银财宝( treasure的名词复数 ); 宝藏; 珍宝; 不可多得的人才
+transcripts|抄本（ transcript的复数形式 ）; 转写本; 文字本; 副本
+tiles|瓷砖（tile的复数形式）
+tamil|泰米尔人, 泰米尔语
+toolkit|[计] 工具包
+throwing|投掷
+threatening|胁迫的, 危险的
+terminals|终端；终端机；接线端子；终止节点（terminal的复数）
+touched|精神不太正常的, 受感动的
+theta|希腊字母的第八字
+trimestral|每三个月一次的, 每季的
+trochantine|基转节
+telexing|用直通电报拍发（telex的现在分词形式）
+tanghan|(西藏产的)健壮小马
+thrum|回丝, 花丝, 线头, 纱头, 乱弹
+traceried|(tracery 的过去时) n. 窗花格, 装饰线条
+thrummed|指弹( thrum的过去式和过去分词 ); 敲打; 乱弹; 轻敲
+temin|(Temin)人名；(法)特曼；(英)特明
+thiophenol|[化]苯硫酚
+truxillin|组丝古柯碱
+trypsinize|[生化]使胰蛋白酶化,使受胰蛋白酶作用
+thermoscope|验温器, 测温锥
+tasteful|有鉴赏力的, 趣味高雅的, 雅观的
+tozer|[人名] [英格兰人姓氏] 托泽职业名称，梳理羊毛者，来源于中世纪英语，含义是“梳理”(to tease)
+trice|吊起, 扯起并用绳缚住
+tammany|坦慕尼派
+tessella|特塞拉,小块镶嵌大理石(或玻璃),镶嵌地砖
+thiazole|噻唑, 间硫氮茂
+trigon|三角形, 三角竖琴
+thema|拜占庭帝国的行政区
+tuts|发出嘘声( tut的第三人称单数 )
+teasle|川续断
+trifler|闹着玩的人, 吊儿郎当的人
+turbot|大菱鲆
+triol|[化]三元醇(如甘油等)
+thiaminase|[生化]硫胺酶
+tallage|佃户缴的税
+tid|每日三次
+twirlers|<美><加>军乐队（女）领队（或指挥）( twirler的名词复数 )
+tuberosities|结节；有块茎；块茎状物
+thwacked|强打；拍地一声打
+tantalised|(tantalise 的过去分词) vt. 诱发无法实现的希望, 使干着急, 惹弄, 逗惹, 逗弄
+tutelary|保护的, 监护的, 监护人的
+tsars|俄国沙皇( tsar的复数形式 ); 专制独裁者
+trine|三倍的, 三重的
+tenpence|十便士
+terrains|(terrain 的复数) n. 地带, 地区, 地形, 领域, 范围
+tricorporal|(纹章学用语)三体一头的
+throes|阵痛, 临死的苦痛, 垂死的挣扎, 剧痛, 痛苦, 苦闷, 苦难, 艰苦的奋斗
+tryma|[植]核果
+threadfish|[鱼]短吻丝鲹
+tasteable|可尝的, 有滋味的
+tilak|(印度男女点在额头的)小红点
+trouping|巡回演出（troupe的现在分词形式）
+truckmaster|( 美洲早期移民中主管与印第安人贸易的)商务官
+throttled|扼杀( throttle的过去式和过去分词 ); 勒死; 使窒息; 压制
+thylacine|[动]袋狼
+truvat|割绒刀
+tromp|践踏, 跺脚
+tiglinic|[化]巴豆的
+toxitabellae|[医] 毒片剂
+tainture|污染(处),污点,瑕疵
+tactometer|触觉测量器
+thiothrix|[医] 丝硫细菌属
+tupian|图皮人的, 图皮语的
+tritoconid|[医] 下前第三尖(下前磨牙远中颊尖)
+ticklish|易倒的, 不稳定的, 难对付的, 怕痒的
+talite|[化] 塔罗糖醇
+tolane|[化]二苯乙炔
+trull|娼妓
+tetradic|四阶张量
+thelitis|[医]乳头炎
+taxidea|[网络] 美洲獾属
+tenuously|薄地; 细地; 空洞无物地; 无关紧要地
+talismanical|护符的, 有护符般效力的
+talose|塔罗糖(一种己醛糖)
+thring|[人名] 思林
+tenio|毛子万恩曼(南美洲南部的一种材用树), 该树的红棕色木材
+torpedinidae|[网络] 电鳐科；电鱝科；双鳍电鳐科
+tricksy|淘气的, 欺骗的, 狡猾的, 恶作剧的
+toho|东航船务有限公司；东邦（日本公司名）
+trammels|限制( trammel的名词复数 ); 渔网; 椭圆规; 量规
+tinmen|洋铁器商；洋铁匠
+tailforemost|尾在前地
+tattooed|刺青, 文身( tattoo的过去式和过去分词 ); 连续有节奏地敲击; 作连续有节奏的敲击
+tufthunting|攀附权贵, 阿谀奉承
+threepenny|三便士的, 无价值的, 便宜的
+tamper|干预, 拨弄, 贿赂, 损害, 篡改
+traveltime|走时
+thrombosis|血栓形成
+traversals|(traversal 的复数) [计] 遍历
+titaniferous|[化]含钛的,产钛的
+theatregoing|看戏
+triumphing|获胜( triumph的现在分词 ); 克服; 打败; 战胜
+thankless|不感谢的, 忘恩的, 不知感恩的
+topophobia|特殊场所恐怖
+thysanura|[医] 弹尾目, 缨尾目
+truantly|truant的变形
+tournois|(硬币)在(法国)图尔城铸造的
+traceback|Virus回溯病毒
+tiresias|[希神]提瑞西阿斯(古希腊城邦 Thebes 的一位盲人先知)
+teleutosorus|冬孢子堆
+tachisme|塔西抽象绘画法
+toled|transparent organic light-emitting diode 透明有机发光二极管
+tinwork|锡工, 锡制品
+trochophore|[动]担轮幼虫
+termor|定期租户
+trias|三叠纪
+trimaran|三体船
+tamely|驯服地, 温顺地, 没有骨气地
+trancing|使恍惚（trance的现在分词形式）
+trendle|[英方]木制大而浅的圆形或椭圆形盆[槽]
+tantrism|密宗, 密教（也叫怛特罗教）
+topographist|地形测量员
+tracheophyte|[植]导管植物,维管植物
+tigrinya|提格里尼亚语(属闪含语系,埃塞俄比亚提格雷省通用的语言)
+therology|哺乳动物学
+trigram|三字母一音
+transversus|[医] 横的; 横肌
+toastmasters|主持人, 致敬酒辞者( toastmaster的复数形式 )
+temporalty|俗人
+trombone|长号
+teleseism|远震
+testitis|睾丸炎
+tetrazine|四嗪
+twelfths|（与the连用）第十二（个）, 月的第十二日( twelfth的名词复数 )
+torsiometer|转轴测量器, 功率测量仪
+tellingly|有效地；显著地
+tenured|终身的；长期保有的
+torches|手电筒( torch的名词复数 ); 火把, 火炬
+thrawnly|thrawn的变形
+theorised|(theorise 的过去分词) vi. 建立理论, 讲理论, 推理
+thwacks|拍地一声打, 强打( thwack的名词复数 )
+theomorphic|神形的, 有神之形象的, 似神的
+talc|滑石, 云母
+trisomic|(染色体)二倍加一的,一套半染色体的,三染色体的
+tropidine|托品定, 莨菪定
+turbinotome|[医] 鼻甲刀
+teasels|起绒草( teasel的复数形式 )
+technography|(研究技术工艺的发展和分布等的)技术工艺学
+torah|教导, 律法, <<旧约>>之首五卷
+tambookie|刺果刺桐
+toolman|刀具工
+tragedian|悲剧演员, 悲剧作家
+talesmen|候补陪审员( talesman的名词复数 )
+tulle|薄纱
+trombidium|[医] 恙螨属(旧名)
+tinkly|叮当响的
+torchbearer|持火炬者, 启蒙者
+tailwinds|顺风
+tarsier|[动](东印度)眼镜猴, 跗猴
+tubiferous|[医] 有结节的; 有块茎的
+tyrannically|暴虐地;专横地
+trivoltine|三化的, 三抱的, 一季产生三代的
+twitters|（鸟）叽叽喳喳的叫声( twitter的名词复数 ); 格格的笑声; 一个网站名称
+taguan|[网络] 标语
+tachycardia|心动过速
+tincted|色彩；颜色
+tactlessly|粗鲁地, 笨拙地, 不老练地
+trichion|发际中点
+teardrops|泪珠, 泪状物( teardrop的复数形式 )
+thiobacilli|硫杆菌
+troubler|[法] 捣乱者, 闹事者
+typewrite|打字
+touristy|游览者的, 游览者喜欢的
+tonelessness|声调平板
+tropes|(trope 的复数) n. 转义, 比喻
+twi|契维语(属于克瓦kwa 语支, 主要在加纳通用)
+topaz|黄晶, 黄玉, 南美蜂岛
+trachytic|[地]粗面岩状的
+trophedema|营养性水肿
+travail|分娩的痛苦, 阵痛, 辛劳
+thermoform|(塑料等的)加热成形,热力塑型
+transpalmar|[医] 经掌的
+torsten|(Torsten)人名；(德、芬、瑞典)托尔斯滕
+tetroxide|四氧化物
+tautened|（使某物）变紧( tauten的过去式和过去分词 ); 拉紧; 绷紧; 紧张
+topographic|地形的, 地形学的
+teart|(在英格兰某些含钼过多的牧场中对)牛身的刷洗
+torchwood|火炬木；脂檀
+thrashing|鞭打, 打谷
+thriftless|不节俭的, 浪费的, 无用的
+tarantula|鸟蛛, 狼蛛
+tabardillo|鼠型斑疹伤寒
+topdressing|顶肥, （道路的）表面处治
+tractus|[医] 束, 道
+triene|[化]三烯
+tutsan|[植]土三金丝桃
+tangents|<数>正切( tangent的复数形式 ); 突然转移话题; 突兀的转向; （铁路或道路的）直线区间
+terreous|土色的
+tethers|（拴牲畜用的）系绳( tether的名词复数 ); 系链; （能力等的）限度; 范围
+tunefully|声音悦耳地; 和谐地
+toasted|向…祝酒, 为…干杯( toast的过去式和过去分词 ); 烤火, 取暖, 使暖和
+thrombocyst|[医] 血栓囊
+tiffs|争吵( tiff的复数形式 ); （酒的）一口; 小饮
+tarriance|拖延, 耽搁
+ticktocks|滴答声
+threw|throw的过去式
+twigger|细枝, 嫩枝；【解剖学】(神经或血管的)末梢
+tressy|<古>(似)有一绺头发(或发辫)的
+tensiometer|张力计
+twerp|讨厌的家伙, 蠢人
+thraldom|奴隶的身分/地位, 奴役, 束缚
+toupees|男用假发, 遮秃假发( toupee的复数形式 )
+tonger|钳具
+tophus|痛风石
+tapetal|[医] 毯的
+tetrapturus|四鳍旗鱼属
+telescoping|套车
+tutty|粉状氧化锌
+tenositis|[医]腱炎
+thewy|肌肉发达的, 有力的
+teuchit|英国早春雷暴
+taipei|台北
+thataway|朝那个方向, 按指示
+telodynamic|[机](用缆绳或滑轮)传送动力的
+testable|可试验的, 有资格作证人的, 有资格立遗嘱的, 可根据遗嘱处理的
+tubotympanal|[医] 咽鼓管鼓室的
+thiophenic|thiophene的变形
+twiddly|琐碎的, 繁杂的
+toran|道朗(一种近程无线电定位系统)
+tunable|可调音的, 能调谐的, 音调美的
+travois|(北美印第安人的)一种旧式雪橇
+tridecyl|十三烷基
+typographers|(typographer 的复数) n. 印刷工人, 印刷商
+topo|（等于toppo）威尼斯平底渔船
+trachycarpus|棕榈属
+tailcoats|(tailcoat 的复数) n. 燕尾服
+trammelling|束缚, 妨碍( trammel的现在分词 ); 用网捕捉
+tussles|<口>扭打, 争斗( tussle的名词复数 )
+tunicary|有膜的
+tubercles|(tubercle 的复数) n. 小瘤, 结节
+toadish|toad的变形
+tiring|引起疲劳的, 累人的
+tawa|[地名] [缅甸] 达瓦
+thivel|<英方>(用以搅粥等食物的) 搅棒
+tailgating|借道
+tungstenite|硫钨矿; 辉钨矿
+tinier|极小的, 微小的( tiny的比较级 )
+tetched|=teched [变体]
+trilinear|三线的, 包含三条线的,以三条线为界的
+termini|目的地, 界标
+trophesial|[医] 神经性营养不良的
+tyrosinuria|酪氨酸尿
+tabloid|小报, 小型画报, 药片, 文摘
+toxalbumin|[生化]毒白蛋白
+takedown|拆卸, (非正式)失面子, 羞辱
+toppling|不稳而倒下( topple的现在分词 ); 将…推翻, 打倒
+typtology|敲击显灵招魂术(一种江湖骗术), 降神术
+transl|translate 翻译; translation 翻译; translator 翻译; translated 翻译的
+transitivity|[计] 传递性
+tremetol|佩兰毒素, 白蛇根毒素
+taciturnly|沉默寡言地; 按钉; 抢风变向
+toellite|(=tollite)榴英云玢岩
+tablier|(女子的)围裙,(旧时女服上的)围裙式装饰
+thiochrome|[生化]硫色素,脱氢硫胺(素)
+takin|扭角羚；羚牛
+ticks|十字叉；滴答声；扁虱；褥套（tick的复数）
+trippingly|轻快地, 流畅地
+totty|<古>发昏的,喝醉的
+tetralite|[化] 特屈儿
+theologaster|浅薄的神学家,假神学家
+transverter|[电]换流器
+translators|译员( translator的复数形式 ); 翻译者; 翻译家; 翻译机
+tpd|[化] 程序升温脱附
+tosspots|(tosspot 的复数) n.<古>酒徒, 醉汉
+titillation|[医] 搔痒, 撩痒
+tenons|在…上制榫（tenon的第三人称单数形式）
+tsarevitch|沙皇的长子
+thyiad|[希神]梯伊阿得(酒神 Dionysus 的女信徒)
+trichomonas|[医] 毛滴虫属
+theistically|theistic的变形
+ticktack|滴答声, 突突声
+tarrow|[人名] 塔罗
+turdine|[鸟]鸫的
+triturating|弄成粉( triturate的现在分词 ); 粉碎; 磨碎; 捣碎
+tubulous|管的, 有管的, 管形的, 有管状小花的
+tympanohyal|鼓室(与)舌骨弓
+thrombin|凝血酶
+topographer|地志学者, 地形学者
+tackify|使有黏性,增强…的黏着性,使更黏
+taxometer|量片器
+tergal|背的, 背甲的
+thingamabob|<口>(用以指某人或某事)某人, 某件东西
+tch|业务信道；总胆固醇；话务信道
+thrombectomy|[医]血栓切除术
+thurniaceae|硅草科
+terpene|[化] 萜烯; 萜(烃)
+throated|用沙哑的声音或嗓音发音（throat的过去式与过去分词形式）
+tautly|绷紧地; 紧张地;  结构严谨地; 紧凑地
+tubectomy|[医]输卵管切除术
+tergiversate|搪塞, 推托, 变节, 背叛
+transfinite|无限的, 超穷的, 超限的
+thalweg|最深谷底线
+trigonia|三角蛤属
+thiocresol|硫甲酚, 甲苯硫酚
+teazel|使织物起绒, 为...拉绒
+trusteeships|(trusteeship 的复数) n. 托管制度, 托管人职责
+topsy|混天倒地（歌曲名）
+treadboard|踏板
+typefounding|铸字业
+thermoses|热水瓶,保温瓶[亦作 thermos bottle(或 flask,jug)]
+textualism|拘泥于<<圣经>>原文, 墨守原文
+tomorrows|明天( tomorrow的复数形式 ); 将来, 未来
+twitchers|(twitcher 的复数) n. 观察研究稀有鸟类的人
+tpm|全面生产维护（Total Productive Maintenance）；可信计算平台模块（Trusted Platform Module）
+tearstained|泪水沾湿的
+tasajo|肉干
+tenonitis|[医] 腱炎, 眼球囊炎
+treetops|树稍( treetop的复数形式 )
+truism|自明之理, 众所周知, 老生常谈
+tiswin|(美国西南部印第安人酿制的)发酵饮料
+tornal|内角的
+tablelands|(tableland 的复数) n. 高地
+tectocephaly|舟形头(畸形)
+teasel|川续断
+typhlolexia|文字盲, 视性失语
+truistic|无人置疑的, 平凡的
+tote|提, 负, 携带, 加, 合计
+tetard|蝌蚪；大头鱼；小孩
+transvaluate|以新价值观重新评估,重新评价
+traducers|(traducer 的复数) n. 诽谤者
+teratoid|[生]畸胎样的
+trysting|幽会
+taxiing|乘出租汽车；滑行（taxi的ing形式）
+tirralirra|快活地
+transgressor|违反者, 犯规者, 罪人
+thudding|重击, 砰然下落( thud的现在分词 )
+ticked|被套
+typographies|(typography 的复数) n. 凸版印刷术, 排印, 印刷版面式样
+turnspit|负责旋转烤肉叉的人, 转叉狗
+tholepin|桨耳
+tuners|无线电收音机( tuner的复数形式 ); 调音师
+thieveless|无效的, 无目的的
+thermohaline|[海洋]热盐的,温盐的
+tudor|英国都铎王朝
+tokology|[医](=tocology)产科学
+turbidimeter|浊度计,浊度表
+tropicalize|使热带化
+tragus|[解]耳屏, 耳珠
+topsides|(topside 的复数) n. 干舷部
+tattle|闲谈, 闲话, 饶舌
+tactically|在战术上
+trolled|轮唱, 使转动；放声高唱；拖饵钓鱼
+tricyclist|骑三轮车者
+truckline|汽车货运线
+telega|(俄国的)四轮运货马车
+threnodic|threnody的变形
+tympanicity|[医] 鼓响性
+tallowy|动物脂质的, 油腻的, 象油脂一样颜色的, 萎黄的, 苍白的
+tussal|[医]咳嗽的, 与咳嗽有关的, 咳嗽表现的
+tetracosane|(正)二十四(碳)烷
+tabret|小手鼓
+tenalgia|[医] 腱痛
+thesauruses|同义词词典( thesaurus的复数形式 ); 百科全书; 汇编; 宝库
+timbres|(timbre 的复数) n. 音色, 音质
+texaco|德士古（财富500强公司之一, 总部所在地美国, 主要经营炼油）
+trompil|开孔
+tomas|托马斯
+talebearing|说小话, 散布谣言
+taffia|(西印度群岛产的)劣质甜酒
+thenardite|[矿]无水芒硝
+thatcher|盖屋顶者
+triarchies|三头政治( triarchy的名词复数 )
+tannalbin|鞣酸蛋白
+toluidide|[化]N-某酰基甲苯胺
+trochoid|次摆线, 车轴关节
+tridental|三叉戟式飞机
+tetrarchical|tetrarch的变形
+tanoan|塔努安语(北美印第安语语系的一种)
+tachyphemia|[医] 言语快速, 急语
+twined|成双的；搓成的
+toucan|巨嘴鸟
+triazole|[化]三唑, 三氮杂茂
+trisepalous|[植]三萼片的
+thrustor|向上钻营的人, 推进器
+toxoplasma|[医] 弓形体属, 弓浆虫属
+terpolymer|[有化] 三元共聚物
+thrillful|[网络] 激动人心
+tightropes|（供走索者表演用的）绷索, 钢丝( tightrope的复数形式 )
+thurible|香炉
+toweringly|towering的变形
+trithionate|连三硫酸盐
+trepidations|(trepidation 的复数) n. 恐惧, 惊惶, 忧虑
+towelling|制毛巾的布料
+trickiest|狡猾的( tricky的最高级 ); （形势、工作等）复杂的; 机警的; 微妙的
+tuckers|打横褶者( tucker的名词复数 ); 打褶装置; 打皱褶着; 领布
+tepees|（兽皮或树皮制的）圆锥帐篷( tepee的复数形式 )
+tillerman|舵工; 转舵手
+tinniest|锡的；含锡的；像锡的；有锡味的 (tinny的变形)
+tizwin|(美国西南部印第安人酿制的)发酵饮料
+terser|（说话、文笔等）精练的, 简洁的, 扼要的( terse的比较级 )
+tristylous|[植]三花柱的
+thioneine|巯基组氨酸三甲(基) 内盐, 硫因
+twinberry|[植]总苞忍冬, 蔓虎刺
+threose|[化] 苏糖
+tephrite|[地]碱玄岩
+tylopod|(骆驼等动物)有胼足的,趾底有肉垫的
+tinkerers|(tinkerer 的复数) n. 喜欢捣鼓小器具、小发明的人
+thowless|<苏格兰>没精打采的,呆滞的,无生气的
+tegumental|[医] 体被的, 皮肤的
+tutorly|有关(或适合)家庭教师的,有关(或适合)辅导教师的
+timor|帝汶岛(马来群岛中一岛)
+tetradactyl|四趾的
+tzarevitch|沙皇的长子
+telokinesis|末期动态
+trichophytic|[医] 发癣菌病的; 促进毛发生长的
+thegns|(thegn 的复数) n.[英史]大乡绅, 领主
+titanomachy|[希神]提坦巨神反宙斯战争
+titanaugite|钛辉石; 钛辉石
+tagalong|追随者
+toilsomely|辛苦地
+tremolo|震音, 震音装置
+tocology|产科学
+trampler|trample的变形
+truckled|靠小脚轮移动( truckle的过去式和过去分词 ); 屈从; 讨好; 用小脚轮使移动
+thymines|(thymine 的复数) n. 胸腺嘧啶
+tropophilous|[植]适应气候变化的,湿旱生的
+turbary|泥煤田, 泥炭采掘场
+tenpin|[美](十柱戏的)柱子
+tourette|Tourette综合征（儿童岁于秽语多动综合征, 病因不明, 分为先天遗传型和后天获得型）
+tusayan|[地名] [美国] 图萨延
+tocher|<苏格兰>n.嫁妆
+theos|(theo 的复数) abbr. 理论上的（theory）
+tabet|<苏格兰>感觉
+triphibian|陆海空三栖的, 陆海空联合作战的
+treadmills|枯燥无味的工作[生活方式]( treadmill的复数形式 ); （尤指旧时由人或牲畜踩动踏板使之转动的）踏车; （锻炼身体的）跑步机, 走步机
+troupial|[鸟](中南美产的)黄鸟,黄鹂
+trickers|(tricker 的复数) n. 耍诡计的人, 骗子
+tastemaker|时髦风尚的首创者, 开创时髦风尚的事物
+tripotassium|三钾
+tanga|坦噶(坦桑尼亚港市)
+temblor|地震
+tercel|雄鹰
+temporized|敷衍( temporize的过去式和过去分词 ); 拖延; 顺应时势; 暂时同意
+troves|(trove 的复数) n. 发现物, 收藏品
+troglodytes|类人猿( troglodyte的名词复数 ); 隐居者; 穴居者; 极端保守主义者
+trypsin|胰蛋白酶
+threadfin|[鱼]马鲅, 须鳂[胸鳍呈须状,故名]
+tetraskele|[网络] 四星
+tillering|分蘖
+trinities|<正>三人小组( trinity的名词复数 ); 三件一套; 三合一
+tort|民事侵权行为
+tace|<拉>vi.[用于祈使句]别作声
+ticking|坚质棉布
+threnody|哀歌, 葬歌, 挽歌, 悲哀, 哀悼
+tantrist|密教经典, 印度教经典 (tantra的变形)
+tracheotome|[医] 气管刀
+terzet|<意>n.[音]三重唱,三重奏[字面意义： trio]
+turbulently|横
+taping|磁带录音
+teston|退斯通（一种英、法等国的古银币）
+targumist|塔古姆的译者、研究者
+tegmenta|被盖；大脑脚盖；芽鳞 (tegmentum的变形)
+terdiurnal|一日三次的
+tinsmiths|(tinsmith 的复数) n. 锡匠, 洋铁匠
+transecting|横断, 横切( transect的现在分词 )
+throbber|动态浏览图示
+toddling|（幼儿等）东倒西歪地走( toddle的现在分词 ); 蹒跚行走; <口>溜达; 散步
+tranquilized|使平静, 使安静( tranquilize的过去式和过去分词 )
+telescoped|错开的; 窜边的; 套叠的
+tarpeian|塔尔皮亚岩石的
+tropaeolin|[化]金莲橙(一种染料)
+trapeze|吊秋千
+toot|嘟嘟声, 作乐
+tonsure|剃发, 剃去头发的部分, 削发仪式
+tunics|（动植物的）膜皮( tunic的复数形式 ); 束腰宽松外衣; 一套制服的短上衣; （天主教主教等穿的）短祭袍
+tinkling|叮叮声
+trudging|& vi. 跋涉, 吃力地走（trudge的现在分词形式）
+trapezing|(trapeze 的现在分词) n. 吊秋千
+tibicen|[网络] 黑背钟鹊；黑背锺鹊
+tritium|氚
+truths|真理, 真实, 实际情况, 真相, 真实性, 忠实性
+teutophil|& n.亲条顿(的),亲德派(的)
+toyon|柳叶石楠树
+teiglach|(=taiglach, teiglech)用蜂蜜煮熟的小块面团
+tsamba|糌粑(藏族的主食)
+touchdowns|触地得分( touchdown的复数形式 ); <空>着陆, 降落
+tenotomy|割腱术
+tipping|倾卸台
+triradiate|向三方射出的
+tubers|（植物的）块茎（如马铃薯等）( tuber的复数形式 ); <解>结节; 隆起; 肿胀
+tramlines|(钢中夹杂在薄板表面上留下的) 条痕, 纵痕, (轧件在孔型中过充满造成的)耳线
+totterer|蹒跚行走的人
+tonies|时髦的, 漂亮的；贵族化的
+tonging|(tong 的现在分词) n. 钳子, 帮会
+technocausis|[医] 烙[铁]术
+tearoom|茶室
+territoried|领土；领地；领海；版图；一片土地；地区；地带
+thrombotic|血栓形成, 栓塞
+titterer|[网络] 滴滴涕
+tannaim|tanna的复数
+targeman|<古>持盾者
+twelvepenny|[史]值12便士的
+thalarctos|[网络] 北极熊属
+terne|镀铅锡铁板
+tenorite|[矿]黑铜矿
+therian|[动] adj.(正)兽亚纲的
+trisomy|[生]三(染色)体性,三(染色)体细胞
+toa|[医] 旧结核菌素
+tensive|张力的
+tandy|(Tandy)人名；(英、德)坦迪
+trotcozy|[苏]披巾
+tares|(tare 的复数) n. 巢菜, 稗子, 皮重
+tibialis|[医] 胫骨肌; 胫骨的
+ticuna|[医] 南美箭毒
+telpherage|架空电缆运输, 高架索道运输
+transited|通过（transit的过去式与过去分词形式）
+tariffs|关税制度; 关税( tariff的名词复数 ); 关税表; （旅馆或饭店等的）收费表; 量刑标准
+trollflower|金莲花
+toting|手提, 背负, 携带( tote的现在分词 )
+toothily|toothy（有牙齿的）的变形
+tortuosity|扭曲, 迂回曲折, 弯曲的部分
+tane|(Tane)人名；(罗、塞)塔内
+tanacetone|艾菊酮
+turnsole|向阳性植物
+taxgatherer|[法] 税务员, 收税员
+tetra|脂鲤
+thole|桨架, 钉
+taeniasis|绦虫病
+technicolor|彩色印片法, 鲜艳的色彩
+tracasserie|烦扰,混乱,忙乱,小争吵
+textual|文本的, 原文的
+tweeters|(tweeter 的复数) n. 高频扬声器
+tourneying|参加马上比武( tourney的现在分词 )
+teary|哭泣的
+tucum|南美洲图皮棕榈, 刚毛棕榈
+thymogenic|[医] 情感性的
+tundras|（多数位于北极圈的）冻土带( tundra的复数形式 ); 苔原; 冻原; 寒漠
+tangiest|味道浓烈的, 气味浓重的( tangy的最高级 )
+tracheolar|小气管
+trichiurus|[医]带鱼
+timberhead|船肋骨端头
+tuny|和谐的, 音色优美的
+thlipsis|[医] 血管压缩
+thiamin|硫胺, 维生素B1
+tait|[计] 泰特
+tabacosis|[医] 烟草中毒, 烟末沉着病, 烟尘肺
+trunch|truncheon （粗短的）棍子; 警棍; 权杖; 职杖
+thymoquinone|百里醌
+transmits|发射, 播送, 广播( transmit的第三人称单数 ); 传播; 传导; 传（热、声等）
+titularies|,n. titulary的变形
+turgency|turgent的变形
+towboat|拖船
+tickled|（使）发痒( tickle的过去式和过去分词 ); （使）愉快, 逗乐
+talar|[医]距骨的
+trichosporum|[医] 毛孢子菌属
+triplex|三重的
+twill|斜纹织物
+tonnish|吨, 大量, 许多
+tracklaying|铺轨
+taxman|收税员,税收检查员
+teil|(=teil tres)[植](欧洲)菩提树
+trainable|可训练的, 可教育的
+toothpick|牙签
+tost|vbl.toss的过去式及过去分词
+tarter|tart（酸的, 辛辣的）的比较级形式
+telford|泰尔福特路面(由大石与碎石作基础,再用小石经辗压坚实筑成平滑面层的一种路面)
+tragulus|鼷鹿
+tribulate|使经受苦难,给…磨难
+toorie|帽缨
+tind|山峰；角峰
+tetracyclic|[植]四轮列的, 四轮花的
+tyrannic|暴君的, 专横的, 专制的, 暴虐的, 残酷的
+tautology|同义反复, 赘述, 重言式
+transpolar|横越南极(或北极)的, 穿过极地的
+tectology|组织构造学
+toecap|鞋尖装饰, 鞋头
+tonalist|[音]使用(传统)调性的作曲家, 作品以有调性为特色的作曲家
+totemite|崇拜图腾种族的人
+trixie|特里克茜（女子名, 等于Beatrix）
+topknot|头饰, 羽冠, 顶髻
+trippant|(纹章上的狮子或其他野兽)抬起前蹄行走的
+talons|（尤指猛禽的）爪( talon的复数形式 ); （如爪般的）手指; 爪状物; 锁簧尖状突出部
+tarsectopia|[医] 跗骨脱位
+taeniacide|杀绦虫药
+terrorize|使惊恐, 恐吓
+tailleur|<法>n.定做女服
+tripersonal|(基督教神学)(神性)三个位格的( 指圣父、圣子、圣灵三个位格的)
+topectomy|[医]额叶皮质局部切除术
+thuriferous|产乳香的,燃烧时散发芳香的
+tombless|tomb的变形
+tybalt|(Tybalt)人名；(英)蒂博尔特
+triode|三极管
+tetragynous|[植]四雄蕊的
+tantalus|上着锁的透明酒柜
+tabefaction|衰弱
+thwarted|阻挠( thwart的过去式和过去分词 ); 使受挫折; 挫败; <旧>横过
+tov|有效期（Time of Validity）；总监测量（Total Observed Volume）；总需氧量（total oxygen demand）
+thiocarbamyl|[化] 硫代氨基甲酰
+tracheas|气管
+tribometer|摩擦计
+thickheaded|笨的, 愚蠢的
+teethe|长牙齿
+terap|马来亚木波罗
+tyrannizer|tyrannize的变形
+tipsier|喝醉的；歪曲的；不稳的 (tipsy的变形)
+tactful|机智的, 老练的
+tubules|(tubule 的复数) n. 小管, 细管
+tickweed|[网络] tick草
+thaumatology|奇迹学, 奇迹论
+thalassemia|[医] 地中海贫血, 库利氏贫血
+tombed|坟墓；死亡
+threonine|[生化]苏氨酸
+tunga|[医] 潜蚤属
+touchily|难以取悦地
+tritoma|[植]火把莲
+thanedom|大乡绅的身份
+theobald|西奥博尔德(男子名)
+tyroglyphus|[医] 粉螨属
+travelogues|旅行纪录片( travelogue的复数形式 ); 旅行广播节目; 游记; 关于旅游的讲座
+tunk|轻拍,扣击,重击
+trifles|琐事；鸡毛蒜皮的事（trifle的复数形式）
+tonsillith|[医] 扁桃体石
+thermogenous|[医] 生热的
+tactual|触觉的, 凭触觉的
+tubovaginal|[医] 输卵管阴道的
+taxiways|(taxiway 的复数) n. 滑行道
+theologian|神学者
+triolein|[化]三油精(指天然的甘油三油酸酯)
+trinol|垂诺耳
+tyrosine|酪氨酸
+tubfuls|一桶的容量；一满桶
+tanking|地下室防水层
+thrombosing|形成血栓
+trapeziform|<美>不规则四边形的,<英>梯形的
+tilers|(tiler 的复数) n. 砖瓦匠, 秘密会所看守人
+tollage|[法] 税, 通行税, 征税
+telfordize|用大石块铺砌(路面)
+tweeting|吱吱地叫（小鸟鸣叫）
+tuxedos|<美>餐服, 无尾晚礼服( tuxedo的复数形式 )
+topknots|(topknot 的复数) n. 头饰, 羽冠, 顶髻
+topalgia|局部痛
+telegonic|感应遗传的, 异父遗传的
+tryptamine|[生化]色胺,β-吲哚基乙胺
+theonomous|由上帝统治的, 服从上帝意志的
+tomahawks|美洲印第安人用的战斧( tomahawk的复数形式 )
+theologue|神学学生, 神学家
+toxigenicity|生毒性
+tactite|接触岩
+turncock|供水栓, 龙头开关员
+throe|剧痛, 阵痛
+teliospore|[植](锈菌)冬孢子
+trifacial|[解]三叉神经的
+tweedle|动听的尖细声, 鸟叫声
+theologise|<主英>=theologize
+tailpipes|(tailpipe 的第三人称 -s形式) n.[汽]排气管
+tickles|（使）发痒( tickle的第三人称单数 ); （使）愉快, 逗乐
+tokonoma|(日本房屋起居室的)床之间,壁龛
+tannometer|鞣液比重计
+tailcoat|燕尾服
+towner|城镇居民
+trooped|成群结队地走（troop的过去式与过去分词形式）
+terfez|块菌
+turnera|[医] 特纳草叶, 达米阿那
+tricolette|针织网眼丝织物
+testimonies|（法庭上证人的）证词( testimony的名词复数 ); 证明, 证据
+twirl|(使)快速转动, 捻弄
+thymoprivic|[医] 胸腺缺乏的
+tumefacient|肿胀的, 肿大的, 引起肿胀的
+taborine|(用单根鼓棒敲奏的) 狭长小鼓
+trifoveolate|三穴的
+tartans|花格图案( tartan的复数形式 ); （地中海）单桅帆船; 方格花纹; (T-)塔当（一种铺路用的塑料）
+tumoral|肿瘤样的
+tightwire|绷紧的钢索
+typecast|(根据演员体形与性格)分配角色, 浇铸(铅字)
+tanging|强烈的味道或气味( tang的现在分词 )
+tranquilize|使……安静；使……镇定
+thalli|菌体; 叶状体, 扁平体( thallus的名词复数 )
+toco|鞭苔, 责罚
+timbermen|支架工
+triumphs|胜利( triumph的名词复数 ); 巨大的成就; （成功的）典范; （巨大成功或胜利的）心满意足
+trehala|虫茧蜜(小亚细亚一种甲虫所产,可食用)
+tholing|<英方>忍受, <古>有耐心( thole的现在分词 )
+tsarinas|沙皇皇后( tsarina的复数形式 )
+telegraphese|电报文体, 电文体
+tactician|战术家, 谋士
+toughest|最坚强的；最坚韧的；最粗暴的；最苛刻的（tough的最高级）
+typonym|类型名称, 模式名称
+torso|躯干, 裸体躯干雕像
+tade|[计] 拆卸
+tyloma|胼胝
+trichuris|[医] 鞭虫属
+tendotome|[医] 腱刀
+tylosoid|拟侵填体
+thiosulfate|[化]硫代硫酸盐(或酯)
+transfigure|使变形, 使改观, 美化
+tearing|撕裂般的, 痛苦的, 猛烈的
+tetrol|呋喃
+tenantship|租佃, 租赁
+templum|[医]后颊（昆虫）
+toggles|棒形纽扣( toggle的名词复数 )
+torrone|蜂蜜杏仁糖
+triples|（使）增至三倍( triple的第三人称单数 )
+twattle|,v.<罕> =twaddle
+thanked|谢谢, 感谢( thank的过去式和过去分词 ); 责怪
+thio|[化]含硫的,硫代(氧)的
+treacle|糖蜜, 过分甜蜜的声调
+trues|真理, 真实（true的复数形式）
+thallophyte|叶状体植物
+tritons|(Triton 的复数) n. 氚核
+tal|事物处理应用语言（Transaction Application Language）
+tautologized|重复使用同义字( tautologize的过去式和过去分词 )
+troublingly|trouble的变形
+thrapple|<苏格兰>(尤指马的)咽喉, 气管
+tabis|[网络] 塔比绸；塔布斯
+torpid|麻痹的, 迟缓的, 迟钝的, 蛰伏的
+thunderless|thunder的变形；thunder against的变形
+twills|斜纹织物( twill的名词复数 )
+thevetin|[化] 黄夹竹桃苷
+tangut|唐古特语, 唐古特人, 西藏人
+tenderness|柔软, 亲切, 柔和, 敏感, 易触痛
+toque|无边女帽, 羽饰丝绒帽
+taillights|（车辆的）后灯，尾灯( taillight的名词复数 )
+tenantlike|似承租人的,遵守承租人的权利和义务的
+trichomonad|[动]毛滴虫(原生动物,寄生于人及动物)
+toxicologic|[医] 毒理学的, 毒物学的
+toda|takeoff distance available 可用起飞距离; third-octave digital analyzer 三倍频程数字分析器; time of day accounting 费率时间表
+theotherapy|宗教疗法
+terpenoid|萜类化合物, 类萜
+treasurers|（团体等的）司库, 财务主管( treasurer的复数形式 )
+taxonomer|分类学者
+tweaker|弹弓
+tantalise|诱发无法实现的希望, 使干着急, 惹弄, 逗惹, 逗弄
+typhlopexia|[医] 盲肠固定术
+testudinate|龟
+transverses|横向物( transverse的名词复数 ); 横轴; 横断面; <数>横截轴
+tenaculums|[医]n.（拉）持钩, 支持体
+tetraploidy|四倍性
+tostada|炸玉米粉圆饼(亦作tostado)
+tachism|抽象派绘画法
+taeniae|[医] 绦虫, 带
+tuckahoe|茯苓
+technicist|技术员, 技师
+toons|(toon 的复数) n. 红椿
+threnetical|悲哀的, 哀悼的
+twelfth|num. 第十二, 十二分之一
+tenebrism|[画]暗色调主义
+telae|[医] 组织
+telencephal|[医] 端脑, 终脑
+teaseled|使起绒( teasel的过去式和过去分词 )
+tackboard|(钉通知等用的)布告板,图表板
+tembe|[地名] [刚果民主共和国] 登贝
+terpeneless|[医]无萜的
+theine|咖啡因, 茶碱
+tripinnate|[植]三回羽状的
+truepenny|老实可靠的人
+tieing|缝线接头；结头
+thither|位于那一边的, 向那边的
+theophanies|神的出现( theophany的名词复数 )
+trippet|(间隔一定时间敲击其它零件的)敲击装置
+transmutes|使变形, 使变质, 把…变成…( transmute的第三人称单数 )
+trinidadian|特立尼达人
+tuatara|(新西兰产的)大蜥蜴
+trampolines|蹦床, （杂技表演中翻筋斗用的）蹦床, 弹床( trampoline的复数形式 )
+trunnioned|有炮耳的, 有耳轴的
+thetic|武断的；独断的；扬音节开始的
+telescopist|使用望远镜的人, 用望远镜观测者
+trios|三重奏（ trio的复数形式 ）; 三人一组; 三重奏[三重唱]乐曲; （小步舞曲、谐谑曲等的）中段
+tonotaxis|趋声性
+telpher|电动缆车, 高架索道
+tosses|（轻轻或漫不经心地）扔( toss的第三人称单数 ); （使）摇荡; 摇匀; （为…）掷硬币决定
+treater|谈判者, 处理器, 提纯器
+transhape|变像
+tungusic|通古斯满语族(阿尔泰语系的语族之一)
+toploftiness|toplofty的变形
+titularity|titular的变形
+twanger|弦声；拨弦声；(琴弦的)弹拨
+triableness|triable的变形
+thrashes|鞭打以示惩罚( thrash的第三人称单数 ); 战胜, 完全击败; 乱窜[跳], 辗转反侧; 打谷, 打麦
+tightfitting|(衣服)紧身的,贴身的
+tipsiest|喝醉的；歪曲的；不稳的 (tipsy的变形)
+taiyal|泰耶尔语
+trueness|真, 真实, 纯真
+tetter|皮肤病, 丘疹
+trigonite|斜楔石(砷锰铅矿)
+targum|塔古姆(<<即圣经注疏>>)
+thyroidal|[医]甲状腺性
+tinseled|用金箔装饰( tinsel的过去式和过去分词 )
+temporally|现世地
+travellers|旅行者（ traveller的复数形式 ）; 旅游者; 旅客; 游客
+tides|潮汐（tide的复数）
+turnipy|芜菁味的
+tiliaceous|椴科植物的
+technic|技巧, 技能, [谓语用单数]工艺学
+tristate|[计] 三态
+toxicophidia|毒蛇
+throwback|掷回, 挫折, 阻止
+tristachyous|三穗的
+toryfy|用保守主义原则(或政策)影响
+throb|跳动, 搏动
+tremophobia|[医] 震颤恐怖
+tramroads|(tramroad 的第三人称 -s形式) n. 矿车轨道
+tao|(道家学说中的)道
+turfy|草皮的, 泥炭的, 与赛马有关的
+trivalve|(贝壳)三瓣的
+tachypnoea|[医]呼吸急促，气促
+traject|传导, 传达, 通过, 输送
+thorniness|多刺
+tenters|(tenter 的复数) n. 拉幅机, 拉幅工人
+timbering|木材, 木结构
+toadstool|伞菌
+terzetto|<意>n.[音]三重唱,三重奏[字面意义：trio]
+tinderbox|火绒合, 高度易燃物, 容易发火的人
+thionin|[化]硫堇,劳氏紫
+thoracoscopy|胸腔镜检查
+teletube|[电] 影像管
+telelens|远摄镜头,长焦镜头
+torsiograph|扭力记录仪; 扭振自动记录仪
+treadled|踏木, 踏板
+tunka|[植]冬瓜
+teenyboppers|(teenybopper 的复数) n. 少年颓废派; 少女流行音乐迷; 少女
+taus|[医]Transabdominal Ultrasound
+thinnish|稍薄的, 有点细的, 有点瘦的
+technicon|[音]弹奏技巧练习器
+turfing|铺草皮
+tanto|太多,那么多,这样
+tristearin|[化](三)硬脂酸甘油酯,三硬脂精
+trivat|割绒刀
+trabeation|[建]横梁式结构,柱顶盘
+trickling|[电] 移动
+taintless|未玷污的, 纯洁的, 未感染的
+transposing|更换；置换
+terebene|松节油萜
+toxins|毒素( toxin的复数形式 )
+trilobate|[植]具三裂片的
+trickily|以欺骗手段, 狡猾地
+trouped|巡回演出（troupe的过去式与过去分词形式）
+twinning|孪生, 成对
+tailed|有...尾的, 去掉尾的, 有...状尾的
+toxically|有毒地
+tentiform|幕形的
+transischiac|[医] 坐骨间的
+theophobia|对上帝的恐惧
+theists|(theist 的复数) n. 有神论者, 一神论者
+toadies|谄媚者, 马屁精( toady的名词复数 )
+triticum|小麦属植物
+tun|大酒桶
+tibiofemoral|[医] 胫股的
+trioicous|[植]雌花雄花两性花异株的,单全异株的
+tisiphone|[希神][罗神]底西福涅(司复仇的三女神之一)
+topographies|地形学( topography的复数形式 ); 地形测量学; 地貌
+tournedos|tournedos 腓里牛排
+trichomatous|[医] 睑内翻的; 纠发病的
+tumefied|溶胀的
+tees|高尔夫球的发球台（tee的复数）
+thyrotomy|[医]甲状软骨切开术, 甲状腺切开术
+tussocks|（比周围的草长得密或高的）草丛( tussock的复数形式 )
+titubate|蹒跚
+trispast|三饼滑车
+tydie|兰山雀
+triclad|三肠目涡虫, 真涡虫
+tchick|催马快跑所发之声
+trainbearer|挽裙裾者
+tolstoyan|托尔斯泰的信徒,信仰托尔斯泰的人
+twitchy|抽搐的, 抽动的, 痉挛性的； 焦躁不安的
+tesla|[电] 特斯拉
+triptyque|(三联折叠式)汽车临时入境证
+turbidly|混浊地, 浓密地
+trig|漂亮的, 整洁的, 潇洒的
+turquoise|绿松石, 绿松石色
+telangiosis|[医] 毛细管病
+throughither|<苏格兰>混乱地,杂乱地,乱七八糟地
+twitty|[人名] 特威蒂
+toes|脚趾（toe的复数）
+tristan|特里斯坦（人名）
+targe|小圆盾
+tarnation|诅咒, 咒骂
+triseptate|[生]具三隔膜的
+thickeners|增稠剂; 稠化, 增浓过程( thickener的复数形式 )
+tackles|用具( tackle的名词复数 ); 滑车; 钓具; 阻截队员
+trampoliner|蹦床（杂技表演中翻筋斗用的）；弹簧垫 (trampolin的变形)
+thermion|热离子
+trochleae|trochlea的复数形式
+tagger|垂下物, 尾随者, 薄铁片, 附加物
+tarnished|使生锈；沾污
+tyrosyl|酪氨酰
+tribuloid|被硬毛的
+thorned|(thorn 的过去时) n. 刺, 棘, 荆棘
+tunic|束腰外衣
+truckle|小轮, 滑轮
+toniest|高贵的, 时髦的( tony的最高级 )
+telegraphy|电报学, 电信术, 电报通讯, 电报机装置
+torr|[化] 托
+triadelphous|[植]三体雄蕊的
+tarantara|喇叭的声响声
+torpedoing|用爆破筒爆破
+tinamou|鸟类之一种(产于南美洲的一种走禽)
+tyg|双柄(或多柄)陶制大酒杯
+tricon|Triple Coincidence Navigation （有三个地面台的）雷达导航系统（特利康导航系统）
+tamperproof|(机械装置等)可防止乱摆弄的
+turbofans|(turbofan 的复数) [机] 轮机式鼓风机
+tigella|胚茎
+tenue|行为, 举止；服装样式
+twanged|用鼻音讲（twang的过去式与过去分词形式）
+triatic|由三部形成的
+toughie|流氓, 恶棍, 生是非者, 难题, 劲敌
+theropoda|兽脚亚目
+teniacide|杀绦虫药
+tritoxide|[医] 三氧化物
+titillates|使觉得痒( titillate的名词复数 ); 逗引; 激发; 使高兴
+tigresses|母老虎( tigress的复数形式 ); 凶悍的女人
+tiglaldehyde|(=tiglic aldehyde)惕各醛
+trochilics|[复]n.[用作单]旋转机械运动学
+teacakes|当茶点用的饼干( teacake的复数形式 )
+titmouse|山雀
+tributyrin|三丁精, 三丁酸甘油酯
+trichopteron|石蛾
+tachygraphy|速记术
+tautonym|[生]重名, 属种同名
+turbulency|狂暴, 动乱
+triduum|三天, 三日； （天主教教会的）三日祈祷
+tripe|肚子
+trenching|挖沟, 挖沟工作, 掘壕掩埋法
+triclinia|躺卧餐桌, 有此种餐桌的餐室( triclinium的名词复数 )
+tierceron|居间肋; 居间肋
+thespian|悲剧的, 戏剧的, 悲剧性的
+tendinitis|[医] 腱炎
+tuberculid|结核疹
+teacupfuls|一满茶杯的量
+tenting|盖孔法；封孔；斜张天幕；海冰隆起（海冰受挤压拱起成帐幕状）
+thrashed|鞭打以示惩罚( thrash的过去式和过去分词 ); 战胜, 完全击败; 乱窜[跳], 辗转反侧; 打谷, 打麦
+titers|[人名] 蒂特斯
+telepicture|[美]电视的影象
+tricalcic|三钙的
+tarmac|柏油碎石, 柏油碎石路
+tignon|太阳巾
+teethes|出牙, 生乳牙（teethe的第三人称单数形式）
+trappings|马饰, 服饰, 礼服, 装饰品, 外部标志
+thingummy|装置, 小机件, 某人, 某物件, 某东西
+tenosuture|[医] 腱缝术
+tetrabrach|(古典诗学的)四短格(指有4个短音节构成的音步或单词)
+tarry|耽搁, 逗留, 留住, 等候
+tattler|说闲话的人, 饶舌, 说长道短的人
+turfman|赛马迷
+trones|（苏格兰）大型衡器（称大批商品用的）
+timorously|胆怯地, 羞怯地
+tachycardiac|心动过速的,心搏过速的
+towlines|(towline 的第三人称 -s形式) n. 拖绳, 拖缆
+triers|实验者( trier的复数形式 )
+tetragon|四角形
+theirn|[方]=theirs, their own
+thickest|浓的
+twitchiness|twitchy（痉挛的，抽搐的）的变形
+turacou|[鸟]蕉鹃(产于非洲热带森林)
+thorntail|[鸟](南美)刺尾蜂鸟
+typologic|类型学的, 类型的
+tuitionary|讲授的, 学费的
+theologist|神学家
+timberwork|木结构
+thar|塔尔（沙漠名, 位于南亚）
+telemachus|[希神]忒勒马科斯(Odysseus 和Penelope之子)
+towery|有塔的, 高耸的
+tocokinin|[医] 激育素(获自酵母及数种植物,有雌激素的性质)
+thatchers|茅屋匠( thatcher的复数形式 )
+testability|[计] 可测试性
+thelyblastic|[医] 雌性原核的
+tweese|以镊子除去, 以钳子拔除
+tuscany|托斯卡纳区（意大利行政区名）
+triglyceride|甘油三酸酯
+thrustful|有强大推进力的,劲头十足的, 积极进取的
+turgidness|肿胀;夸张;夸大
+tetragonous|四棱的
+trysail|斜桁纵帆
+turfmen|赛马迷( turfman的名词复数 )
+tapestries|挂毯( tapestry的名词复数 ); 绣帷, 织锦
+tetanoid|破伤风状的, 强直样的
+treacliness|[化] 粘性; 粘滞性; 粘度; 粘滞度
+trivialism|琐碎, 平凡
+triazo|[化] 叠氮基
+tetanism|[医] 破伤风样病, 假破伤风
+trimeter|三音步
+triturium|[医] 分液器(分离不同密度的液体)
+toasting|向…祝酒, 为…干杯( toast的现在分词 ); 烤火, 取暖, 使暖和
+turvy|颠倒
+trophothylax|(蚁幼虫)滋养袋
+trenchers|(trencher 的复数) n. 挖沟者, 木盘
+timed|时控的；定时的, 同步的
+tinware|洋铁(锡)细工
+tylarus|有垫的
+taurin|象公牛的, 金牛座的
+trypanolysis|[医] 溶锥虫
+thence|从那时起, 从那时以后, 从那里起, 由此, 因此
+tubercled|生有结节的
+tallowwood|西门木, 近缘的乔木
+trouty|有许多鲑鱼的, 有许多鳟鱼的
+trusties|(trusty 的复数) a. 可信任的, 可信赖的, 可靠的
+treasons|(treason 的复数) n. 叛逆, 不忠, 叛国罪
+trifled|轻视, 小看( trifle的过去式和过去分词 )
+tatarian|阶
+tiptoe|脚尖
+telephoned|以电话传送（消息）, 给（某人）打电话( telephone的过去式和过去分词 )
+tendomucin|[医] 腱粘蛋白
+tapas|（西班牙餐馆的）餐前小吃
+tubbish|桶状的, 肥胖的
+tiltmeter|倾斜计
+thiazine|[化]噻嗪,硫氮杂苯
+taenicide|杀绦虫药
+tads|Tactical Automatic Digital Switch 战术自动数字转换开关; Target Acquisition and Designation System 目标获取与指示系统
+thaumatrope|幻影转盘, 西洋镜
+tuffet|小土墩
+thinnest|薄的, 瘦的
+toadying|拍马, 谄媚( toady的现在分词 )
+trimyristin|三肉豆蔻酸甘油酯, 三肉豆寇精
+tweaked|拧（tweak的过去分词）
+tenonostosis|腱骨化
+turcoman|土库曼人, 土库曼语
+trichophyton|[医] 发癣菌属, 毛癣菌属
+trilobated|三裂片的
+tricuspid|三尖的
+tymbal|(=timbal)铜鼓, (蝉的)鼓室
+traducingly|traduce的变形
+tuberculoid|结核节状的, 结核病状的
+tarsoplasia|[医] 睑成形术
+terminated|& vi. terminate的过去式
+trinchera|[地名] [阿根廷、巴拿马、美国] 特林切拉
+thoroughwort|[植]贯叶泽兰
+thimblefuls|（酒等的）极少量( thimbleful的名词复数 )
+tuneup|调整,准备,预演
+tarin|黄雀
+thymegol|邻硝基对百里酚磺酸汞钾
+trunking|[信]中继
+taxmen|(taxman 的复数) 收税员,税收检查员
+trinket|小件饰物, 无价值的琐碎东西, 小玩意儿
+tandoori|唐杜里烹饪法,泥炉炭火烹饪法(一种印度烹饪法)
+toponymist|地名学家
+transposable|可换位的, 有换位可能的
+tootsies|小脚, 脚趾
+tenderized|把（肉）捶得很软, 把（肉）嫩化( tenderize的过去式和过去分词 )
+toper|豪饮者, 酒徒
+tubicola|管毛目
+transients|暂住某地的人, 过往旅客, 临时工( transient的复数形式 )
+topkick|第一中士
+tanacetin|艾菊苦素
+typhosis|[医] 伤寒样症状, 伤寒状态
+trapnest|自闭式产蛋箱
+tarnishing|[计] 锈污
+tryptophane|色氨酸
+tejano|(源于墨西哥和美国得克萨斯州交界地区的)特哈诺音乐[亦作 tejano]
+tink|& n.(发)丁当声,(发)丁零声
+tonsbergite|中碱正长岩
+telolecithal|端卵黄的
+tarentism|跳舞病
+tetranychus|[医] 四爪螨属
+tripping|轻快的
+taraxacin|[医] 蒲公英素
+traditionist|传统主义者
+thereinto|进入其中, 往其中
+thrasonical|自夸的, 夸口的, 吹牛的
+tittie|[苏]姐妹
+thyroidism|[医] 甲状腺剂中毒; 甲状腺机能亢进
+troland|特罗兰得(网膜照度单位)
+tureens|有盖的汤盘, 盛汤的碗( tureen的复数形式 )
+tfr|[医][=total fertility rate]总生育率
+tanna|(犹太教)坦拿(对犹太教口传律法集编注者的称谓)
+taboparesis|[医] 脊髓痨[性]麻痹性痴呆
+tranquillise|vi. (使)平静, (使)安定, (使)镇静, (使)安静
+twisting|[医] 扭转, 捩转
+translucence|半透明
+transseptal|[医] 经中隔的, 横过中隔的
+traduces|诋毁( traduce的第三人称单数 ); 诽谤; 违反; 背叛
+trumpetlike|trumpet（喇叭）的变形
+trowman|渔船船主
+turio|具鳞根出条
+tubate|[生]形成管的, 有管的
+terrorizing|使恐怖( terrorize的现在分词 ); 使畏惧; 使用胁迫或暴力手段恐吓; 胁迫（某人做某事）
+tenderise|[英国英语] = tenderize
+tubicorn|(牛、羊等)有空角的,有洞角的
+tenser|伸张梢; 紧张器; 张量
+trimetrical|有三音步的, 斜方晶系的
+thrifts|节俭, 节约( thrift的复数形式 ); 海石竹（海边野生植物, 花鲜艳, 呈粉红色）
+tobogganer|平底雪橇 (toboggan的变形)
+tricarinate|具三隆线的, 有三条脊龙骨的
+triglochin|水麦冬属
+tylosis|胼胝形成
+tubed|把…装管（tube的过去式与过去分词形式）
+traducianism|[宗]灵魂遗传论
+tonsillotome|[医] 扁桃体刀
+traprock|圈套, 陷阱, 诡计, 活板门, 存水弯, 汽水闸, (双轮)轻便马车
+topline|背线(指动物身体上部从头至尾的外形线)
+tib|(Tib)人名；(英)蒂布(教名Isabella的昵称)
+typic|[计] 典型的, 正规的
+tore|tear的过去式
+thunderworm|佛罗里达锉尾蜥
+tigrine|虎的,(尤指颜色)似虎的
+toga|宽外袍, 参议员的职位
+transferral|转移；调动；转换
+toboggans|雪橇( toboggan的名词复数 )
+trad|传统的
+tendo|[医] 腱
+tallish|稍高的, 身材较高的
+tactical|战术的, 用兵上的, 策略的
+tusseh|柞蚕, 野蚕, 柞蚕丝, 野蚕丝
+tabby|平纹, 斑猫
+typification|典型化, 代表, 象征
+tightened|收紧( tighten的过去式和过去分词 ); （使）变紧; （使）绷紧; 加紧
+telecon|电话会议, 电报会议
+talker|说话的人, 饶舌者, 空谈者
+taster|尝味道者, 审阅人, 试味仪
+twiddler|专注于计算机的人
+triterpenoid|[化]三萜系化合物
+trimotored|有三个引擎的
+trump|王牌, 法宝, 喇叭
+trotter|小跑步的马, 快步走的人, 猪脚, (谑)脚
+telegraphs|电报( telegraph的名词复数 ); 打电报; 电报机; （轮船的）车钟
+tailplane|（飞机的）横尾翼, 水平安定面
+trippings|(tripping 的复数) a. 轻快的
+titanous|[化](含)亚钛的,(含)三价钛的
+tabid|衰弱的, 憔粹的
+tailbone|尾骨
+tarboard|柏油纸板
+trachomatous|[医] 沙眼的
+taproots|（植物的）主根，直根( taproot的名词复数 )
+trilogies|（小说、戏剧、音乐等的）三部曲( trilogy的复数形式 )
+transhuman|超人的, 超越人类一切限制的
+tamest|驯服的( tame的最高级 ); 温顺的; 沉闷的; 乏味的
+technicism|技术主义
+towerman|信号员
+tammies|一种便帽（等于tam-o'-shanter）；棉经毛纬平纹呢（等于tammie）；滤汁布
+twofold|两倍的, 两重的
+trainman|列车员, 乘务员
+tyroma|干酪样瘤
+tailings|残渣( tailing的复数形式 ); 尾料; 嵌入墙中砖石突出部; 屑
+tolls|（缓慢而有规律的）钟声( toll的名词复数 ); 通行费; 损耗; （战争、灾难等造成的）毁坏
+traitors|卖国贼( traitor的复数形式 ); 叛徒; 背叛者; 背信弃义的人
+teletyper|电传打字电报员
+topochemical|局部化学; 局部化学
+tellurion|地球仪
+tentmaker|制造帐篷的人
+truckman|卡车司机, 云梯消防车队队员
+triskelion|(从中心点辐射的) 三曲枝图, 三曲腿图, 三曲臂图
+thrummy|用纱头做的, 表面粗糙的
+thiolic|thiol的变形
+tyrannidae|[网络] 霸鶲科；雀形目霸鶲科；霸鹟科
+trinitrate|三硝酸酯[盐]
+trihedra|trihedron的复数形式
+typhlomegaly|[医] 盲肠巨大, 巨盲肠
+tuskegee|[地名] [美国] 塔斯基吉
+tapioca|木薯淀粉
+thonged|皮带；皮鞭；人字拖鞋
+teleosts|(teleost 的复数) n.& adj.[鱼]硬骨鱼(的)
+telsons|[昆] 尾节（节肢或甲壳动物的）
+transfigures|改变…的外表, 美化, 使变得高尚或理想( transfigure的第三人称单数 )
+tetanigenous|[医] 引起破伤风的; 致强直的
+touchmark|(打在白镴制品上的)制造者印记
+trinkum|<方> = trinket
+terpilene|萜基烯
+trays|盘子( tray的名词复数 ); 托盘; 文件盘; （各种用途的）浅塑料盒
+trigonometry|三角学
+thioalcohol|[化]硫醇
+trioecious|[植]雌花雄花两性花异株的,单全异株的
+terebratulid|穿孔贝
+thortveitite|钪钇石
+thyronine|甲腺原氨酸
+tamers|(tamer 的复数) n. 驯服手
+teapots|茶壶( teapot的复数形式 )
+thered|(ther 的过去分词) abbr. therapy 治疗, 疗法; thermometer 温度计
+tuskers|(tusker 的复数) n. 有长牙的动物
+toxemic|[医]血毒症的, 患血毒症的
+tressel|脚手架, 高架桥, 三角凳
+taxidermal|剥制术的
+tremelliform|胶质型的, 银耳状的
+trituration|研碎, 捣碎, 磨碎, 研制, 研制法
+turi|[地名] [肯尼亚、意大利、智利] 图里
+textbookish|教科书式的, 呆板乏味的
+trochanter|[医] 转子(解剖); 转节(昆虫)
+tarsiidae|[医] 眼镜猴科
+teethridge|牙槽嵴
+tousle|使蓬乱, 弄乱
+trisazo|三偶氮的
+turaco|[鸟]蕉鹃(产于非洲热带森林)
+trivet|三脚架
+templelike|似神殿的,似庙宇的
+tabaxir|[医] [天]竹黄
+tentaculated|有触手[触角, 触须, 触毛]的
+topiaries|灌木修剪法( topiary的名词复数 )
+taxistand|na. “taxi rank”的变体
+triumvirates|三头统治；三人执政
+tarre|[计]一种压缩文件的扩展名
+trachea|气管, 导管
+tablature|[医] 颅骨分层
+tabularized|把(事实、数字等)列成表格
+tribrachic|tribrach的变形
+tweeter|高频扬声器
+termitaria|termitarium的复数
+topstone|[地名] [美国] 托普斯通
+twang|弦声, 砰然一声, 鼻音
+toluifera|[医] 妥鲁香胶树属
+thunbergia|[网络] 老鸦咀属；山牵牛属；老鸦嘴属
+tecla|[人名] 特克拉
+trinodal|三节的, 有三节的
+tryworks|提炼鲸油的设备
+tetrazyl|[化] 四唑基
+turbos|涡轮（发动机）, 增压涡轮( turbo的复数形式 )
+thusness|如此
+taxidriver|计程车司机
+tenontagra|腱痛风
+taels|两；银两
+triquinoyl|[化] 环己六酮; 三醌基
+thirtyfold|三十倍的
+telotype|电传打字电报机, 电传打字电报
+tobogganing|乘橇作滑雪运动
+twangle|,v.<罕> = twang
+townswomen|townswoman的变形
+therese|(Therese)人名；(德)特蕾泽
+tradeswoman|女商人, 女零售商, 女店主
+tussores|罗缎
+tapachula|[地名] [墨西哥] 塔帕丘拉
+trudellite|易潮石
+tormentress|使痛苦的女人
+thwartship|横越船的
+tiebacks|(tieback 的复数) n. 窗帘钩
+typecase|铅字盘
+tasimeter|微压计( 测量热致膨胀微变化的电气仪表)
+tipoffs|(tipoff 的复数) [电] 在玻璃泡抽真空后真空管隐藏的最后部份
+travelog|旅行见闻讲座, 旅行记录片
+thyroids|甲状腺( thyroid的复数形式 ); 甲状软骨; 甲状腺剂; 甲状腺粉
+touting|兜售( tout的现在分词 ); 招揽; 侦查; 探听赛马情报
+tritish|(字句、意见、引语等)有点陈腐的,有些落俗套的
+talion|同态复仇法, 以牙还牙的报复法
+toolholder|工具的把柄
+trichite|[矿]毛晶(黑曜岩中所含的一种发束状微细结晶)
+tautonymy|重名关系
+tegmen|[医] 盖
+trencher|挖沟者, 木盘
+tingible|[医] 可染的
+truncheons|警棍( truncheon的复数形式 ); （粗短的）棍子; 官杖; <旧>树干
+thetis|[希腊神话]西蒂斯（海神Nereus的女儿）
+tromps|践踏, 跺脚( tromp的第三人称单数 )
+toothpowder|牙粉
+theorems|（尤指数学）定理( theorem的复数形式 ); 命题; 原理; 原则
+torrefied|焙, 烤( torrefy的过去式和过去分词 )
+tangs|强烈的味道或气味（tang的复数形式）
+tabooing|禁忌；禁止
+trespasses|罪过( trespass的名词复数 ); 非法进入
+toecaps|鞋尖装饰, 鞋头( toecap的复数形式 )
+treasured|宝贵的, 珍贵的
+threshing|打谷, 脱粒
+topsman|工头, 绞刑执行人
+thaliacea|[无脊椎] 海樽纲；樽海鞘纲
+teemingness|teeming的变形
+trichlorfon|[化]三氯磷酸酯,敌百虫(用作杀虫剂或驱虫剂)
+thermogram|[医]温度记录图,温度自记图,温谱图
+tetracycline|四环素
+tombs|墓穴( tomb的复数形式 ); 墓葬; 墓群
+tamas|[医]炎痛静，消炎灵[消炎镇痛药]
+tribology|摩擦学
+temerity|鲁莽, 蛮勇
+theophagy|[宗]圣体领食
+trigona|三角
+thionate|[化]硫代硫酸盐
+tacan|[空]塔康( 一种战术空中导航系统)
+teachy|爱说教的
+transgressed|超越( transgress的过去式和过去分词 ); 越过; 违反; 违背
+temperer|回火工人, 鞣革工人, (灰泥、油彩的)调合人, 调合机, 缓和者, 抚慰者
+trims|整理( trim的第三人称单数 ); 修剪; 装饰; 减少
+topsoiling|表层土；上层土
+tarantulite|白岗英石岩
+tottie|[人名] 托蒂
+thoracal|[解]胸的
+tyrannosaurs|(tyrannosaur 的第三人称 -s形式) (=tyrannosaurus)[动]恐龙
+teentsy|<口>很小的,小小的[变体]
+tineoid|[动]谷蛾
+teacups|茶杯( teacup的复数形式 ); 一杯之量
+trichoclasis|[医] 脆发
+testudinated|【动物】龟
+tehee|interj. 嘻, 嘿
+triaxiality|三轴(向),三维(元)
+tubifex|[动]颤蚓,水丝蚓
+trivialness|琐碎, 平凡
+tabic|[医] 脊髓痨的
+telephoto|远距照相的, 摄远的, 传真照相的
+taxying|taxi 的现在分词
+toxicity|毒性
+toolhouse|工具房
+timers|定时器( timer的复数形式 ); 点火调节装置; 时计; （比赛中用的）跑表
+typifying|作为…的典型( typify的现在分词 ); 具有…的特征; 代表; 象征
+transitively|及物地
+tactilely|触觉地
+transoms|(transom 的第三人称 -s形式) n. 横档, 横楣, 横梁
+teetery|<美>摇晃的,不稳的
+temporise|顺应时势, 迎合潮流, (为争取时间)拖延, 应付, 妥协
+tempi|拍子, 发展速度
+trampers|(tramper 的复数) [经] 不定期船
+transiently|[医]adv.短暂地, 仅持续片刻地
+teutophile|亲条顿的, 亲日耳曼的
+tackiest|俗气的( tacky的最高级 ); 粘而未干的; 价廉的; <美><口>寒酸的
+typy|(牲畜)具有品种特点的,生长标准的
+tabernacular|临时房屋的
+tinted|着色的, 带色彩的
+tromba|<意>n.[音]小号,小喇叭
+tam|便帽（苏格兰人戴的）
+tanked|放在槽/箱/柜内的, (非正式)喝醉的
+tumors|肿瘤（tumor的复数）
+tourelle|滚动装置
+toyshop|玩具店
+triquinate|三出五裂的
+thwacker|敲落工；敲击乐器；敲门棍
+toughly|强硬地, 有粘性地, 固执地
+turfite|赛马迷, 赛马通
+tergites|(tergite 的复数) 背甲
+twelves|十二, 12( twelve的复数形式 ); 十二的, 十二个的
+tauri|Taurus 的所有格
+turbinaceous|泥煤的
+tricorporate|（纹章学用语）三体一头的
+tomboyish|顽皮的, 放肆的
+talmudist|<<塔木德经>>研究者, <<塔木德经>>编著者
+tallness|高, 高度
+transmuted|使变形, 使变质, 把…变成…( transmute的过去式和过去分词 )
+trottoir|<法>人行道
+thyrosis|[医]甲状腺机能病
+taxameter|(出租汽车的)自动计费计,自动计程器
+thyridium|明斑
+trapaceae|[网络] 菱科；菱角科
+threshed|打（麦等）( thresh的过去式和过去分词 ); 脱粒; 反复地做; 推敲
+trephined|用环锯行手术( trephine的过去式和过去分词 )
+tylotic|[医] 胼胝的
+thiram|[药]二硫四甲秋兰姆,福美双,双硫胺甲酰(杀菌药)
+tilden|蒂尔登(姓氏)
+trued|整径
+thumbhole|供塞入拇指的孔
+terrene|土的, 土质的, 尘世的
+tewer|tactical early warning 战术预先警报;战术远程警戒
+torulus|隆凸, 小圆凸
+tomtit|大山雀
+tungstate|钨酸盐
+trichostema|毛雄芯属
+turbidimetry|[化] 比浊法
+thickskin|皮厚的人; [比喻]厚脸皮；(对批评等)麻木不仁的人
+togs|衣服
+trabecular|[医] 小梁的, 柱的
+takeoffs|（飞机的）起飞( takeoff的复数形式 ); <喻>（经济的）起飞; 开始; 起跳
+tapotement|叩抚法, 轻叩式按摩法
+tetract|四射海绵骨针
+tokelau|[医]〔托克劳，南太平洋的环状珊瑚岛〕叠瓦癣：同tinea imbricata
+teniente|[地名] [智利] 特尼恩特
+tabernacled|临时房屋；帐篷；神龛
+thyrsoidal|密锥花序的, 象密锥花序的
+thickets|灌木丛( thicket的复数形式 ); 丛状物
+triceps|三头肌
+tivoli|蒂沃利（意大利中部城市）
+tarantulid|舞蝎
+throwdown|[俚]拒绝, 败北, 失败
+triplanes|(triplane 的复数) n. 三翼飞机
+timberland|森林, 林地
+teeterboard|跷跷板
+thins|（使）变稀薄, （使）变稀少, （使）变细( thin的第三人称单数 )
+tshiluba|奇卢伯语(在刚果广大地区当作混合语使用的一种班图语)
+tourer|游览车
+tidology|潮汐学
+takahe|[动] 南秧鸟(产于新西兰,不会飞)
+tessarace|四面体的顶点
+treas|treasure 财富; 财宝; treasury 财政部; 国库
+tetryl|[化]特屈儿,三硝基苯甲硝胺(用作炸药或弹药)
+torcs|(torc 的复数) n.(古代高卢人、布立吞人等戴的)金属饰环, 金属项圈, 金属颈环
+turbocars|(turbocar 的复数) n.涡轮发动机汽车
+truebred|纯种的, 有教养的
+tollbook|软件名称
+tinfoil|锡箔
+theligonum|(=thelygonum)乳头中心点
+tussling|打斗；扭打；剧烈的斗争
+trichord|三弦乐器, 三弦琴
+tourney|参加比赛
+tervalence|[化] 三价
+tuberculose|[植]长有小瘤的, [医]结核性的
+tallow|油脂, 动物脂油
+thwartships|(船)横向地
+treasuries|（政府的）财政部( treasury的名词复数 ); 国库, 金库
+terpinol|双缩松油醇
+thallodic|原植体的, 叶状体的
+thermochrosy|[医] 反射热线性, 选吸热线性
+trephiner|[医] 环钻者
+tertia|粗皮
+thyrogenous|[医] 甲状腺原的, 甲状腺性的
+thoriate|镀钍, 涂钍
+thrumming|指弹( thrum的现在分词 ); 敲打; 乱弹; 轻敲
+tenability|可防守性, 合理性
+tody|鱼狗属的小鸟
+tonoscope|音高镜(歌唱演员能即刻看出自己音高偏差的一种声学仪器)
+tactlessness|粗鲁, 笨拙
+twere|炉壁间, 鼓风管
+townwards|往城里
+transocular|[医] 经眼的
+triglyphic|triglyph的变形
+tetrigid|菱蝗
+tacheometer|准距仪
+tameness|驯服, 温顺
+tristfulness|tristful的变形
+topsoils|(topsoil 的复数) n. 上层土, 表层土
+trefoiled|做成三叶形的, 有三叶模饰的
+transpiring|（事实, 秘密等）被人知道( transpire的现在分词 ); 泄露; 显露; 发生
+trichina|旋毛虫
+titanic|四价钛的
+teratology|畸形学, 神怪故事集
+tristful|悲哀的, 忧郁的
+trilithon|巨石牌坊
+tusser|柞蚕, 野蚕, 柞蚕丝, 野蚕丝
+tuchun|<汉>n.督军(官名, 民国初年一省的最高军事长官兼行政长官)
+tabashir|竹节石
+tien|天津饭；天山
+torma|上唇根
+triangularis|[医] 三角的
+tetraploid|四倍体的
+tonophant|[医] 音振动描记器
+theromorph|[医] 兽形部分, 兽形结构
+teepees|(teepee 的复数) 超视距雷达
+totalising|(totalise 的现在分词) vt. 计算...的总数
+trochar|[医]套管针
+tetania|手足抽搐
+tolbutamide|[药]甲苯磺丁脲,甲糖宁(一种治糖尿病药)
+thruster|向上钻营的人, 推进器
+tetrad|四元组, 四个一组, 四分染色体
+typhus|斑疹伤寒
+towmond|<苏格兰>12个月,1年
+tetrodotoxin|[生化]河豚毒素
+titoist|,adj. Titoism的变形
+tethering|用绳子拴住（牲畜）( tether的现在分词 )
+trichechidae|海牛科
+terrorised|(terrorise 的过去分词) vt. 使恐怖, 恐吓, 威胁, 胁迫
+tyburn|泰伯恩(伦敦的)刑场
+textualist|墨守原文者, 精通原文者
+talmas|旧式大披肩；宽大短外衣
+tetrapteran|有四翅的
+teresina|特雷西纳[巴西东北部城市]
+technics|工艺学
+theomancy|求神问卜(术)
+traits|特性, 特质, 性格（trait的复数）
+transgender|变性人
+trifolium|[植]三叶草
+tirl|使(门锁等)发出格格声; 使旋转
+tawing|（明矾）硝制
+tidewater|潮水, 有潮水域, 低洼海岸
+tucks|塞进( tuck的第三人称单数 ); 翻折; 盖住; 卷起
+taffetas|(taffeta 的复数) [化] 塔夫绸
+tamponed|（妇女月经时用的）卫生棉塞( tampon的过去式和过去分词 )
+tappets|[机] 挺杆；梃杆；[机] 凸轮从动件
+temptations|诱惑, 引诱( temptation的复数形式 ); 诱惑物
+tautophony|同音反复
+trypaflavine|[化] 吖啶黄素
+tobias|托拜厄斯(男子名)
+theorizer|理论家, 老是讲理论的人
+ter|领土（territory）；梯田（terrace）；土地的（territorial）
+tartaric|酒石的, 似酒石的, 含有酒石的
+topiarian|修剪成装饰形式的；修剪成形的 (topiary的变形)
+triremes|(trireme 的复数) n. 三列桨船
+tramcar|有轨电车, 矿车
+tyr|[化] 酪氨酸
+torchlight|火炬之光
+tilmus|摸空, 捉空摸床
+tryptase|类胰蛋白酶
+throbbing|跳动的, 悸动的, 抽动的, 震动的, 颤动的
+tepidly|不冷不热地（tepid的副词形式）
+tasmanite|含硫树脂
+teleost|& adj.[鱼]硬骨鱼(的)
+triteleia|三全属
+terran|地球人；人族
+trapezia|[数]梯形
+triangulator|三角测量员, 三角仪
+teel|(=sesame)[植]芝麻
+tibby|蒂比
+theorematist|定理；原理 (theorem的变形)
+toat|台刨把手
+teutonize|使条顿化
+thamnophilus|[网络] 蚁鵙属；蓝灰蚁鵙
+trepanning|开[套]孔, 打眼, 穿孔(试验)
+trit|[计] 三进制数位
+transpond|转发
+tensimeter|(蒸气)张力计
+tabebuia|(南美图皮语)蚁木
+toryhillite|多霞纳长正长岩
+tacticians|战术家, 策士( tactician的复数形式 )
+traded|交易；贸易（trade的过去分词形式）
+toughs|粗暴的人, 暴徒, 恶棍( tough的复数形式 )
+trainmen|车车务员，乘务员( trainman的名词复数 )
+tallith|犹太教男人晨祷时的披巾
+thiobacillus|[微]产硫酸杆菌,硫杆菌
+twitch|急拉, 抽搐, 阵痛
+transferring|转移, 传递
+tetragram|四个字母组成的词
+tanghinia|[医]海芒果属
+tabular|制成表的, 扁平的, 表格式的, 平坦的
+theatergoing|看戏
+termtime|学期, (苏格兰)(租金/利息的)法定支付期
+thinkingness|thinking的变形
+trawl|拖网
+taverner|酒店主
+tetchily|tetchy的变形
+tritheistic|tritheism的变形
+tiers|等级( tier的复数形式 ); 包扎的人; 一排高过前面一排的东西; 阶梯座位的一排
+tenemental|住房的, 保有物的
+tangency|(在一点上)接触, 相切
+tunnellers|(tunneller 的复数) n. 挖掘隧道的人, 隧道掘进机
+ticktick|重复的滴嗒声
+tachyphagia|速食癖
+toluide|[化]N-某酰基甲苯胺
+tubful|一桶的容量
+thunderheads|(thunderhead 的复数) n. 雷雨云砧
+taps|(美军)熄灯号, 熄灯鼓
+trevet|三脚铁架, 三脚火炉架
+tiddly|很小的, 微不足道的
+thule|极北之地, 神秘的远方
+tical|泰国旧货币单位(现为baht铢)
+troctolite|橄长岩
+trichoptera|[医] 毛翅目
+toxophily|射箭, 对射箭的爱好
+torpedoman|鱼雷兵
+tilapias|(tilapia 的复数) n.[鱼]罗非鱼
+taxaceous|[植]紫杉科的
+taluk|（一些南亚国家的）自治小区
+tauromachy|斗牛, 斗牛戏
+theoretician|理论家
+titillate|呵...痒, 使觉得痒, 使兴奋, 使高兴, 使愉快
+testamentum|[法] 遗嘱, 遗言
+tocophobia|儿童恐怖
+twosomes|两人一起, 一队, 两人玩的游戏( twosome的复数形式 )
+teroxide|三氧化物
+tellurous|[化](含)碲的, (含)亚碲的
+topmast|中桅
+toponymy|地名学, 地名, 部位命名法
+toxicophobia|[医] 毒物恐怖
+trumpeted|大声说出或宣告（trumpet的过去式与过去分词形式）
+treading|踩, 踏( tread的现在分词 ); 踩成; 踏出; 步行于
+toiletries|化妆用品, 梳妆用具, 化妆用具
+thrives|兴盛, 兴隆( thrive的第三人称单数 ); 长得健壮
+thimbled|(缝纫机用的)顶针，针箍；【机械工程】套筒，套管
+townies|城市生活的( townie的复数形式 )
+traced|描绘( trace的过去式和过去分词 ); 追溯; 发现; 跟踪
+tipsters|提供（赛马等）内幕消息的人( tipster的复数形式 )
+treacheries|背信弃义( treachery的复数形式 ); 欺诈; 背叛行为; 欺诈行为
+tonalities|(tonality 的复数) n. 音调, 色调
+trapping|[计] 设陷, 陷入, 俘获
+trenchcoats|(trenchcoat 的复数)  逢凶化吉女福星; [电影]一炮两响
+taeniola|胃隆线
+tribrach|三短节音步
+turtleneck|圆翻领, 高翻领毛衣
+thiosinamine|[化]烯丙基硫脲
+tectiform|两侧下斜的
+terebrantia|锥尾部
+torts|<律>民事侵权行为( tort的复数形式 )
+teleostome|[鱼]硬骨鱼
+tuberiferous|生瘤的, 生核的, 有节结的
+taccaceae|[网络] 蒟蒻薯科；箭根薯科；蛛丝草科
+telenomus|粪蝇
+thrips|蓟马
+tabescent|消耗性的, 摧毁性的, 疲劳的
+tidiness|整齐, 整洁
+thriftier|节俭的( thrifty的比较级 ); 节约的; 茁壮的; 茂盛的
+tucket|<古>(尤指作为骑兵行进信号的)喇叭调
+tampon|塞子, 棉塞, 止血棉塞
+turneresque|adj. 类似(英国风景画家)透纳风格的
+tannery|制革厂, 硝皮厂
+thriftiest|节俭的( thrifty的最高级 ); 节约的; 茁壮的; 茂盛的
+tad|(美)(非正式)男孩, 小孩子, 少量
+tref|(按犹太教食规) 不洁净的, 不可食用的
+tictac|滴答声, 跳动声
+telewriter|[计] 电传打字机
+tyranni|[网络] 霸鹟亚目；霸鶲亚目；篡夺者
+thiopyran|[化] 噻喃
+tabled|桌子；表格；平地层
+trumperies|中看不中用的东西( trumpery的名词复数 )；徒有其表的东西；胡言乱语；废话
+torose|(=torous)多瘤的, 膨涨的, 鼓起的
+tornariae|柱头幼虫 (tornaria的变形)
+thevetia|[网络] 黄花夹竹桃属；黄花夹竹桃之一种
+trematode|吸虫
+tetrasomic|[pl.]四体生物
+tubbable|可放在桶里洗的, 可放入桶中的, 可沐浴的
+tornaria|柱头幼虫
+trochite|茎板
+tensions|（情绪上的）紧张( tension的复数形式 ); 张力; 紧张的状态; （作家或电影导演制造的）紧张气氛
+tranquilness|安静
+thissen|[人名] 西森
+thyrsoid|[植]聚伞圆锥花序状的
+timocratical|timocracy的变形
+trihydric|[化]三羟(基)的
+tubular|管状的
+trichechus|海牛
+terphenyl|三联苯
+transelement|改变...的成分
+tholeiitic|【地质学】(含)拉斑玄武岩的
+tailband|书脊底带,堵头布(指嵌在书脊底边的彩色布带)
+topmaker|毛条商, 毛条厂
+temporising|(temporise 的现在分词) vi. 顺应时势, 迎合潮流, (为争取时间)拖延, 应付, 妥协
+tetradactyle|[医]四指（趾）的, 四指的; 四指畸形
+thermometric|温度计的
+torcher|以火炬照明者, 以火炬诱捕鱼者, 为石板屋顶塞灰泥的工人
+testimonial|证明书, 介绍信, 奖品, 奖金, 奖状, 感谢信, 表扬信
+translocated|改变…的位置( translocate的过去式和过去分词 )
+titters|短促而神经质的笑( titter的名词复数 )
+thruway|过境道路, 直达道路
+telemetering|遥测, 遥测术, 沿无线电遥测线路传送信息
+trilled|颤音的
+thysanuran|[昆]n.缨尾目昆虫(如银汉鱼、 衣鱼等原始无翅昆虫)
+tayassu|[网络] 西猯科；白唇西猯属；白唇西貒属
+toddles|（幼儿等）东倒西歪地走( toddle的第三人称单数 ); 蹒跚行走; <口>溜达; 散步
+todidae|[网络] 短尾鴗科；短鴗尾科
+thermophore|载热固体, 流动床, 蓄热器
+thickish|相当厚的, 相当浓的, 相当粗的, 相当密的
+thamin|眉叉鹿
+tautologous|赘述的；同义反复的（等于tautological）
+trypsinogen|[生化]胰蛋白酶原
+twas|第三世界科学院（The Third World Academy of Sciences）
+toluic|[化]甲苯(甲)酸的
+trichoid|毛状的,像毛的
+twinight|<美>[棒](傍晚开始而)连续两场比赛的
+thridace|[药]莴苣浓汁,莴苣膏(一种镇静剂)
+tampin|管木楦
+trellised|成格状的,有格子架支撑的
+techiness|techy的变形
+taiping|[史]太平天国农民革命参加者, 太平天国的, 太平军的
+trussed|捆绑( truss的过去式和过去分词 )
+thawed|（气候）解冻( thaw的过去式和过去分词 ); （态度、感情等）缓和; （冰、雪及冷冻食物）溶化; 软化
+twoscore|& adj.四十(的), 四十个(的)
+transformism|进化论
+tailfan|(龙虾的)尾扇
+tola|拖拉(印度重量单位)
+theorising|建立理论
+turnicidae|三趾鹑科
+tiredest|疲劳的（tired的最高级）
+tapetum|[动]毯(膜状层, 尤指照膜, 反光组织, 反光色素层)
+taxiplane|出租飞机
+truncate|切去头端, 缩短, 截棱, 使成平面
+tracklayer|铺轨工人, 铺轨机, 履带式车辆, 履带式拖拉机
+timon|愤世嫉俗的人
+trichogen|生发药, 生毛药
+tugging|[医] 牵引感
+tracheid|[植]管胞
+trenches|深沟, 地沟( trench的名词复数 ); 战壕
+tailgates|（卡车等的）后挡板( tailgate的名词复数 )
+tetragenous|四联的, 分裂为四的
+thurm|刻横纹于木头上(使它具有轮转的感觉),岩岬, 岩角, 小断层
+trike|三轮车
+transnatural|超自然的
+totoaba|犬鱼
+takyr|龟裂土
+thwarting|阻挠( thwart的现在分词 ); 使受挫折; 挫败; <旧>横过
+teratogeny|畸形发生, 畸胎形成
+teco|[计]= Text Editor and COrrector,文本编辑程序与校正程序
+testificate|证件
+tirage|香槟酒发酵
+tassels|流苏（tassel的复数形式）
+tramcars|(tramcar 的复数) n. 有轨电车, 矿车
+tuppence|两便士, 两便士银币
+tirailleur|[军]散兵, 狙击兵
+tousles|使（尤指头发）蓬乱( tousle的第三人称单数 ); 粗鲁地处理
+topocentric|以地面上的某点为中心(测定)的,地面点的
+touchstones|试金石, （检验）标准( touchstone的复数形式 )
+tunableness|可调
+tweezered|(tweezer 的过去时) vt. 用镊子钳
+tarweed|粘草, 麻迪菊
+thacker|塞克（人名）
+triploidite|磷锰铁矿
+tubulation|装管; 管段; 制管; 列管
+telecomputer|[计] 远程计算机
+toluylene|甲代亚苯基
+tetchiness|tetchy的变形
+tawdry|廉价而俗丽的
+treatiser|论文；论述；专著；[废语]故事；叙事
+trephines|用环锯行手术( trephine的第三人称单数 )
+taunting|嘲讽( taunt的现在分词 ); 嘲弄; 辱骂; 奚落
+turjaite|云霞黄长岩
+tither|[法] 付什一税者, 收什一税者, 提倡什一税者
+thalidomide|萨力多胺
+tragopan|角雉
+towerlike|[医]塔样的
+terre|Trans-Europe Railroad Express 横贯欧洲铁路特别快车
+theorized|创建理论, 建立学说, 推理( theorize的过去式和过去分词 )
+thermotactic|趋温的, 向热的
+trebleness|treble的变形
+tonelessly|声调平板地
+tangier|丹吉尔 [摩洛哥北部港市]
+trilobitic|trilobite的变形
+tycoons|<日><史>大君( tycoon的复数形式 ); 将军; <口>企业巨头; 大亨
+terras|[人名] 特拉斯
+trave|天花板格；[建]横梁；木缚架
+totaquine|[药]金鸡纳全碱, 全奎宁
+trub|冷却残渣; 含煤页岩
+tambourines|铃鼓, 手鼓( tambourine的复数形式 ); （鸣声似铃鼓的）白胸森鸠
+thymectomy|[医]胸腺切除术
+tarsus|踝, 踝骨, 睑板, 跗骨
+twiny|twine的变形
+tectorium|[医] 耳蜗覆膜, 柯替氏膜
+tutting|发出嘘声( tut的现在分词 )
+thuribles|(thurible 的复数) n. 香炉
+taxa|taxon 的复数
+tortuousness|曲折, 弯曲
+trafficway|开放通行的道路, 公路
+topsoiled|(topsoil 的过去分词) n. 上层土, 表层土
+talus|距骨, 踝, 斜面
+tantrums|突然发怒( tantrum的复数形式 )
+tarbadillo|[西](=tarbardillo)鼠型斑疹伤寒
+tranship|换船, 换车
+terrifically|非常地, 极端地, 可怕地
+tetterwort|血根树
+tubba|[医] 掌跖雅司病
+turneraceae|特纳草科
+tantaliser|[网络] 诱人的
+trangam|<古>小玩意儿,小摆设,小装饰品
+teleport|(心灵学用语)心灵运输(物体、人)
+tailwind|（从后面吹来的）顺风
+tragi|tragus的复数
+telecasters|(telecaster 的复数) n. 电视广播员
+trothless|<古>不忠诚的,不忠实的, 背信弃义的
+tenacula|（外科手术用的）持钩( tenaculum的名词复数 ); [医]n.（拉）持钩, 支持体
+trolleite|羟磷铝石
+trifurcation|三根分叉部
+tachiste|[法语]塔希派画家, 滴色派画家
+traumatized|使受精神创伤( traumatize的过去式和过去分词 ); 使受外伤
+tormented|饱受折磨的
+taintlessly|taintless的变形
+trucking|货车运输业；货车运输；以货易货
+tractors|拖拉机( tractor的复数形式 ); 牵引机; （牵引式挂车的）牵引车; 拖车头
+terebenthene|松节油
+threptic|[医] 营养的
+twigs|细枝, 嫩枝( twig的名词复数 )
+trimmed|切边；平衡的；纵倾的；修整过的
+tarriness|涂柏油, 柏油(质)
+tiering|分层布置; 堆叠
+tubificid|[动]n.颤蚓,颤蚓科环节动物
+toggled|(toggle 的过去分词) n. 绳针, 套索钉
+topsail|上桅帆
+teleplay|电视剧
+turkeybush|少叶苏木
+taskmasters|监工, 工头, 使人卖力工作的严厉的人( taskmaster的复数形式 )
+tailory|裁缝业
+trigamy|一夫三妻, 一妻三夫, 三重婚罪
+taffetized|(织物)仿塔夫绸的
+thyroiditis|甲状腺炎
+trilocular|有三室的, 有三腔的, 有三房的
+toxone|[医] 减力毒素
+tiber|台伯河（意大利中部, 流经罗马）
+thiostannite|硫代亚锡酸盐, 全硫亚锡酸盐
+turnback|懦夫
+thyroidean|甲状腺, 甲状软骨
+tricked|哄骗, 欺骗( trick的过去式和过去分词 ); 打扮
+tonograph|音调描记器
+tuquoque|[拉](“你也一样”式的)反驳, (彼此彼此式的)应酬话
+thelytocia|[医] 产雌单性生殖(只产生雌性后代的单性生殖)
+tiptoeing|踮着脚走, 蹑手蹑脚地走( tiptoe的现在分词 ); 转弯抹角地谈论
+trouvere|叙事诗人
+tollway|<美>收费公路
+telltales|搬弄是非者( telltale的复数形式 ); 指示器; <海>舵角指示器; 警告悬条标（铁路用标志, 表示前有旱桥等）
+tillable|可耕种的, 可耕作的
+tanged|强烈的味道或气味( tang的过去式和过去分词 )
+teleprinter|电传打字电报机
+tachygenesis|简捷发生(昆虫幼期的紧缩发生), 加速发生
+teeniest|<口>极小的, 极微的( teeny的最高级 )
+tupelos|多花紫树，蓝果树，紫树木材( tupelo的名词复数 )
+txt|[计] 文本
+teck|[美俚]=detective
+torturing|拷问的；使受苦的；使痛苦的
+testosterone|睾丸激素
+taxis|[医]整腹法；[动]反射运动；分类法；（古希腊军队的）分队；[语]排列
+taskmaster|工头
+thrones|宝座（ throne的名词复数 ）; 御座; 王位; 帝位
+temporality|暂时性, 暂存事物, 俗人
+trioxide|三氧化物
+telodendrion|[解]终树突
+tailpin|撑脚
+tenderers|(tenderer 的复数) n. 提出者, 投标者
+trinucleus|三核属
+tents|旅游帐篷；住所；塞条（tent的复数）
+tautomeric|[医] 互变异构的
+tuberculoma|[医](尤指脑内的)结核瘤
+troching|【药物】锭剂, 糖锭剂, 片剂
+thelyotoky|产雌单性生殖
+tostado|[地名] [阿根廷] 托斯塔多
+tuffaceous|凝灰质的, 凝灰岩的
+triploids|(triploid 的复数) a. 三倍性的, 三倍体的
+talipedic|[医] 畸形足的
+tamarau|[动](菲律宾产的)黑牛
+terrazzo|磨石子地
+torrentially|急流地;勐烈地
+teemless|贫瘠的
+thrivingly|thriving的变形
+tensors|[数] 张量；[解剖] 张肌
+tracers|(tracer 的复数) n. 追踪者, 描图者, 描绘工具
+tantum|[医]Benzydamine
+trilobita|三叶虫类
+toweling|毛巾料
+thoughtway|思想方法
+triacid|三(酸)价的
+tweediness|粗花呢的品质
+thermoduric|[微]耐热的
+treasuring|重视( treasure的现在分词 ); 珍惜; 珍视; 珍爱
+titivates|<口>打扮（titivate的第三人称单数形式）
+tonsillolith|[医] 扁桃体石
+transiting|通过（transit的现在分词形式）
+theridiid|球腹蛛
+tyrannised|(tyrannise 的过去分词) vi.vt. 施暴政, 实行极权统治, 横行霸道
+tajik|塔吉克人[族]
+typhoeus|百头怪物
+teething|出牙, 出牙现象
+transfuse|输血, 充满
+tylostyle|圆[钝]头针
+trichinella|[动]旋毛虫,旋毛形线虫(一种肠寄生虫)
+tallyho|int. 呔嗬!
+throttling|[化] 节气; 节流
+tiff|一口淡酒, 小争吵, 小口角, 淡酒
+twinkler|发光体
+transposer|换位器
+tigereye|虎眼石
+thioaldehyde|[化]硫醛, 乙硫醛
+tenantable|可租赁的
+trollop|堕落的女人, 妓女
+tambour|鼓, 绷圈
+thuggery|谋财害命
+tropisms|(tropism 的复数) n. 向性, 取向, 定向
+thereagainst|<古>与之相反,反之
+toise|[测]突阿斯(长度单位,约等于1.95米或6.4英尺, 应用于早期大地测量中)
+takers|接受者；购买者（taker的复数）
+transferer|转让人，让与人
+tangentially|无关地
+tasian|[考古]塔萨文化的(新石器时代晚期的一种最早的定居农耕文化)
+tripetaloid|三花瓣形的
+telegony|先父遗传
+theave|幼母羊
+trilemma|三难困难,三难选择的窘境,[逻]三难推理
+taipan|[中]大班(旧中国洋行老板),澳大利亚北部产的一种毒蛇
+tumefying|（使）肿胀, （使）肿大( tumefy的现在分词 )
+tawse|皮鞭的一种
+teaser|戏弄者, 起绒机
+taborin|(用单根鼓棒敲奏的) 狭长小鼓
+trajectory|轨道, 弹道, 轨线
+toral|[植]花托的
+taunted|嘲讽( taunt的过去式和过去分词 ); 嘲弄; 辱骂; 奚落
+thaddeus|撒迪厄斯(男子名)
+tiro|初学者, 生手
+timeshare|分时享用度假别墅的
+tsimmes|骚动,混乱
+thuggee|杀人越货行为, 谋财害命
+talaria|[希神][罗神](众神的信使Mercury或Hemes穿的)有翼凉鞋,(长在脚踝上的)脚翼
+transfixes|刺穿( transfix的第三人称单数 ); 钉住; 使惊恐; 使惊呆
+twibilled|[英国方言]鹤嘴锄；镰刀；[古语]双刃战斧[亦作 twibil]
+torulosis|(=cryptococcosis)隐球菌病
+thromboid|似血栓
+traitorously|叛逆地, 不忠地
+tarpaper|(用作防水材料的)防潮焦油纸, 沥青纸
+tetrahydrate|[化]四水合物
+trimmer|整理者, 装饰者, 修剪者
+throttle|节流阀, 节气阀, 喉咙
+tawniness|黄褐色；茶色 (tawny的变形)
+triradial|三相辐射的
+thiophene|[化]噻吩
+tediousness|沉闷；乏味
+tartness|酸, 尖刻
+tattered|破烂的, 褴褛的
+taenia|装饰头带, 带
+tuneless|不和谐的, 不成调子的
+tegula|[建]具有装饰性外形的瓦
+tiled|用砖瓦覆盖的, 瓦状叠覆的
+toom|空的
+toxiphobia|[心]毒物恐怖
+tubbiness|桶状, 粗短, 钝音
+treadling|(treadle 的现在分词) n. 踏木, 踏板
+thuringian|图林根的,图林根人的,图林根文化的
+thiostannate|硫代锡酸盐, 全硫锡酸盐
+trucker|卡车驾驶员, 从事货车运输业者, 以物易物者, 小贩
+transferor|让与人
+twee|矫饰的, 过分艳丽的
+tarbrush|焦油毛刷
+teer|[人名] 蒂尔
+toxophorous|[医] 毒簇的, 带毒素的
+thwartly|thwart的变形
+toasty|温暖舒适的
+twirling|使快速转动（twirl的ing形式）
+tunned|（装啤酒、葡萄酒等的）大酒桶( tun的过去式和过去分词 )
+tornadic|龙卷风(似)的,旋风(似)的
+traipsing|漫步( traipse的现在分词 ); 拖曳; 在…游荡; 走过
+transfusible|可倾注的, 可输血的, 充满的
+telotrocha|端纤毛轮幼虫
+tractoration|[医] 金属牵引器疗法
+thed|[医][=tetrahydroxy ethylene diamine]四羟基亚乙基二胺
+tweeted|小鸟叫声；自录音再现装置发出的高音
+thyroprivic|[医] 甲状腺缺乏的, 甲状腺切除后的
+toylike|toy的变形
+tabard|纹章战袍, 传令官制服, 粗布外衣
+tempe|潭蓓谷(古希腊提萨里 Thessaly 地方的溪谷)
+titillating|使人痒痒的； 使人激动的, 令人兴奋的
+takilman|[网络] Tak il
+totient|欧拉φ函数
+tenderfeet|tenderfoot的复数形式
+tallyman|以分期方式售货的商人, 装卸货计数人
+tempering|[医] 回火, 淬硬
+topos|(文学创作的)传统主题,(修辞学上的)惯用语句
+tautologist|使用同义反复的人
+thermomotor|热发动机
+tai|泰国国际航空公司（Thai Airways International）
+testaceology|贝类学, 介类学
+testcross|测交(一种使杂种子一代与隐性类型交配以测定杂种子一代遗传型的方法)
+trapt|<古>trap的过去式和过去分词
+trite|老一套的, 陈腐的, 用坏的
+tripwire|绊网
+toadflax|柳穿鱼
+tritopine|[建] 降甲劳丹碱
+teak|柚木
+tob|tender option bond 投标权力保证金; tobacco 烟草
+troublous|暴风雨般的, 棘手的, 动荡不安的
+trimming|整理, 修剪, 装饰, 点缀物, 装饰物, 修剪下来的东西, 诈骗, 击败, 殴打
+toughish|有点儿强硬的, 有点儿粗暴的
+tysonite|氟铈矿
+trundlers|(trundler 的复数) n. 滚动；小脚轮 (trundle的变形)
+tattiest|不整洁的
+talky|对话过多的
+typotheria|型兽亚目
+tachypnea|呼吸急促
+trib|tribal 部落的; tribalism 部落制; tribalist 部落主义; tribology 摩擦学
+turbid|浑浊的, 污浊的, 混乱的, 雾重的
+trigeminus|[解]三叉神经
+triangulates|把...分成三角形, 作三角测量, 使...成三角形
+thir|& adj.<苏格兰>= these
+themed|有特定主题的
+tearless|无泪的, 不流泪的
+thrums|织边( thrum的名词复数 ); 织余; 线头; 纱头
+telotaxis|[生]趋激性,趋触性
+tsarina|沙皇皇后, 女沙皇
+tannest|tan（黄褐色的, 棕黄色的）的最高级形式
+turnbuckle|松紧螺旋扣
+tasting|品尝, 尝味
+triunitarian|(基督教) 三位一体的, 三位一体说的, 信仰三位一体的
+torricellian|experiment[物](导致发现水银气压计制造原理的)托里切利实验
+tournure|腰垫, 姿态
+telethons|(telethon 的复数) n. 长时间电视广播节目
+tracheotomy|气管切开术
+torching|烧去漆; 喷灰泥
+trochanteric|[医] 转子的
+tuitions|学费( tuition的名词复数 ); 课程讲授
+tryptone|胰化(蛋白)胨
+twining|缠绕的
+trichoderma|[医] 木霉属
+tesseract|[数]立方体的四维模拟, 超正方体
+tremogram|震颤描记图
+tatamis|<日>榻榻米（日本人铺在室内地板上的稻草垫）( tatami的名词复数 )
+truncal|树干的, 躯干的
+terminism|唯名论, 悔过期限说
+toused|使蓬乱
+tourbillon|旋风, 旋风涡
+touchline|边线
+tendovaginal|[医] 腱鞘的
+tooted|短鸣, 嘟嘟声( toot的过去式和过去分词 )
+tradesmen|商人
+terrapins|（北美的）淡水龟( terrapin的复数形式 )
+tsk|int. [表示不赞成、同情、不耐烦等]啧啧
+tutoyer|亲密地向…说话,亲密地对待
+toughness|有粘性, 强硬, 强健
+tufthunter|势利小人
+tetramerism|四数性
+terriers|小猎狗( terrier的复数形式 )
+thrombi|血栓
+tabbinet|[纺]波纹塔夫绸, 府纺
+trophesy|[医] 神经性营养不良
+tenderize|使嫩化
+tasselled|饰有穗（或缨、流苏）的
+tortellini|[复]n.(意大利式)饺子
+translucidus|透光云
+taxeme|语法特点
+tuborrhea|[医] 咽鼓管溢
+townish|城镇特有的, 城镇的
+toadyish|谗媚的, 拍马溜须的
+tootles|轻吹, 胡说八道, 嘟嘟地发出( tootle的第三人称单数 )
+tetraxile|有四个轴的
+tarantelle|[网络] 塔兰泰拉舞曲；塔朗泰拉舞曲；塔兰塔拉舞曲
+trivializing|<贬>使显得琐碎[不重要、不难等], 轻视( trivialize的现在分词 )
+triskelia|三腿形饰
+tuneable|可协调的, 能调出和声的,谱好曲的
+teleologist|目的论者
+teng|（汉语）滕；邓（中文姓氏）
+tacca|[网络] 蒟蒻薯属；箭根薯属；收起回复
+thoro|完全的, 彻底的
+tottered|走得或动得不稳( totter的过去式和过去分词 ); 踉跄; 蹒跚; 摇摇欲坠
+teacherless|[计] 无教师的
+tenanted|承租人；房客；佃户；居住者
+tropicalian|海洋热带生物地理界的
+teratogenic|畸形发生的
+tanglement|纠结,混乱
+tripled|（使）增至三倍( triple的过去式和过去分词 )
+tammy|一种便帽（等于tam-o'-shanter）；棉经毛纬平纹呢（等于tammie）；滤汁布
+touchiest|易动气的( touchy的最高级 ); 小心眼的; 需要小心对待的; 棘手的
+topazolite|[矿]黄榴石
+tartare|鞑靼的
+traversed|横越, 穿越, 横贯( traverse的过去式和过去分词 ); （爬山时）作Z形攀登
+toilworn|工作疲劳的, 憔悴的
+totalling|总计；共计
+tagraggery|杂乱的一群
+triptane|[化]三甲基丁烷(一种高抗爆的发动机燃料)
+triskele|(从中心点辐射的) 三曲枝图, 三曲腿图三曲臂图
+twa|环球航空公司(美国)
+truxilline|[化] 吐昔灵
+triole|[音]三连音符
+topognosis|[医] 位置觉
+treacherous|不可信任的, 危险的, 背叛的, 不可靠的
+tatoo|[医]纹身
+thrilled|非常兴奋的; 极为激动的
+trichotomous|[医] 三分的, 分三部的
+toxotidae|射水鱼科
+thumper|用力打的人, 捶击者, 庞然大物
+tremolant|震音的
+twit|责难, 愚弄, 嘲笑
+trunkmaker|制皮箱的人
+torsibility|可扭性,耐扭力, 抗扭力
+tomboys|（喜欢玩闹的）女孩, 假小子, 男孩似的顽皮姑娘( tomboy的复数形式 )
+thrustle|[人名] 思拉斯尔
+tenures|(tenure 的复数) n. 享有, 保有期
+trimera|三跗类
+titivate|打扮, 装饰, 化妆
+tarted|将某人打扮得妖艳, 将某物装饰得俗气（tart的过去式与过去分词形式）
+tortuose|扭曲的, 弯曲的
+telial|冬孢子堆的
+tranships|换船, 换车( tranship的第三人称单数 )
+tokyoite|东京市民
+turtlehead|(产于美洲的)山玄参属的草本植物
+tykes|小孩( tyke的复数形式 ); <英方>野狗; 乡下佬; 粗鲁的家伙
+tallate|[化] 脂肪酸盐; 脂肪酸酯
+timberyard|贮木场
+tln|Toulon/Hyeres; France 法国; 土伦/耶荷机场（代码）; trunk line network 中继线网络
+taphephobia|[医]活埋恐怖(症)
+tombstone|墓石, 墓碑
+thixotropic|[化]触变的,具有触变作用的, 摇溶的
+totalities|(totality 的复数) n. 全体, 总数, 全食
+tetrao|[网络] 松鸡属；琴鸡属
+tweezer|用镊子钳
+tensor|张肌, 张量
+thornbill|[鸟](南美)刺嘴蜂鸟
+thornlike|像刺一样的
+toolshed|(园艺工具等的)工具房,工具室
+toenailed|脚趾甲, 斜钉
+tobogganed|平底雪橇
+toilers|(toiler 的复数) n. 辛苦工作的人, 劳动者
+troilism|(二女一男或二男一女同时进行的)三人间性行为
+transitron|[电] 过渡管
+twitchel|[英方]树篱间小道
+trailblaze|开路, 修路
+telecamera|电视摄影机
+teenie|蒂妮（女子名）
+tribunitian|(古罗马)保民官的,保民官职位的,像保民官的
+turgescence|肿, 肿胀, 浮夸
+tidings|消息
+telemetric|遥测的
+tasmanian|塔斯马尼亚的
+tritiate|[化]使与氚混合,用氚浸渍,给…涂氚, 使氚化
+tramping|[机] 踩紧
+tanned|[医]鞣酸处理的
+tarrying|逗留( tarry的现在分词 ); 停留; 暂住; 徘徊
+tetramorphic|四形的
+terminably|terminable的变形
+trihybrid|[生]三对基因杂种,三对性杂种
+thrombocytic|[医]血小板的
+tricar|三轮汽车
+tss|[计] 任务选择串, 分时服务
+trammel|鱼网, 拘束, 束缚
+trecentist|十四世纪意大利文学家、美术家
+temblors|<美>地震( temblor的名词复数 )
+tinter|着色者, 染色者
+toolhead|[机]刀架,刀夹
+tendriled|【植物学】卷须；卷须状物
+taurean|出生于金牛座时段(约自4月20日至5月20日)的人
+tapper|轻敲者, 电报键
+tuberin|马铃薯球蛋白
+tabacco|(Tabacco)人名；(意)塔巴科
+trismic|牙关紧闭的
+tarente|(=tarentola)塔兰托壁虎
+tapetis|南美林兔(Sylivilagu sbrazilienusis)[亦作 tapiti]
+tingidae|网蝽科
+trt|heat treated 热处理的
+titanosaurus|【古生物】(南美白垩纪的)雷龙
+tannigen|乙酰鞣酸
+toplofty|高傲的, 瞧不起人的
+triticale|(蛋白质丰富且高产的)小麦与黑麦的杂交麦,黑小麦
+trumpetweed|[植]泽兰(尤指贯叶泽兰,斑茎泽兰、 粉绿茎泽兰等)
+tarting|将某人打扮得妖艳, 将某物装饰得俗气（tart的现在分词形式）
+transiency|短暂, 稍纵即逝, 无常
+tritest|(trite 的最高级) a. 老一套的, 陈腐的, 用坏的
+thrombocyte|血小板, 凝血细胞
+torrefaction|烘焙
+tangi|狭窄的峡谷
+teleoptile|成禽, 成羽
+turbulator|[计] 湍流器
+tessellated|棋盘格形的, 镶嵌成棋盘花纹的
+tabouret|小凳子, 绣框
+tropal|衬里织物
+tippytoe|, vi., a & adv.<口> = tiptoe
+tailgated|（卡车等的）后挡板( tailgate的过去式和过去分词 )
+themis|西弥斯(正义女神)
+trichinosed|[医]患旋毛虫病的,受旋毛虫侵扰的
+tidytips|[复] n.[用作单或复][植](产于美国加利福尼亚州的) 宽舌莱氏菊
+triblet|心轴
+tonk|强打, 轻易获胜
+turnstone|翻石鹬
+teleman|<美>(海军)通信译电军士
+tartish|稍酸的, 稍辛辣的
+ticker|滴答响的东西, 断续器
+taboret|小凳子, 绣框
+trailerist|拖带挂车的汽车驾驶员
+tuber|块茎, 突起, 结节
+thymy|麝香草的, 像麝香草的
+tritaph|墓内有三个小墓室的墓葬
+turbellarian|& adj.[动]涡虫(的)
+trochid|马蹄螺
+televising|由电视播送( televise的现在分词 ); 电视拍摄
+thoracostomy|[医]胸廓造口术
+tardily|缓慢地, 迟, 迟延地
+teratologic|[医] 畸形学的
+tryouts|试验( tryout的复数形式 ); 试用; 选拔赛; 试演
+tepid|微温的, 温热的, 不太热烈的
+tinea|癣
+tridynamous|三强雄蕊的
+totalises|(totalise 的第三人称 -s形式) vt. 计算...的总数
+terebinthine|松节油的, 松节油的
+thionic|[化]硫的, 含硫的, 从硫衍生的
+thingamajig|装置, 小机件, 某人, 某物件, 某东西
+tineoidea|[网络] 谷蛾总科；榖蛾总科；谷蛾上科
+tolan|[化]二苯乙炔
+trophosphere|营养圈
+theatral|剧院的；戏剧(性)的；演戏似的, 做作的
+thirsted|（口）渴( thirst的过去式和过去分词 ); 渴感; 长期的干渴; 渴望
+tovar|[人名] 托瓦; [地名] [委内瑞拉] 托瓦尔
+tumulus|冢, 坟墓, 古墓
+thoracica|围胸目
+thermosiphon|温差环流系统, 热虹吸管
+tonically|使精神振作地
+tychite|杂芒硝
+turnaround|转向, 回车道, 转变
+toxalbumic|[医] 毒白蛋白的
+tuboid|似管的,管状的
+telephonists|接线生, 话务员( telephonist的复数形式 )
+toboggan|平底雪橇
+thunderbolts|雷电( thunderbolt的复数形式 ); 意外的事情; 恐吓; 大发雷霆
+trochozoon|担轮动物
+testicle|睾丸
+tincting|色彩；颜色
+tsi|每平方英寸吨数（tons per square inch）；实际空速指示器（True Air speed Indicator）
+trone|<苏格兰>(称大批商品用的)大型衡器
+tahua|[地名] [玻利维亚] 塔瓦
+terrorise|使恐怖, 恐吓, 威胁, 胁迫
+transports|运输工具；传输协议（transport的复数形式）
+tuples|(tuple 的复数) n. 元组, 重数
+tama|[医] 腿足肿胀
+teacherly|如师的; 为师的
+tantalic|[化]含钽的, 正钽的, 五价钽的
+toponymic|地名的; 地名研究的,地名学的
+tularaemia|[兽医]土拉菌病,兔热菌
+toneme|[语]调素,调位
+tidemarks|涨潮点；潮标
+titer|滴定度, 滴定量
+tabanid|[昆]n.虻,虻科昆虫(如马虻、鹿虻、 牛虻等)
+turgite|[矿]水赤铁矿
+thyrocolloid|[医] 甲状腺胶质
+talari|埃塞俄比亚元(埃塞俄比亚旧货币单位)
+triangles|三角形( triangle的复数形式 ); 三人一组; 三角铁（打击乐器）; 三角板
+tweeds|（一套）粗花呢衣服; （用于缝制大衣和成套服装的）粗花呢( tweed的复数形式 ); 花呢套装
+trisotropis|三稜鲈属
+tannins|丹宁酸；鞣酸类
+telegraphers|(telegrapher 的复数) n. 报务员, 电报员
+theocratic|神权政治的
+tortility|扭曲,盘绕
+triformin|[化] 甘油三甲酸酯; 三甲精
+teachership|教师职务(或职位)
+thallus|叶状体, 菌体
+titillator|(昆虫)阳(茎)端突
+texans|德克萨斯人（Texan的复数形式）；德州人队（足球队名）
+telome|[植]顶枝
+truculence|野蛮, 粗暴, 好战
+taka|孟加拉国货币单位；一种土耳其小船
+thermalized|热化
+tripart|有三部分的,分成三个部分的,三分的,三分裂的
+theorizes|创建理论, 建立学说, 推理( theorize的第三人称单数 )
+tannish|浅棕色的,淡褐色的
+tarpaulins|防水帆布, 防水帆布罩( tarpaulin的复数形式 )
+topicality|时事性, 时事性话题
+thecate|[生]具膜的,具鞘的
+tasted|尝, 品尝, 尝到( taste的过去式和过去分词 ); 吃; 喝; 浅尝
+torpescence|迟钝, 不活泼
+trifarious|三向的
+tumbler|平底玻璃杯, 一杯的容量, 杂技演员, 翻斤斗者
+triune|三位一体的
+throating|滴水槽[线]
+therefor|为此, 因之
+tenner|十英镑纸币, 十美元纸币, 十英镑, 十美元
+torchere|高蜡扦，高灯架
+tautochrone|[数]等时曲线,等时降落轨迹
+tervalent|三价的
+transfixed|刺穿( transfix的过去式和过去分词 ); 钉住; 使惊恐; 使惊呆
+tailorism|裁缝的劳动、工作或产品
+thyestean|吃人肉的(希腊神话, Thyestes 为Atreus之弟, 曾诱奸其嫂并逐兄篡位, 后来 Atreus 复位, 将 Thyestes 诸子杀死, 设宴令 Thyestes 吃他儿子的肉, 故有此意)
+telemeter|测距仪, 测远器, 遥测计, 遥测发射器, 遥测仪
+threaped|斥责, 责骂, 争论( threap的过去式和过去分词 )
+taverna|（希腊的）酒馆, 餐馆
+tramontana|[气](从阿尔卑斯山和西地中海向南或西南狂吹的)干冷北风,屈拉蒙塔那风
+tsadi|希伯来语的第十八个字母
+thribble|三联管
+ternlet|小燕鸥
+tway|天汇汉字系统
+tearfully|泪汪汪地, 流泪地
+teutonism|条顿主义, 条顿风尚
+tyrannicide|诛弑暴君, 诛杀暴君者
+thiophosgene|硫光气, 二氯硫化碳, 硫羰化二氯
+thiazide|[药]噻嗪化物,噻嗪类(利尿药, 尤用于降低血压)
+terence|特伦斯（男子名）
+terrine|陶制盖碗,陶制盖碗食品,(烧菜兼上菜用的)沙锅
+tempora|颞颥
+thrombopenia|血小板减少症
+tutiorism|[宗]更稳妥说(天主教神学道德论学说之一,认为在道德上有怀疑时最好还是稳妥行事,坚守诫规)
+tangling|（使）缠结, （使）乱作一团( tangle的现在分词 )
+thyroprival|[医] 甲状腺缺乏的, 甲状腺切除后的
+toxotes|[网络] 步弓手；弓兵；希腊弓兵
+taxing|繁重的, 费力的
+timbrel|小手鼓
+toyful|toy的变形
+tutoring|当家庭教师( tutor的现在分词 ); 任大学导师; 任课
+trapeziums|梯形, <美>不规则四边形( trapezium的名词复数 )
+teammates|队友, 同队队员
+tari|Taiwan Agricultural Research Institute 台湾农业研究院; tannic acid-Ringer incubation 鞣酸-林格孵育
+toothy|露齿的
+teemful|丰产的, 多果的
+typefounders|(typefounder 的复数) n. 铸字工人
+tawnies|(tawny 的复数) a. 黄褐色的, 茶色的
+tuyere|鼓风口
+trisodium|[化]三钠的
+tora|教训, 神谕
+thermograph|温度记录器
+tortillon|擦笔(指绘画或着色用的软木笔或纸卷、皮卷)
+towered|有塔的, 高耸云霄的
+trammeled|束缚, 妨碍( trammel的过去式和过去分词 ); 用网捕捉
+transfigured|改变…的外表, 美化, 使变得高尚或理想( transfigure的过去式和过去分词 )
+thane|大乡绅, 领主
+telestich|各行最后的字母可缀合成一名(或一词)的短诗
+tafferel|船尾上部, 船尾栏杆
+taxaceae|[医] 紫杉科
+talipomanus|[医] 畸形手
+travestied|歪曲；滑稽作品；拙劣的模仿作品
+tweel|炉闸门
+titania|[化] 二氧化钛
+transferror|让与人
+tallier|塔莱尔
+thuggism|暗杀
+tungstenic|钨的, 含钨的
+truster|信托人
+tsimshian|钦西安人；钦西安语
+terephthalic|(=terephthalic acid)[化]对苯二酸, 对酞酸
+towson|[地名] [美国] 陶森
+thecasporous|子囊孢子的, 具子囊孢子的
+tabbing|[计] 标志
+trouts|鳟鱼( trout的复数形式 )
+tugs|猛拉( tug的名词复数 ); 猛拖; 拖船
+tardo|缓慢的
+taurotragus|[网络] 牛皮癣
+tympany|鼓胀, 鼓响, 鼓音
+trondhjemite|奥长花岗岩
+theandric|神人两性结合的, 神人的
+tonetically|tonetic的变形
+tenesmic|[医] 里急后重的, 下坠的
+texturally|组织上地, 构造上地
+tympani|定音鼓
+trifocal|三焦距的
+tetras|(tetra 的复数) n. 脂鲤
+tagging|[计] 标记, 特征, 标签
+tomfoolery|愚蠢的举动, 无聊的小玩意
+telemetered|测距器( telemeter的过去式和过去分词 )
+telegraphist|报务员, 电报员
+tannic|丹宁酸的, 得自鞣革的
+topman|地面上做杂务的建筑工人
+thermostat|自动调温器, 温度自动启闭装置
+typhoaemia|[医] 伤寒菌血症
+thyrotome|(外科手术中切开甲状软骨用的)甲状软骨刀
+tolamine|对甲苯磺酰氯胺钠, 氯胺-T
+telephones|电话；电话机（telephone的复数）
+teaseling|使起绒( teasel的现在分词 )
+terebella|锯形产卵器
+thomsenolite|方霜晶石
+trichloride|[化]三氯化物
+trombonists|长号手( trombonist的复数形式 )
+tomes|大而重的书( tome的复数形式 )
+tolerating|容许( tolerate的现在分词 ); 承认; 忍受; 容忍（不同意或不喜欢的事物）
+thitherto|到那时为止,直到那时
+tetanic|破伤风的, 强直性的
+transinsular|[医] 经岛的
+tinaja|[西]碗形潭
+tepal|[植](瓣状)被片
+transcribed|（用不同的录音手段）转录( transcribe的过去式和过去分词 ); 改编（乐曲）（以适应他种乐器或声部）; 抄写; 用音标标出（声音）
+twirly|急速旋转
+trimorphic|三形的
+tholos|(=tholus)[建]圆形建筑物
+teamer|驾驭联畜运输车的人; 卡车司机[亦作 teamster]
+thoroughwax|[植]圆叶柴胡
+timeworker|计时工作 (timework的变形)
+theodore|希欧多尔（男子名）
+toleration|宽容, 默认, 信仰自由
+tetrachord|四音音列, 四弦琴
+thaumasite|硅灰石膏(风硬石)
+thecla|[人名] 塞克拉
+tuinga|发冠
+tophaceous|凝灰岩色的
+trances|出神( trance的名词复数 ); 昏睡状态; 狂喜; 入迷
+tenour|<古>=tenor
+tetartoconid|[医] 下后内尖, 下颔双尖牙后内尖
+transuranium|超铀元素, 铀后元素
+taffety|平纹皱丝织品
+thermostated|恒温器；自动调温器
+triolet|八行两韵诗
+trapezial|[医] 斜方形的; 大多角骨的
+tableting|[化] 制锭
+tricolors|(tricolor 的复数) a. 三色的, 三色国旗的
+troper|【修辞学】转义；转喻, 隐喻, 比喻, 反语[参较 figure of speech]；转义语词；辞藻
+tenderised|tenderise的变形
+thumbstall|拇指套
+theurgic|theurgy的变形
+teeny|极小的, 小小的
+thapsia|[医] 毒胡萝卜
+twinged|阵痛；悔恨
+touser|指明目的用户方（Oracle 数据库）
+tare|巢菜, 稗子, 皮重
+triplicity|三倍, 三个一组, 三位一体
+thamnophis|[网络] 束带蛇属；袜带蛇
+tubilingual|[鸟]有管状舌的
+thrower|投掷者, 发射器, 喷射器, 制陶坯的工人
+tactless|不机智的, 不机敏的
+toreutics|金属细工(术)
+typefoundry|铸字工场
+tumblehome|侧璧内倾
+trochiscus|[医] 锭剂, 糖锭
+tunnels|隧道, 地道( tunnel的名词复数 ); （动物栖息的）穴
+thegnly|【英国历史】大乡绅的；适合于大乡绅的；(苏格兰)受封采邑的领主的；受封为男爵的酋长的
+telethon|长时间电视广播节目
+thankyou|谢谢
+toluol|甲苯
+tapadera|<美方>踏镫革片,革制马镫罩
+timeliness|[经] 时间性, 及时性
+togue|[鱼]湖红点鲑
+teloblast|[医] 端细胞
+telergy|心灵感通作用
+transmittals|提送函；传送（transmittal的复数）
+tremolitic|tremolite的变形
+theopathetic|[宗]神意感应的
+trudger|跋涉[步行]者
+thelyplasty|[医] 乳头成形术
+travertine|[地]石灰华
+tebet|(历法)太贝特月(即犹太教历10月,犹太国历4月,在公历12月至1月间,共29天)
+thuringite|鳞绿泥石
+teasy|爱戏弄人的,令人恼火的
+travesty|拙劣的模仿作品, 嘲弄, 滑稽模仿
+tosspot|<古>酒徒, 醉汉
+tonoplast|[植](包围植物细胞液泡的)液泡膜
+tabling|盖顶, 束带层, 墙帽, 嵌合
+translucency|半透明, 半透明度, 半透明性
+tugboatman|拖船工人,拖船船夫
+thriver|thrive的变形
+thermotaxis|趋温性, 向热性, 体温调节
+thielavia|[网络] 梭孢壳属；喜热菌；梭孢壳菌属
+tooter|嘟嘟声；痛饮 (toot的变形)
+tuamotu|土阿莫土语(南太平洋土阿莫土群岛上通用的波利尼西亚语)
+tautomerize|[化](使)发生互变(异构)现象
+trivalence|三价
+tedesco|[人名] 特德斯科
+teutophobia|恐条顿病,恐德病
+textuary|原文的,文本的,正文的
+twizzle|导纱钩
+thyreoitis|[医] 甲状腺炎
+tails|(非正式)燕尾服, 男子夜礼服, 钱币背面, 硬币的背面
+trunks|男用运动短裤, 男式游泳裤
+tellable|可讲的, 值得说的
+tillman|蒂尔曼（人名）
+twangy|似弦声的
+teals|水鸭( teal的复数形式 )
+thickener|增稠器, 增稠剂
+tragedies|惨事, 灾难( tragedy的名词复数 ); 悲剧
+throbbed|抽痛( throb的过去式和过去分词 ); （心脏、脉搏等）跳动
+tho|虽然；尽管；即使；然而；可是（though）
+trollopy|懒妇的, 懒妇般的, 娼妇的, 娼妇般的
+tommies|(tommy 的复数) n. 配给面包, 实物工资制
+theelin|[生化]雌(甾)酮(estrone的旧称)
+thymacetin|百里酚N-乙酰基乙氧苯胺
+technetronic|(以)电子通讯技术(为特征)的
+teargas|用催泪瓦斯袭击
+tremulant|震颤的
+trusty|可信任的, 可信赖的, 可靠的
+typhoidin|[医]伤寒菌素
+thalamus|闺房, 内室, 花托
+trifoliolate|有三小叶的
+technicalize|使专门化
+topological|地志学, 拓扑学, 局部解剖学
+tamaraite|辉闪霞煌岩
+tootsy|宝贝儿, 亲爱的
+terraces|阶地；梯田；露台（terrace的复数）
+transaudient|[医] 透声的
+tripterous|[植]三翅的
+totalizing|[计] 总计, 累加
+thirties|三十( thirty的名词复数 ); 三十个; 三十年代; <网>一局中一方获得的第二分
+theoriser|[网络] 理论家
+tenuis|清塞音
+tenaculum|持钩
+tallest|最高的
+terracing|[医] 多层缝术
+touse|吵架,骚动
+tzitzis|(正统犹太人的外衣四周的)披肩流苏
+turkeyfoot|欧洲花梗
+typographic|印刷的, 排字上的
+transplanter|移植者, 移植机
+tedge|直立物
+trunkfuls|许多；一满箱
+terce|古时液体容积单位, 等于42加仑
+tutela|[法] 监护
+trinomen|三名
+traumatizes|使受精神创伤( traumatize的第三人称单数 ); 使受外伤
+troostite|[矿]锰硅锌矿,屈氏体
+tightens|收紧( tighten的第三人称单数 ); （使）变紧; （使）绷紧; 加紧
+tartly|辛辣地, 刻薄地
+trackless|无足迹的, 无路的
+teli|(Teli)人名；(意)泰利
+toxinfection|[医] 毒素感染, 毒素传染(只有毒素所致的中毒症状,而找不到病菌)
+teakettles|茶壶，烧水壶( teakettle的名词复数 )
+tenebrific|阴沉的, 产生阴暗的, 造成黑暗的
+tastiness|[医]滋味, 味道
+tinged|[医]淡色的
+terpsichore|忒耳西科瑞（司舞蹈和合唱的女神）
+thecae|[医] 膜, 鞘
+tiu|蒂乌(日耳曼神话中的战争和天空之神)
+topnotch|最高度
+typefounder|铸字工人
+torrents|倾注；激流, 奔流（torrent的复数形式）
+tariffing|制定运价表
+tolling|[财]来料加工
+tithingman|(古时英国的)十户区区长; (英国的)地方治安官; 什一税收税员; 警察
+thready|线制的, 像线的, 纤维性的
+tahsildar|(印度税区的)税务员,收税人
+tresis|穿破, 穿孔
+thumped|重击, （指心脏）急速跳动( thump的过去式和过去分词 )
+tulipomania|郁金香狂(指对种植或获取郁金香的一种狂热)
+tenthredinid|叶蜂(的)
+tetrahydride|四氢化物
+tenuirostres|细喙类
+tobaccoism|[医] 烟草中毒
+telepathist|传心术者, 传心术学者
+toddle|东倒西歪地走, 蹒跚学步, 溜达
+tufaceous|凝灰岩的
+torpidly|迟钝地, 有气无力的
+trajected|传达；通过；输送
+triandrian|三雄蕊花的
+tussah|柞蚕, 野蚕, 柞蚕丝, 野蚕丝
+tunelessly|不入调地；不悦耳地
+tinkler|补锅匠
+thinners|[助剂] 稀释剂；天拿水
+trailhead|小道的起点
+thyroid|甲状腺的, 甲状的, 甲状软骨的
+twinship|孪生
+telar|[医] 组织的, 组织样的
+titration|滴定
+thermophilic|适温的, 喜温的
+tinction|着色, 染色
+termly|定期的
+thefts|偷盗( theft的复数形式 ); 偷窃; 盗窃之物; 失窃案例
+thickly|厚地；浓地
+tabernacles|临时房屋( tabernacle的复数形式 ); 帐篷; 身体; 壁龛
+tweaking|捏, 扭, 拧；对…稍作调整（tweak的现在分词）
+triforia|triforium的复数形式
+toxical|[医]毒的, 有毒的, 中毒的
+thetas|希蜡字母的第八字；时间递耗值
+teleprinters|[通信] 电传打字机, 电传打字电报机
+trochlea|滑车
+thioindigo|硫靛蓝
+timeouts|超时设定
+thiamide|硫羰胺
+tropophyte|[植]湿旱生植物
+transcriber|抄写者, 誊写员, 抄录器, 信息转换器, 读数器
+tailcoated|(tailcoat 的过去时) n. 燕尾服
+teasingly|烦恼地,受嘲弄地
+tzaddik|[希伯来语] = zaddik
+tigress|母虎, 雌虎
+traitorous|叛逆的, 不忠的, 背信弃义的
+thumber|(要求)搭乘他人汽车旅行的人
+tinful|锡；罐头, 罐；马口铁 (tin的变形)
+trappoid|暗色岩状
+throwout|切断；抛出

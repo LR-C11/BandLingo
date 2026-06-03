@@ -1,0 +1,5572 @@
+phone|手机
+play|玩
+please|请
+page|页面
+park|公园
+plane|飞机
+price|价格
+product|产品
+paper|纸
+pen|笔
+pencil|铅笔
+photo|照片
+picture|图片
+physics|物理
+patient|病人
+pain|疼痛
+possible|可能的
+previous|上一个
+practice|练习
+prize|奖品
+party|派对
+plan|计划
+past|过去
+present|现在
+progress|进步
+proud|骄傲的
+polite|礼貌的
+protein|蛋白质
+photosynthesis|光合作用
+physiology|生理学
+pathogen|病原体
+pressure|压力
+pollution|污染
+program|程序
+programming|编程
+password|密码
+profile|个人资料
+prevention|预防
+parking|停车
+passport|护照
+payment|支付
+purchase|购买
+professor|教授
+project|项目
+pack|打包
+paint|绘画
+participate|参与
+pass|通过
+pay|支付
+perform|表演
+permit|允许
+persuade|说服
+pick|挑选
+point|指向
+possess|拥有
+postpone|推迟
+praise|表扬
+pray|祈祷
+predict|预测
+prepare|准备
+preserve|保护
+press|按
+prevent|预防
+produce|生产
+promise|承诺
+protect|保护
+prove|证明
+provide|提供
+pull|拉
+push|推
+painful|痛苦的
+pale|苍白的
+parallel|平行的
+parental|父母的
+partial|部分的
+particular|特殊的
+passionate|热情的
+passive|被动的
+peaceful|和平的
+perfect|完美的
+personal|个人的
+physical|物理的
+plain|朴素的
+plastic|塑料的
+pleasant|愉快的
+pleased|高兴的
+plenty|大量的
+plus|正的
+poor|贫穷的
+popular|受欢迎的
+positive|积极的
+potential|潜在的
+practical|实用的
+precious|珍贵的
+precise|精确的
+prepared|准备好的
+pretty|漂亮的
+primary|主要的
+prime|主要的
+principal|主要的
+prior|优先的
+private|私人的
+probable|可能的
+professional|专业的
+profound|深刻的
+progressive|进步的
+prominent|突出的
+proper|适当的
+prospective|预期的
+public|公共的
+pure|纯粹的
+purple|紫色的
+puzzled|困惑的
+painter|画家
+pharmacist|药剂师
+photographer|摄影师
+pilot|飞行员
+plumber|水管工
+police|警察
+politician|政治家
+pasta|意大利面
+peach|桃子
+pear|梨
+pepper|胡椒
+pizza|披萨
+potato|土豆
+panda|熊猫
+parrot|鹦鹉
+penguin|企鹅
+pig|猪
+pharmacy|药店
+post|邮局
+prison|监狱
+pillow|枕头
+parent|父母
+peace|和平
+pleasure|快乐
+power|权力
+problem|问题
+paddle|划桨
+pair|配对
+pamper|溺爱
+pant|喘气
+parade|游行
+paralyse|使瘫痪
+parameter|参数
+part|分离
+partner|合伙
+paste|粘贴
+pat|轻拍
+patch|修补
+pause|暂停
+peck|啄
+pedal|踩踏板
+peel|剥皮
+peep|偷看
+penetrate|渗透
+perceive|感知
+perish|灭亡
+persevere|坚持
+persist|坚持
+personify|拟人化
+pertain|关于
+pierce|刺穿
+pinch|捏
+pine|渴望
+place|放置
+plant|种植
+plead|恳求
+pledge|保证
+plunge|投入
+poke|戳
+polarise|极化
+polish|抛光
+pop|弹出
+pounce|猛扑
+practise|练习
+preach|布道
+precede|先于
+precipitate|促成
+prefer|偏爱
+prescribe|开处方
+preside|主持
+pretend|假装
+prick|刺
+print|打印
+prioritise|优先处理
+probe|探查
+proceed|继续
+process|处理
+procure|获得
+profess|声称
+programme|编程
+prohibit|禁止
+promote|促进
+prompt|提示
+propel|推动
+prophesy|预言
+propose|提议
+prosecute|起诉
+protest|抗议
+provoke|挑衅
+publicise|宣传
+pump|泵送
+punch|拳击
+puncture|刺穿
+punish|惩罚
+pursue|追求
+put|放
+puzzle|困惑
+phosphorus|元素周期表的第15个，磷，缩写P
+potassium|元素周期表的第19个，鉀，缩写K
+palladium|元素周期表的第46个，鈀，缩写Pd
+praseodymium|元素周期表的第59个，鐠，缩写Pr
+promethium|元素周期表的第61个，鉕，缩写Pm
+platinum|元素周期表的第78个，鉑，缩写Pt
+polonium|元素周期表的第84个，釙，缩写Po
+protactinium|元素周期表的第91个，鏷，缩写Pa
+plutonium|元素周期表的第94个，鈽，缩写Pu
+possibility|可能性
+possibly|可能地
+payable|可支付的
+payably|可支付地
+peacefully|和平地
+peacefulness|和平
+pleasing|令人愉快的
+pleasingly|令人愉快地
+pleasance|愉快
+powerful|强大的
+powerfully|强大地
+powerfulness|强大
+praiseworthy|值得赞扬的
+praiseworthily|值得赞扬地
+prediction|预测
+predictable|可预测的
+predictably|可预测地
+preparation|准备
+preparedly|准备好地
+presentation|展示
+presently|目前
+preventive|预防的
+preventively|预防地
+production|生产
+productive|生产的
+productively|生产地
+protection|保护
+protective|保护的
+protectively|保护地
+proof|证明
+proven|已证明的
+provably|可证明地
+punishment|惩罚
+punishable|可惩罚的
+punishably|可惩罚地
+pursuit|追求
+pursuant|依据的
+pursuantly|依据地
+philosophy|哲学
+philosophical|哲学的
+philosophically|哲学地
+philosophize|哲学思考
+profit|利润
+profitable|有利可图的
+profitably|有利可图地
+programmable|可编程的
+programmably|可编程地
+pharmaceutical|制药的
+pharmaceutically|制药地
+pharmacize|用药
+paintable|可绘制的
+paintably|可绘制地
+poetic|诗歌的
+poetically|诗歌地
+poetize|使诗歌化
+pollutive|污染的
+pollutively|污染地
+psychological|心理的
+psychologically|心理地
+psychologize|心理分析
+poetry|诗歌
+psychology|心理学
+pollute|污染
+proteins|蛋白质
+proteinaceous|蛋白质的
+proteinaciously|蛋白质地
+photosyntheses|光合作用
+photosynthetic|光合作用的
+photosynthetically|光合作用地
+parasite|寄生虫
+parasites|寄生虫
+parasitic|寄生的
+parasitically|寄生地
+predator|捕食者
+predators|捕食者
+predatory|捕食的
+predatorily|捕食地
+prey|猎物
+preyful|猎物的
+preyfully|猎物地
+pollinate|授粉
+pollination|授粉
+pollinating|授粉的
+pollinatingly|授粉地
+proliferate|增殖
+proliferation|增殖
+proliferative|增殖的
+proliferatively|增殖地
+pathogens|病原体
+pathogenic|病原的
+pathogenically|病原地
+protozoa|原生动物
+protozoan|原生动物
+protozoal|原生动物的
+protozoally|原生动物地
+piscivorous|食鱼的
+piscivores|食鱼动物
+piscivorously|食鱼地
+preservation|保存
+preservations|保存
+preservational|保存的
+preservationally|保存地
+pollutions|污染
+pollutional|污染的
+pollutionally|污染地
+population|种群
+populations|种群
+populationally|种群地
+phototrophic|光能营养的
+phototrophs|光能营养生物
+phototrophically|光能营养地
+phytoremediation|植物修复
+phytoremediations|植物修复
+phytoremediational|植物修复的
+phytoremediationally|植物修复地
+polysaccharide|多糖
+polysaccharides|多糖
+polysaccharidic|多糖的
+polysaccharidically|多糖地
+philippines|菲律宾
+pakistan|巴基斯坦
+pakistans|巴基斯坦
+pakistani|巴基斯坦的
+pakistanily|巴基斯坦地
+palestine|巴勒斯坦
+palestines|巴勒斯坦
+palestinian|巴勒斯坦的
+palestinianly|巴勒斯坦地
+poland|波兰
+polands|波兰
+polishly|波兰地
+portugal|葡萄牙
+portugals|葡萄牙
+portuguese|葡萄牙的
+portuguesely|葡萄牙地
+papua|巴布亚
+papuas|巴布亚
+papuan|巴布亚的
+papuanly|巴布亚地
+palau|帕劳
+palaus|帕劳
+palauan|帕劳的
+palauanly|帕劳地
+phnom|金
+phnoms|金
+phnomly|金地
+penh|边
+penhs|边
+penhly|边地
+paris|巴黎
+parisian|巴黎的
+parisianly|巴黎地
+port|港
+ports|港
+portly|港地
+partnership|合伙
+productivity|生产力
+portfolio|投资组合
+policy|政策
+procedure|程序
+proposal|提案
+principle|原则
+patent|专利
+property|财产
+penalty|处罚
+perception|感知
+personality|人格
+perspective|观点
+psychologist|心理学家
+psychiatrist|精神科医生
+phobia|恐惧症
+purpose|目的
+patience|耐心
+painting|绘画
+portrait|肖像
+photography|摄影
+piano|钢琴
+performance|表演
+props|道具
+producer|制片人
+poem|诗
+prose|散文
+plot|情节
+player|球员
+position|位置
+pool|游泳池
+plate|本垒
+poker|扑克
+perseverance|毅力
+physiological|生理学的
+planning|规划
+perfection|完美
+probability|概率
+personnel|人员
+participant|参与者
+person|人
+period|时期
+phase|阶段
+passion|热情
+prospect|前景
+pessimism|悲观
+prayer|祈祷
+psyche|心灵
+pioneer|先驱
+performer|表演者
+prestige|声望
+printer|打印机
+privacy|隐私
+promotion|晋升
+pending|待处理
+priority|优先
+poll|投票
+president|总统
+pattern|图案
+paperclip|回形针
+pin|别针
+pocket|口袋
+peek|偷看
+pout|撅嘴
+pour|倾倒
+pupil|瞳孔
+particle|粒子
+proton|质子
+prototype|原型
+pill|药片
+pickled|腌制的
+polar|极地的
+province|省
+plaza|广场
+path|小路
+portion|一部分
+piece|片
+pebble|鹅卵石
+pitch|沥青
+pigment|颜料
+package|包裹
+parcel|包裹
+packet|小包
+pouch|小袋
+purse|钱包
+pace|步伐
+palm|手掌
+pan|平底锅
+panic|恐慌
+parliament|议会
+passage|通道
+pathway|途径
+patrol|巡逻
+patron|赞助人
+pave|铺路
+peak|顶峰
+peasant|农民
+peculiar|奇怪的
+peer|同龄人
+pension|养老金
+percentage|百分比
+petition|请愿
+phenomenon|现象
+phrase|短语
+pipeline|管道
+plea|恳求
+plug|插头
+poison|毒药
+politics|政治
+pond|池塘
+portable|便携的
+portray|描绘
+pose|姿势
+poverty|贫困
+powder|粉末
+prairie|草原
+pregnant|怀孕的
+prejudice|偏见
+preliminary|初步的
+premise|前提
+premium|保险费
+presence|存在
+presume|假设
+prevail|盛行
+primarily|主要地
+primitive|原始的
+privilege|特权
+procession|队伍
+proclaim|宣布
+profession|职业
+proportion|比例
+prosperity|繁荣
+publication|出版物
+publish|出版
+patients|病人
+places|地方
+pet|宠物
+phones|电话
+participants|参与者
+probably|大概
+percent|百分之…
+paragraph|段落
+policies|政策
+phantom|幽灵
+parts|部分
+published|出版
+programs|节目
+products|产品
+plans|计划
+prices|价格
+people|人
+pets|宠物
+playing|玩耍
+perhaps|或许
+paragraphs|段落
+per|每
+paying|支付
+parents|父母
+paid|有偿的
+problems|问题
+passages|段落
+possession|拥有
+proximately|近似
+priceless|无价的
+preference|偏爱
+prematurely|早熟地
+preindustrial|工业化以前的
+prevalence|流行
+permanent|永久的
+perpetual|永久的
+pessimistic|悲观的
+prolonged|长时间的
+permeate|渗透
+payroll|工资总额
+philosopher|哲学家
+pronoun|代词
+publicity|宣传
+prevailing|流行的
+predominantly|占主导地位地
+presidency|总统任期
+publicize|宣传
+pasture|牧场
+plough|犁
+privileged|有特权的
+paradox|悖论
+ponder|仔细考虑
+paradise|天堂
+potentially|潜在地
+persistent|持续的
+precision|精确性
+paralyze|瘫痪
+puzzling|迷惑的
+proposition|提议
+postdoctoral|博士后的
+prioritize|优先
+pragmatic|务实的
+precedent|先例
+pessimist|悲观主义者
+prolong|延长
+principally|主要
+periodic|周期的
+peripheral|外围的的
+perimeter|周（边）
+platform|政纲
+predominant|占优势的
+prophet|预言家
+prophecy|预言
+preset|预先装置
+postal|邮政的
+postulate|假定
+prescription|药方
+proverb|谚语
+pickle|腌制食品
+propaganda|宣传
+pacific|性情温和的
+puppy|小狗
+pamphlet|小册子
+pilgrim|香客
+petty|细小的
+physically|身体上
+plague|瘟疫
+peril|危机
+propulsion|推进
+presumably|推测起来
+projector|投影仪
+popularity|通俗性
+purify|提纯
+peculiarity|特性
+proficient|熟练的
+proficiency|熟练
+pantry|食品柜
+positively|确定的
+persuasion|劝说
+pious|虔诚的
+predecessor|前辈
+pertinent|恰当的
+periodical|期刊
+persecute|迫害
+practicable|能实行的
+pumpkin|南瓜
+promptly|敏捷地
+perplex|迷惑
+pore|毛孔
+propeller|螺旋桨
+prevalent|流行的
+prism|棱镜
+pants|裤子
+peacock|孔雀
+pneumatic|空气的
+polymer|聚合物
+prohibition|禁止
+prudent|谨慎的
+parachute|降落伞
+persistence|坚持
+poultry|家禽
+polarity|（人、意见或观念的）截然相反
+piston|活塞
+pulley|滑轮
+pal|好朋友
+pedestrian|行人
+pest|害虫
+pirate|海盗
+provision|规定
+photoelectric|光电的
+pipe|管乐器
+pluck|鼓起（勇气）
+plateau|高原
+pineapple|凤梨
+plump|丰满的
+partition|分开
+propagation|繁殖
+propagate|传播
+porcelain|瓷 adj. 瓷的
+perpendicular|垂直的
+puff|喘气
+penetration|穿入
+proceeding|程序
+panther|豹
+patriot|爱国者
+patriotic|爱国的
+pathetic|哀婉动人的
+pendulum|（钟等的）摆
+panel|（选定的）专门小组
+perch|（禽鸟的）栖木
+pier|码头
+pope|（罗马天主教的）教皇
+pyjamas|（宽大的）睡衣裤
+pedlar|（挨户兜售的）小贩
+plunder|掠夺
+plausible|似有道理的
+provocative|挑衅的
+posture|vi. 摆出姿势
+provided|假如
+permissible|可允许的
+peg|小钉
+premier|首要的
+pastry|油酥面团
+paperback|平装本
+pact|契约
+pollutant|污染物质
+prosperous|繁荣的
+pastime|消遣
+proximity|接近
+predestine|vt. 预先确定
+pretext|借口
+porch|门廊
+paralysis|麻痹
+pistol|手枪
+planet|行星
+priest|神父
+processing|处理
+peninsula|半岛
+poisonous|有毒的
+paternity|父权
+pole|杆
+preferable|更可取的
+prune|vt. 修剪
+pearl|珍珠
+pregnancy|怀孕
+pudding|布丁
+perfume|香水
+promising|有希望的
+purity|纯净
+preparatory|预备的
+planetary|行星的
+plaster|灰浆
+prescient|预知的
+preview|预映
+preclude|vt. 排除
+premature|比预期时间早的
+prone|易于…的
+puppet|木偶
+prince|王子
+pardon|原谅
+partly|部分地
+princess|公主
+pyramid|金字塔
+prosper|成功
+pronunciation|发音
+policeman|警察
+pronounce|发…的音
+political|政治的
+preceding|在前的
+postman|邮递员
+paradigm|典范; 范例; 示例
+porter|守门人
+preposition|介词
+panorama|全景
+palace|宫
+prisoner|囚犯
+penny|便士
+pride|自豪（感）
+permission|允许
+practically|实际地
+physician|[医] 医师
+preface|前言
+practitioner|开业者
+pink|粉红色
+pity|怜悯
+pint|品脱
+precaution|预防
+pile|堆
+plight|困境
+pillar|柱子
+plural|复数的 n. 复数
+pigeon|鸽子
+punctual|准时的
+pneumonia|肺炎
+pulse|[电子] 脉冲
+pad|衬垫
+pea|豌豆
+pie|馅饼
+pit|矿井
+pot|壶
+pub|酒馆
+postcard|明信片
+picnic|野餐 v. 去野餐
+pail|桶
+pickup|收集
+physicist|物理学家
+pound|英镑
+poster|海报
+playground|运动场
+passenger|旅客
+psychiatry|精神病学
+peanut|花生
+postage|邮资
+plentiful|丰富的
+pork|猪肉 vt. 与女子性交
+petroleum|石油
+pavement|人行道
+plantation|栽植
+petrol|（英）汽油
+plaintiff|原告
+paw|爪
+passerby|过路人
+pheromone|<生化>信息素
+photograph|照片
+pastoralist|田园诗的作者
+philadelphia|费城(美国宾西法尼亚州东南部港市)
+paleolithic|旧石器时代的
+prehistoric|史前的
+pullman|卧车
+plankton|浮游生物
+pottery|陶器
+projection|发射
+pastoralism|田园主义
+pleistocene|[地]更新世(的)(一段时期)
+parlor|客厅
+pueblo|印第安人村庄
+pellet|小球
+paleontologist|古生物学者
+potash|碳酸钾
+proxy|代理人
+potter|陶工
+precipitation|仓促
+publisher|出版者
+partially|部分地
+pennsylvania|宾夕法尼亚州（美国州名）
+precisely|正好
+plover|千鸟
+perceptual|感性的
+proterozoic|原生代(的)
+proponent|支持者
+primate|灵长类(动物)
+pterosaur|翼龙
+populate|构成人口
+porous|多孔渗水的
+properly|适当地
+psychodynamic|精神动力的
+poet|诗人
+peepshow|西洋镜
+plow|耕
+polygon|[数]多角形
+persian|波斯人[语]
+perfectly|理想地
+putrefy|(使)化脓
+predominate|占优势
+progressively|日益增多地
+phonograph|留声机
+pollinator|授花粉器
+putt|短打
+pry|探查
+prolific|多产的
+purely|仅仅
+porosity|多孔性
+poorly|不舒服的  ad贫穷地
+popularly|大众地
+pinpoint|确定
+preschooler|(美)学龄前儿童
+piecework|计件工作
+polynesian|波利尼西亚人
+prehistory|史前时代
+planetarium|天文馆
+parasitism|寄生状态
+prowl|巡游
+personally|亲自
+penicillin|[微]青霉素（一种抗菌素
+prestigious|享有声望的
+peruvian|秘鲁人(的)
+presidential|总统的
+pastoral|田园生活的
+predation|掠食
+permanence|永久
+patronage|赞助
+pollen|花粉
+participation|参加
+printmaking|版画复制(术)
+populous|人口稠密的
+pangaea|泛古陆
+plumb|（用铅垂）测量
+permian|[地]二叠纪(的)
+privately|秘密
+penchant|喜好(倾向)
+protrude|突出
+portability|可携带
+photoflash|（照相）闪光灯
+perishable|容易腐烂的
+perry|梨子酒
+potent|强有力的
+providence|深谋远虑
+pianist|钢琴家
+peregrine|游隼 a外来的
+prodigious|巨大的
+petal|花瓣
+proportionately|相称地
+pram|婴儿车
+prerequisite|先决条件
+prizefight|职业拳击赛
+plummet|铅锤 vi垂直落下
+pacifier|调停者
+pul|普尔(阿富汗辅币单位)
+pinniped|鳍足类的
+porcupine|[动]豪猪
+percussion|碰撞
+perpetuate|使永存
+prairies|大草原
+pigmentation|染色
+postwar|战后的
+protectionist|保护贸易论(者)
+portrayal|描画
+personalize|个人化
+primordial|原始的
+plasma|血浆
+pantomime|哑剧
+paleoecologist|古生态学家
+primal|最初的
+persuasively|有说服力的
+prohibitive|禁止的
+prospector|探勘者
+preferentially|优先的
+preschool|未满学龄的n幼儿园
+pulverization|弄成粉
+phosphorescence|磷光
+platelet|[解] 血小板
+politically|政治上地
+prerecord|事先录音
+pointillist|点彩派画家
+predispose|(使)易罹患
+preposterous|荒谬的
+pane|窗格玻璃
+predictability|可预见性
+portraitist|肖像画家
+periphery|外围
+plank|厚木板(条)
+plutonic|火成岩的
+progression|行进
+ppm|abbr. 百万分率
+purification|净化
+precarious|危险的
+petrifaction|石化
+ptarmigan|松鸡类
+percolate|滤过之液体
+pinhead|针头
+paradoxically|相矛盾地
+pedagogy|教学
+paucity|极小量
+poorhouse|救济院
+porpoise|[动]海豚
+piling|打桩
+platypus|[动]鸭嘴兽
+phoenix|凤凰
+pluto|冥王星
+patchy|补丁的
+patricia|帕特丽夏（女子名）
+petrochemical|石化的 n. 石化产品
+prolifically|丰富地
+peat|泥煤
+prostrate|降伏的
+protector|保护者
+peru|秘鲁
+popularize|普及
+plentifully|丰富地
+predicament|困境
+pendant|垂饰
+postmaster|邮局局长
+preform|预先形成 n. 粗加工的成品
+preoccupation|全神贯注
+puddle|水坑
+proboscis|鼻子
+polyphony|复调音乐
+paraphrase|解释 n. 释义
+proportionally|成比例地
+photogrammetry|照相测量法
+puffin|[鸟]角嘴海雀
+portraiture|肖像画法
+priestess|女祭司
+purposely|故意地
+permeability|渗透性
+permeable|有浸透性的
+preponderance|优势
+practicality|实用性
+pictorial|图示的 n. 画报
+peacetime|和平时期 adj. 和平时期的
+ponderous|笨重的
+phylum|(生物分类学上的)门
+passageway|过道
+phosphate|磷酸盐
+preferential|优先的
+premiere|初次公演 n. 初次的演出 adj. 杰出的
+periodization|(历史等的)时期(或时代)划分
+perceptive|感知的
+painstaking|辛苦 adj. 辛苦的
+pretension|借口
+pancreatic|胰的
+pancreas|[解]胰腺
+pomegranate|[植]石榴
+pylon|塔门
+perennial|终年的
+photodissociation|[物][化]光离解
+pedagogic|教师的
+prickly|多刺的
+perm|/n电烫（头发）
+preferably|更好地
+peculiarly|古怪地
+physiologically|生理上
+processor|加工业者
+pluralism|复数
+photosphere|光球
+preen|整理羽毛
+primacy|首位
+predetermine|预先确定
+pennycress|[植]菥蓂
+petiole|叶柄
+paramount|极为重要的
+pawnee|波尼族人(语)
+parish|教区
+patriarch|家长
+primeval|原始的
+psychoanalyst|心理分析学者
+perceivable|可知觉的
+posit|安置
+puritan|清教徒 a清教徒的
+permafrost|[地]永久冻结带
+presage|预兆 v预示
+peal|钟声  v(使)鸣响
+professionalism|职业水准或特性
+polychrome|彩饰的 n多彩艺术品
+provincialism|地方风尚
+portend|预示
+predetermined|预订的
+preservative|防腐剂
+petticoat|衬裙
+pinhole|针孔
+pliable|柔顺的
+proclivity|倾向
+philippine|菲律宾的
+pony|矮种马
+pristine|质朴的
+permineralization|完全矿化
+pistachio|[植]阿月浑子树
+propriety|适当
+polarize|(使)偏振
+patty|小馅饼
+photojournalism|摄影新闻工作
+preparedness|有准备
+persuasive|说服者a善说服的
+plethora|过剩
+purge|清洗(除) n清洗
+problematic|问题的
+panhandle|狭长地带 v乞讨
+pantomimic|哑剧的
+pulp|酱
+pathology|病理学
+publicly|公然地
+pique|生气
+predate|提早日期
+pretentious|自命不凡的
+palatable|味美的
+protagonist|提倡者
+proudly|骄傲地
+ploy|花招
+politely|有礼貌地
+ponytail|马尾辫(一种发型)
+phonetic|语音的
+pickaxe|鹤嘴锄
+pestilential|引起瘟疫的
+postmodern|后现代主义的
+plum|[植] 李子
+prearrange|预先安排
+pavlova|奶油水果蛋白饼
+pretense|借口
+propensity|倾向
+postgraduate|研究生
+participator|参加者
+patriarchal|家长的
+programmer|程序师
+paycheck|薪水支票
+philology|语言学
+pearly|珍珠似的
+playful|爱玩耍的
+prosaic|单调乏味的
+profusion|丰富
+pesky|讨厌的
+purposefully|有目的地
+proficiently|熟练地
+putrefaction|腐败
+pasteurization|加热杀菌法
+pedagogical|教学(法)的
+penal|刑事的
+primer|初级读本
+pelt|投掷
+pella|斗篷
+pike|长枪
+pervasive|普遍的
+placental|胎盘的 n有胎盘哺乳动物
+printmaker|版画复制匠
+parkway|公园道路
+preexist|先前存在
+preeminent|卓越的
+postdate|填迟的日期 n事后日期
+prepay|预付
+percussive|冲击的
+phenomenal|现象的
+prohibitively|禁止地
+proboscidean|长鼻类的 n长鼻目动物
+precursor|先驱
+pinon|矮松
+pleasantly|令人愉快地
+pressurize|增压
+prod|刺
+platitudinous|平凡的
+platitude|陈词滥调
+plaint|[诗]悲叹
+prominence|突出
+peddler|小贩
+prodigy|惊人的事物
+profitability|收益性
+packer|包装工人
+proprietorship|所有权
+plainspoken|老实说的
+predominance|优势
+petrify|石化
+pentagon|五角形
+profoundly|深深地
+profiteer|奸商 v. 牟取暴利
+promoter|促进者
+plantlike|似植物的
+peart|有精神的
+philanthropist|慈善家
+purplish|略带紫色的
+plasticity|可塑性
+pont|(南非的)缆拉渡船
+pivotal|重要的
+pointe|（芭蕾舞中的）足尖舞
+primatology|灵长类动物学
+potentiality|(用复数)潜能
+palimpsest|重写本
+posthumously|在死后
+philosophic|哲学的
+poikilotherm|[动]变温动物
+poikilothermic|[动]变温的
+proprietor|所有者
+playwright|剧作家
+physic|医术 vt. 治愈
+potion|一服
+pivot|枢轴 v. 在枢轴上转动
+proactive|积极主动的
+penmanship|书法
+part-time|兼职的
+podium|讲坛
+pliant|柔软的
+pernicious|有害的
+picky|挑剔的
+psychoanalysis|心理分析
+precautionary|预防的
+palate|上腭
+patriarchic|家长的
+perquisite|津贴
+polygamous|一夫多妻的
+packed|拥挤的
+plaudit|喝彩
+prelude|前奏曲
+preliterate|文字出现以前的
+pensive|沉思的
+pathological|病态的
+pesticide|杀虫剂
+placid|平静的
+pocketbook|钱袋
+pastel|彩色蜡笔的
+puritanical|极守道德的
+pinnacle|山顶
+plumage|鸟类羽毛
+piracy|海盗行为
+pronounced|显著的
+proofread|校对
+perspicuous|明白易懂的
+pointed|尖的
+patronize|以高人一等的态度对待
+potency|影响力
+prostitution|卖淫
+pharaoh|法老
+plaque|匾额
+polygamy|一夫多妻制
+patriarchy|父权制
+posthumous|死后的
+picturesque|如画的
+pm|出纳员, 军需官
+p|便士
+posted|贴出；布置；通告（post的过去分词）
+pages|页数；青年侍从（page的复数）
+posts|标杆；岗位；帖子；邮件（post的复数）
+pictures|电影院
+photos|照片, 图片；相册（photo的复数形式）
+pc|个人计算机
+porn|色情描写, 黄色书刊, 色情画, 色情照片, 色情文学
+provides|提供, 供给, 供应( provide的第三人称单数 ); 规定; 提供[(+for)]; 装备
+powered|有动力装置的, 用动力推动的, 产生动力的, 产生...动力的
+pro|正面地
+projects|项目；企划；工程（project的复数）
+points|转轨器, 道岔
+paul|保罗（男子名）
+pics|[计] 生产信息控制系统
+players|队员, 参与者；迷你音碟机, 雷射唱盘（player的复数形式）；玩家（player的复数形式）
+pdf|概率分部函数（Probability Distribution Function）
+pre|炼油工程师（Petroleum Refining Engineer）
+pa|私人秘书, (露天)扩音系统
+paypal|贝宝（全球最大的在线支付平台）
+publications|出版物（publication的复数）
+properties|性能；道具, 内容（property的复数形式）
+peter|逐渐消失, 逐渐减少
+pussy|〈非正式〉猫咪；〈侮辱〉女阴；〈侮辱〉娘娘腔
+partners|合作伙伴；合伙人；伙伴（partner的复数形式）
+providing|以...为条件, 假如
+prev|上一个（previous）
+proposed|被提议的；所推荐的
+parties|当事人；聚会；党派；政党机关；同行者（party的复数）
+php|个人网页（Personal Home Page）；服务器端编程语言（Professional Hypertext Preprocessor）；菲律宾比索；水解聚丙烯酸胺
+phentermine|[化] 芬特明; 苯丁胺; 苯叔丁胺
+purposes|目的；意志（purpose的复数形式）
+papers|文件, 官方文件
+pst|太平洋标准时间
+procedures|程序；规程（procedure的复数）
+packages|程序包；包装；包裹（package的复数）
+pp|包裹邮递, 包裹邮件, 邮包, 包裹邮务处, 过去分词
+pricing|[经] 定价, 标价
+publishing|出版, 刊印, 发行
+persons|人员；人们（person的复数）
+particularly|特别, 格外, 尤其, 详细地, 细致地
+provider|供应者, 供养人, 伙食承办人
+po|邮局, 邮政汇票
+processes|过程；进程（process的复数）
+produced|创作；产生；制造（produce的过去式和过去分词）
+providers|供应者, 提供者, （尤指）维持家庭生计者( provider的复数形式 )
+practices|练习( practice的名词复数 ); 实践; （医生或律师的）业务; 惯例
+porno|色情（书刊、电影等, 等于pornography）
+plants|植物；工厂（plant的复数形式）
+placed|放置（place的过去分词形式）
+printing|印刷, 印刷术, 印花
+played|玩耍；演奏；播放；参加竞赛（play的过去分词）
+posters|招贴, 海报( poster的复数形式 ); 印成的大幅画
+passed|已被传递的；已经通过的；已经过去的
+pic|照片, 图片, 影片
+professionals|专业人员（professional的复数）
+payments|惩罚；薪资；支付；付款（payment的复数形式）
+protocol|草案, 礼仪, 协议
+provisions|存粮, 给养, 口粮, 食物, 粮食
+principles|原则, 原理, 道义, 节操
+pr|与公众的关系, 公关
+protected|受保护的
+portal|入口, 大门
+parameters|参数；参量（parameter的复数）
+profiles|配置文件；个人档案；剖面图（profile的复数）
+performed|执行, 表演（perform的过去分词形式）
+posting|[计] 记入, 记录, 稿件, 邮件
+previously|先, 先前, 以前, 前, (非正式)过早, 过急, 在前, 在...以前, 在先
+positions|定位；位置（position的复数）
+panasonic|日本松下公司
+printed|印刷的, 印好的, 印花样的
+printers|打印机；印刷厂；印花平纹坯布（printer的复数）
+prints|打印；图片, 相片；报刊, 印刷品；印花布（print的复数）
+pda|[计] 个人数字助手
+pieces|匹头, 毛束；件片块个工件零件
+parks|帕克斯（人名）
+patterns|模式（pattern的复数形式）
+playstation|游戏机
+personals|人事广告栏；人事栏
+perl|实际抽取与汇报语言（Practical Extraction and Reporting Language）
+proceedings|诉讼, 事项, 行径, 事件, 活动, 项目, 会议录, 记录汇编, 活动记录
+printable|可印刷的, 适于出版的
+portland|波特兰(美港口)
+pdt|太平洋夏季时间
+presents|出品；礼物（present的复数）
+ph|氢离子指数
+plays|戏剧集；戏剧（play的复数）
+pt|[计] 点, 处理时间, 可编程序终端
+psp|掌上游戏机（SONY推出的掌上娱乐平台）；起动前操纵台（Prestart Panel）
+planned|计划了的, 预定的, 根据计划的, 有组织的
+publishers|出版商, 出版公司；出版社（publisher的复数）
+purchased|已经购买的
+performing|表演的, 履行的
+polls|投票；民意调查；投票模块（poll的复数形式）
+packaging|包装, 包装业, 包装术
+ps|[计] 实际顺序, 图象系统, 电源, 保护状态
+periods|周期（period的复数）
+preferences|[计] 参数选择
+powers|权势；力量（power的复数形式）
+photographs|照片；逼真的描绘（photograph的复数）
+pittsburgh|匹兹堡
+preferred|首选的
+patrick|帕特里克（男子名）
+puerto|垭口, 港口, 山口
+putting|投掷；（高尔夫球）打球入洞
+penis|阳物, 阴茎
+pcs|[计] 个人通信业务
+para|[经] 帕拉
+pounds|磅, 英镑；重击（pound复数形式）
+pg|部分不适合儿童观看的(电影)
+programmes|（演出或活动的）程序( programme的复数形式 ); 计划; 节目; 课程
+python|大蟒, 巨蟒
+proposals|提议( proposal的复数形式 ); 推荐; 求婚; 赞成提案
+purchasing|[计] 采购的
+productions|生产( production的复数形式 ); 产量; 产品; 出示
+par|标准, 票面价值, 平均数量, 同等水平
+picks|凿；选择；精华；收获量（pick的复数）
+prohibited|禁止, 被禁止的（prohibite的过去分词形式）
+participating|由多人一起参加的, 由多方一起参加的, 股票使持有人有权参与分享的
+passing|通过, 逝去, 死, 流逝
+permitted|允许( permit的过去式和过去分词 ); 许可; 许用
+priced|有定价的, 定价的
+placement|放置, 布置, 工作安排, 编班, 定位球
+presentations|介绍( presentation的复数形式 ); 报告; 提供; 展示会
+pci|[计] 外部控制器接口, 构成控制器接口, 可编程通信接口
+purchases|购买；进货（purchase的第三人称单数形式）
+phil|哲学（philosophy）
+pdas|(PDA 的复数) [计] 个人数字助手
+plates|板材；平板；盘子（plate的复数）
+philips|飞利浦（荷兰公司名）
+pupils|学生( pupil的复数形式 ); 瞳孔; 弟子; 门生
+pills|丸剂；药丸（pill的复数）
+physicians|医生, 内科医生( physician的复数形式 )
+pl|[化] 磷脂
+producing|生产的
+promotions|促销；升职（promotion复数）
+patches|修补程序；补丁；斑块（patch的复数）
+processed|处理的, 加工过的
+platforms|台( platform的复数形式 ); 站台; （公开表达意见或在某方面发展的）机会; 纲领
+promotional|增进的
+portions|一部分( portion的名词复数 ); 一份遗产（或赠与的财产）; 分享的部份; 嫁妆
+promoting|<正>促进( promote的现在分词 ); 提升; 推销; 使 （学生）升级
+profits|收益, 红利；盈利（profit的复数）
+pee|(英)便士, 小便
+packard|帕卡德（姓氏）
+payday|发薪日, 发工资日, 交割日, 过户结帐日
+philip|菲利普（男子名）
+poems|诗歌, 诗集（poem复数形式）
+preparing|准备的
+parker|停放车辆的人
+personalized|个人化的；个性化的
+partnerships|伙伴关系( partnership的复数形式 ); 合伙人身份; 合作关系
+punk|废物, 小阿飞
+pi|圆周率
+producers|生产者, 制造者( producer的复数形式 ); 制片人
+peripherals|（计算机的）外围设备, 周边设备( peripheral的复数形式 )
+picked|精选的, 采摘的, 已收获的, 截出的, 已清除的, 有尖头的, 多刺的
+podcast|播客
+pissing|撒尿( piss的现在分词 ); 倾盆而下
+plugin|相关插件；插件
+polyphonic|多音的, 有多种声音的
+packs|生存集群；包裹；资料袋（pack的复数）
+phd|哲学博士学位（Doctor of Philosophy）
+pe|[计] 相位编码
+pentium|[计] 奔腾处理器
+passes|及格；经过；超过；传递（pass的三单形式）
+pointer|指示物, 教鞭, 暗示, 指针
+permits|许可( permit的名词复数 ); 许可证; 执照
+priorities|先( priority的名词复数 ); 优先; 优先权; 优先考虑的事
+parenting|父母对子女的养育
+pierre|皮埃尔（男子名）
+photoshop|著名图象处理软件（美国Adobe公司）
+panama|巴拿马, 巴拿马城
+paintings|图画；涂漆；印刷品（painting的复数）
+planner|计划者, 设计者, 安排者
+pulled|牵引的；扯下来的
+puts|卖出选择权；[计]字符串输出（put的复数）
+painted|描画的, 着色的, 刷上油漆的, 涂脂抹粉的, 矫揉造作的
+processors|处理器, 处理机（processor复数）
+pantyhose|连裤袜
+plc|[计] 可编程逻辑控制器
+pixels|像素；像素点（pixel的复数）
+procurement|获得
+protocols|协议；礼仪礼节；条款（protocol的复数）
+panties|女式短裤
+phillips|飞利浦（电子产业集团）；菲利普斯（姓氏）
+panels|镶板( panel的名词复数 ); 面; （门、墙等上面的）嵌板; 控制板
+protecting|保护( protect的现在分词 ); 防护; 投保; 关税保护
+produces|过程管理, 产品（produce复数形式）
+puzzles|智力游戏；游戏拼图；谜题（puzzle的复数）
+piss|小便, 下大雨, 抱怨
+premises|房屋, 上述各点, 上述房屋
+proved|prove的过去式和过去分词
+proc|[计] 程序, 工艺规程, 方法, 过程
+pete|皮特（等于Peter, 男子名）
+penn|宾夕法尼亚大学（Pennsylvania）
+permissions|允许, 许可, 准许( permission的复数形式 )
+prescribed|规定的
+peeing|小便, 撒尿( pee的现在分词 )
+pays|报酬（pay的复数）；（法）国家
+pumps|泵；抽运器；无带轻便舞鞋；脉动（pump的复数）
+peoples|民族学；民族（people的复数形式）
+pos|[计] 销售点, 位置, 正, 主操作系统
+phys|物理系（physics）；物理学家（physicist）；生理领域（physics）；生理盐水（physiological saline）
+pairs|夫妇；一副（pair的复数）
+prague|布拉格
+previews|预展, 试映, 预演( preview的名词复数 )
+performances|履行( performance的复数形式 ); 性能; 表现; 演出
+provincial|外地人, 粗野的人
+placing|出盘, 出售
+pty|巴拿马城（Panama City）；伪终端（	Pseudo-Terminal Utilities）；节目类型（Program Type）
+packing|包装, 填垫材料, 封函, 行李
+powell|鲍威尔（英国物理学家）
+perspectives|透视( perspective的复数形式 ); 透视图; 观点; 全景
+pads|波纹细丝带, 眼镜丝带；衬垫（pad的复数）
+photographic|照相的, 摄影用的, 详细记录的, 逼真的, 酷似的
+pixel|像素
+paths|路径（path的复数）
+por|返回后付款（pay on return）
+patents|专利权；专利（patent的复数形式）
+packets|数据包；小捆；小包（packet的复数）
+pmc|生产计划与物料控制（Product Material Control）；个人移动通信（Panasonic Mobile Communications）
+practitioners|习艺者, 实习者( practitioner的复数形式 ); 从业者（尤指医师）
+particles|粒子系统；微粒, 粒子；碎木料（particle的复数形式）
+plymouth|普利茅斯（英国一座城市）
+prep|(英)(非正式)准备功课, 预备学校, 预料
+pb|[计] 10的15次方字节
+pros|赞成者；赞成的意见（pro的复数）
+photographers|摄影者（尤指）摄影师( photographer的复数形式 )
+possibilities|可能性( possibility的名词复数 ); 可能的事; 可选择的方法; 可以利用和改善的余地
+phi|希腊语的第二十一个字母(Φ,φ)
+ppc|[化] 氨非咖片
+playlist|播放列表；演出剧目表
+predicted|预言, 预测, 预示( predict的过去式和过去分词 )
+plugins|插件；插件程序；外挂程序（plugin的复数形式）
+princeton|普林斯顿
+proprietary|所有者的, 所有权的, 私有的
+pins|插脚, 针；精确的综合导航系统
+polo|马球, 水球
+pd|[医] 钯(46号元素)
+prot|量角器（protractor）；保护（protection）；[化]蛋白质纤维
+perth|珀斯, 佩斯（澳大利亚城市）
+plumbing|测深, 管子工行业, 管道设备
+projectors|电影放映机, 幻灯机( projector的复数形式 )
+pharmacies|制药( pharmacy的复数形式 ); 药店; 药房; （医院的）药房
+projected|投影的, 投射
+paperbacks|平装本, 平装书( paperback的复数形式 )
+proceeds|pl. 收益
+prizes|奖赏( prize的名词复数 ); 值得竞争的东西; 难能可贵的事物; 难以争取的重要事物
+patio|屋子与花园之间的一片供晴天休息用的石砌空地
+plains|平地, 平原（plain的复数）
+pts|[计] 程序测试系统
+playboy|花花公子, 乖巧的人
+periodically|定期, 循环, 间歇, 周期, 定期刊行, 期刊
+poly|理工学院, 工艺高等专科学校
+pharmacology|药理学, 药物学
+passengers|乘客( passenger的名词复数 ); 旅客; 白吃饭的人; 闲散人员
+petersburg|彼得斯堡（美国城市）；彼得堡（苏联城市列宁格勒旧称）
+powerpoint|微软办公软件
+promised|& vi. (promise的过去式或过去分词形式); 承诺; 允诺; 答应
+pharmaceuticals|医药品
+prospects|预期；前景；潜在顾客；远景展望
+preventing|预防( prevent的现在分词 ); 阻碍; 阻止; [宗教]引领
+penalties|惩罚( penalty的名词复数 ); 刑罚; 害处; 足球点球
+politicians|政治家( politician的复数形式 ); 政客, 玩弄权术者
+pools|猜足球赛胜负的赌博
+prisoners|囚徒( prisoner的复数形式 ); 俘虏; 被夺去自由的人[动物]等
+pubs|小酒馆；酒吧（pub的复数）
+pamela|帕梅拉（女子名）
+porsche|保时捷（德国知名汽车厂商或其出产的轿车品牌名）
+posing|摆姿势（pose的ing形式）
+promises|允诺
+promo|商品广告；商品推销
+phrases|短语；词组；乐句；措词（phrase的复数）
+parliamentary|国会的, 议会的, 议会制度的
+prefix|前缀, 称谓
+planets|行星( planet的复数形式 ); 地球（尤指环境）
+pointing|[计] 指向, 指点
+pirates|海盗( pirate的名词复数 ); 剽窃者; 侵犯版权者; 非法播音的人（或组织）
+perceived|感觉( perceive的过去式和过去分词 ); 视为; 认为; 理解为
+presenting|举向( present的现在分词 ); 面向; 举枪瞄准; （分娩时婴儿）露出
+pac|[医] 一六零五, 二乙基对硝基苯硫代磷酸酯(有机磷杀虫药)
+pushed|拮据的, 紧张的, 没空的, 忙
+participated|参加, 参与( participate的过去式和过去分词 )
+planes|位面
+pokemon|口袋妖怪（游戏、动画名）
+postings|任命, 委派( posting的复数形式 )
+postcards|明信片( postcard的复数形式 )
+pf|[电] Picofarad的简写
+ping|砰(子弹击中时的声音), 报时的最后一声, 声脉冲
+palmer|朝圣者；变戏法的人；毛虫（尤指北美的小舌麦蛾幼虫）
+pontiac|旁蒂克（汽车名）
+passwords|口令；密码（password的复数形式）
+prix|奖金, 价格
+pavilion|楼阁, 亭子, 大帐篷, 观众席
+provinces|外省, 边远地区, 乡间
+paraguay|巴拉圭
+peterson|彼得森（男子名）
+pk|[建] pK
+pressing|紧迫的, 迫切的, 热切的
+prepaid|先付的
+performs|执行；表演（perform的第三人称单数形式）
+plastics|塑料制造学, 塑料学, 整形外科, 成形外科, 塑料, 塑料制品
+psi|希腊字母的第23个字母
+pct|[计] 外部控制终端, 处理控制表, 程序控制表
+pas|优先权, 舞步, 舞
+podcasts|播客（podcast的复数形式）
+prostate|前列腺的
+picking|掘, 选择, 挑选, 采摘, 撬开, [U]采得物, 捡得物, 赃物, 扒窃物
+pockets|口袋（pocket的复数）
+pipes|管线, 管道；管子（pipe复数形式）
+pushing|有精力的, 富有进取心的, 莽撞的
+pediatric|小儿科的
+prefers|提出（请求、控诉等）( prefer的第三人称单数 ); 提升; 建议; 选择某事物（而不选择他事物）
+pastor|牧师
+phases|阶段, 时期（phase的复数形式）
+pn|清注意, 本票, 期票
+propecia|[医]非那雄胺生发剂<脱发治疗药>
+petite|小的, 次要的, 小个子的, 娇小玲珑的, 娇小的
+pens|钢笔（pen的复数）
+polyester|聚酯
+privileges|特权( privilege的名词复数 ); （因财富和社会地位而仅有部分人享有的）权益; 免责特权; 特殊荣幸
+pvc|聚氯乙烯
+preston|普勒斯顿（男子名；英国港市名字）
+peas|豌豆（pea的复数）
+predictions|预言, 预言的事物( prediction的复数形式 )
+pix|[医] 焦油, 沥青
+pulling|[计] 拉单晶的
+pam|[计] 脉冲幅度调制
+pensions|退休金, 养老金( pension的名词复数 )
+prayers|祈祷；祝福；祷告者；恳求者（prayer的复数）
+portraits|肖像, 画像( portrait的复数形式 ); 生动的描写
+plots|情节；阴谋；平面图；小块土地（plot的复数）
+polished|擦亮的, 优雅的, 精良的
+pgp|加密软体（Pretty Good Privacy）
+programmers|（计算机的）程序员( programmer的复数形式 )
+pj|有功电度表；圆周喷射（Peripheral Jet）
+positioning|定位；配置, 布置
+promoted|晋升的
+paxil|帕罗西汀（抗抑郁药物）
+pressed|紧迫的, 繁忙的
+planners|规划者, 策划人( planner的名词复数 )
+paintball|彩弹球；漆弹游戏
+prozac|百忧解（一种治疗精神抑郁的药物）
+paso|泛美体育组织（Pan American Sports Organization）
+playback|(录音)重放, (录音)重放装置
+portsmouth|朴茨茅斯（英国港市, 美国港市）
+pod|豆荚, (豆荚状的)保护性外壳, 扁豆形矿体
+potatoes|马铃薯；土豆（potato的复数形式）
+peers|平辈, 同事（peer的复数）
+promotes|<正>促进( promote的第三人称单数 ); 提升; 推销; 使 （学生）升级
+pother|喧扰, 骚动, 混乱
+pommels|（刀剑柄）圆头, （马鞍）前鞍( pommel的名词复数 )
+pithecoid|猿的, 类人猿的
+prahu|=proa[变体]
+pronator|旋前肌
+pratal|草甸中植物
+pianette|<英>竖型小钢琴
+poleyn|护膝铠甲
+protopathic|[生理](皮肤的)初感的, 原始的, 初期的
+praelector|讲师
+periphrasis|迂回说法, 折绕(语)
+pollinose|(昆虫)体表覆盖粉面的
+piki|薄页玉米饼
+papalist|教皇之信徒
+pottered|懒散地工作, 漫无目的地走动( potter的过去式和过去分词 )
+paramountly|最高地
+purpler|purple（紫色的）的比较级形式
+pentolite|(由季戊四醇和三硝基甲苯合成的)彭托利特炸药
+piercingly|刺透地, 感动地
+prospicience|[网络] 有意义
+pentaptych|五张一套的版画
+penultimatum|最后通牒发出前的声明(或要求等),半最后通牒
+pomace|酱状物, 果渣, 油渣
+prevailed|获胜( prevail的过去式和过去分词 ); 盛行; 说服; （ 思想、观点等）被接受
+pogonotomy|剃须
+paripinnate|[植](复叶)偶数羽状的
+paulista|[地名] [巴西] 保利斯塔
+porphyrio|[网络] 紫水鸡属；青水鸡属
+paludism|疟疾
+presuppose|预先假定, 预料, 以...为先决条件
+peeking|很快地看( peek的现在分词 ); 偷看; 窥视; 微露出
+pluckiest|有勇气的, 大胆的 (plucky的变形)
+puristic|修辞癖的, 用语简洁的
+preemergence|(植物种子)出土前的,出土前施用的
+phreatophyte|[植]( 根深达地下潜水层的) 地下水湿生植物
+pluviose|雨量多的
+poundstone|岩石底板
+paracotoin|副可土因
+preformed|预成型的, 预制成的
+pavers|(paver 的复数) n. 铺路工, 铺设人, 铺筑材料, 铺设材料, 铺路机
+permanently|永久, 不变, 持久
+perforata|多孔珊瑚部
+prelicense|<主美>领取执照前的,发放执照前的
+prodigus|[法] 浪费者, 浪子
+pumper|消防车, 使用唧筒者, 唧筒式抽水机
+proscriber|proscribe的变形
+pudibund|惭愧的,谦逊的,过分拘谨的
+pargeter|粗涂, (尤指)粉饰；涂饰
+patera|[建]皿形饰, 圆盘饰, 插座, 接线盒
+phasmophobia|幽灵恐怖, 怕鬼
+preadamite|亚当以前的
+probit|概率单位
+philologize|研究文献学, 研究语文学, 从语文学角度论述
+prefoliation|幼叶卷叠式
+protense|[网络] 保护
+phialed|管形瓶；小药瓶
+pestering|使烦恼, 纠缠( pester的现在分词 )
+punctuates|（在文字中）加标点符号, 加标点( punctuate的第三人称单数 ); 不时打断某事物
+patellas|膝盖骨( patella的名词复数 )
+picot|花边小环
+perversity|乖僻, 倔强, 任性, 反常, 性变态
+polycrystal|多晶体
+pur|发出喉音；咕噜咕噜叫
+promenading|兜风( promenade的现在分词 )
+profonde|魔术师上衣尾部的特殊口袋
+pronymph|预若虫
+petitioner|请愿人, 诉愿人, (离婚案)原告
+phrenodynia|膈痛
+precedents|[计] 引用单元
+pennatula|[动]海鳃
+protesting|声明( protest的现在分词 ); 坚决地表示; 申辩
+progressed|（使）进步, （使）进行( progress的过去式和过去分词 ); 改进; 进展; （时间上）推移
+pokerish|引起恐惧的；怪异的
+propounded|提出（问题、计划等）供考虑[讨论], 提议( propound的过去式和过去分词 )
+polly|波莉（女子名, 等于Mary）；鹦哥（鹦鹉的通称, 等于poll parrot）
+palatalized|使腭音化( palatalize的过去式和过去分词 )
+pliability|易弯性, 柔韧(性), 可挠性
+pyramus|皮拉摩斯（人名）
+prating|（古时用语）唠叨, 啰唆( prate的现在分词 )
+pterodactyl|翼手龙
+playhouses|剧场, 戏院( playhouse的复数形式 ); （像房子一样的）儿童游戏屋
+proselytize|使改变宗教信仰
+perciformes|鲈形目
+phosphite|亚磷酸盐
+prosecutive|起诉的, 检举的
+phototropic|向光性的
+palefaces|(paleface 的第三人称 -s形式) n. (贬)白人, 白脸小丑
+pterygial|[医] 翼状胬肉的
+preoperculum|[医] 前盖
+passiflora|[化] 西番莲
+pharos|灯塔, 航标灯, 烛台
+pteropoda|翼足目
+punt|方头平底船, 踢悬空球, 赌博者
+puddening|[海]船首碰垫
+pilosity|多毛性, 细毛被
+preoccupy|抢先占领, 使全神贯注
+pantalgia|[医] 全身痛
+pertussal|[医] 百日咳的
+planera|[网络] 水榆属
+penicilium|毛丛
+popple|翻腾, 荡漾, 汹涌
+petrie|皮特里(姓氏)
+pantisocracy|理想的平等社会, 乌托邦的大同世界
+pesticides|杀虫剂( pesticide的复数形式 ); 除害药物
+phyllodoce|松毛翠属
+pelvisacral|[医] 骨盆骶骨的
+paragraphed|将…分段（paragraph的过去式形式）
+pagne|缠身装
+paracystium|[医] 膀胱周组织
+peroxid|过氧化物;过氧化氢
+preludize|奏序曲
+palpability|可感知性, 可感知物
+parenchymal|薄壁组织的；主质的
+preparers|(preparer 的复数) 调制机
+pullings|(pulling 的复数) [计] 拉单晶的
+plutolatry|财富崇拜,拜金主义
+poppadom|（通常夹着咖哩吃的）一种印度薄饼
+petrologist|岩石学家
+perjures|发假誓, 作伪证( perjure的第三人称单数 )
+pops|流行曲调（popular tunes）；大众音乐会（popular concerts）
+physiocracy|农本主义, 重农主义, 自然法则政治
+pinpointed|准确地找出或描述( pinpoint的过去式和过去分词 ); 为…准确定位
+piecing|冲孔；接头
+prepatellar|[医] 髌前的
+prebend|大教堂牧师的俸禄
+panelists|专门小组成员；专题讨论小组参加者（等于panellist）
+palmoscopy|[医] 心搏动检诊法
+pearlwort|[植]漆姑草
+pernoctate|守夜,熬夜, 通宵祷告
+praetorial|praetor的变形
+pretanning|[化] 预鞣
+poeticise|<主英> = poeticize
+pantomorphic|呈所有各种形状的
+phacocele|晶状体突出
+pinacyanol|频哪氰醇
+peacher|桃子；桃树；桃红色；受人喜欢的人（或物） (peach的变形)
+pleurectomy|[医]胸膜(部分)切除术
+purposed|打算的；计划的
+prizewinner|得奖人
+parklands|邸园( parkland的复数形式 ); 公园用地, 适宜用作公园的土地
+penthrite|[化]季戊炸药,奔斯乃特
+putid|[医]腐败的, 恶臭的
+polycythemia|红细胞增多症, 红血球增多症
+pomegranates|石榴( pomegranate的复数形式 ); 石榴树
+periwinkle|小长春花, 长春花, 玉黍螺
+placative|placate的变形
+prerogatives|权利( prerogative的复数形式 ); 特权; <英史>大主教法庭; <美史>总督委任组成的法庭
+poetized|作诗, 有诗意地描写( poetize的过去式和过去分词 )
+parachor|等张比容
+puckery|易皱的, 弄皱的, 缩拢的, 起褶的
+pitmen|矿工（尤指煤矿工人）( pitman的名词复数 )
+plyer|<主英>从事职业的人
+paracelsian|副钡长石
+poohs|(pooh 的复数) interj. 呸, 啐
+panellist|小组辩论, 猜谜参加者
+pontus|[史]本都(黑海南岸古王国)
+phenixes|凤凰；不死鸟；绝代佳人（等于phoenix）
+pulldevil|拖钩
+puttering|闲荡, 行为懒散, 混过( putter的现在分词 )
+parqueting|镶木地板( parquet的现在分词 )；<美>（剧场的）正厅后排
+puri|[印尼]宫, 宫殿
+peppiness|peppy的变形
+pessulus|栓骨
+pilferer|小偷
+partway|到中途, 到达一半
+poignant|辛酸的, 尖锐的, 剧烈的
+pentoses|[医]戊糖（类），五碳糖（类）
+pia|[计] 外部接口适配器
+prairillon|<废>小草原
+psychic|灵魂的, 精神的, 心灵的
+primula|报春花, 欧洲樱草
+puromycin|嘌呤霉素
+provisioned|预分配的
+periderm|周皮
+preallotment|预先分配, 预先分配的东西
+phytogenic|植物起源的(如, 泥炭, 煤)
+perturbance|扰动
+pointsmen|(pointsman 的复数) n. 交通警察
+parramatta|棉毛交织的一种棉布
+phthisical|肺结核的, 痨病的, 体质虚弱的
+predominates|占支配地位( predominate的第三人称单数 ); 在…中占优势
+politburo|[经] 政治局
+ponds|池塘（pond的复数）
+plywood|夹板, 合板
+polyfoil|& n.[建]多叶饰(的)
+poha|灯笼果
+peeves|麻烦的事物, 怨恨, 触怒( peeve的名词复数 )
+prevaricated|支吾( prevaricate的过去式和过去分词 ); 搪塞; 说谎
+parroting|机械地重复( parrot的现在分词 ); 鹦鹉学舌
+psychodrama|心理剧
+procured|（努力）取得, （设法）获得( procure的过去式和过去分词 ); 拉皮条
+pawns|（国际象棋中的）兵( pawn的名词复数 ); 卒; 被人利用的人; 小卒
+phenotypes|(phenotype 的复数) n. 表现型, 有共同表现型的生物群体, 遗传环境互应结果
+puncher|电报凿孔机, 冲床工, 钻床工, (非正式)报务员, 牧人
+presphygmic|[医] 脉波前的
+pseudomer|赝异构体, 假异构体
+psychopathic|精神病的, 精神变态的
+pozzolanic|[化]凝硬性的, 火山灰的
+phrontistery|[网络] 对峙
+pyrenean|比利牛斯山脉的
+pulmometry|肺(容)量测定法
+prayed|祈祷, 祷告( pray的过去式和过去分词 ); <文或旧>请求, 恳求
+penological|刑罚学的, 监狱管理学的
+pretermitted|忽略( pretermit的过去式和过去分词 )
+panted|喘气, 喘息( pant的过去式和过去分词 ); 喘着气说
+postcardinal|[医] 后主静脉的
+paua|鲍
+prankster|恶作剧者
+pyrogens|[化] 焦精
+polymeric|聚合的, 聚合体的
+pebblestone|小卵石
+phytometer|植物计, 植物蒸腾表
+populi|[医] 杨
+perienteron|[医] 肠周腔(胚)
+parody|打油诗文, 诙谐的模仿诗文, 拙劣的模仿
+presentable|体面的, 可表现的, 可提出的
+pachycholia|胆汁浓缩
+pinny|围嘴儿, 围巾
+physis|[医]n.长骨体生长部
+plenilunary|plenilune的变形
+piedra|[医] [热带]毛孢子菌病, 发结节病
+pardie|, interj. [古语]一定；必然；肯定；无疑；当然[亦作 pardy, perdie]
+pacos|Package Operating System 组装操作系统
+procatarctic|[医] 素因性的
+prescience|预知, 先见
+plumbiferous|含铅的
+pentagram|五角星形
+premised|以…为前提；前提是
+princeliest|(princely 的最高级) a. 王子的, 威严的, 王候般的, 豪华的, 奢侈的
+permissively|许可地；自由地；娇宠地
+parolee|假释犯
+procercoid|[动]原尾蚴(指原尾幼虫)
+plotlessness|情节；图；阴谋 (plot的变形)
+puffbird|[鸟]喷鴷科鸟
+piler|堆集机；垛板机
+populously|populous的变形
+plateaux|[医]n.高原, 平顶
+propenol|丙烯醇
+pleomazia|多乳房(畸形)
+pectoral|胸的, 治疗胸科病的, 戴在胸前的, 出自内心的, 发自胸腔的
+photalgia|[医] 光痛
+perennation|多年生
+perquisites|（工资以外的）财务补贴( perquisite的复数形式 ); 额外收入; （随职位而得到的）好处; 利益
+psilanthropy|耶稣凡夫论( 即主张耶稣为人性而非神性的论点)
+periscopical|潜望镜的, 用潜望镜的, 大角度的
+pledget|脱脂棉小拭子
+padshah|皇上;要人;台柱
+prothetelic|先成现象的, 先成的
+pisolitic|豆状的
+pragmaticist|实用主义者
+piptonychia|[医]脱甲
+podarthrum|足关节
+pelite|[地]泥质岩
+pistillidium|雌蕊托
+piqure|[医] 穿刺(尤指糖尿穿刺)
+poinsettias|猩猩木( poinsettia的复数形式 ); 一品红
+peewits|田凫；田凫的鸣声（等于pewit）
+petering|渐渐枯竭[消失]( peter的现在分词 ); 逐渐减少; 逐渐减弱; 慢慢消失
+plummeted|垂直落下, 骤然跌落( plummet的过去式和过去分词 )
+permuted|序列改变( permute的过去式和过去分词 )
+possessor|持有人, 所有人
+postnatally|产后
+pumpkins|南瓜（pumpkin的复数）
+phaedo|(Phaedo)人名；(希)费佐
+pectinose|[生化]果胶糖,阿拉伯糖(亦作 pectin sugar)
+phosphatidic|phosphatide（[生物化学]磷脂）的变形
+pachymeninx|硬脑[脊]膜
+parables|（圣经中的）寓言故事( parable的复数形式 )
+prongy|叉状的, 有叉尖的,有尖齿的
+plastery|泥灰状的
+phonomotor|电动机
+pax|圣像牌, (大弥撒中的)接吻礼, 和平女神
+peracarida|囊虾总目
+pacifism|和平主义, 反战论, 不抵抗主义
+polyborus|[网络] 卡拉鹰；凤头巨隼属
+preconize|公开宣言, 指名召见, 公布任命
+phagolytic|[医] [吞]噬细胞溶解的
+plutocrat|富豪, 财阀
+pseudosphere|伪球面
+paedagogic|教师的, 教育学的, 教授法的
+privets|(privet 的复数) n. 女贞
+pachymenic|[医] 厚皮的, 厚膜的
+peasecod|豌豆荚
+plagiarisms|剽窃( plagiarism的复数形式 ); 抄袭; 剽窃物; 抄袭物
+panoan|adj. 帕诺人的；帕诺语的
+pancreectomy|[医] 胰切除术
+palaeoconcha|古壳目
+polaris|北极星
+paving|铺筑过的地面, 铺过的道路, 铺筑过的路, 修筑路面/地面的材料
+pterocarya|枫杨属
+pyloralgia|幽门痛
+photoglyphy|照相凹版制版法
+pouching|& vi. （使）成为袋状（pouch的现在分词形式）
+plundered|掠夺, 抢劫( plunder的过去式和过去分词 )
+pleuston|水漂生物
+pricker|刺的人, 针, 刺针
+pillagers|(pillager 的第三人称 -s形式) n. 掠夺者, 抢劫者
+pinkness|粉红色；化身, 典范；石竹花；头面人物 (pink的变形)
+polyadenia|假白血病
+pteromalid|金小蜂
+photophobe|避光生物( 或器官) , 畏光生物( 或器官)
+postulants|(postulant 的复数) n. 申请人
+pleiotropic|[生]多效性的,多向性的
+pyridoxin|维他命B6
+proselytise|<主英>=proselytize
+persulfate|[医] 过硫酸盐
+phyllosoma|叶状幼体
+piranha|水虎鱼(南美产)
+papyrology|纸莎草学
+pitchman|摊贩
+pinyin|<汉>n.拼音(指汉字拉丁化注音和拼写方案)
+paunch|腹部, 瘤胃, 大肚子
+prickle|刺, 刺痛, 柳条篮子
+prosopotocia|面先露
+pseudotsuga|〔植〕黄杉属
+papyrograph|复写器, 简易胶版
+phyllode|[植]叶状柄
+puriri|新西兰牡荆
+photocurrent|光电流
+philatelist|集邮家
+personation|演角色, 扮装, 假冒人名
+portrays|画像( portray的第三人称单数 ); 描述; 描绘; 描画
+praam|<挪威>平底船
+paba|[化]对氨基苯(甲)酸
+phagocytable|[医] 可被吞噬的
+pisanite|铜绿矾
+polydipsic|polydipsia的变形
+provence|普罗旺斯(在法国东南部)
+preorder|[计] 先根次序
+pesterer|pester的变形
+pmsg|[化] 血清促性腺激素
+praiss|烟草汁
+parlors|客厅( parlor的复数形式 ); 起居室; （旅馆中的）休息室; <美>（通常用来构成合成词）店
+preterition|省略
+pretrochal|前纤毛轮
+pallets|托盘( pallet的复数形式 ); 平台; 运货板; 草垫子
+preadapt|[生物学]预适应
+plainchant|单声圣歌
+prier|刺探者, 窥探者
+papyrus|纸草, 草制成之纸
+paralytical|[网络] 瘫痪
+pesetas|西班牙银币( peseta的复数形式 )
+punted|用篙撑方头平底船( punt的过去式和过去分词 ); （在某些牌戏中）对庄家下赌注; 乘方头平底船沿河航行（尤指游览）; 进行股票投机
+parasitemia|[医]寄生虫血症
+plaiting|把…编成辫绳( plait的现在分词 ); 添纱; 折布
+pinda|<美方>花生,花生果,花生米
+phrenopathic|[医] 精神病的
+periuranium|近天王点
+plagiophyre|斜长斑岩
+puromucous|[医] 粘液脓性的
+pericolpitis|[医] 阴道周炎
+pusher|推者, 推销员
+parlay|连本带利的赌
+postdicrotic|[医] 重波后的
+pretoria|比勒陀利亚[南非（阿扎尼亚）首都]
+pythagoric|毕达哥拉斯的
+precarium|[法] 无偿占有, 随时可被收回的假占有
+polyembryony|[生]多胎,多胚
+pendants|（装在项链等上的）垂饰, 坠儿( pendant的复数形式 )
+peacockish|孔雀似的, 艳丽浮华的, 过于自负的, 虚荣心强的, 虚荣的
+paeoniaceae|牡丹科
+panurge|巴汝奇(讽刺小说《巨人传》中人物庞大固埃)
+postiler|(基督教《圣经》的)旁注；批注；注解；评注
+pyromaniac|放火狂者
+parahydrogen|[化]仲氢
+paunchiest|大肚子的( paunchy的最高级 )
+prodigalize|浪费, 挥霍
+photocells|(photocell 的复数) n. 光电池, 光电管
+precept|规诫, 规矩, 格言, 训令
+pleomastic|[医] 多乳房的
+perpetuance|使永存, 使人记住不忘（perpetuate的名词复数）
+portholes|舷窗( porthole的复数形式 )
+phlorrhizin|[医] 根皮甙
+pteropods|(pteropod 的第三人称 -s形式) adj.翼足目的
+postmarked|有邮戳的；盖邮戳的
+prost|int. （拉）恭喜；（拉）祝成功；（拉）祝健康
+polloi|<希>n.= hoi polloi
+pupal|蛹的
+preachifying|讲道, 唠唠叨叨地讲( preachify的现在分词 )
+plasmotomy|原质团分割
+potsherd|陶器碎片
+pallesthesia|[化] 振动觉
+puppets|木偶( puppet的复数形式 ); 玩偶; 受他人操纵的人或集团; 傀儡
+pipile|[网络] 普通鸣冠雉；盔凤冠雉属
+porta|[医] 门, 室间孔
+paperbark|(澳大利亚的)白千层属植物
+phylactery|经匣, 提醒者(物), 令人联想的事物, 护符
+punketto|[网络] 派克托
+preppies|（大学）预科生( preppie的名词复数 )；预备学校学生[毕业生]( preppy的名词复数 )；（尤指在衣着、举止等方面）像预备学校学生的人
+postcondylar|[医] 髁后的
+parkas|风雪大衣( parka的复数形式 )
+plodder|沉重行走的人, 辛勤工作的人, 做事慢条斯理不开动脑筋的人
+perigean|近地点的
+pschent|(古埃及国王的)双重王冠
+proselytes|(proselyte 的复数) n. 改信仰者, 皈依犹太教的人
+portioner|[法] 获得遗产, 嫁奁的人, 分得财产的人
+pasi|psoriasis area and severity index 牛皮癣区和严重性指数
+paiute|居于美国印第安人的一部族
+platycelous|平凹型的
+plotty|<口>情节错综复杂的
+penial|阴茎的
+pores|气孔；毛穴（pore的复数）
+pellucidly|透明地, 易懂地
+paxillary|[网络] 腋窝
+papayas|番木瓜树, 番木瓜果( papaya的复数形式 )
+phaeacian|[希神]费阿刻斯人(荷马史诗 Odysseus 中居住在 Scheria 岛的一个民族,以航海为生)
+pseudologue|[心]幻想性谎语癖患者,不能自我控制的说谎者
+pareus|（波利尼西亚人用作围裙或蔽体腰布的）一块长方形印花布( pareu的名词复数 )
+precedency|领先, 上席
+prinking|化妆, 打扮( prink的现在分词 )
+palmaceous|棕榈科的, 棕榈树的, 棕榈状的
+phytokinin|植物细胞分裂素
+pedometer|步数计, 步程计
+plasmodesmus|胞间连丝
+pilage|砂布, 砂纸
+prologuizing|作序言, 作开场白( prologuize的现在分词 )
+primordium|原基
+pritchel|带铁头的工具
+pavements|人行道( pavement的复数形式 ); 硬路面; 铺过的路面
+promptbook|提词者所用剧本
+piquancy|辛辣, 辣味, 尖刻, 激励, 可爱
+permeation|散发(性), 渗透作用(过程), 浸染
+pone|玉米饼
+plasmoptysis|胞质逸出
+potations|(potation 的复数) n. 喝, 一口的量, 饮酒
+prehend|[网络] 抓住；逮捕；理解
+proboscidate|有长鼻的
+precalculus|& n.学习微积分前必修的(课程)
+puccoon|[植]紫草属植物
+premedicate|前驱用药, 术前用药
+preaches|布道( preach的第三人称单数 ); 劝诫; 说教; 宣传
+ponderable|可估量的, 可称量的, 有重量的
+philippic|激烈的抨击
+propargyl|炔丙基
+paroxysms|突然发作, 发作, 阵发( paroxysm的复数形式 )
+pegmatite|[地质]结晶花岗岩
+purvey|供给, 供应
+potentialize|使成为潜在的, 使成为位能, 使成为势能
+porcelanic|(岩石)瓷质的, 像瓷的
+pennies|pl. (非正式)copper便士, (美)分, 分币
+plucked|采( pluck的过去式和过去分词 ); 拔掉; 解救; 弹
+prenominate|[废]预先命名, 预先提到
+pinnula|羽毛上的羽支
+phonotypical|phonotype的变形
+pitiless|无情的, 冷酷的, 无怜悯心的
+preordains|预先规定, 注定( preordain的第三人称单数 )
+perionyxis|[医] 甲周炎, 甲周脓炎
+prosocele|[医] 前脑腔
+percipiency|感觉, 知觉, 敏悟, 洞察
+paulite|紫苏辉石
+princedoms|(princedom 的复数) n. 小国君主的权位, 候国, 封邑
+peaceless|不平静的, 不安宁的
+poy|pre-oriented yarn 预先定向的聚酯纱线; 泰国著名变性女艺人, 17岁成功变性成美女
+priggish|一本正经的, 死板的, 自负的
+paramo|[地](南美洲北部尤指安第斯山脉的)高山稀疏草地
+porphine|[化] 卟吩
+physiography|地文学, 地貌学, 自然地理学, 自然现象志
+peed|小便, 撒尿( pee的过去式和过去分词 )
+posttemporal|后颞骨
+pituita|[医] [稠]粘液
+prerecorded|事先录音( prerecord的过去式和过去分词 )
+polyad|几个紧密相关的零件或元件的组合
+palmiste|[网络] 棕榈树
+phlebitis|静脉炎
+prosiest|prosy（无趣味的）的变形
+phlegmatized|[化](炸药)敏感度减少的,减敏的
+pilothouses|操舵室( pilothouse的名词复数 )
+pleach|编织
+portableness|portable的变形
+planters|种植园主( planter的复数形式 ); 大农场主; 播种机; 花盆
+punchiest|强力的, 因受拳击而脑部昏沉的( punchy的最高级 )
+patelloid|碟状的, 盘状的
+prawner|对虾, 明虾 (prawn的变形)
+precleaner|预清机, 粗选机
+pharyngology|咽科学
+pathed|(人、畜走出来的)路；小道, 小径；道路；(公园中的)路径
+preassign|[计] 预指定, 预分配, 预赋值
+perfumery|香料类, 香水(总称), 香料制造业
+prepubic|[动]前耻骨的
+prostration|平伏, 跪倒, 疲劳, 虚脱
+portentously|不祥地；有预兆地；盛气凌人地, 自负地
+phenacyl|苯甲酰甲基
+pong|恶臭
+phototube|光电管
+pharyngal|咽的
+prepossessed|<正>有好感的; 具有先人之见的； 事先受影响的; 入神的; 心事重重地
+plunderable|易受掠夺的
+parbleu|[法]嗳呀! 唷!
+prolusion|序言, 绪言, 序幕, 序乐, 开场白, 预演
+phylae|宗族；种族 (phyle的变形)
+potherb|野菜, 调味用香草
+pawl|棘爪, 制转杆, 卡爪
+pembroke|(=Pembrokeshire)彭布罗克郡(英国郡名)
+penholder|笔插, 笔架
+prooflike|表面光亮似新铸样币的
+proteolipide|蛋白脂体
+phycochrome|淡水藻色素
+pyrometers|(pyrometer 的复数) n. 高温计
+polypoid|水螅似的
+palistrophia|[医] 脊柱扭转[症]
+peptolytic|解胨的
+pawpaw|番木瓜, 番木瓜树
+pushcart|手推车
+portreeve|市长
+pairing|[计] 配对, 成对
+polyspast|滑车组, 复滑车
+proratable|可按比例分配的
+protocorm|原始球茎
+plutocracy|富豪统治
+pashto|普什图语的
+pyrogen|致热质, 发热原
+porosis|[医]空洞形成, 骨痂形成
+patrilineage|[法] 父系
+planispheric|planisphere的变形
+pastels|彩色粉笔( pastel的复数形式 ); 彩色粉笔画; 蜡笔画; 轻淡柔和的色彩
+picnicker|郊游者
+pandarus|[希神]潘达洛斯(利西亚人领袖)
+paramours|情夫, 情妇, <古>情人( paramour的名词复数 )
+putters|置放者, （高尔夫球）轻击棒( putter的名词复数 )
+photomapper|光制图仪
+pauperise|<主英> = pauperize
+pentagonoid|似五边形的
+perdu|隐藏的, 潜伏的, 看不见的
+piecemeal|一件一件地, 逐个地, 零碎地
+plexuses|（血管、淋巴管、神经等的）丛( plexus的名词复数 )
+popcorn|爆米花
+pachymenia|膜肥厚, 厚膜
+pneumas|元气, 精神, 灵魂( pneuma的名词复数 )
+psomophagic|[医] 囫囵吞咽的, 不细嚼的
+protandry|[植]雄蕊先熟
+peltate|盾状的
+primogenial|原始型的
+poeticalness|诗道；理想化
+proliferated|激增( proliferate的过去式和过去分词 ); （迅速）繁殖; 增生; 扩散
+paddymelon|[动]小型沙袋鼠[澳洲土著语]
+pharisaism|拘泥形式, 伪善, 法利赛派教义
+pluvial|雨的, 多雨的, 洪水的
+pigeonholed|把…搁在分类架上( pigeonhole的过去式和过去分词 ); 把…留在记忆中; 缓办; 把…隔成小格
+parable|寓言, 隐晦的比较
+portioning|分份, 分成几份
+paperboy|报童, 送报人
+palstave|[考古]青铜凿(亦作palstaff)
+pria|President of the Royal Irish Academy 爱尔兰皇家学会会长; Proceedings of the Royal Irish Academy <爱尔兰皇家学会会刊>
+paopao|[地名] [法属波利尼西亚] 帕奥帕奥
+pacemaking|定步速, 当标兵, 起搏
+planipennate|[医]具扁翅的
+pmk|邮戳
+pima|比马人(北美印第安人的一个部族)
+peise|[英国方言]；称, 量, 称…重量
+pharisaic|法利赛人的
+pileate|具菌盖的
+propellants|推进剂; 推进物( propellant的复数形式 )
+peba|九绊犰狳
+punchless|punch的变形；(纸夹、文件夹、书皮等)不打孔的
+picturer|照片, 图画；影片；景色；化身 (picture的变形)
+pilon|[人名] 皮隆
+pachyrhizus|地瓜, 豆薯属植物
+pettle|[苏格兰英语]宠爱；爱抚，抚爱；溺爱；沉溺
+priapulida|三部虫门
+panela|红沙糖
+pakeha|<新西兰>白种人(尤指祖先是欧洲人的新西兰人)
+pengo|(pl. pengo, pengos)辨戈(匈牙利从前的货币单位, 1964年为福林所代替)
+prodigiously|异常地, 惊人地, 巨大地
+phantastical|phantasy的变形
+poteen|私酿的威士忌
+pediculi|[医] 虱
+psorophora|[医] 鳞蚊属
+photophore|发光器官
+pollable|[计] 可修改的, 可移植的
+platyrrhine|(人)有阔鼻的,( 动物)阔鼻类的
+phonematics|音声学(研究除语音学和音位学之外的言语构成的物理、生理、心理方面)
+pachyntic|[医] 肥厚的
+ploesti|普洛耶什蒂
+punctuate|vi. 给文章加标点, 加标点符号
+perfidious|不忠贞的, 背信的, 有异心的
+prothallium|原叶体
+porphyria|[医]卟啉症(一种遗传性卟啉代谢的病态紊乱)
+platode|扁形的, 扁平的
+pleurite|[昆]侧片,侧板
+philtre|春药, 灵丹妙药
+parnassian|(希腊)帕纳塞斯山的, 诗文学的
+protopterus|非洲肺鱼
+prosed|散文；单调
+paradisaical|天堂的, 天堂似的, 乐园的
+pruinate|[医] 霜状的, 霜掩状的
+psomophagy|[医] 囫囵吞咽.不细嚼
+pharyngocele|[医]咽突出,咽囊肿
+puddly|多水坑的, 像水坑的
+pelean|[网络] 皮连式；培雷式
+palar|板状根
+periostraca|角质层 (periostracum的变形)
+parazoa|[动]拟生动物, 侧生动物
+pentitol|戊五醇, 戊糖醇
+preharvest|收获前的,收获期前的
+parthenogeny|单性生殖, 孤雌生殖
+prelect|讲演, 讲课
+paleola|[医]浆片
+puerperant|[医] 产妇
+pitchmen|(pitchman 的复数) n. 摊贩
+potashes|[无化] 碳酸钾；草碱；苛性钾；钾化合物
+purist|纯粹主义者
+pitches|程度( pitch的名词复数 ); 斜度; 颠簸; 沥青
+paters|(pater 的复数) n. 父亲
+puerperalism|[医] 产褥病
+presages|预示, 预兆( presage的第三人称单数 )
+primine|[植]外珠被
+perturbator|扰动器
+preamplifier|前置放大器
+polygyny|一夫多妻
+paas|Parkistan Association for the Advancement of Science 巴基斯坦科学促进会; phased array antenna system 相控阵天线系统; Premorbid Asocial Adjustment Scale 发病前活动减少的判断指标
+ppi|[经] 生产者物价指数
+pacas|无尾刺豚鼠( paca的名词复数 )
+panicum|[植]黍
+proletarians|无产阶级一员( proletarian的复数形式 ); 无产者; 产业工人; 劳工
+pneumatized|[医] 充气的, 含有气腔的
+parcenary|共同继承
+pelicanry|鹈鹕饲养场
+puissance|力, 势, 权力
+prepalatal|硬颚前部的
+protoconid|[动]下原尖
+postcoital|[医] 性交后的, 交媾后的
+perpetuated|使永存（perpetuate的过去式与过去分词形式）
+proliferous|增殖的, 增生的
+phizes|脸；表情；相貌
+punctation|刻点; 小斑点
+picumnus|[网络] 姬啄木鸟属；褐短嘴旋木雀
+philatelical|adj. 集邮的
+propenyl|丙烯基
+prys|(pry 的第三人称 -s形式) n. 杠杆, 窥探, 好奇者
+pipework|管道工程管（组）
+precardiac|[医] 心前的
+puncheon|短柱, 支柱, 半圆木块, 打印器, 大桶
+pithiness|多髓性, 简洁有力
+precis|摘要, 梗概, 大意, 概要
+pecorino|佩科里诺干酪, 羊乳干酪
+petitioning|祈求, 请求, 请愿( petition的现在分词 ); （向法庭）请求, 申请
+pyronaphtha|焦石脑油, 重煤油
+pinnated|羽状的, 翼,鳍之类的
+pleasantries|<正>客气话, 客套, 礼仪( pleasantry的名词复数 )
+proplasm|型, 模型, 铸型
+pome|梨果
+prismoid|[数]平截头棱椎体
+percolation|过滤, 浸透
+parmesan|帕尔马干酪(意大利产)
+perosis|[兽医](雏鸡的) 锰缺乏症
+preceptories|圣殿骑士团的地方支部, 圣殿骑士团地方支部的领地( preceptory的名词复数 )
+punto|刺中
+perimyelitis|[医] 脊髓膜炎; 骨内膜炎
+pelviform|盆状的
+pestilences|瘟疫, （尤指）腺鼠疫( pestilence的复数形式 )
+primiparous|初产的
+phormium|[植]新西兰麻
+playbill|戏单, 演出海报, 节目单
+preprocessor|[计] 预处理程序
+prosodial|作诗法的
+philately|集邮, 集邮的兴趣, 集邮者(总称)
+purples|散黑穗病
+panegyric|赞颂, 颂词, 推崇备至
+provirus|[微]前病毒
+pshaw|interj. 啐(表示不耐烦、轻蔑), 哼
+pluvioscope|雨量器
+perisoma|[医]体壁（棘皮动物）
+prosodical|诗体学的, 韵律学的
+photolitho|用照相平版印刷
+pings|<非正>砰, 乒( ping的名词复数 )
+peafowl|孔雀
+psidium|[网络] 番石榴属；番石榴营养学属；乐属
+presurgical|(外科)手术前的
+phalaris|法拉里斯
+perikaryon|(神经细胞的) 核周体
+prodroma|[医] 前驱症状
+practicum|实习科目, 实习课
+pungled|捐…；付…
+primeness|初期；主要；基本
+pedosphere|表土层
+pastorate|牧师职务, 牧师任期, 牧师团
+partook|partake过去式
+porphyropsin|[生化]视紫(质)
+phyllade|[植]鳞状叶
+poodle|鬈毛狗, 追随者
+pollinia|[医]大量花粉
+pervading|遍及, 弥漫( pervade的现在分词 )
+pews|教堂的条凳式座位( pew的复数形式 )
+praetor|军事执政官, 行政长官
+prehension|抓住, 理解
+posthitis|[医]包皮炎
+preppy|预科生
+palinuridae|龙虾科
+premeiotic|[生]减数分裂前的,成熟分裂前的
+pneumatism|精气论(一种医学理论, 认为生命与一种难以捉摸的气—精气有关)
+philosophism|伪哲学, 诡辩
+pustular|脓疱的, 有脓疱的
+paginating|[计] 编页码
+plumlike|plum的变形
+puppetize|使傀儡化,使成傀儡
+positioned|放置的
+postulator|假定者, 要求者
+pheasant|雉鸡, 野鸡, 雉科鸟
+privatistic|adj. 只关心个人生活（或个人利害）的态度的； 赞成私有制的，主张资本主义的
+pelvioplasty|[医] 骨盆成形术
+pledger|发誓人, 举杯祝酒的人
+precursory|先驱的, 前兆的
+paltrily|不足取
+penile|[医] 阴茎的
+pantoum|(根据隔行同韵的马来诗体改编的) 由隔行同韵的四行诗节组成的诗
+pentimenti|经过修改或颜料遮盖的原来笔画[图像]的再现( pentimento的名词复数 )
+pleonaste|镁铁尖晶石
+perforated|穿孔于, 在…上打眼( perforate的过去式和过去分词 ); （在纸张等上）打齿孔[孔眼线]
+poodles|卷毛小狗( poodle的复数形式 )
+pedantic|卖弄学问的, 学究式的, 假装学者的
+pandect|法令全书, 总论, 总览
+poortith|<苏格兰>贫穷,贫困
+pyroarsenite|焦亚砷酸盐
+photophilic|[生]喜光的,嗜光的,适光的
+pronghorn|叉角羚
+pedatisect|鸟足状全裂的
+plumosite|普通硫锑铅矿
+preplacental|[医] 胎盘形成前的
+psychedelics|(psychedelic 的复数) a. 引起幻觉的, 荧光的
+potman|酒馆的侍者
+puristical|修辞癖的, 用语简洁的
+polyhedron|多面体
+planospiral|(=planispiral)平旋壳
+paddlefish|[鱼]匙吻鲟,白鲟
+panosteitis|[医] 全骨炎
+phreatic|井的, 潜水(层)的, 准火山的
+plaids|彩格呢( plaid的复数形式 ); 格子呢; 毛呢; 毛呢长披肩（苏格兰民族服饰的一部份）
+phalloid|鬼笔菌
+prostomium|[动]口前叶
+pukras|[鸟]喜马拉雅山雉
+pseudocyst|拟孢囊
+panatellas|一种细长的雪茄烟（等于panatell）
+pigmenting|(pigment 的现在分词) n. 色素, 色质, 颜料
+plashes|（水）溅泼( plash的第三人称单数 )
+plunderous|劫掠的,掠夺成性的
+proboscidea|长鼻目
+pasteup|拼贴画
+pterylology|羽毛学
+phanariot|法纳尔人( 指Ottoman 帝国时期居住在Constantinople 地区担任土耳其重要神职及官职的希腊人)
+polybutylene|[机] 聚丁烯
+pyromancer|[网络] 火占师；火法师；火炎术士
+porthole|舷窗, 炮门
+pajaroello|[医] 皮革钝缘蜱
+phaseolus|[医]菜豆（属）
+prattfall|丢脸的倒霉, 可耻的失败
+poachy|(土地)易被牲口踩得泥泞的,湿而松软的
+piroplasma|[医] 梨浆虫属, 贝巴虫属
+phlebotomize|抽静脉血, 抽血
+picidae|啄木鸟科
+poco|[音]稍；少；略
+puddling|搅炼, 捣制胶土
+peptogen|助消化物质,助消化制剂
+pralltriller|[音]逆波音
+peroxides|过氧化氢( peroxide的名词复数 ); 过氧化物
+peripety|[网络] 陡转术；突转；境遇的骤变
+physicky|药物似的,由药物引起的
+plunging|跳进的；突进往下的
+penetrations|渗透( penetration的复数形式 ); 穿透; <军>突破; （男人阴茎的）插入
+polypore|多孔菌
+paronomastic|paronomasia的变形
+plex|[计] 丛
+paynim|异教徒, 穆斯林, 异教界
+prelature|高级教士之职, 主教
+perisher|做事卤莽的人, 讨厌的人, (行动、方法等的)极端
+prelatism|<贬> (教会的)主教制, 主教统辖制度
+phiale|[网络] 菲阿勒
+provisioning|[经] 物质供应
+preplanning|预先计划; 前规划
+prutah|普鲁特（以色列旧辅币名）； 普鲁特硬币
+pidgin|混杂语言, 混杂行话, 事务
+pleiad|(人或物的)一批精华(尤指7个),七明星,七巨头
+phosphoruria|磷尿
+philtering|春药, 媚药（使人性欲勃发的药物）( philter的现在分词 )
+parabranchia|拟鳃器
+purger|使清净的人, 清洗用品, 泻药
+pipings|(piping 的复数) n. 吹笛, 笛声, 管道, 尖锐声音, 衣服滚边
+peasen|pease 的复数
+prophyll|先出叶; 原叶
+phlegmy|痰的, 含痰的, 生痰的
+preconcerted|预定的, 事先计划的
+phlebectopia|[医] 静脉异位
+puelche|帕尔希风
+periuvular|[医] 悬雍垂周的
+panspermic|[医]病原普遍存在说的
+pounding|重击；重击声
+peached|揭发, 告发（peach的过去式与过去分词形式）
+perquisition|彻底搜查
+papism|[蔑]教皇制度, 罗马天主教
+paperweight|镇纸, 压纸物, 压纸器
+pylons|（架高压输电线的）电缆塔( pylon的复数形式 ); 挂架
+punished|未受处罚的
+puddings|（一道）甜食( pudding的复数形式 ); 甜点心; 布丁（通常用面粉经烘烤或蒸煮做成的美味甜食品）; 肥胖而迟钝的人
+polychresty|有多种用途的东西(尤指有多种功效的贵重药品)
+patens|(paten 的第三人称 -s形式) n. 圣餐盘, 祭碟, 金属浅圆盘
+perky|得意洋洋的, 快活的, 敏捷的, 美观的, 傲慢的, 神气的
+porting|[计]进入端口
+parasitoid|[医] 寄生物样的
+porr|槟岛外环公路（Penang Outer Ring Road）
+painless|无痛的, 不痛的
+prawn|明虾, 对虾
+polypodia|[医] 多足[畸形]
+pearlweed|漆菇草属
+plaguers|杀出个太空
+protophyta|[医] 原生植物类
+punkey|[网络] 双鱼座
+physogastric|膨腹的
+polishers|磨光器；磨亮的人；[机] 磨光机
+pygmaean|矮人的, 矮小的, 微少的, 无足轻重的, 微薄的
+perispomenon|(希腊语中)音调(或长音)符号落在最后一个音节上的
+pyramidical|金字塔的, 角锥状的, 金字塔形的, 角锥体的
+photosyntax|[网络] 光合作用
+playtimes|(playtime 的复数) n. 游戏时间, 娱乐时间, 演出时间, 开幕时刻
+pianism|钢琴演奏技巧
+pararectal|[医] 直肠旁的
+pleophagous|吃多种食物的
+pacificator|仲裁者, 调解人
+prises|撬动（prise的第三人称单数形式）
+polyzoa|[动]群栖虫, 苔藓虫
+pitmans|连杆, 联接杆
+pharmacists|药剂师( pharmacist的复数形式 )
+primates|灵长目
+pontile|[医] 脑桥的
+petiolar|叶柄的, 生在叶柄上的
+pedant|自夸学问的人, 空谈家, 书呆子
+pehuenche|[网络] 佩温切；佩文切；皮珍契族
+pedatrophia|[医] 儿童消瘦; 肠系膜淋巴结结核
+prerogatived|(尤指阶层, 阶级的)特权, 特典；独有的权利；[英国英语]君权, 帝王的大权
+polyglottism|通晓数种语言
+patriotics|[pl. ]爱国精神的表现[言论、行为], [用作单]爱国的作品[演说、活动]
+pelvirectal|[医] 骨盆直肠的
+psorospermic|[医] 胶孢子虫的, 鱼浆子虫的
+planular|扁平的
+pigtails|女孩垂在头两侧编或不编成辫子的长发, 发辫, 辫子( pigtail的复数形式 )
+paralinin|核基质, 核液
+proxemics|[复] n.[用作单][社]空间关系学
+pastoralized|pastoralize的变形
+polycrase|(=polycrasite)[矿]复稀金矿, 锗铀钇矿石
+photesthesis|[医] 光觉, [对]光敏感, 畏光
+predictors|(predictor 的复数) n. 预言者
+possessedly|possessed的变形
+pubigerous|具短柔毛的
+poser|装腔作势者, 难题
+pesters|使烦恼, 纠缠( pester的第三人称单数 )
+poverties|贫穷( poverty的名词复数 )；缺少；贫乏；低劣
+pulsion|推进
+playgirl|寻欢作乐的女子, 花花小姐
+psammoma|沙瘤
+ptinus|蛛甲属
+partings|（头发的）分缝( parting的复数形式 ); 分离; 分道扬镳的时刻; 临别时不友好的话（或行为）
+porcine|猪的, 猪似的
+psora|[医] 疥疮, 牛皮癣
+pottage|浓汤
+pneoscope|[医] 呼吸描记器
+plurilingual|多语种的, 多种语言的
+parka|皮制连帽大衣, 派克大衣
+parfleche|生皮革(制品), 一种坚韧的水牛皮
+perai|[鱼]水虎鱼（产于南美产的一种小鱼）
+plucks|勇气, 精神( pluck的名词复数 )
+pedaliaceae|[医] 脂麻科, 胡麻科
+pathopoiesis|[医] 致病; 罹病性
+polemicize|参加争辩,参加辩论,发表辩论文
+prie|催乳激素释放抑制因子
+prolicide|杀害胎儿(或婴儿)
+piankashaw|皮安卡肖人(美国迈阿密的北美印第安部族)
+pneumatics|气体力学
+palenque|[地名] [巴拿马、厄瓜多尔、哥伦比亚、古巴、洪都拉斯、墨西哥、委内瑞拉] 帕伦克
+phleboplasty|[医] 静脉成形术
+pickin|(西非用语)小孩
+philomath|爱学问的人
+proteinuric|[医] 蛋白尿的
+pelops|[希神]珀罗普斯(Tantalus 之子)
+pathogenesy|[医] 发病机理
+pudsey|帕齐（人名）
+potentiator|[药]增强剂,增效剂
+philosophise|推究哲理, 卖弄大道理
+patentee|专利权所有人
+pargasite|[矿]韭闪石
+propertied|有产的, 使用道具的, 需要道具的
+parlours|客厅( parlour的复数形式 ); 接待室; 营业室; 业务室
+planlessness|计划；平面图 (plan的变形)
+pharisees|法利赛人；伪善者；形式上遵守教义的人（Pharisee的复数形式）
+perverts|性变态者( pervert的名词复数 )
+ponca|彭加人(在内布拉斯加州和俄克拉何马州保留地的美洲印第安人部落)
+poaching|[经] 猎取, 盗取
+privatizing|使私有化( privatize的现在分词 )
+polypody|水龙骨属植物
+paulie|[电影]鹦鹉
+polyodontia|[医] 多牙, 额外牙
+pron|代名词的（pronominal）；代词 （pronoun）；显著的（pronounced）；发音（pronunciation）
+privities|私下知悉, 默契( privity的名词复数 )
+profanities|(profanity 的复数) n. 玷污神圣, 不敬, 亵渎, 亵渎语言
+prolegomena|前言, 绪论; 前言, 序论( prolegomenon的名词复数 )
+payers|付款人, 交款人( payer的复数形式 )
+pericenter|近心点; 近中心点
+phage|噬菌体
+poaches|水煮（荷包蛋）( poach的第三人称单数 ); 侵入他人地界偷猎
+phthalimide|苯邻二甲酰亚胺, 酞亚胺
+polyphagy|多食症, 杂食性
+phosphoritic|phosphorite的变形
+periost|[医] 骨膜
+pipsqueak|矮小的人, 小人物, 无足轻重的东西
+puritanic|清教徒的, 清教主义的, 宗教上极端拘谨的, 道德上极端拘谨的
+prospers|成功, 兴旺( prosper的第三人称单数 )
+parsimonious|过度节俭的, 吝啬小气的
+perseitol|[化] 鳄梨糖醇; 甘露庚糖醇
+preferments|(preferment 的复数) n. 晋升, 升任, 优先权, 选择, 偏爱
+percentages|百分比( percentage的复数形式 ); 比例; 利润的分成; 提成
+pancaking|平坠着陆
+peroration|结束语, 演讲, 夸夸其谈
+potholders|(potholder 的第三人称 -s形式) n.用以握持热锅的布垫子或厚布
+publicized|公布；广告；宣传（publicize的过去分词）
+paranucleate|[医] 副核酸盐
+platycnemic|[医] 扁胫骨的
+plaited|把…编成辫绳( plait的过去式和过去分词 )
+pantological|百科全论的, （系统地论述）人类全部知识的
+petulance|易怒, 坏脾气, 使性子
+prattled|（小孩般）天真无邪地说话( prattle的过去式和过去分词 ); 发出连续而无意义的声音; 闲扯; 东拉西扯
+precancel|(收寄大宗邮件或邮包时)预先盖销(邮票)
+photodromy|[医] 光动[现象]
+pirouetting|作皮鲁埃特旋转( pirouette的现在分词 )
+pleuritic|肋膜炎的, 引起胸膜炎的
+pterosauria|翼龙目
+patriarchism|[法] 宗法主义, 族长政治
+pneumotoxin|肺炎球菌毒素
+postanal|[医] 肛门后的
+procuracies|代理；代理权；检察院
+preaseptic|[医]无菌外科以前的
+pretzels|椒盐卷饼, <美俚>法国号( pretzel的复数形式 )
+partitioned|分区的；分割的；分段的
+potheads|瘾君子；巨头鲸鱼
+petrolic|石油的, 汽油的, 汽油发动机的
+pergamyn|羊皮纸
+pennywise|adj. 小数目上节约的
+penult|语尾倒数第二音节, 倒数第二个
+palayan|菲律宾栎[橡]
+polygenesis|多源发生说, 多细胞繁殖
+paguridae|寄居蟹科
+pharyngitis|咽炎
+pashalik|pasha的领地[管辖权]
+plundering|掠夺, 抢劫( plunder的现在分词 )
+preagonal|[医] 濒死前的
+perviousness|渗透性, 透[渗]水性
+plumbism|铅中毒
+polyneuritis|[医]多神经炎
+phosphorise|<主英> = phosphorize
+pocketing|[医] 宽底袋
+pacer|[电] 步测器
+pylorus|幽门
+phonics|声学, 基础语音教学法
+phlegethon|[希神]地狱火河( 传说中冥界五大河之一)
+polychromy|多色法, 多色彩
+phrasal|(含有)短语的, 成语的, 惯用语的, 用语上的, 乐句的
+pinnule|小羽片
+parches|（使）焦干, （使）干透( parch的第三人称单数 ); 使（某人）极口渴
+protested|抗拒
+papa|爸爸
+procreative|会生产的, 有生殖力的
+paginate|标页数
+pinguin|野凤梨,野菠萝(指植物或其果实)
+parturiency|[医] 临产
+powan|[鱼](苏格兰湖产)白鲑
+pruned|未修剪的
+perambulate|巡行, 徘徊, 漫步于, 勘查
+parturient|分娩的, 生产的, 临盆的, 正酝酿产生新思想的
+pantywaist|无丈夫气的男子
+pastern|胶, 胶骨
+pulsates|有节奏地舒张及收缩( pulsate的第三人称单数 ); 跳动; 脉动; 受（激情）震动
+parapet|栏杆, 扶手, 女儿墙, 胸墙
+phialing|管形瓶；小药瓶
+plumule|胚芽, 绒羽
+pernickety|不大方的, 爱挑剔的, 难以取悦的, (工作)需要精细的
+poral|多孔粉状金属吸热材料
+proscribe|剥夺...的公民权, 使失去法律保护, 把...充军, 把...放逐, 排斥, 禁止
+pelargonic|[医]壬酸
+prudentially|细心地
+prognathic|下巴突出的
+phototonic|[医] 光紧张的
+palletizing|(palletize 的现在分词) 把...放在货盘上, 码垛堆集, 用货盘装运
+premaxillary|前颌骨的, 颌骨前的
+prosaically|散文式地, 平凡地
+paraquat|百草枯（除草剂）
+pteridoid|如蕨类的
+pasticheur|模仿他人作品者,仿作者, 集成曲作者, 混成作品作者
+paludine|沼生
+pyritization|黄铁矿化
+proteolysis|解朊作用, 蛋白水解作用
+placards|招贴( placard的名词复数 ); 标语牌; 海报
+peritoneal|腹膜的
+padda|〔食〕罐装香料油浸鱼片
+pappoose|（北美土人的）幼儿, 婴儿
+porcelanous|瓷器(似)的
+poignantly|深刻地；辛辣地；令人辛酸地
+piperic|胡椒的
+polystyle|多柱的
+photoprocess|光学处理
+polygram|[计] 多边图形, 多字母组
+prototheca|原外壁
+phosphoric|磷的, 含磷的
+periadenitis|[医] 腺周炎
+paperlike|paper的变形
+pleinairism|外光派, 露天派(19世纪法国印象主义绘画, 直接利用外光作画)
+pryingly|[网络] 慌张
+plu|[美口]像我们这样的人（people like us）
+palliates|减轻( palliate的第三人称单数 ); 缓和（痛苦、疾病等）; 辩解; 掩饰（罪过等）
+pinwale|细棱条灯心绒
+prese|[医]预调, 调整, 预定的, 预置的
+perorate|作结语, 总结, 高谈阔论
+platemaker|(印版的)制版机
+pensioned|退休金, 抚恤金；津贴；膳宿费
+phatic|交流感情的, 仅仅是交际性的
+papier|（法）纸
+polyesthetic|[医] 多处感觉的
+pangolins|(pangolin 的复数) n. 穿山甲, 鲮鲤
+petuntze|（烧制瓷器用的）瓷土
+phonometry|声强度测量法
+pisciculture|养鱼学, 养鱼业
+phenetidin|[医] 非那替汀, 氨基苯乙醚, 乙氧基苯胺
+periwinkles|长春花( periwinkle的复数形式 ); 玉黍螺（食用海螺）
+polemoniales|[网络] 花葱目；花荵目
+precipices|悬崖, 峭壁( precipice的复数形式 )
+plosives|(plosive 的复数) n. 破裂音
+phagocytose|[生](吞噬细胞) 吞噬(异物或细菌)
+photoetching|光刻, 照相感光制版, 照相凸版印刷, 照相感光制凸版, 照相凸版
+polyaemia|[网络] 多血症
+protectingly|加以保护地
+pentstemon|钓钟柳
+pleustonic|pleuston的变形
+prebake|预焙, 预烘干
+photoresist|[计] 感光保护膜
+platynite|[矿]硫硒铋铅矿
+presentence|宣判前的,判决前的
+profundities|深奥, 深刻, 深厚( profundity的复数形式 ); 堂奥
+plaister|& vt.<废>=plaster
+proser|散文家, 平淡无味的人
+pterostigma|翅痣
+pall|棺罩, 柩衣, 遮盖物
+paternal|父亲的, 父系的, 似父亲的, 得自父亲的, 家长式统治的
+persecution|虐待, 迫害运动, 迫害, 烦扰
+pileorhiza|[植]根冠
+petrolene|[化]沥青脂
+panful|一满锅, 一满盘
+palatitis|腭炎
+placentary|placenta的变形
+pehlevi|巴列维金币(前伊朗金币)
+premixer|[化] 预混合器
+poley|[人名] 波利
+perfuse|洒遍, 撒满, 散布, 灌注
+proudhearted|骄傲的, 傲慢的
+palustrine|沼泽的
+pentacetate|五乙酸盐
+pajamaed|pajamas的变形
+punitive|刑罚的, 惩罚性的
+pyridoxamine|[生化]吡哆胺,维生素B&-{6}
+proteopexic|[医] 蛋白固定的
+prolusory|prolusion的变形
+papillulate|[医]具小乳状突的
+parting|告别, 分歧处, 分界点
+pichi|[医] 皮契茄(南美一种茄科植物,其嫩叶用于膀胱炎)
+piedfort|厚坯硬币
+perognathus|囊鼠属
+personage|重要人士, 显要, 名士, 人物, 角色
+prescriber|处方者, 开药者, 建议者
+phoronid|[动]n.& adj.帚虫(的)
+preteritive|过去时的; (动词)只有过去时(或式)的
+pappose|[医] 有软毛的, 有冠毛的(菊科)
+paltered|讨价还价( palter的过去式和过去分词 ); 含糊其辞; 敷衍了事; 儿戏般对待
+planimetric|平面的
+parallels|平行线；平行状态；匹敌者（parallel的复数形式）
+padraic|[人名] 帕德里克
+poitrinaire|[医] [慢性]胸肺病患者
+prov|(Prov)人名；(俄)普罗夫
+partitions|分开（partition的三单形式）
+petitionary|请愿的, 为请愿的, 请求的
+propelled|推进的
+perispore|[植]孢子周壁
+portmanteau|手提箱
+pyridone|[化] 吡啶酮; 羟基吡啶
+putrefacient|腐败的, 易腐败的, 腐烂的
+perseus|珀尔修斯(希腊神话人物), 英仙(星)座
+playschool|幼儿游戏组
+passionately|热情地, 激昂地
+palinurus|[网络] 真龙虾属；巴利奴鲁斯；小天使翠凤蝶
+pullout|拔, 拉, 撤退
+pothunter|任意捕杀鸟兽者, 逐奖参赛者, 业余考古学家
+pneumotropic|肺向性的
+prisere|(生态学中的)正常演替系列
+pests|有害的人或物( pest的复数形式 ); 害虫; 害兽; 害鸟
+pellucidity|透明度, 明晰度, 易懂的程度
+protosiphon|原生管属
+paronychial|[医] 甲沟炎的
+psf|pounds per square foot 磅/平方英尺; pounds per square foot 磅/平方英尺
+portlier|肥胖的( portly的比较级 )
+parasyndesis|平行联会
+palaemonidae|长臂虾科
+pervert|使堕落, 使反常, 歪曲, 滥用, 使左右颠倒, 唆使...性变态
+pilula|(=pills) 丸剂
+prolan|绒膜促性腺激素
+pericolitis|[医] 结肠周炎
+prentices|(prentice 的复数) n. 学徒, 初学者
+prenatally|prenatal（产前的）的变形
+procurance|获得, 取得, 实现, 达成, 代理
+pycnidium|分生孢子器
+potmen|酒馆的侍者
+paries|[常作parietes][生]壁
+papilloedema|[医]视神经乳头水肿
+preknow|先知, 事先知道
+peepshows|(peepshow 的复数) n. 西洋镜；拉洋片
+porridges|(porridge 的复数) n. 粥, 糊
+pigmented|[医] 色素沉着的, 着色的
+priapulid|[医]曳鳃动物（动）
+patisserie|法式糕点, 法式糕点铺
+penthorum|[医] 扯根菜属
+pyrexias|(pyrexia 的复数) n. 发热, 热病
+paralyses|[医] 麻痹, 瘫痪
+propman|道具管理人
+proline|脯氨酸
+persicaria|[动]红脚鹬
+palpating|触诊( palpate的现在分词 )
+precambrian|前寒武纪, 前寒武纪岩
+penitential|忏悔的, 赎罪的, 苦修的, 作为补赎的
+proposing|提议, 建议( propose的现在分词 ); 打算; 提供（解释）; 提出（行动, 计划或供表决的方案等）
+petted|宠爱（pet的过去式与过去分词形式）
+portlast|舷缘
+porphyratin|[化]金属和卟啉的络合物
+pettifogger|讼棍, 骗人的律师, 欺诈者, 诡辩者
+phrenesis|[医] 疯狂, 精神病(旧名)
+pistoleer|使用手枪者, 手枪兵
+paintbrushes|漆刷, 画刷, 画笔( paintbrush的复数形式 )
+prisable|可以捕获的
+palmitins|棕榈精
+ptt|[计] 邮政电话与电报
+promisees|(promisee 的复数) n. 受约人
+pierrots|走江湖的丑角( Pierrot的复数形式 )
+pigtail|猪尾, 发辫, 辫形导线
+physicalness|physical的变形
+propylaeum|入口
+poggy|小鲸, 小型的鲸
+proverbs|箴言篇（旧约圣经中的）
+pholas|[动]海笋,穿石贝
+pollinates|给…传授花粉( pollinate的第三人称单数 )
+phyla|类群（ 	phylum的复数）
+pygofer|(同翅亚目)尾节
+pelmet|门帘盒
+phew|interj. 咳, 哦, 唷
+precooking|预煮, 预先烹调（食物）( precook的现在分词 )
+prechoose|预先选定, 预先选择
+praiseful|赞扬的
+pignora|典质；典质物 (pignus的变形)
+precative|恳切的, 恳求的
+penmen|书法家( penman的名词复数 )
+problemist|棋题设计(或研究)家
+phlyzacium|[医] 小脓疱, 深脓疱
+pitpan|平底独木舟
+polythelism|(=polythelia)多乳头(畸形)
+postical|[植]在后的
+paradoxides|兜头虫；奇异虫属
+phasis|发展中之某一阶段或时期；事物之某一面
+phloretin|根皮素, 根皮苷配基
+protocalcium|原钙, 初钙
+postpaludal|[医] 疟疾后的
+pendicle|垂饰
+pentagonal|五角的, 五边形的
+providently|有远虑地
+pressers|(presser 的复数) n. 压制工, 压制机
+palestrae|体育场
+pelecypod|[动]n.瓣鳃动物,斧足动物
+paletiology|[网络] 病因学
+pornocracy|淫妇政治(指公元10世纪时罗马贵族中的几个淫妇成为教皇情妇而控制教廷大权)
+pyromancy|火焰占卜
+primo|第一的；首先的
+pkg|包装（package）
+polyparies|polypary的变形
+pincher|(条钢因耳子造成的)折叠(缺陷), (薄板的)折印(缺陷), 夹锭钳
+postliterate|文字后的,采用电子传媒的
+pilocystic|[医] 囊样含毛的
+pilularia|[网络] 丝苹属
+prankishness|prankish的变形
+predicrotic|[医] 重波前的
+peters|彼得斯（姓氏, 男子名）
+plugboard|[计] 插接板
+panelist|专门小组成员, 演出小组成员, 参加电视公开讨论会的成员, 答问小组的成员
+paar|<希伯来>洼地
+primos|(primo 的复数) adj. 第一的；首先的
+prosethmoid|前筛骨
+pampering|纵容, 宠, 娇养( pamper的现在分词 )
+polywater|[化]聚合水
+paratactic|并列的, 并列结构的
+parodist|模仿诗文作者, 打油诗作者, 诙谐文作者
+plesiotype|近型
+polytropic|[昆]多花采蜜的,多花采粉的
+pimenta|[废]多香果辣椒
+papmeat|(婴儿或病人吃的)软食
+planigram|[医] X线体层照片, X线断层照片
+palliation|缓和, 辩解, 减轻
+polycarp|(无脊椎)多果腺
+pulchritude|美丽
+pampero|由南美吹向大西洋的冷风
+pockwood|愈创木
+pavlov|巴甫洛夫（苏联生理学家和实验心理学家, 全名为Ivan Petrovich）
+precompiler|[计] 预编译的
+protozoology|原生动物学
+pagurus|[网络] 寄居蟹；寄居蟹属；普通黄道蟹
+plasmodia|[医] 疟原虫, 原形体, 原质团, 合胞体
+plurel|集合体
+prostituting|滥用才能( prostitute的现在分词 ); 糟蹋自己; 卖淫; 出卖肉体
+phyle|宗族, 居民阶层
+polarization|极化, 极化强度, 偏振, 两极分化
+pickmen|(pickman 的复数)  [人名] 皮克曼
+pounced|突然袭击( pounce的过去式和过去分词 ); 猛扑; 一眼看出; 抓住机会（进行抨击）
+pasties|（脱衣舞女等粘戴在乳头上的）乳头罩; 肉馅饼( pasty的名词复数 ); 乳饰
+psychotaxis|心理整复
+pregnable|易攻击的, 可功克的, 可受孕的
+psalms|圣经旧约中的诗篇（等于Book of Psalms）
+pterygode|(鳞翅目)翅基片
+procne|[希神]普洛克涅(雅典公主Philomela 之姐)
+pastored|(pastore 的过去分词)  [人名] 帕斯托
+preverb|句首助动词, 前动词(即移至句子第一个位置上的助动词)
+postnecrotic|[医] 坏死后的
+protestatory|表示抗议(或异议)的
+phytane|[化]植烷
+protophyll|[植]原生叶
+procoelia|[医] 侧脑室
+peripatetics|(peripatetic 的复数) a. 徒步的, 漫游的
+postglenoid|关节盂后的
+pith|木髓, 骨髓, 要旨, 重要性, 力量, 核心, 意义, 精华
+paparazzo|专门追逐名人的摄影记者
+partitionist|(政治)分裂主义者
+platoon|排, 一组, 一群人
+patroness|女性保护人, 女资助人, 女主顾
+pinnotheres|〔水产〕豆蟹
+pinakoid|轴面体
+periodograph|週期图仪
+polygenes|[pl.][生]多对因子, 多基因
+peppy|精神充沛的, 活泼的, 起动快的
+polars|(polar 的复数) a. 两极的, 极地的, 正好相反的, 极性的
+prosoma|[动]前体(区)
+portcullises|铁闸门, 吊闸( portcullis的复数形式 )
+preman|史前人,猿人
+pulsation|悸动, 震动
+psalmody|圣歌吟唱, 赞美诗, 赞美诗音乐改编
+pipa|[动]负子蟾
+palmae|[医] 掌, 棕榈
+palama|鸟蹼
+peterkin|[男子名] 彼得金 Peter的昵称
+poeciliidae|杂色鱼科
+phenethyl|苯乙基
+perflation|[医] 吹气引流法, 吹入法; 自然通气
+prepayment|[经] 预付, 提前偿付
+puppis|[the Puppis][天]船尾(星)座
+phegopteris|[网络] 卵果蕨属；假金星蕨属
+predacity|食肉性
+polymeter|多能湿度表
+pimpernels|(pimpernel 的复数) n. 海绿属植物, 难以捉摸的事物, 一心追求的事物
+potteries|陶器( pottery的名词复数 ); 陶器厂; 陶土; 陶器制造（术）
+patriarchdom|家长；族长；元老；创始人 (patriarch的变形)
+pedipalpus|(无脊椎动物的)脚须
+pygopus|[网络] 尾肢
+papillomata|乳突淋瘤, 刺瘤( papilloma的名词复数 )
+pedro|彼得牌戏（一种纸牌戏）
+prana|（印度教哲学中的）息, 生命气息
+palmella|[医] 胶群[绿]藻属
+piperonal|[化]胡椒醛, 洋茉莉醛( 亦作piperonyl aldehyde)
+pampered|饮食过量的, 饮食奢侈的
+plasticism|造型学
+populin|[化] 杨属灵; 白杨苷
+phytophilous|喜植物的
+pks|packs 包裹; pecks 啄坏; 凿; 急吻
+phosphor|金星, 启明星, 磷光体, 磷光剂, 磷光闪闪的东西
+putrefying|（使）腐烂, （使）腐败( putrefy的现在分词 ); （使）化脓; 腐化, 堕落
+parsley|皱叶欧芹, 荷兰芹
+plurisporous|[植]多孢子的
+postabortal|[医] 流产后的
+pericerebral|[医] 脑周的
+palification|打桩
+pollard|无角(截去角)的动物, 截去树梢的树, 麸皮
+penetrator|穿入者, 侵入者, 渗透者
+puzzlers|(puzzler 的复数) n. 令人困惑的人, 难题
+purebred|纯种的
+pardi|& int.<古>肯定,当然,无疑,确实(发誓时用 )
+ponent|西的
+pilifer|唇基侧片
+paraterminal|末端旁的
+pelecanidae|[网络] 鹈鹕科；鹈形目鹈鹕科；鹈鶦科
+pricers|(pricer 的复数) n. 核价员, 报价员
+pistacite|绿帘石
+plaything|玩具, 被玩弄的人, 玩物
+pussycats|猫, 有毛的柔软东西( pussycat的复数形式 )
+parasol|阳伞, 伞翼机
+picayune|小钱币, 五分钱币, 微不足道的事物, 无足轻重的人
+pianosa|[地名] [意大利] 皮亚诺萨
+postpalatine|腭后部
+plumasite|刚玉奥长岩
+palpitating|（心脏）悸动( palpitate的现在分词 ); 突突跳; 急速地跳动; 颤抖
+pyxis|有盖瓶, 小箱
+petroselinum|(=parsley)岩芹, 洋芫荽, 石芹
+poppycock|胡说, 废话
+potentiated|使强有力, 增强（尤指药物）效能( potentiate的过去式和过去分词 ); 使可能
+perfumer|香料制造人, 香水调配者, 香料商, 香水喷雾器
+prismy|棱柱的, 灿烂的
+phagocytosed|(phagocytose 的过去分词) vt.[生](吞噬细胞) 吞噬(异物或细菌)
+personalism|个性, 个人影响, 人格主义
+pleurobranch|侧胸, 胸鳃
+precancerous|癌症前期的
+placuntitis|胎盘炎
+psychologism|唯心理论, 心理学术语, 心理学概念
+preindicate|预先指出,事先表明, 预示
+patties|小馅饼( patty的名词复数 )
+phlebectasis|[医] 静脉扩张
+phanerosis|[医] 显现, 显形
+pallor|苍白, 青白
+picaros|流浪汉, 流氓( picaro的名词复数 )
+pearlash|[医] 真珠灰, 粗碳酸钾
+polytyping|【印刷】(将木刻等印版压在金属半流质上制成的)压铸版；压铸版印件；【矿物学】多型(体)
+petrous|岩石的, 岩石般的, 坚硬的
+patristical|（早期基督教）教父的, 教父的宗教著作的
+probation|鉴定, 查验, 证明, 试用, 察看, 缓刑
+philoctetes|[希神]菲罗克忒忒斯(在特洛伊战争中用其父大力神Hercules所遗之弓和毒箭杀死特洛伊王子Paris的英雄)
+pereiopod|(甲壳动物的)胸部附器
+prissier|谨小慎微的( prissy的比较级 )；过分讲究的；拘谨的；刻板的
+pentoside|[生化]戊糖苷
+preteen|青春期前的
+protist|原生生物
+procrypsis|(昆虫等的)隐色
+payt|payment 付款; 支付; 报酬; 偿还
+paranosic|[医] 因病获益的
+patriliny|父系继嗣
+propolize|覆蜡, 充蜡
+predicting|[计] 判定的
+periostoma|[医] 骨膜瘤
+polio|脊髓灰质炎, 小儿麻痹症
+picas|[印]十二点活字；[医]异食癖
+painfully|痛苦地, 苦恼地, 费力地
+placements|安置( placement的复数形式 ); 实习工作; 实习课; （对物件的）安置
+palpation|触诊, 扪诊
+progestin|孕激素
+polyarthric|[医] 多关节的
+politure|抛光
+pristis|[网络] 锯鳐属
+planigraphy|[医] X线体层照相术, X线断层照相术
+pfennig|芬尼(德国辅币)
+pogonology|胡须研究,须学,须学论文
+patency|明显
+porphyrin|卟啉
+preachership|牧师；传教士；鼓吹者 (preacher的变形)
+patination|绿锈；生绿锈；（金属、木器等的）光泽；生成光泽
+plowhead|<主美> = ploughhead
+periproct|(无脊椎动物的)围肛部
+pulsing|[计] 脉冲的
+presupposing|预先假定( presuppose的现在分词 ); 假设; 以…为先决条件; 意味着
+prosopolepsy|[医] 相面术
+proteases|(protease 的复数) n. 朊酶, 蛋白酶
+polje|[地]灰岩盆地
+permutes|序列改变( permute的第三人称单数 )
+planogamete|[生]游动配子
+probationer|试用人员, 见习护士, 见习生, 见习人员, 缓刑犯
+politicly|精明地
+puss|猫味, 小姑娘, 少女
+pries|祭祀（pry复数）
+pyotherapy|脓液疗法
+philandered|调戏, 玩弄女性( philander的过去式和过去分词 )
+paramastoid|[医] 乳突旁的, 乳突周的
+puddingy|像布丁的, 愚笨的
+paleozoology|古动物学
+penitents|(penitent 的复数) a. 忏悔的, 悔悟的, 表示悔罪的
+preproved|预试[检]验的
+pigswill|泔水, 猪食
+pathomania|[医] 悖德狂, 悖德精神病
+pelleting|粒化
+procurable|可得到的, 可实现的
+platter|大浅盘, 主菜盘
+placentiform|胎盘形的
+photocell|光电池, 光电管
+prosecutions|起诉( prosecution的复数形式 ); 原告; 实施; 从事
+pepperwood|[网络] 椒木
+parget|石膏, 灰泥
+paraxial|轴旁的, 近轴的
+phoniest|<口>假的, 欺骗的( phony的过去分词 ); <口>赝品, 骗人的东西; 骗子
+peppers|胡椒粉( pepper的名词复数 ); 辣椒
+promeristem|前分生组织, 原分生组织
+phytochemist|植物化学家
+ponycart|[网络] 小马车
+prolegs|(proleg 的复数) n. 原足, (幼虫的)腹脚
+policed|（警察、军队等）巡查( police的过去式和过去分词 ); 维护治安; （委员会等）监督; 管制
+polyvalence|多方面相关性; 多价
+prefiguring|预示, 预兆( prefigure的现在分词 )
+perorated|下结论, 冗长地谈论( perorate的过去式和过去分词 )
+paragraphic|章节的, 短讯的, 书写倒错的
+penstock|水闸门, 水道, 水渠
+parmigiano|用帕尔马干酪调制的, 撒有帕尔马干酪的
+porcelainous|象瓷的
+precess|使产生进动
+polytypic|[生]多型的
+privatize|vi. 私有化
+pinballs|(pinball 的复数) n. 钉球戏, 弹球戏
+ptyalolith|[医] 涎石
+pedalling|踏板使用法；踏板法
+pheasantry|养雉场
+periodontist|[医] 牙周病学家
+pewterers|(pewterer 的复数) n. 白镴器皿工匠；锡匠
+palmed|将…藏于掌中（palm的过去式与过去分词形式）
+palliatively|掩饰的; 治标的; 减轻的
+panthers|豹, 黑豹( panther的复数形式 ); 美洲豹
+phototropism|趋光性, 向光性, 光致变色(现象)
+pyloritis|幽门炎
+privity|私下知悉, 默契
+pelota|<西>回力球
+protyle|[化]玄质,始质(假想中构成元素的原质)
+profanes|不敬（神）的( profane的名词复数 ); 渎神的; 亵渎的; 世俗的
+pees|former South Vietnam piasters 前南越皮阿斯特（货币单位）
+preassigned|预先指定的, 预先分派的, 预先分配的
+precheck|[计] 预检验, 预检查, 预检
+polydactylus|[网络] 多指马鮁属；多指马鲅属
+paddybird|稻田鸟(指经常出没于稻田的鸟)
+padlocking|（用挂锁）锁上( padlock的现在分词 )
+peccantly|peccant的变形
+perking|（使）活跃( perk的现在分词 ); （使）增值; 使更有趣
+parado|[地名] [印度尼西亚] 巴拉多
+pleurisy|肋膜炎, 胸膜炎
+paraglossa|(昆虫)侧唇舌
+peladic|[医] 斑秃的
+pyodermia|[医] 脓皮病
+proposedly|[网络] 提议
+pycniospore|性孢子
+porismatic|porism的变形
+passless|无路可走的, 走不通的
+percussively|percussive的变形
+pfennige|芬尼（德国辅币单位, 一马克的百分之一） (pfennig的变形)
+pseudobulbil|假珠芽, 假零余子
+practising|在从事职业的, 在从事活动的
+pulsimeter|脉搏计
+porbeagle|鼠鲨
+perezone|三褶菊酮
+paillard|(尤指敲薄后烤炙的)一块牛肉,一块小牛肉
+powhatan|(Powhatan)人名；(英)波瓦坦
+platymyoid|[医] 扁肌样的
+pinheaded|愚蠢的
+phantasmata|幻象，幻影，幽灵( phantasma的名词复数 )
+pentol|五醇
+preprints|(preprint 的复数) vt. 预印
+planorbidae|[医] 扁卷螺科
+pulas|普拉（博茨瓦纳的基本货币单位）
+piratical|海盗的, 象海盗的, 非法翻印的
+permanents|永久（性）的( permanent的名词复数 )；稳定的；永恒的；常务的
+polishedness|polished的变形
+pyrotoxin|酿热毒素
+periotic|耳周围的
+polices|（警察、军队等）巡查( police的第三人称单数 ); 维护治安; （委员会等）监督; 管制
+polyneuritic|[医] 多神经炎的
+patness|pat的变形
+pollex|拇指, 指节
+petromastoid|[医] 岩部乳突的, 耳外骨
+peering|凝视( peer的现在分词 ); 盯着看; 同等; 比得上
+promontories|岬, 隆起, 海角( promontory的名词复数 )
+plaquette|金属印模, 小匾
+prophets|预言家, 先知( prophet的复数形式 ); 倡导者; 穆罕默德（伊斯兰教的创始人）; (<圣经>旧约>和<希伯来圣经>中的)先知书
+provost|教务长, 监督员, 牧师
+phineas|菲尼亚斯(m.)
+phacitis|晶状体炎
+pastilles|（药的）锭剂( pastille的复数形式 ); 芳香重剂; 含药（锭, 片）; 粉蜡笔
+postmaximal|[医] 最高度后的
+preaching|讲道, 说教, (喋喋不休的)劝诫
+plesiosauria|蛇颈龙亚目
+protopathy|原发病
+picul|担(重量单位)
+perorational|peroration的变形
+portmanteaus|旅行皮箱, 混成词( portmanteau的名词复数 )
+pyrographic|烙花的,烫花的
+photocopy|影印, 复印件
+pigmentary|颜料的, 色素的
+peeving|（使）气恼, （使）焦躁, （使）愤怒( peeve的现在分词 )
+paperiness|papery的变形
+phacoid|[医] 透镜状的
+panathenaea|泛雅典娜节(希腊宗教中一个十分古老和重要的节日)
+pomading|涂以润发油( pomade的现在分词 )
+papulose|[医]具小乳头的
+paleologist|考古学家；考古学者(或作者)
+photolysis|光分解, 光解作用
+phoenixes|凤凰, 长生鸟（神话中的鸟, 在阿拉伯沙漠中, 可活数百年, 然后自焚为灰而再生）( phoenix的复数形式 ); 菲尼克斯 （美国城市）
+prancer|烈性的马, 欢跃者, 舞蹈者
+pimelite|脂光蛇纹石
+peroxidize|[化](使)过氧化
+perineocele|[医] 会阴疝
+pieties|(piety 的复数) n. 虔诚, 孝敬, 虔诚的行为
+proteinate|[生化]蛋白盐
+porzana|田鸡属
+permutated|(permutate 的过去时)  重排列
+precredit|信贷期以前
+patrons|赞助人( patron的复数形式 ); 资助人; 老主顾; 名义赞助人（支持慈善组织等的名人, 名字常用于有关的广告宣传中）
+protrusion|突出, 突出部, 露出
+picketing|[经] 罢工工人劝阻工人上班, 工人纠察线
+pulli|[地名] [爱沙尼亚] 普利
+postulating|假定, 假设( postulate的现在分词 )
+piperazine|哌嗪
+potentness|potent（有力的, 有势力的, 强有力的）的变形
+polaroids|[光] 偏振片
+plantable|可种植的
+piscis|双鱼座
+poort|<英>(南部非洲的)山口,关口,要隘
+porkfish|[鱼]石鲈
+prejudge|预先判断, 对...预先作出判决
+perplication|[医] 穿壁封闭术
+postolivary|[医] 橄榄体后的
+prodromic|[医]前驱的,有前驱症状的
+proteinous|朊的, 蛋白质的
+pawnshop|当铺
+parkers|(parker 的复数) n. 停放车辆的人
+peppered|用胡椒调味的；加胡椒的, 撒胡椒粉的
+phenetidine|[化]氨基苯乙醚,苯乙定(用于合成染料和药物)
+pericecitis|[医] 盲肠周炎
+purpureal|<诗>紫色的
+plessimetric|[医] 叩诊板的, 皮橡板的
+pyran|[化]吡喃
+paps|[=3'-phosphoadenosine-5'-phosphosulfate]3'-磷酸腺苷-5'-磷酸硫酸酯
+polyspermous|[植]多种子的
+polygynist|多妻的男子,主张一夫多妻制者
+polynomial|多项式的, 多词学名的
+prop|支柱, 支持者, 倚靠人, 道具, 螺旋桨
+proctored|（大学的）学监, 监考人( proctor的过去式和过去分词 )
+parishioners|教区居民( parishioner的复数形式 )
+philemon|[宗]《腓利门书》(《圣约·新约》中的一卷)
+pinning|[电] 阻塞
+prehensility|prehensile的变形
+ptinid|蛛甲
+peroxiding|过氧化氢；过氧化物
+psephomancy|石子占卜
+phycologist|[医]藻类学家
+potassic|[化]钾的, 含钾的
+pilings|打桩, 打桩工程( piling的名词复数 )
+pyracantha|〈植〉火棘
+phagocytize|[生](吞噬细胞) 吞噬(异物或细菌)
+pilots|飞行员；向导；试播节目；自动驾驶仪（pilot的复数）
+pablo|巴勃罗（西班牙籍体育明星）；帕布洛（英国水槽产品品牌）；帕布鲁（西班牙著名画家毕加索的姓）
+pervertedly|perverted的变形
+purry|[网络] 派锐；普利
+pseudonyms|假名, 化名, （尤指）笔名( pseudonym的复数形式 )
+propionate|[有化] 丙酸盐；丙酸酯
+poussette|环形舞步
+pizazz|精力, 魅力, 华丽
+pretties|漂亮的人（pretty的复数形式）
+pierid|粉蝶
+protopepsia|初步消化
+paniers|(panier 的复数) n.箩, 筐, 背篓, 撑裙
+panhandlers|(panhandler 的复数) n. 街头乞丐
+purport|意义, 要旨, 目的
+phonometer|测声器, 声强计
+poufs|(pouf 的第三人称 -s形式) n. 蒲团, 厚坐垫
+phalanxes|方阵( phalanx的名词复数 ); 密集队; 密集人群; 趾骨
+purportedly|据称
+pterotheca|(蛹)翅鞘
+plowline|耕马的执绳
+patina|绿锈, 光泽, 古色, 神态, 圣餐盘
+plainfield|平原镇（位于美国新泽西州北部）
+proteaceae|山龙眼科
+pleurococcus|联球；藻属
+pleximetry|[医] 板叩诊[法]
+psorous|[医] 疥疮, 牛皮癣的
+paradisean|天堂(似)的, 乐园(似)的, 极乐的
+pietistical|adj. 虔信派(教徒)的；虔信的；假装虔诚的
+picornavirus|[微]小核糖核酸病毒
+pointedness|指向;强调
+parol|口头言词
+pinkster|<美方><古>= Whitsuntide
+percidae|鲈科
+periople|[医]蹄外膜
+pooch|狗, 杂种狗
+provisionary|[罕]=provisional
+planula|[动]浮浪幼体
+projets|(projet 的第三人称 -s形式) n.设计,计划,条约草案
+publics|大众( public的名词复数 )；…界；某一阶层的人们
+plattnerite|块黑铅矿
+praxiology|人类行为学
+postholes|(posthole 的复数) n. 埋桩用的洞
+pyrenocarp|子囊壳, 核菌果
+pantofle|卧室内穿的拖鞋, 便鞋
+publicists|宣传人员( publicist的复数形式 ); 宣传代理人; 政论家; 时事评论员
+protects|保护( protect的第三人称单数 ); 防护; 投保; 关税保护
+pokeroot|[植] 美洲商陆
+pyrosulfate|[化] 焦硫酸盐
+precontact|本地人与外来文化接触之前时期的
+polygene|多基因
+pav|<澳口> = pavlova
+pokey|监狱
+pareira|南美防己根, 帕雷亦拉利尿药
+pointillism|点彩画法
+phalera|( 古代饰于盔甲上标志军阶或挂在马具上作为装饰的)金属圆牌
+praying|祈祷, 祷告( pray的现在分词 ); <文或旧>请求, 恳求
+pinkeye|传染性结膜炎, 红眼
+protruding|（使某物）伸出, （使某物）突出( protrude的现在分词 ); 凸
+perilling|置…于危险中（peril的现在分词形式）
+pilocarpine|[药]匹鲁卡品,毛果芸香碱(一种眼科缩瞳药)
+patellae|膝盖骨( patella的名词复数 )
+pourboire|<法>酒钱, 赏钱
+phacidiales|星裂壳目; 星裂盘菌目
+prodrome|前驱症状
+prorate|按比例分配, 按比例摊派
+placation|安抚
+preharden|预坚膜
+plink|(使)发出叮当声
+puniest|小于一般尺寸的( puny的最高级 ); 微不足道的; 弱小的; 微弱的
+polarizable|可极化的
+pickaxed|镐( pickax的过去式和过去分词 )
+processible|适合加工(或处理)的, 可加工(或处理) 的
+prehepaticus|[医] 前肝间质, 初肝间质(胚)
+pasts|过去, 昔时( past的复数形式 ); 往事; 过去的生活[经历]
+phagocytosis|噬菌作用, 吞噬作用
+prosody|诗体学, 韵律学, 作诗法
+poinded|(poind 的过去分词) 扣押,没收而拍卖(债务人的财产)
+proteinase|朊酶, 蛋白酶
+phosphorogen|磷光激活剂; 磷光增强剂
+palais|舞厅
+potable|适于饮用的
+potholder|用以握持热锅的布垫子或厚布
+payen|(Payen)人名；(法)帕扬
+piccolos|短笛( piccolo的复数形式 )
+poiser|平衡剂(氧化还原反应缓冲剂)
+platted|制…的地图
+potterers|(potterer 的复数) n. 陶艺家, 制陶工人 (potter的变形)
+pitchometer|螺距测量仪,螺距规,节距规
+persevering|坚忍的, 不屈不挠的, 执拗的, 倔强的
+profluvium|流出, 溢流
+pactional|[法] 契约的, 短期国际协定的
+pyocyanase|绿脓菌酶, 脓青酶
+pedological|pedology的变形；pedology的变形
+percuss|叩诊, 轻敲
+puggree|印度人用的轻薄头巾,(帽后护颈的)遮阳布
+plutonist|火成论者
+plexiform|[解](血管、淋巴管、神经等)丛状的
+pomologist|果树栽培学家 (pomology的变形)
+pincer|（甲壳动物的）螯； 钳子
+prefatory|前言的, 序言的
+phanerogamic|开花的, 显花植物的
+posttyphoid|[医]伤寒后的
+potometer|(测量植物散发作用的)散发计
+plasmology|[医] 原生质学, 原浆学
+pandermite|[矿]白硼钙石
+professing|声称( profess的现在分词 ); 宣称; 公开表明; 信奉
+planar|平面的, 在同一平面上的, 二维的
+picrocarmine|苦胭脂红
+periaortic|[医] 主动脉周的
+pirating|盗印；掠夺；翻印（pirate的ing形式）
+peripteroi|围柱式建筑
+peascod|豆荚
+preoccupies|占据（某人）思想, 使对…全神贯注, 使专心于( preoccupy的第三人称单数 )
+paragons|模范( paragon的复数形式 ); 典型; 十全十美的人; 完美无缺的人
+patache|小型递送船
+pisco|皮斯科白兰地(一种秘鲁白兰地酒)
+pressingly|恳切地, 强求地
+periproctic|[医] 直肠周的
+purchaser|买方, 购买者
+photomural|壁画式照片, (装饰性)大幅照片
+piranhas|[地名] [巴西] 皮拉尼亚斯
+perjure|使发伪誓, 使作伪证, 使破坏誓言
+prickliness|多刺；多刺性
+perigynium|雄器苞
+polecats|臭猫, 北美产之臭鼬类( polecat的复数形式 )
+perilousness|冒险
+pollens|(pollen 的复数) n. 花粉
+petrodollars|(petrodollar 的复数) n. 石油美元
+palindrome|回文, 回文结构
+paramastitis|[医] 乳腺周炎
+pascual|牧场的, 长在牧场的
+pretrematic|(脊椎)孔前的
+pycnometer|比重计
+placeholder|占位符
+palming|[体]翻球
+pippy|多种子的
+podolite|碳磷灰石
+precipitable|沉淀性的, 可沉降的
+phenanthrol|[化] 菲酚
+primp|打扮, 装饰
+paraphrenia|[心理]妄想呆痴
+promenaded|兜风( promenade的过去式和过去分词 )
+pearlike|pear的变形
+pencilling|铅笔画, 毛笔画, 彩色细纹
+punner|夯
+parallaxes|(parallax 的复数) n. 视差(量)
+prolapsus|[医](尤指直肠,子宫等)脱出,脱垂,下垂
+princesses|（除女王或王后外的）王室女成员( princess的复数形式 ); （尤指）公主; 王妃; 王公贵族夫人
+plectron|(弹奏弦乐器用的) 拨子,琴拨,拨弦片
+palmus|心跳, 心悸
+plantago|车前草属
+pricey|昂贵的, 价格高的
+putter|置放者, 推车工, 轻击棒
+perithoracic|[医] 胸周的
+parbuckle|套拉索
+prolamins|[化] 醇溶谷蛋白
+pipelaying|铺设水管之工程, 为达到某种目的之计划
+proconsuls|(proconsul 的复数) n. 代理领事, (殖民地)总督
+polygenist|多元发生说者
+pantomorphia|[医] 多形性, 全对称
+partaker|参与者, 分享者
+praepostor|监督生
+pyrosulphate|[化]焦硫酸盐
+patronizing|屈尊俯就的, 显示优越感的
+procures|（努力）取得, （设法）获得( procure的第三人称单数 ); 拉皮条
+pots|[计] 简易老式电话服务
+pyramidalist|埃及金字塔传说的解说者
+pacifically|和平地
+planted|vbl. 种植
+purveyors|承办商, 伙食承办商( purveyor的复数形式 )
+pugmark|脚印
+pressor|加压的, 增高血压的, 使机能亢进的
+paperhanging|裱糊(业)
+pelvioscopy|[医] 盆腔检查
+precyst|前囊胞
+protoconule|原小尖
+progressist|进步分子, 革新主义者, 改良主义者
+protending|伸出, 伸展；延长
+panaman|巴拿马人
+playgrounds|操场( playground的复数形式 ); 游乐场; 娱乐场; （某些集体聚会游乐的）园地
+pandemia|[医] 大流行病, 泛流行病
+praseodymia|氧化镨
+petrifactive|有石化性能的
+protocaseose|[医] 原酪[蛋白]ж
+pursley|[人名] 珀斯利
+pieta|[意]圣母玛利亚膝上抱着基督尸体的图画[雕刻]
+polyvinyl|聚乙烯基的
+peaty|泥煤似的, 多泥煤的
+parlaying|连本带利地赌博, 使增值( parlay的现在分词 )
+pharyngolith|[医] 咽石
+pentode|五极管, 电子五极管
+perichondral|[医] 软骨膜的
+pathogene|病原体
+psycholepsy|[医] 心境突变, 抑郁发作
+pickoff|以牵制球使出局, 传感器, 敏感元件
+pupigerous|[医]成围蛹的
+pickel|冰斧
+pungent|刺激性的, 尖刻的, 苦痛的
+priory|小修道院
+plats|pilot landing aid television system 驾驶员助降电视系统; precision location and tracking system 精确定位与跟踪系统
+panjandrums|(panjandrum 的复数) n. 自命不凡的人, 架子十足的官吏
+pleaches|编织( pleach的第三人称单数 )
+precipitated|（突如其来地）使发生( precipitate的过去式和过去分词 ); 促成; 猛然摔下; 使沉淀
+pictorials|(pictorial 的复数) a. 绘画的, 插图的, 用图画表示的, 形象化的, 有象形文字特征的
+plebeianism|平民的特点, 带有平民特点的行为, 粗俗, 卑贱
+potentiation|加强, 有提高效力的作用, 有加强的作用, 使更有效力, 强化
+prologuing|开场白；序言
+pyrenin|[生化]核仁素
+phytotomist|phytotomy的变形
+paddling|[机] 搅动
+pentaprism|[物]五棱镜
+parabole|[医]抛物线
+pauline|保罗的, 使徒保罗写的
+preceptors|(preceptor 的复数) n. 导师, 教师, 校长, 圣殿骑士地方分团团长
+preeruptive|[医] [发]疹前的
+procurators|代理人( procurator的复数形式 )
+prevalently|流行地, 普遍地
+phaedra|菲德拉（Minos 之女）
+pocketknives|随身小折刀( pocketknife的名词复数 )
+petrogenetic|岩石成因的
+primitively|最初地, 自学而成地
+parazoan|侧生动物(即海绵动物或多孔动物)
+prepubis|前耻骨
+pentanone|戊酮
+pistonhead|[机]活塞头
+placage|(建筑物的)薄饰面
+phytochlorin|[化] 植物二氢卟酚
+popishness|popish的变形
+polyorchism|[医] 多睾[畸形]
+parvis|前院, 天井, 柱廊
+postalveolar|[医] 牙槽后的
+periangioma|[医] 血管周瘤
+piperno|斑带粗面熔岩
+pachisi|25点游戏
+plantula|爪垫叶
+predry|预干燥的
+peppercorns|胡椒子, 空有其名的地租( peppercorn的复数形式 )
+pacay|巴喀豆
+potus|饮剂
+pedantries|(pedantry 的复数) n. 假装学者, 卖弄学问, 迂腐
+paragrapher|短讯记者
+pled|为...辩护, 以...作为答辩, 以...为借口, 以...为理由, 辩护, 申明, 抗辩, 恳求
+protend|(使)伸出, (使)伸展
+preheated|预热( preheat的过去式和过去分词 )
+purpleness|purple（紫色，紫红色）的变形
+polyandrist|多夫妇女,赞成一妻多夫制的妇女
+personalties|动产( personalty的名词复数 )
+proette|(尤指高尔夫球的)女职业运动员
+prog|食物, 进步分子, 学监
+postvaccinal|接种后的
+prank|开玩笑, 恶作剧, 戏谑
+pattypan|面饼锅, 西葫芦
+pseudopupa|先蛹
+pittard|(Pittard)人名；(法)皮塔尔
+puffery|夸大广告, 吹捧
+pathologies|病理（学）( pathology的名词复数 ); <医>病理学家
+prosopite|水铝氟石
+pullulated|（种子）发芽( pullulate的过去式和过去分词 ); 充满; 富于; 聚集
+preordaining|预先规定, 注定( preordain的现在分词 )
+pussyfoot|蹑行, 抱骑墙态度
+phytocidal|杀死植物的,除草的,除莠的
+proctologist|[医] 直肠病学家
+prosiness|散文性质, 没趣
+paradoxy|似非而可能是的性质, 似非而可能是的状态
+plotosid|鳗鲇
+punic|古迦太基人的, 没有信义的
+pinked|穿孔的, 击穿的
+postmeridian|午后的, 午后发生的
+progeny|子孙, 后裔, 成果
+paederasty|[网络] 男色；孪童癖；恋童
+perivesical|[医] 膀胱周的
+picklock|撬锁工具, 撬锁人, 盗贼
+preempted|先占( preempt的过去式和过去分词 ); 取代; 先取; 先发制人
+polyuria|多尿
+peritreme|孔缘
+posologic|[医] 剂量学的
+peats|(peat 的复数) n. 泥煤, 泥炭色
+proteidae|洞螈科
+potentials|潜力( potential的复数形式 ); 电位; [电子学]电势
+pleurogenous|[植]侧生的, [医]胸膜原性的
+punitively|惩罚地；刑罚的
+phloem|韧皮部
+prudish|拘守礼仪的, 过分规矩的, 表面正经的
+papistic|天主教的
+philippics|(Philippic 的复数) n.激烈的抨击
+pricking|刺, 刺痛感
+paridae|[网络] 山雀科；山鹊科
+pulex|[医] 蚤属
+puerility|孩子气, 愚蠢, 未成熟
+pinfeathered|pinfeather的变形
+prevailingly|一般性地
+philonian|[网络] 菲律宾人
+persistently|坚持地; 固执地; 一个劲儿
+peumus|[医] 波耳多树属
+prepotential|前电势, 前电位
+phyllostome|[动]叶鼻蝠
+previewing|预视；预观察
+protaxis|反应本能
+patrimony|祖传的财物, 继承物
+pharmacopeia|[医] 药典
+protervity|放纵；暴躁, 易怒；放纵的表现；暴躁行为
+poorish|质量不大好的
+papio|[医]狒狒
+pedunculate|有花梗的, 有梗的, 有肉茎的
+paramide|[化] 蜜亚胺
+persimmon|柿子(树)
+photosetting|[印]照相排字
+phalangist|(黎巴嫩的)右翼基督教民兵, 长枪党党员, 法朗吉党党员
+pureblood|纯血统的
+paniolo|(夏威夷)牧童，牧人
+platypellic|骨盆扁型
+peccavi|认罪, 忏悔
+polydactyl|多指(或趾)畸形的
+promontoried|形成海岬的, 有海岬的
+prodelision|首元音的省略
+polyarchies|(polyarchy 的复数) n. 多头政治
+predictor|预言者
+peseta|比塞塔(西班牙银币)
+pottinger|[人名] [英格兰人姓氏] 波廷杰职业名称，浓汤制作者或销售者，来源于中世纪英语、古法语，含义是“钵，锅”(pot)
+postponement|延迟, 延期
+pleomorphic|[医] 多形的
+pseudocumene|[有化]假枯烯, 偏三甲苯, 1, 2, 4-三甲基苯
+papistry|天主教, 天主教教义
+penfold|(Penfold)人名；(英)彭福尔德
+polies|工艺学校（poly的复数形式）
+phronesis|[哲]实践智慧( 指在确定目标及达到目标的手段中的智慧)
+pollutes|污染( pollute的第三人称单数 ); 腐蚀
+plushness|plush的变形
+phrasemaking|警句的编造技能
+preterit|过去的
+platinotype|铂盐印像法, 铂盐印像法印出的照片
+preexposure|[摄]预曝光
+preagitation|预搅动
+pockmarks|痘痕, 麻子( pockmark的名词复数 )
+puerileness|puerile的变形
+parachronism|记时错误
+protorosaur|原龙
+polymaths|博学的人
+phytozoon|[动]植形动物
+pupillate|具瞳的
+phrenic|横隔膜的, 精神的
+persiennes|百叶窗
+pluripara|[医] 经产妇
+prom|(英)音乐会, (美)舞会, 散步道
+plaud|鼓掌；拍手
+pipped|Product Improcement Program 产品改进计划( pip的过去式和过去分词 ); 果核; 种子; 短而尖的声音
+pentavalent|五价的
+prelingually|[网络] 舌前
+promiscuous|杂乱的, 混杂的, 混淆的
+pluralistic|兼职的, 多元论的
+pooches|(pooch 的复数) n. 狗, 杂种狗
+probating|遗嘱检验, 经检验的遗嘱文本( probate的现在分词 )
+purlieus|<正>边缘部分, 外围部分, 郊区
+pipy|管状的, 有管的, 发尖声的
+pret|（服装）成衣的, 现成的
+polyandric|一妻多夫的
+poncho|南美披风, 雨披
+piegan|(pl. Piegan, Piegans)派岗族人(黑脚印第安人的一支)
+platonist|柏拉图学派的人
+petioles|(petiole 的复数) n. 叶柄, 梗, 柄部
+polyenic|多烯的
+posterize|[摄]多色调分色印(相片)
+prothalli|原叶体( prothallus的名词复数 )
+parasitosis|寄生虫病
+perjuries|假誓, 伪证, 伪证罪( perjury的名词复数 )
+plagiarize|剽窃, 抄袭
+pedantocracy|腐儒政治, 腐儒统治
+passee|已过盛年的, 凋谢的
+pecuniary|金钱的, 金钱方面的, 课罚款的
+pase|斗牛士挥动红披肩诱躲牛之攻击时的躲闪动作
+pedicular|虱子的, 多虱的
+pennoncelle|小旗
+predicates|谓词, 判断（predicate的复数）
+phonemes|(phoneme 的复数) n. 音素, 音位
+prompting|刺激, 激励, 提示
+preoral|[解]口前的
+polemoscope|军用望远镜
+pillowcases|枕套( pillowcase的复数形式 )
+pedantry|假装学者, 卖弄学问, 迂腐
+playday|休假日, 休息日, 演出日, 非正式比赛
+possumwood|沙箱树的轻而软的木材
+paralyzation|[法] 无能为力, 瘫痪
+polyporaceae|[医] 多孔菌科
+pernel|[人名] 珀内尔
+powerless|无力的, 无权的, 无效能的
+prebiologic|生命起源以前的
+pachyglossal|[医、动]厚舌的
+polster|[医]小膨出
+pentachord|五弦琴, 五音列
+peppermints|薄荷( peppermint的复数形式 ); 薄荷糖
+photophone|光线电话机, 光音机
+prowls|小心翼翼地移动( prowl的第三人称单数 ); 徘徊; （动物）潜行（为捕猎等）; 潜行（图谋不轨等）
+premorbid|[医] 发病前的
+polyangular|多角的
+pullus|幼鸟,雏鸟
+pullets|小母鸡
+personifier|personify的变形
+parleys|和谈, 谈判( parley的名词复数 )
+placebo|(为死者所诵的)晚祷歌, 安慰剂, 安慰的话, 使人宽慰的事
+perichylous|週边肉质的
+peperino|[地]白榴拟灰岩
+planting|种植, 栽培, 播种, 人工林, 花圃, 苗圃
+poppet|宝贝, 有孔小珠, 随转尾座
+pandurate|[植](叶)提琴形的
+palta|鳞片
+phoradendron|穗花桑寄生属
+predial|土地的, 不动产的, 田地的, 乡村的
+permittee|[法] 持证人, 持照人
+pyralididae|暝蛾科
+prerectal|[医] 直肠前的
+pushful|有精力的, 富有进取心的
+plasmogen|生物原浆, 原生质
+pulsations|(pulsation 的复数) n. 悸动, 震动
+parablastic|[医] 副胚层的
+proteide|<废>[生化]蛋白质
+palladious|[化]亚钯的,二价钯的,含钯的(尤指含二价钯的)
+pacemake|[医]起搏区
+perorations|（演说等的）结束语, 结论( peroration的复数形式 ); 夸夸其谈的演说
+paedomorphic|[生理学]稚态的；幼稚形态的
+pyroxenitic|pyroxenite的变形
+persecutive|persecute的变形
+posttympanic|鼓室后部分
+procedural|程序上的
+pyroarsenate|焦砷酸盐
+phragmites|[医] 芦苇
+presell|(通过广告和推销)预售,向...预售
+preknowledge|预先了解
+piglets|小猪( piglet的复数形式 )
+postabdomen|后腹部
+phantasize|梦想, 幻想
+peking|北京
+presbytic|[医] 老视的
+proplastid|前质体, 原质体
+pyloric|幽门的
+paleotechnic|古技术的；现代工业早期的
+prothetely|[昆]先成现象(指昆虫的一种反常变态现象)
+peacenik|反战运动分子
+polysome|[生化]多核糖体
+periphytic|水中悬垂生物的
+pyxides|(pyxis的复数)药箱, 宝石盒,[植]盖果
+proconsul|代理领事, (殖民地)总督
+purga|[气]拨格风(发生在西伯利亚北部冻原地区的冬季强风暴)
+permutate|重排列
+phonogram|音符(组), 语音图, 声音描记像, 形声字, 电话电报
+pashes|(pash 的复数) vt. (英)打碎, 粉碎
+precuring|预固化; 预养护
+pentagynian|五雌蕊的
+priorship|修道院院长职位, 修道院院长任期, 修道院院长职权
+protoplastic|原生质体的
+parcelling|划分并分配, 打包
+poritoid|孔状珊瑚
+persistive|persist的变形
+preemphasis|预加重, 预矫, 预修正
+peashooter|射豆玩具枪
+prosopospasm|[医] 面肌痉挛
+polyandry|一妻多夫, 多雄蕊式
+passeres|燕雀亚目
+pelargonium|天竺葵
+phoniness|虚假, 伪造
+phosphine|磷化氢, 碱性染革黄棕
+pavonazzo|孔雀色大理石
+pillories|颈手枷( pillory的名词复数 )
+pyromorphism|热变法
+poltophagy|[医] 细嚼, 嚼烂
+prespinal|[医] 棘前的
+poacher|偷猎者, 侵入者, 炖蛋锅
+parallelized|平行放置；使……平行于……
+pneumatology|灵物学, 圣灵论, 气体(治疗)学
+proponents|（某事业、理论等的）支持者, 拥护者( proponent的复数形式 )
+plier|钳子(如老虎钳,手钳,扁嘴钳等),镊子
+philistine|庸人, 门外汉, 仇敌, 俗气的人
+ponderance|重量, 严重, 重要
+penitencer|悔罪；悔过, 忏悔, 悔悟
+patt|[计]= Partial Automatic Translation Technique,半自动翻译技术
+predacious|捕食其他动物的, 食肉的
+precollege|进大学前的,大学预科期的
+pregnability|pregnable的变形
+polyp|息肉, 水螅虫
+plasmid|[化] 质粒
+purlicue|食指尖与拇指尖相接后中间形成的空间
+preconceive|事先认为
+prognostics|预测科学
+pemphigous|pemphigus的变形
+prado|上流社会散步场；高级住宅区的林荫大道（尤指西语地区）
+propounder|提议者, 建议者
+penicil|(略呈散射形的)一簇细毛,毛撮
+probations|(probation 的复数) n. 鉴定, 查验, 证明, 试用, 察看, 缓刑
+pathways|路, 径( pathway的复数形式 )
+postdates|填迟…的日期( postdate的第三人称单数 )
+propagandise|<正><贬>（进行）宣传, 搞宣传活动vt.; 宣传（某事物）
+pinkish|略带桃色的
+pensioners|领取退休、养老金或抚恤金的人( pensioner的复数形式 )
+pruner|修枝剪刀, 修剪树枝者
+predigested|预先消化, 简化( predigest的过去式和过去分词 )
+preact|提前, 超前(行动), 预作用, 提前量, 提前修正量
+pogonia|[植]朱兰,朱兰花
+parentally|父母般地; 像双亲地
+pochismo|<西> n.(墨西哥和美国交界地区使用的) 夹杂英语词汇的西班牙语
+postpones|延期, 推迟( postpone的第三人称单数 )
+presager|预感；前兆 (presage的变形)
+pirouetted|作皮鲁埃特旋转( pirouette的过去式和过去分词 )
+parasitical|寄生的, 由寄生虫引起的
+piccanin|<南非口>黑人小孩
+pinchbeck|金色铜, 冒牌货, 赝品
+paradenitis|[医] 腺周炎
+parcener|共同继承人
+pennyworths|(pennyworth 的复数) n. 一便士的价钱, 价值一便士之物, 少量, 交易
+polos|(polo 的复数) n. 马球, 水球
+puttyroot|[植]北美兰
+percipience|知觉, 洞察, 感知能力, 洞察力
+puler|pule的变形
+portia|波西亚（女子名）
+physiol|[医][=physiological]生理学的
+puku|[动物]非洲赤羚 ; 胃
+peculating|盗用, 挪用（钱财）( peculate的现在分词 )
+pothole|壶穴
+pledging|[法] 抵押物, 典当物
+piecer|拼补者, 接经器, 接头工
+polyimide|[化]聚酰亚胺
+proclaimers|(proclaimer 的复数) n. proclaim的变形
+palmated|掌状的, 有蹼的
+pulverised|粉碎（pulverise的过去式）
+precognitive|(对证人等的)预审
+punctuality|严守时间, 正确
+prophesying|预告, 预言( prophesy的现在分词 )
+posher|精美的( posh的比较级 ); 豪华的; 漂亮的; 时髦的
+pyrovanadate|焦钒酸盐
+pompeian|庞培(意大利古城)的
+proterandric|二型雄的
+politesse|彬彬有礼, 优雅, 斯文
+pentangle|五角星形
+prolamine|[生化]醇溶谷蛋白
+pharyngeal|咽的
+prelateship|高级教士；高位神职者 (prelate的变形)
+pinealoma|[医]松果体瘤
+peptidolytic|解肽的, 肽分解的
+prelatist|prelatism的变形
+pumped|（肌肉由于过度运动）肿胀的；喘得上气不接下气的；腐心的
+pours|涌出( pour的第三人称单数 ); 倾, 倒; 涌流; 倾泻
+privatively|privative的变形
+posh|豪华的, 漂亮的, 优雅的, 极好的
+powwow|帕瓦仪式, 巫师
+perceptivity|知觉, 知觉力
+patashte|二色可可(树)
+plasticized|增塑的
+pacifying|使（某人）安静( pacify的现在分词 ); 息怒; 抚慰; 在（有战争的地区、国家等）实现和平
+pattering|发出急速轻的拍声, 嗒嗒地跑( patter的现在分词 )
+possessional|possession的变形
+proctology|直肠病学
+prickspur|单尖踢马刺
+podogynium|雌蕊柄
+propleuron|(pl.-ra)[动]前胸侧板
+polyctenid|寄蝽
+plebiscites|(plebiscite 的复数) n. 公民投票, 平民表决
+possessors|<正>拥有者( possessor的复数形式 )
+passeriform|[鸟]雀形目的
+prolonger|延长者
+poults|(poult 的第三人称 -s形式) n. 幼禽
+pokelogan|<加拿大> 流动缓慢的小河
+parricidal|杀父母的, 杀长辈的, 杀主人的, 叛逆罪的
+prograde|与其他天体作同方向运行(或旋转)的
+paradoxure|[动]椰子猫
+parer|削皮的人, 削皮刀, 削皮器
+personative|personate的变形
+phylogenetic|种系发生的, 系统发育的
+putridly|有害地, 糟透地
+pliny|普林尼(①姓氏 ② Pliny “the Elder”, Gaius Plinius Secundus 老普林尼, 23-79, 罗马学者)
+protoplasmic|原生质的
+pampean|南美大草原(的)
+prosopalgic|[医] 三叉神经痛的
+proscenia|幕装置, 舞台; （古希腊, 古罗马的）舞台, 舞台前部装置（包括幕布, 拱形墙等）( proscenium的名词复数 )
+proctoplasty|[医] 直肠成形术
+purposeless|无目的的, 无意义的
+pishogue|[爱]巫术, 蛊惑
+prorogation|休会
+praecordia|[医] 心口, 心窝, 心前区(胸下部腹上部)
+putrefiable|会腐烂的
+pyrrhotite|[矿]磁黄铁矿
+probatory|检验的, 鉴定的, 证明的, 提供证明的
+pageboy|小听差
+panary|面包的
+premodified|[网络] 预变形
+peristalses|蠕动( peristalsis的名词复数 )
+pulverin|[医] 苏打灰, 草灰
+phlogosin|脓球菌素
+pinnaces|(pinnace 的复数) n. 舰载艇, 大舢板
+plagianthus|[网络] Pl
+pipridae|侏儒鸟科
+ponticulus|翅缰
+ponderancy|重量, 严重, 重要
+pteraspid|甲胄鱼
+propertyless|无财产的
+pansied|潘西(女子名)
+provitamin|维生素原
+polyphyodont|(鱼类或低等脊椎动物)多换性齿的
+pompoms|大型机关炮
+photoplay|电影剧本, 故事影片
+pianofortes|钢琴（旧称）( pianoforte的复数形式 )
+phot|辐透
+pulpwood|纸浆用木材
+paroled|假释, 使获假释( parole的过去式和过去分词 )
+prospectus|创办计划书, (内容)说明书, 内容简介
+prednisolone|氢化泼尼松, 强的松龙, 去氢氢化可的粉
+pondok|<南非><贬>芦棚,茅棚
+pseudopodial|pseudopod的变形
+paeans|赞歌, 凯歌( paean的复数形式 )
+prosimian|& n.[动]原猴亚目的(猴)
+proofness|[计] 验证, 证明
+pantophobia|[心理]万物恐怖
+prefreeze|预冷冻
+parboiled|煮半熟, 使过热( parboil的过去式和过去分词 )
+preauricular|[医] 耳前的
+plugs|插头；栓塞, 插塞（plug的复数）
+politicos|(politico 的复数) n. 政客
+phloxes|(phlox 的复数) n. 福禄考
+proboscises|（象等的）长鼻( proboscis的复数形式 ); （昆虫等的）喙
+palavers|<口>废话, 空话( palaver的名词复数 )
+plastometry|塑料测定法; 塑性测定法
+priapus|[希、罗神]男性生殖神(酒神和爱神之子)
+pythias|(罗马民间传说中的)皮西厄斯(与其友Damon为生死之交)
+pedophilia|恋童癖
+psychomotor|精神运动的
+parcidentate|少齿的
+paeonia|芍药属
+plumbagin|[化] 石苁蓉萘醌; 蓝雪醌; 矶松素
+plenipotent|& n.<罕> = plenipotentiary
+protons|质子( proton的复数形式 )
+premiums|费用( premium的名词复数 ); 保险费; 额外费用; （商品定价、贷款利息等以外的）加价
+pir|蛋白序列数据库（Protein Identification Resource）；聚三聚氰酸酯
+pulpectomy|[医] 牙髓摘除术
+parsoned|教区牧师；堂区长；有俸禄的牧师；[口语](尤指新教的)教士；牧师
+parabolical|寓言的, 比喻的, 抛物线的, 抛物线状的
+plessor|敲诊槌, 叩诊槌
+polymerism|聚合, 聚合现象
+platyctenea|[网络] 扁栉水母目
+pipistrelle|伏翼
+pediform|脚形的, 足状的
+palp|触须, 须肢
+phytophagic|[动物学]食植物的, 食叶类的, 食草的
+pata|太平洋地区旅游协会（Pacific Area Travel Association）
+peerages|（统称）贵族( peerage的复数形式 ); 贵族的爵位
+picariae|[网络] 皮亚西亚
+preprinted|[计] 预印的
+piller|[美]药剂师, 药商, 小球, 小丸, 小药丸
+polyantha|[植]多花蔷薇(亦作polyantha rose)
+palters|讨价还价( palter的第三人称单数 ); 含糊其辞; 敷衍了事; 儿戏般对待
+psychotogen|致精神病药物, 致精神错乱药物
+peristyles|(peristyle 的复数) n. 周柱列, 周柱廊, 周柱中庭
+preannounce|预告, 事先宣布
+pardoned|宽恕( pardon的过去式和过去分词 ); 原谅; 赦免; 特赦
+pseud|假装高人一等的人, 假内行
+pank|[人名] [英格兰人姓氏] 潘克来源于中世纪教名Pancras 的简称，含义是“全+征服”(all,every+to conquer,subdue)
+pariahs|被社会遗弃者( pariah的复数形式 ); <史>贱民
+pyridine|[化]嘧啶(治喘病用)
+putout|出局
+polska|波兰
+prosaicness|[网络] 平淡无味
+perionychium|[解]甲周皮, 甲周表皮
+piet|多嘴之徒；饶舌的人
+protonymph|[动]第一若虫( 指幼螨)
+pentimento|[绘]经过修改或颜料遮盖的原来笔画[图象]之再现
+palisading|[医]栅栏样的
+poring|细看（pore的现在分词形式）
+pedigreed|纯种的, 有系谱的
+paludicole|居于沼泽的；在沼泽中出没的
+palmettos|(palmetto 的复数) n. 美洲蒲葵
+paralogized|作谬误推论
+pityroid|[医]糠状的
+pinkos|有左倾政治思想的人, 左倾分子( pinko的名词复数 )
+phytotoxin|[化]植物毒素
+perovskite|钙钛矿
+petrifying|吓呆, 使麻木( petrify的现在分词 ); 使吓呆, 使惊呆; 僵化
+polymorphous|多种形式的, 多功能的, 多形态的
+papillous|乳头状的
+procaviidae|蹄兔科
+picofarad|微微法
+phenoquinone|苯酚合苯醌
+photomap|照相地图, 星球图
+prexy|(学院)院长, (大学)校长
+penthoused|小棚屋；(尤指靠在大楼边上搭的)披屋；屋顶房间；(豪华的)顶层公寓
+painkiller|解痛药, 止痛片, 止痛药
+panicled|[医]具圆锥花序的
+pari|帕里（球员名）；德国百瑞（公司名）
+populousness|人口稠密
+phonemics|音位学, 音位系统
+pavier|铺料机, 铺砌工
+phanerozoic|[地](由古生代、中生代和新生代构成的地质年代)显生宙的
+photoma|[医] 闪光
+plumieride|[化] 鸡蛋花苷
+pylorospasm|[医]幽门痉挛
+pyrogravure|烙花术
+populists|(Populist 的复数) n. 民粹派的成员
+pluralizer|pluralize的变形
+philanders|调戏, 玩弄女性( philander的第三人称单数 )
+plasmic|原生质的
+procedurally|procedural（程序上的）的变形; 程序上地
+promotable|promote（促进；增进）的变形
+pavonine|孔雀似的, 五彩缤纷的
+prebendary|受俸牧师
+positiveness|信心；肯定
+punctilio|细节, 拘泥形式, 拘束
+preatomic|原子时代前的, 原子能利用以前的
+palpitated|（心脏）悸动( palpitate的过去式和过去分词 ); 突突跳; 急速地跳动; 颤抖
+prem|(Prem)人名；(泰)炳；(德、西、罗、捷、印、尼、毛里求)普雷姆
+perforce|必然地, 只得
+pieplant|食用大黄
+phytology|植物学
+perse|紫黑色的；深灰色的；深蓝色的
+paludal|沼泽地的, 多沼泽的, 疟疾性的
+pulicide|灭蚤剂
+philanthrope|慈善家
+piggishness|piggish的变形
+paragnathus|[医] 颌旁寄生胎
+paupers|穷人( pauper的复数形式 ); 贫民; 贫穷
+prorhinal|鼻前的
+proofreader|校对者
+phonophore|报话合用机
+pediceled|【植物学】花梗；果梗, 柄；蒂；小花梗
+plainer|[方]等于complainer
+promethean|普罗米修斯的, 勇于创造的
+primness|循规蹈矩, 整洁
+pangi|马来亚大风子树
+pyrite|黄铁矿
+packery|罐头工厂,食品加工厂,屠宰加工厂
+periglottis|[医] 舌粘膜
+plonko|<澳俚>饮酒过度的人,酒鬼
+paraesthesia|[医]感觉异常(指皮肤上无客观原因的异常感觉)
+prefects|级长( prefect的复数形式 ); 监督生; 高级行政长官; 警察局长
+polygamia|杂性纲
+psittacosis|鹦鹉热
+proviso|附文, 附带条件, 限制性条款
+premonitions|预感, 预兆( premonition的复数形式 )
+placodont|盾齿龙
+proportional|比例的, 相称的
+pistons|<机>活塞( piston的复数形式 )
+pterygia|翼状胬肉；翅后基叶；鳍 (pterygium的变形)
+psyched|激动的
+pleuron|(节肢动物的)侧板
+pickier|挑剔的；吹毛求疵的 (picky的变形)
+passivation|钝化
+peliosis|[医] 紫癜
+pooftah|<澳俚>脂粉气的男子,搞同性恋的男子
+puky|令人恶心的,令人厌恶的
+procurvation|[医] 前弯, 前屈
+platinode|伏打电池的阴极
+poros|劣等石灰石
+parenticide|[法] 杀亲罪, 杀害父, 母罪, 杀亲犯
+portunid|梭子蟹
+plato|柏拉图
+picaninny|<英>< 贬> 黑人小孩, 澳大利亚土著小孩
+proletariat|无产阶级
+petitions|请愿书；请愿（petition的复数）
+pits|凹点；凸面；维修区（pit的复数）
+postcritical|超过临界点的
+pronograde|[动](四足兽)俯行的
+pya|分(缅甸辅币单位)
+positional|位置的, 地位的
+pupae|pl. 蛹
+pointel|菱形铺砌
+pinpoints|准确地找出或描述( pinpoint的第三人称单数 ); 为…准确定位
+pushdown|推下; 后进先出方式
+pylorectomy|幽门切除术
+porose|有孔的,多孔的
+pinulus|[动]五辐针, 小羽片
+prerelease|预映
+prelection|讲课, 讲演
+preparer|调制机
+practises|练习( practise的第三人称单数 ); 实习; 积极从事; 执业
+propitiously|吉祥地；顺利地
+pathos|伤感力, 感伤, 悲怅, 同情, 偶然因素, 哀婉动人的词句
+pentyl|[化]戊(烷)基
+prosy|散文的, 散文体的, 无趣味的
+polyadenous|[医] 多腺的
+percenter|(与基数词连用)百分之…的事物；百分之…的可能性；有百分之…可能的局面
+polycyesis|[医]多胎妊娠
+paganish|异教的, 信奉异教的
+pectorales|胸肌
+protracts|<贬>延长, 拖延（某事物）( protract的第三人称单数 )
+perijove|[天]近木星点
+polyspermic|[动]多精入卵的,多精受精的
+prosperities|(prosperity 的复数) n. 繁荣, 茂盛, 成功
+phosphatemia|[医] 磷酸盐血
+pododerm|[医] 蹄部真皮
+pieprint|苘麻
+progne|[网络] 柏乐妮
+perjurers|(perjurer 的复数) n. 伪誓者, 伪证者
+paludose|(动物或植物)沼地生的
+purbeck|波倍克(英国 Dorset 州的半岛)
+pappi|pappus的复数
+pied|斑驳的, 杂色的, 穿花衣服的
+predental|牙科学预科的
+plaguesome|讨厌的, 瘟疫的, 麻烦的
+planchette|占卜写板(搞迷信活动用的一种道具)
+parotic|[解]耳旁的
+palatonasal|[医] 腭鼻的
+playlet|短剧, 小戏
+prevalency|流行
+prominency|突起, 太阳周边之红焰
+pindaric|Pindar 的
+pericytial|[医] 细胞周的
+procreation|生产, 生殖
+pitressin|(=β-hypophamine, vasopressin) 加压素, 抗利尿激素, 后叶加(血)压素
+precatory|恳切的, 恳求的
+parfocalize|parfocal的变形
+patellula|[医]小杯陷
+polarizes|使分化为不同的看法( polarize的名词复数 )
+popularism|[网络] 民粹主义；大众主义；民众主义
+paphian|(塞浦路斯西南部古城)帕福斯的(的), 帕福斯城人
+pettifogged|讲歪理, 诡辩, 做讼棍( pettifog的过去式和过去分词 )
+preregister|预寄存器
+postglacial|冰河期后的
+perturbs|使（某人）烦恼, 不安( perturb的第三人称单数 )
+praline|干果糖
+pachyhemia|[医] 血液浓缩
+paraplastic|[医] 异常增生的
+peptotoxine|[化] 腐蛋白毒碱
+pieman|做馅饼的人, 卖馅饼的人
+pigeonholing|把…搁在分类架上( pigeonhole的现在分词 ); 把…留在记忆中; 缓办; 把…隔成小格
+papillomas|(papilloma 的复数) [医] 乳头[状]瘤
+plaga|[动]纹,斑点
+peacekeeping|[法] 维护和平的, 执行停火协定的
+polypodium|[医] 水龙骨属
+patine|(=paten)祭碟,使生绿锈
+passgang|(速度滑雪)节奏步
+prodromous|前驱的
+pinedrops|[植物]石南科植物 (Pterospora andromedea); 美国山毛榉寄生
+pliantly|易曲地;柔软地;柔顺地
+phraseman|空谈的人, 爱用华丽词句的人
+protrusions|伸出, 突出( protrusion的复数形式 )
+polypite|[动](苔藓虫等的)个虫,虫体
+porcellanous|瓷器(似)的
+porphyrite|[地质]玢岩, 微闪长岩
+phagosome|[生]吞噬小体, 吞噬体
+petits|细小的；次要的；没价值的
+pickpurse|荠菜
+preadapted|[生]预适应(性)的
+pacificism|和平主义, 反战言论
+pewholder|教堂座位出租人(或所有人)
+pterothorax|翅胸节
+pennine|=penninite , Chain,Pennines[`penaInz]奔宁山脉[英国英格兰北部]
+piking|(pike 的现在分词) n. 长矛, 尖头, (体操)屈体, 流浪者, 狗鱼, 通行费
+pinging|震性
+puppetmaster|傀儡师
+postsystolic|收缩期后的
+paraded|（使）集合接受检阅( parade的过去式和过去分词 ); 游行, 列队行进; 展示, 炫耀
+photology|[物]光学
+porcate|有脊的
+puling|呜咽的,哀鸣的,哀诉的
+prefecture|地方长官的职位(或辖区), 县
+paracone|[动]上前尖
+probands|(proband 的复数) n.(家系研究中尤指遗传疾病的家属史研究中的) 渊源者,先证者,基人
+penumbral|日月半影的, 界限不明的
+pleurosteon|幼鸟胸骨的前侧部分
+phenacaine|[药]芬那卡因(一种局部麻醉药, 尤用于眼科)
+puttier|使用油灰者
+pedagogues|教师, 卖弄学问的教师( pedagogue的复数形式 )
+presentive|直接表达概念的, 直接表示的, 直示的
+perdurable|永久的, 耐久的, 永恒的
+pussyfooted|偷偷走路, 轻轻地走, 谨慎行事( pussyfoot的过去式和过去分词 )
+popping|间歇的；凸出的
+parson|教区牧师
+pollsters|民意调查（分析）者( pollster的复数形式 )
+prodded|刺, 戳( prod的过去式和过去分词 ); 刺激; 促使; （用手指或尖物）戳
+polypod|多足的
+parenthesize|将...加上圆括号, 加插入语于
+plop|扑通声, 掉下
+pouce|[纺]亚麻屑
+pias|piaster 比索（埃及，西班牙，墨西哥的硬币单位）
+pressurized|加压的；受压的
+postcephalic|后头的
+pater|父亲
+pantamorphic|[医] 全畸形的, 无形体的
+protaspis|三叶虫幼虫期
+pukeko|<澳新>[鸟]紫水鸡
+polemized|辩论, 争论( polemize的过去式和过去分词 )
+pathomimesis|[医] 疾病模枋, 模仿病
+patand|地槛, 底木
+pittsburgher|匹兹堡市民
+preforming|预成型, 压片
+proctodaeum|[动]肛道
+prongs|尖头叉子；岩心采取器的弹簧（prong的复数）
+perusal|熟读, 精读, 细读
+preinduction|征召入伍前的
+palliasse|草荐
+pua|[地名] [泰国] 磨县
+perineuritis|[医]神经束膜炎
+pyramiding|证券市场进行投机时使用的金字塔式交易法；为了积累利润而连续投机；通过控股公司, 掌握少数股本而控制许多公司
+pupillometry|[医] 瞳孔测量法
+pomanders|(pomander 的复数) n. 香丸, 香盒
+perversely|倔强地
+practive|实践
+perpend|慎重考虑, 深思
+picocurie|[核]皮(可)居里,微微居里,百亿分之一居里
+plattdeutsch|[语]低地德语(德国北部方言)
+piccadilly|伦敦繁华的大街之一
+portlight|舷窗
+proteose|[化]朊间质, 
+paralexic|[医] 阅读倒错的
+pulleys|滑轮（组）, 滑车( pulley的名词复数 ); 皮带轮
+primordially|原始地, 最初地
+premie|<美口>(尤指体重在5.5磅以下的)早产儿
+pyranose|[生化]吡喃糖
+peds|pediatrics 小儿科
+pyres|大堆可燃物, （尤指火葬用的）柴堆( pyre的复数形式 )
+physicality|肉体性
+phonotypist|表音速记法的鼓吹者；phonotypy的变形
+purls|潺潺地声；漩涡；流苏
+pinguecula|[解]结膜黄斑
+photodiode|光电二极管
+pluses|加号( plus的复数形式 ); [数学]正量; 好处; 附加物
+presumptuous|放肆的, 冒昧的, 傲慢的
+photoinduced|光致的, 光诱导的, 光感生的, 光感应的
+preseason|活跃季节前的,旺季前的
+pincette|小钳子, 小镊子
+protogynous|雌蕊先熟的
+potence|力量, 权力, 效力
+prudy|[地名] [俄罗斯] 普鲁德
+pyrosphere|火圈
+predoom|[古]命中注定, 预先判处
+pishu|[医]脾俞
+pellicle|薄皮, 薄膜, 分光薄膜
+plesiosaur|蛇颈龙
+plumate|[动]似羽毛的, 具羽毛的
+praetorium|帐幕, 帐篷
+peristalith|[考古](陵墓等周围的)石柱圈
+parceled|分, 区分（parcel的过去式与过去分词形式）
+poultries|(poultry 的复数) n. 家禽
+polygraphy|[医]生理记录法, 多道描记法
+penally|与刑罚有关地; 用刑罚, 刑事上
+plumbean|铅, 正铅
+prostitutes|卖淫者, 妓女, 男妓( prostitute的名词复数 )
+parten|[医]对乙酰氨基酚制剂<镇痛药>; [人名] 帕滕
+pseudorabies|[医]狂犬病恐怖症(其症侯类似狂犬症), 伪狂犬病
+prepeduncle|[医] 小脑前脚(上脚)
+promuscis|伸喙, 喙
+periphrases|拐弯抹角的说法, 迂回曲折的词句( periphrasis的名词复数 )
+plenary|充分的, 完全的, 全体出席的
+peritenon|[医] 腱鞘
+polymely|多肢畸形
+pedestaled|基架, 基座；基础
+pulverable|能研成粉末的
+provisioner|粮食供应者
+prec|precedence 优先; precedent 在前的; precision 精确; preceding 前面的
+pumicate|浮石
+phentolamine|[药]芬妥胺,酚妥拉明(一种肾上腺素阻滞剂,用于诊断嗜铬细胞瘤引起的高血压)
+pinipicrin|松叶苦素
+parasitology|寄生物学, 寄生虫学
+pseudograph|冒名作品, 伪作, 伪笔, 伪经
+piscation|捕鱼, 打鱼
+pangwe|(非洲的)芳族,芳(族)人
+pawk|<英>诡计,诈术
+pineweed|[网络] pin
+psychism|[医] 心灵论(一种唯心的学说)
+preclival|[医] [小脑]斜坡前的
+pedicab|(人力)三轮车
+photostat|直接复印照片, 直接复印机
+pedetidae|跳兔科
+ploration|流泪
+phenozygous|[医] 突颧的
+plutocracies|富豪统治, 财阀统治( plutocracy的复数形式 ); 富豪[财阀]统治集团, 富豪, 财阀
+peltry|生皮, 毛皮类
+profusive|慷慨的, 丰富的,大量的
+palatium|(尤指古罗马皇帝的)宫殿
+prepositor|学生自治会主席, 级长
+porters|门童( porter的复数形式 ); 搬运工人; （医院里护送病人的）护工; （尤指卧铺车厢的）列车服务员
+peculate|挪用, 盗用, 侵吞
+plainclothes|穿便衣的
+peromedusae|囊水母部
+predischarge|预放电
+prepaying|预付, 先付( prepay的现在分词 ); 预付（邮资等）
+pawnor|典出人, 当出人
+pows|prisoners of war 战俘
+parapodium|(某些环节动物的)疣足, ( 软体动物的)侧足
+pericranitis|[医] 颅骨膜炎
+postbulbar|[医] 球后的, 延髓后的, 十二指肠球部后的
+prattlers|(prattler 的复数) n. 闲扯的人, 咿呀学语的小孩
+pitchiness|pitchy的变形
+perversities|(perversity 的复数) n. 乖僻, 倔强, 任性, 反常, 性变态
+pestling|捣碎
+pholiota|鳞伞属
+prostitutor|卖身
+priss|娇女孩(或女子), 娇气的人, 脂粉气的男子
+pockmarked|有痘疮的
+postpycnotic|[医] 固缩后的(指红细胞)
+pausing|暂停；中止
+planeness|[化] 平整度
+paralyzed|瘫痪的；麻痹的
+peakish|peak的变形
+pacificate|安抚, 绥靖, 使镇静
+premorse|[植]啮蚀状的
+perceptibly|可知觉, 看得见, 显然地
+phaeton|一种轻快的四轮马车
+proctorrhea|[医] 肛液溢
+plaguing|瘟疫；灾祸；麻烦；讨厌的人
+pask|[人名] [英格兰人姓氏] 帕斯克绰号, 来源于中世纪英语, 含义是“复活节”(Easter)
+paraleipsis|[语]假省笔法(故意省略重要部分而引人注意)
+polyphagia|贪食性, 杂食性
+paragonimus|[医] 并殖吸虫属
+polony|猪肉香肠之一种
+portrayed|画像( portray的过去式和过去分词 ); 描述; 描绘; 描画
+proterandry|雄性先熟
+prissiest|谨小慎微的( prissy的最高级 )；过分讲究的；拘谨的；刻板的
+phenix|凤凰, 不死鸟, 绝代佳人(=phoenix)
+periaxial|[医] 轴周的
+pseudocumyl|2,3,5-三甲基苯基
+pedobaptist|[宗]幼儿洗礼论者
+phosphorism|慢性磷中毒
+pricklier|(prickly 的比较级) a. 多刺的, 满是针刺的, 针刺般痛的
+persephone|[希神]珀尔塞福涅（宙斯之女, 被冥王劫持娶作冥后）
+policemen|pl. 警察
+pitted|有凹痕的, 有麻点的, 去核的
+pejoratively|轻蔑地
+praecipe|[律]原令状(指法院要求被告做某事或为不做某事申述理由所发出的命令)
+phalluses|阴茎, 阴蒂, 交接器原基（分化后则成为阴蒂或阴茎）( phallus的复数形式 )
+pulls|拉( pull的第三人称单数 ); 扯; 拉过来; 划（船）
+psilocin|[生化]二甲-4- 羟色胺( 一种致幻剂)
+pasted|膏的（胶的；浆糊的）
+pulpiness|纸浆质, 果肉状
+pawnbroker|典当商, 当铺老板
+panatrophy|[医]全身萎缩
+panoche|[地名] [美国] 帕诺奇
+prudhomme|[人名] 普鲁多姆
+pulverise|vi. 使成粉末, 研磨, 把...压成粉末
+pontic|[医]假牙
+preventer|妨碍者, 妨碍物, 预防者
+propagula|[医]繁殖体
+postdating|填迟…的日期( postdate的现在分词 )
+panhellenist|泛希腊主义 (Panhellenism的变形)
+pilosine|毛果芸香素
+punchayet|[网络] 打孔机
+parity|同等, 同位, 平价, 奇偶性
+potableness|饮料（常复数） (potable的变形)
+pushcarts|手推车( pushcart的复数形式 )
+propmen|小道具管理员( propman的名词复数 )
+pannage|林地放猪, 林地放猪权, 养猪饲料
+porky|猪肉的, 肥胖的
+pororoca|河口高潮(南美亚马逊河)
+playacting|做作, 演戏, 假装( playact的现在分词 )
+periglacial|冰川周缘的
+picquets|(picquet 的复数) [法] 哨兵, 步哨
+protruded|（使某物）伸出, （使某物）突出( protrude的过去式和过去分词 )
+pseudoptosis|[医] 假[性]睑下垂
+paraboloidal|抛物面的, 抛物线体
+phonically|phonic的变形
+pendulation|[化] 摆动
+pansinuitis|[医] 全窦炎
+petrosphere|[医] 地壳
+phymatosis|[医]肿块病
+polylepidous|多鳞片的
+physicists|物理学家( physicist的复数形式 )
+perforative|穿孔的, 有穿孔力的
+pickpockets|扒手( pickpocket的复数形式 )
+pipey|[化] 管皱; 管皱皮革缺陷
+prosperously|繁荣地, 幸运地
+perfectively|与完成时有关, 关于完成时
+plastify|(=plasticize)热塑化, 塑炼
+pats|通讯系统状态分析（Performance Analysis of Telecommunication Systems）；优先活性追踪系统（priority activity tracking system）
+pamprodactyl|[网络] 潘普罗米奇
+pialyn|[医] 脂酶
+promontory|岬, 海角
+pipilo|[网络] 雀属于唧鵐属
+perle|[医] 珠剂
+physiatric|adj. physiatrics的变形
+pediculosis|虱病
+psychogenic|[医] 精神性的, 心理性的
+precuneus|[医] 前叶楔
+panoplied|全套披甲的, 全副武装的, 装饰漂亮的
+predikant|荷兰新教的牧师
+profaned|不敬( profane的过去式和过去分词 ); 亵渎, 玷污
+pouched|有袋的
+precipitates|（突如其来地）使发生( precipitate的第三人称单数 ); 促成; 猛然摔下; 使沉淀
+parsiism|Parsee, Parsi的变形
+professed|明言的, 专职的, 宣誓后入教的
+paunched|腹；大肚子；胃
+peepers|窥视者；私家侦探
+parigenin|洋菝葜皂角苷配基
+pedophilic|[医] 爱儿童的
+prosogaster|(=prosogyrate)前圆的
+pesticidal|杀虫的
+pelvimetry|骨盆测量
+peltae|pelta的变形
+proptosis|前垂, 凸出, 脱出
+phytography|[植]记述植物学,植物分类学
+peddle|挑卖, 沿街叫卖, 游荡, 闲混
+paresthesia|[医] 感觉异常
+pituitaries|（脑）垂体( pituitary的复数形式 )
+photoengrave|照相雕刻,光镂
+painstaker|<废>勤恳的人,刻苦的人
+pacaya|中美洲棕榈
+plomb|[医] 充填, 填补
+pretences|假装( pretence的复数形式 ); 作假; 自命; 自称
+playboys|花花公子, 纨绔子弟( playboy的复数形式 )
+purrone|[化] 优┷吨酮
+popeyed|瞪大眼睛的, 眼球突出的
+pariahdom|卑贱
+parakeets|<动>长尾小鹦鹉( parakeet的复数形式 )
+panache|羽饰, 夸示, 假威风, 炫耀
+pinxter|<美方><古>= Whitsuntide
+powerboat|机动艇
+paired|成对的；配对的
+pancreatitic|[医] 胰[腺]炎的
+pericope|(从书中选出的)章节, 选段
+personae|persona 的复数
+peeper|窥视者, 嘀咕的人, (非正式)眼睛, (美)(非正式)私家侦探
+pursuers|追赶者( pursuer的复数形式 ); 追捕者; 追求者; 从事者
+pealike|豌豆般的, 艳丽呈蝶形的
+porticos|柱廊, （有圆柱的）门廊( portico的名词复数 )
+prankishly|prankish的变形
+pipet|吸量管, 吸移管
+petalage|[总称](一朵花的)花瓣
+peenge|<主苏格兰>发怨言,抱怨,发牢骚
+plasmoma|[医]浆细胞瘤
+pithos|(古希腊用于盛酒、油或粮的)大口陶瓷坛
+podzol|[地]灰壤,灰化土
+pretium|[法] 价金, 价格, 销售价
+percher|栖于树上的鸟, 处于高处的人(或物), (织物)检查工
+paula|保拉（女子名）
+plesiobiosis|异种共栖
+presto|赶快, 转眼间, 立刻
+pelecypodous|[网络] 小菜蛾
+proctorize|代理, 代理诉讼
+procreator|生殖者, 母体
+pandanaceae|露兜树科
+pyrrhonic|皮浪怀疑论的
+pipeclay|（造烟管或皮革用的）白黏土, <喻>（军队对服装等的）严格要求
+polonaises|(polonaise 的复数) n. 波兰式围裙, 波洛奈兹舞
+patterned|被组成图案的
+proliferant|[医]增生剂
+poncelet|百千克米, 百公斤米
+pise|捣实粘土
+physicked|给…服药, 治愈( physic的过去式和过去分词 )
+panmixia|随机交配, 随机交配群体
+pourable|可倾倒的, 流动通畅的
+plumelet|小羽毛, 小束羽毛, 小簇羽毛
+photostated|直接复印机；直接复印照片
+pettitoes|(尤指作为食品用的)猪脚, 猪蹄,(常指小孩的)脚趾,脚
+pediluvium|[医] 足浴
+palatoplasty|[医] 腭成形术
+perfects|使熟练( perfect的第三人称单数 ); 使完全; 使…完美; 充分地指导（告诉）
+parathormone|[生化]甲状旁腺(激)素
+pantelegraph|传真电报
+petechiate|[医]有瘀点的,有瘀斑的
+popularizer|普及者, 推广者, 普及读物, 通俗读物
+phosphated|[医] 含磷酸盐的
+praxeology|人类行为学
+prelacteal|[医] 哺乳前的
+prenotion|[罕]先见之明, 预知, 预想
+pseudomorula|假桑椹胚
+pezizoid|杯状的
+pocketknife|随身小折刀
+phanerite|[地]显晶岩
+perfectible|可使完美的, 可完成的
+planing|[机] 平刨
+pression|压力
+postclassic|(尤指古希腊与古罗马文学艺术)古典时代后的
+persalt|[化]过酸盐
+proteosuria|[医] ж尿
+pulsant|脉动的, 搏动的
+puericulture|[医] 育儿法
+percheron|佩尔什马(法国北部产的灰色重型挽马)
+prajapati|[网络] 生主；众生之主；主神
+payees|收款人( payee的复数形式 )
+pygmoid|俾格米人似的, 矮小的
+plerergate|贮蜜蚁
+pahutan|菲律宾芒果
+pollarded|修剪树枝( pollard的过去式和过去分词 )
+palmettes|(palmette 的复数) n.[建]棕叶饰
+poltergeists|敲击作响闹恶作剧的鬼( poltergeist的复数形式 )
+paralysing|使瘫痪[麻痹]( paralyse的现在分词 ); 使不能正常活动
+psychotropic|治疗精神病的
+peridentium|牙周组织
+pentite|[化] 戊五醇
+peridermium|有被春孢器, 泡状锈子器
+perkily|perky的变形
+peperine|[机] 胡椒碱
+procidentia|(膜翅目雄虫)背中突
+pastorly|(本堂)牧师的, 适合于(本堂)牧师的
+pectosinase|[医] 果胶糖酶
+pouring|[机] 浇铸, 浇注
+pidan|[中]皮蛋
+protonemata|原丝体, 丝状体( protonema的名词复数 )
+piscicide|[医] 杀鱼剂
+presentment|陈述, 描写, 叙述, 呈现, 展示物, 描画, 画像, 赠送, 赠送物, 演出, 提出, 呈递
+passade|(马术)回转步
+presidents|总统; （大学）校长( president的复数形式 ); 会长; [P-]总统; 银行行长
+pedodontist|儿童牙科医生
+phono|留声机,唱机
+panegyrizes|颂扬, 称赞( panegyrize的第三人称单数 )
+prunt|(玻璃器皿上)粘花装饰
+pannose|[植]毡毛状的
+prolificity|多育的能力[特点]
+pontifices|pontifex的复数
+prefactor|[数]前因子
+punishers|(punisher 的复数) n. 处罚者, 惩罚者
+paradidymis|旁睾
+peepul|菩提树
+panduriform|[植](叶)提琴形的
+playhouse|剧场, 儿童之家, 玩具房
+polyanthuses|西洋樱草, 多花, 黄花九轮草( polyanthus的名词复数 )
+protore|[地质]矿胎, 胚胎矿
+preferrer|prefer的变形
+paleate|被鳞片的
+plastically|可塑性
+peronospora|[医] 斜尖状孢子菌属
+pyke|(Pyke)人名；(英)派克
+photism|[心理]幻视, 光幻觉, 发光性
+pucherite|钒铋矿
+pinged|<非正>发出砰的声响( ping的过去式和过去分词 )
+puberulent|[植]被微柔毛的
+preyed|掠食( prey的过去式和过去分词 ); 掠食; 折磨; （人）靠欺诈为生
+poutingly|撅嘴
+plenties|丰富, 大量（plenty的复数形式）
+perp|<口>罪犯
+pulsatilla|[化] 白头翁花
+phthanite|燧石, 角石, 英石岩
+patriarchies|父权制( patriarchy的复数形式 )
+pearmain|红苹果
+profilist|侧面像画家
+pounder|一磅重的东西, 捣碎者, 杵, 捣具, 重...磅的东西
+pleurorrhea|胸膜腔渗液
+pleasured|使高兴（pleasure的过去式与过去分词形式）
+pensiveness|pensive（沉思的）的变形
+polygenetic|[建] 多色的
+palettes|调色板( palette的复数形式 ); （画家使用的）主要色彩; 主色调; 组件盘、工具箱
+prionodont|锯齿的
+pallid|苍白的, 暗淡的, 无生气的
+patrial|祖国的; 表明国籍（或地区）的
+palis|[计]= Property And Liability Information System,财产和负债信息系统
+polyzoan|(=ectoproct)外肛亚纲动物
+pagehood|听差的身分
+piscina|养鱼池塘, 浴池
+placuntoma|[医] 胎盘瘤
+prims|（使）一本正经（prim的第三人称单数形式）
+pasha|帕夏
+pachysandra|富贵草属长青地被植物
+phlobatannin|[医] 红鞣质, 藤黄酚衍生鞣质
+penlite|钢笔形小手电筒
+poulette|[网络] 雪纳瑞犬布列特
+primped|（尤指对着镜子）精心打扮( primp的过去式和过去分词 )
+parapteron|上侧片
+prided|以…而自豪, 得意于…( pride的过去式和过去分词 ); 自豪, 骄傲, 得意
+penoncel|小旗
+paramedics|<美>护理人员, 医务辅助人员( paramedic的名词复数 )
+pooled|合并的
+patrilinear|父系的
+potoroinae|[网络] 长鼻袋鼠亚科
+pothouse|小酒馆, 小旅馆
+phaeophycean|[网络] phaeophyceae
+prerecords|事先录音( prerecord的第三人称单数 )
+pathography|病情记录,病史, 病志
+pillory|颈手枷, 笑柄, 示众
+perisome|[医]体壁（棘皮动物）
+purdon|[人名] [英格兰人姓氏] 珀登 Pridham的变体
+psalmodic|唱圣歌的, 吟唱诗篇的, 有赞美诗风格的
+portsider|左手投手, 左撇子
+polymathy|博学,博识
+podotheca|(鸟或爬虫动物的)足鞘
+preexisted|先前存在( preexist的过去式和过去分词 )
+phagophobia|[医]恐食症
+phenylamine|[化]苯胺(=aniline)
+phyllotactic|[植]叶序的
+porcelaneous|瓷器(似)的
+primulaceous|[植]报春花科的
+preorbital|眶前骨
+pedology|婴儿学, 土壤学
+perianal|肛门周围的
+permanganic|[化]含最高价锰的
+pentadactyl|有五指的, 有五趾的
+psig|pounds per square inch(gauge) 磅/平方英寸（表压）
+pintados|[地名] [智利] 平塔多斯
+plagiarizing|剽窃, 抄袭( plagiarize的现在分词 )
+pyretogenous|[医] 引起发热的, 致热的
+pushups|伏地挺身；俯卧撑
+powering|[机] 动力估计
+pelage|毛皮
+paraphernal|paraphernalia的变形
+periodicals|期刊（periodical的名词复数形式）
+pimelate|庚二酸盐[酯]
+patulin|棒曲霉素
+parachutists|跳伞者( parachutist的复数形式 )
+phlogogenic|[医] 致炎的
+purging|[医] 催泻的
+pastose|油画的厚涂法, 用厚涂法画的画
+protrusive|伸出的, 突出的, 招人注意的
+pratfalls|(pratfall 的复数) n. 屁股着地的摔倒, 丢脸的失误
+plumbic|铅的, 含四价铅的
+prophesies|预告, 预言( prophesy的第三人称单数 )
+pollutants|污染物质（尤指工业废物）( pollutant的复数形式 )
+preachified|讲道, 唠唠叨叨地讲( preachify的过去式和过去分词 )
+protoplasma|[化] 原生质
+passable|可通行的, 可渡过的, 尚可的, 可流通的
+poling|立杆, 架线路
+phylogenic|系统发生的, 动植物种类史的
+preceptory|圣殿骑士地方分团, 圣殿骑士地方分团的产业
+phoney|假的, 假冒的, 伪造的
+premolar|前臼齿
+polyplastic|多塑性的
+piddled|撒尿, 鬼混, 游荡( piddle的过去式和过去分词 )
+plethodon|[医]无肺螈
+parvule|[医] 小丸, 小粒
+paraglobin|变性珠蛋白
+pizzerias|(pizzeria 的复数) n. 匹萨饼店, 意大利肉饼店
+pinweed|多年生半日花科植物(Lechea); 北美岩蔷薇; 芹叶太阳花
+paganizes|(使)异教化, 使成为享乐主义者
+pantagraph|[机] 缩放绘图器
+phenanthrene|[化]菲( 用于合成染料和药物)
+plastrons|(plastron 的复数) n. 护胸, 胸铠, 胸甲, 胸饰
+propadiene|丙二烯
+pledgeless|pledge的变形
+paulinize|[宗] vi.遵循圣保罗的教义
+pelobates|隐耳锄足蟾属
+potassa|[化]碳酸钾, 苛性钾
+palpi|palpus的复数
+pumpkinseed|南瓜籽, （北美产的）一种小翻车鱼[太阳鱼]
+petiolate|有柄的
+panurgic|Panurge的变形
+parr|幼鲑
+phytosterin|[化] 植物甾醇
+pantoscopic|全景的
+portraying|画像( portray的现在分词 ); 描述; 描绘; 描画
+pedunculus|脚
+parageusis|[医] 味觉异常, 味觉倒错
+paraguayans|(Paraguayan 的复数) n. 巴拉圭人
+pogy|(pl. -gies)[动]步鱼, 玫瑰海鲫
+politic|精明的, 明智的, 策略的
+pandanaceous|[植]露兜树科的
+portents|预兆( portent的复数形式 ); 征兆; 怪事; 奇物
+prs|（英国）皇家学会会长（President of the Royal Society）
+pulegol|胡薄荷醇
+peroneal|[医] 腓骨的, 腓侧的
+phallic|阴茎的, 生殖器的, 阳物崇拜的
+pornographer|色情小说作家, 色情作品作者
+palmist|看手相的人
+pyrope|镁铝榴石
+pycnogonida|海蜘蛛亚门
+platoons|<军>排( platoon的复数形式 )
+pokie|<澳> = poker machine
+palet|[医]平板架, 托板, 调色板
+parsnips|欧洲防风草( parsnip的复数形式 )
+pullery|皮带盘
+ptp|聚对苯二甲酸酯
+phototype|照相制版, 照相版印刷件
+pluckers|(plucker 的复数) 拔毛机
+pouffed|[英国英语] = pouf,pouff
+paillette|珠片, 闪光饰品
+postmarital|婚姻结束后(发生)的
+perpetuation|永存, 不朽
+pentafid|具五裂片的
+philippan|[网络] 潘公凯
+parovarian|[医] 卵巢旁的; 卵巢冠的
+phagocytic|噬吞细胞的, 有吞噬作用的
+piebalds|(piebald 的第三人称 -s形式) a. 花斑的, 杂色的, 杂种的
+perf|穿孔
+petiolus|柄茎
+privet|女贞
+polygonatum|玉竹
+pastorale|田园曲, 牧歌式歌剧
+punisher|处罚者, 惩罚者
+postlude|后奏曲, 终曲
+puckered|（使某物）起褶子或皱纹( pucker的过去式和过去分词 )
+paederastic|[网络] 幼稚的
+petticoated|穿裙子的
+pickiest|挑剔的
+paracyanogen|仲氰, 多聚氰
+platalea|[网络] 琵鹭属；琵鹭扁裸藻；琵鹭类
+prn|[计] 打印机, 伪随机数
+praisably|praisable的变形
+peabody|[鸟]白喉带鹀；皮博迪（美国马萨诸塞州一城市名）；皮博迪（公司名）
+prelusively|prelusion的变形
+peridinium|多甲藻属
+pleomorph|多形晶
+pregeniculum|[医] 外侧膝状体
+pythogenic|腐生的
+photometrist|[网络] 验光师
+palmitone|[化] 棕榈酮; 16-三十一酮; 16-三十一烷酮; 对称三十一酮
+plantains|车前草, 香蕉之一种( plantain的复数形式 )
+phallus|阳物形象, 阴茎, 阴蒂, 交接器原基
+pyrites|硫化铁矿类
+polyparium|( 水螅型) 珊瑚虫群体的附着基
+plutons|(pluton 的复数) n.[地]深成岩体
+prosopyle|[动]前幽孔(海绵从入水管到鞭毛室的开孔)
+papillon|蝶耳长毛玩赏狗
+peritroch|纤毛轮
+posnet|<古>(煮食物用的)金属锅,金属器皿
+phonologists|(phonologist 的复数) n. 音系学者, 历时音系学家
+perspire|出汗, 流汗, 分泌, 渗出
+paramnesia|记忆错误, 旧事幻现
+pretendingly|假装地, 矫饰地, 僭望地
+pisa|比萨城
+prancy|腾跃的, 欢跃的
+pipefish|杨枝鱼, 海龙
+palisado|[废语]木桩；栅栏
+promammal|前哺乳动物
+piney|似松的, 松树般茂盛的
+prays|祈求（pray的复数）
+preborn|流产儿
+plunking|（使）（发出扑嗵声地）重重掉下( plunk的现在分词 )
+patrician|贵族, 有教养的人
+putback|放回
+pinnules|(pinnule 的复数) 小羽片
+pickelhaube|尖顶头盔
+pennon|细长三角旗, 小燕尾旗, 枪旗, 鸟翼
+pottier|potty的变形
+pyknic|矮胖的
+pandies|(Pandy 的复数) vt.罚打…的手心
+pinyon|矮松
+papillectomy|[医]乳头切除术
+pulverize|把...磨成粉
+pugmill|搅土机; 拌土机
+pincers|钳子, 镊子, 钳形运动, 螯
+purchasers|用户, 购买者（purchaser的复数形式）
+phytologic|adj. phytology的变形
+ponderosity|笨拙, 沉重, 笨重
+pullboat|平底拖船
+phenacetine|[医] 乙酰对氨苯乙醚, 非那西汀(解热镇痛剂的一种)
+puddinghead|笨头;呆脑
+puccinia|[医]柄锈菌属
+picnicked|去野餐, 参加野餐（picnic的过去式与过去分词形式）
+patente|(Patente)人名；(西、意)帕滕特
+palmate|手掌状的, 蹼足的
+potshot|乱射, 射击, 肆意抨击
+paleobotany|古植物学
+patmos|(patmo 的复数) abbr. Patent and Trademark Office 专利与商标办事处
+peritrichous|[植]周毛的(指菌)
+polissoir|[法]抛光设备, 磨光工具
+petrogeny|[地质]岩石发生学
+precises|摘要；大纲
+phlebostasia|[医] 静脉止血法, 静脉郁滞法(上止血带)
+pelviotomy|[医] 骨盆切开术; 肾盂切开术
+pythiad|(古希腊)皮提亚德时期
+plankter|浮游生物
+painters|画家( painter的复数形式 ); 油漆匠; （系船的）缆绳
+propping|支撑
+playfully|开玩笑地；好游玩地
+petalody|[植]成花瓣形, 花瓣化
+pedicure|脚治疗, 脚治疗医师, 修趾甲术
+pennate|有翼的, 翼状的, 羽衣硅藻的
+penanced|使…以苦行赎罪
+pudendal|[医] 阴部的
+palestinians|巴勒斯坦人（palestinian的复数）
+pean|赞颂歌；凯旋歌（等于paean）
+phenazone|非那宗, 二甲基苯基吡唑酮, 安替比林(药)
+polyose|多糖
+pancaked|(pancake 的过去分词) n. 薄烤饼, 薄煎饼, 烙饼
+photocopier|影印机, 摄影复制机
+punica|[网络] 石榴属；仅石榴属；安石榴属
+pleiocene|[地]上新世的
+primordia|primordium 的复数
+primaeval|原始的
+ptyalin|唾液淀粉酶
+parridge|麦片粥, 粥, <俚>服刑
+preluded|为…作序, 开头（prelude的过去式与过去分词形式）
+partiversal|半锥背斜
+promissory|约定的, 约好的, 约定支付的
+pancreatism|胰活性
+papooseroot|[网络] 葳严仙；类叶牡丹
+phonotactics|[复]n.[用作单][语]音位结构学,音位配列学
+popularizes|使受欢迎( popularize的第三人称单数 ); 普及; 使通俗化; 使易懂
+panhyperemia|[医] 全身充血, 全身多血
+phalaenopsid|蝶兰属的兰花植物
+pricier|价格高的, 昂贵的( pricey的比较级 )
+pokeberry|[植]美洲商陆,美洲商陆果
+pseudonymous|使用笔名的, 使用假名的
+pessary|子宫托, 子宫帽
+paropsis|[医] 视觉异常, 视觉障碍
+papist|教皇制信奉者, 天主教徒
+pyrolusite|[矿]软锰矿
+prion|感染性蛋白质, 普列昂; 锯鹱
+pyelogram|[医]肾盂X线(照)片,肾盂造影照片
+phloeoterma|筛皮
+phylaxis|[医] 防御[作用]
+pard|豹, 伙伴
+polemizes|辩论, 争论（polemize的第三人称单数形式）
+pyridic|pyridin(e)的变形
+preemie|早产婴孩
+photoproton|光质子
+pewit|田凫, 田凫的鸣声
+perplexingly|使人为难地
+perinea|perineum的复数
+piggish|猪般的, 馋嘴的, 贪心的, 邋遢的
+pedicured|(pedicure 的过去时) n. 脚治疗, 脚治疗医师, 修趾甲术
+pyrophoric|发火的,生火花的
+prate|唠叨, 空谈
+pirnie|[人名] 皮尔尼
+protistology|[生]原生生物学
+promuscidate|具伸喙的, 具喙的
+pakistanis|巴基斯坦人（Pakistani的复数）
+peewee|矮小的人, 小东西
+pericystic|[医] 囊周的; 膀胱周的
+patchiest|patchy（不完整的）的变形
+pikake|[植]茉莉
+pleached|编织( pleach的过去式和过去分词 )
+postface|刊后语
+pyrrolidyl|[化] 吡咯烷基
+psychoactive|对神经起显著作用的, 对神经起特殊作用的
+preachify|说教, (喋喋不休的)劝诫
+phocine|[动]海豹的,像海豹的
+pelicometer|骨盆(测)量器, 骨盆计
+papershell|脱壳(后的螃)蟹
+polarisation|[物]偏振(现象),极化(作用),两极化,分化
+pursuable|可实行的, 可追赶的
+pubis|耻骨
+predicate|谓语, 谓项
+possessive|所有格
+plumbed|铅垂的
+picris|[网络] 毛连菜属；毛莲菜属
+podiatry|脚病学
+pseudofever|[医] 假热
+phytosis|植物病
+paraphrenic|[医] 妄想痴呆的; 妄想痴呆患者
+polygraph|多种波动记录仪, 复写器, 多产作家, 测谎器
+pipette|吸量管, 吸移管
+preplanned|(preplan 的过去时) vt.vi. 预先计划, 预先规划, 预先打算
+panhidrosis|[医] 全身出汗
+petcock|[机] 扭塞, 小塞
+pentacles|(pentacle 的复数) n.五角星形
+palely|苍白地, 青青地, 淡色地
+penetrant|渗[穿]透的
+pathologic|病理学的, 由疾病引起的, (非正式)不合理的, 仅由想象引起的, 不理智的
+paracentesis|[医](放液)穿刺术
+polypuses|[肿瘤] 息肉；水螅
+prezonal|位于盆带前方的
+plighter|情况；状态；(尤指)苦境；困境；险境
+pfui|<德>int.[表示轻蔑、厌恶、不信、不耐烦等]呸,啐
+peres|佩雷斯（人名）
+peristomial|围口的
+pil|图片库（Python Imaging Library）；病人信息活页（patient information leaflet）
+perispomena|perispomenon的变形
+pottle|半加仑, 半加仑的酒
+procoelous|[医] 前凹的
+pleasuring|使高兴（pleasure的现在分词形式）
+pragmatism|实用主义
+plait|褶, 辫子, 麦秆条带
+pinard|比纳葡萄酒
+peorian|皮奥里间冰期
+potwalloper|[英史]户主选举人 ( 亦称 potwaller)
+palled|（因过多或过久而）生厌, 感到乏味, 厌烦( pall的过去式和过去分词 )
+pondlet|小水池
+phobic|病态性恐惧的, 憎恶的
+paligorskite|坡缕石
+porkers|(porker 的复数) n. 食用猪, 肥小猪
+planetoid|小行星, 类行星的物体
+predicatory|说教的
+pupilage|学生身分, 学生时期, 未成年, 幼年时代
+practicer|练习者, 实践者
+puns|双关语, 俏皮话( pun的名词复数 )
+polysemous|多义的, 有多种解释的
+prototyping|[计] 样机研究, 原型设计
+pomelos|(pomelo 的复数) n. 柚子, 文旦
+planche|击剑场
+planetaria|天文馆( planetarium的名词复数 )；天象仪
+paranema|(pl. paranemata)[植]副丝
+pennyroyal|薄荷类, 薄荷油
+puny|微小的, 弱小的, 微不足道的
+pik|土耳其长度单位, 等于70.866公分, 或27.9英寸
+proudest|自豪的, 骄傲的；(因受表扬等而)感到光荣的, 引以为荣的
+pedocalic|pedocal的变形
+paracentral|[医] 旁中央的, 近中心的
+prude|拘守礼仪的人, 故作正经的人
+pilin|[医] 海绵毯
+pleomorphism|[化] 同质多晶
+polycarpic|多次结果的
+polytonal|[音](具有或使用)多调的
+prosodetic|前限
+processioner|(人、车、船等的)行列；队伍；一长列；一长排；进行；行进；(尤指)列队行进
+pallet|草铺, 简陋小床, 调色板, 棘爪
+plodge|<英方> vi.& n.蹚水
+paltock|[人名] 帕尔托克
+potoo|林鸱
+palladian|（智慧女神）帕拉斯·雅典娜的；智慧的, 学问的；帕拉弟奥建筑风格式的
+photospheric|photosphere的变形
+philatelic|集邮的, 集邮癖的, 有集邮价值的
+prefaces|序言( preface的名词复数 ); 前言; 开端; 前奏
+pyelometry|[医] 骨盆测量法, 肾盂测量法
+poorhouses|贫民院( poorhouse的复数形式 )
+periblem|[植]皮层原
+pipers|吹笛人, 吹风笛的人( piper的复数形式 ); 管道工
+poisoned|中毒的；遭毒害的
+photoelastic|[物]光弹性的
+pervicacious|极固执的,极任性的
+portliness|肥胖, 肥大
+phospholipin|[化] 磷脂
+pauperized|使成贫穷, 使成为受救济者( pauperize的过去式和过去分词 )
+pyopoiesis|脓生成
+prejudged|预先判断( prejudge的过去式和过去分词 )
+phonated|出声, 发声( phonate的过去式和过去分词 )
+pais|[电] 对
+ponderer|ponder的变形
+pullback|拉回, 障碍, 阻扰
+perilled|置…于危险中（peril的过去式与过去分词形式）
+pressuring|（美）对…施加压力（pressure的ing形式）
+pteropus|[网络] 狐蝠属；黑首狐蝠；东加罗林狐蝠
+pontificalia|[pl. ]主教的祭服
+paracolpium|阴道旁组织
+pizzle|动物的阴茎(过去曾做鞭子用)
+pilaster|壁柱
+phyllostomus|叶口蝠属
+programing|程式设计, 程序编排；节目制作
+piceous|(似)沥青的, 沥青色的(尤指动物)
+punishes|罚( punish的第三人称单数 ); 处罚; 粗暴地对待; 痛打
+peeped|窥视( peep的过去式和过去分词 ); 偷看; 隐现; 慢慢露出
+plurality|复数, 较大的数, 多数状态, 兼职
+pimpliness|丘疹
+panegyrical|颂词的, 赞扬的
+pamphleteer|小册子作者, 檄文执笔者
+pedregal|[地名] [巴拿马、秘鲁、厄瓜多尔、古巴、委内瑞拉] 佩德雷加尔
+picus|[罗神]皮库斯(农事之神)
+palaeolith|[考古]旧石器
+plumcot|[植]李杏(一种李和杏杂交培植的树及其果实)
+powders|粉, 粉末( powder的名词复数 ); 粉状物质
+proabortion|赞成人工流产合法化的
+pathic|被奸者
+preoblongata|[医] 延髓前部(第四脑室与脑桥间的部分)
+pentaphylax|五列木属
+proprietors|所有人, 业主( proprietor的复数形式 )
+perused|读（某篇文字）( peruse的过去式和过去分词 ); （尤指）细阅; 审阅; 匆匆读或心不在焉地浏览（某篇文字）
+protoceras|原角鹿属
+psychognosy|[医]心理诊断术
+pulsated|有节奏地舒张及收缩( pulsate的过去式和过去分词 ); 跳动; 脉动; 受（激情）震动
+petrolized|用石油点燃
+pitcher|有把的大罐, 瓶状体, 投手, 摊贩
+phytophagous|(昆虫)食植(物)的, 食叶类的
+propense|[古]偏向或倾向于...的
+patched|打补丁的
+panniculus|[解]膜
+periarthric|[医] 关节周的
+plastiqueur|可塑炸弹投掷者
+phthalic|[化]邻苯二甲酸的, 酞酸的
+pupate|化蛹
+plotters|密谋策划者, 搞阴谋的人( plotter的复数形式 )
+palilalia|[医] 言语重复
+playmaking|控球后卫；发动机
+prototroph|[微]原养型微生物
+polluted|被污染的, 被玷污的, (美)(非正式)喝得烂醉的
+perceval|珀西瓦尔(亦作Perceval)(m.)
+precluded|阻止( preclude的过去式和过去分词 ); 排除; 妨碍; 使…行不通
+propositus|[医] 渊源人, 基人, 先证者(指某一疾病的最早罹患的人)
+piraya|[鱼]水虎鱼（产于南美产的一种小鱼）
+prismatoid|[数]旁面三角台, 拟柱体
+pinball|钉球戏, 弹球戏
+pecuniarily|在金钱上, 在金钱方面
+psychopaths|精神变态者, 精神病患者( psychopath的复数形式 )
+pucellas|[一般用作单](制作玻璃器皿时用的)玻璃钳
+pisonia|[网络] 腺果藤属；皮孙木属；乃从拉丁学名
+palling|（因过多或过久而）生厌, 感到乏味, 厌烦( pall的现在分词 )
+paralexia|[医]阅读倒错,错读
+pinninerved|羽状脉的
+pantechnicon|家具仓库, 家具搬运车
+phenom|杰出人才, 特别的事情
+palikinesia|动作重复
+perversions|歪曲( perversion的复数形式 ); 变坏; 变态心理
+plumming|【植物】李属(Prunus)植物；洋李；李；梅
+podiatrists|足病医生( podiatrist的名词复数 )
+pellock|<苏格兰>[动]鼠海豚
+petersham|罗纹丝带
+penchants|(penchant 的复数) n. 爱好, 嗜好
+payoffs|结果, 报偿( payoff的复数形式 )
+pomp|壮丽, 盛观, 夸耀
+praecox|早发的
+plash|浅池, 积水坑, 击水声, (水的)飞溅
+plagiariser|[网络] 剽窃者
+presenters|节目主持人, 演播员( presenter的复数形式 )
+pseudoscope|幻视镜
+pantropic|遍布于热带的
+pintano|[鱼]豆娘鱼, 岩豆娘鱼
+pussyfooting|偷偷走路, 轻轻地走, 谨慎行事( pussyfoot的现在分词 )
+palisadoes|palisado的变形
+penalization|[法] 处罚, 惩罚
+punctilios|细节, 拘泥形式( punctilio的名词复数 )
+plagae|斑点（动物身上的）；条纹（动物身上的） (plaga的变形)
+pigstick|(用长矛)狩猎野猪, 杀猪
+pleaching|编织( pleach的现在分词 )
+pineries|菠萝园( pinery的名词复数 )
+paddleboard|桨叶式冲浪板(亦可用于救生)
+phoebus|福玻斯(日神), 太阳
+pluggable|插接式连接, 可插的
+perpetuating|perpetuate的现在进行式
+polishes|（使）光滑, 擦亮( polish的第三人称单数 ); 修正; 文饰; （涂蜡等）打光滑
+peakedness|巅峰(性)
+psychoses|精神病( psychosis的复数形式 )
+partridges|山鹑( partridge的复数形式 )
+porites|滨珊瑚属
+pinfold|家畜栏, 监禁地
+predication|断定, 断言, 谓项
+parosteal|[医] 骨旁的, 骨膜外面的
+potencies|(potency 的复数) n. 力量, 权力, 效力
+pulverizable|能研碎的
+podophyllous|[医]蹄内（组织）的
+pipewort|[植]谷精草
+pus|脓, 脓汁
+piggery|猪舍, 猪舍似的地方, 污秽的场所, (总称)猪, 似猪的行为, 贪得无厌的习性
+passivity|被动, 被动性, 无抵抗, 钝性, 被动结构
+pyromania|放火狂
+poppin|机械舞（街舞的一种）
+plasm|[医] 浆, 血浆, 原生质, 原浆
+polyterpene|多萜(烯)
+putative|推定的, 被公认的
+pleximeter|叩诊板
+pelletize|使成颗粒状, 使成团, 把…制成丸
+parser|[计] 分析程序
+palaeogene|& n.[地]早第三纪(的),下第三系(的)
+pelmanism|配尔曼式记忆训练法(由配尔曼学院发明), 用配尔曼式记忆法记忆
+potboil|(为生计)匆促草率写作(或绘画)
+paine|佩因（姓氏, 也译作潘恩、佩恩）
+phytyl|植基
+precancels|（收寄大宗邮件或邮包时）预先盖销（邮票）( precancel的第三人称单数 )
+primaquine|[化]首喹, 伯氨喹
+phlogopite|[矿]金云母
+perceivably|可知觉地, 可察觉地；可领会地
+parasitize|寄生于, 侵害
+pikestaves|枪柄, 锡杖附有尖形铜帽的( pikestaff的名词复数 )
+pion|[化] π介子
+prepositions|介词( preposition的复数形式 )
+pholidosis|鳞序
+poetesses|(poetess 的复数) n. 女诗人
+perisperm|[植]外胚乳( 亦泛指胚乳, 包括内、 外胚乳)
+parmeliaceae|[网络] 梅衣科；于梅衣科
+phenolate|(苯)酚盐
+preta|[网络] 饿鬼；普雷塔；薜荔多
+phylogenesis|系统发生, 动植物种类史
+phycophaein|[化] 藻褐素
+paleographer|古文书学家
+pyrogallate|[化]焦棓酸盐
+platypi|platypus的复数
+pneumotyphus|[医] 肺型伤寒
+propitiation|劝解, 抚慰, 赎罪
+proleg|原足, (幼虫的)腹脚
+phyllopteryx|叶海马属
+pte|手提式测试装置（Portable Test Equipment）；特殊试验装备（Peculiar Test Equipment）；客运部（英国铁路）（Passenger Transport Executive）
+plectognath|愈颌目鱼
+phaser|[电] 相位器
+polytheism|多神教, 多神论
+presided|主持, 主管( preside的过去式和过去分词 )
+perchloric|[化](含)高氯的
+perineotomy|[医] 会阴切开术
+prejudicing|偏见；侵害
+pillworm|鼠妇
+psephitic|砾状
+paranephros|<废> [解]肾上腺
+pterygiums|[眼科] 翼状胬肉；[昆] 翅后基叶；鳍
+plf|pounds per linear foot 磅/（线）英尺
+polyglottous|通晓数种语言的, 数种语言的
+pipestone|烟斗石( 指印第安人用以刻制烟斗的粉红色或粉红夹白色的泥质岩)
+playbacks|(playback 的复数) n. (录音)重放, (录音)重放装置
+peelite|[英史]皮尔派保守党员
+pomological|果树栽培学的（pomology的变体）
+pylic|[医] 门静脉的
+phacotherapy|[医] 日光疗法, 日光浴
+paregmenon|[语]同源词并列
+paramorphous|paramorph的变形
+prostituted|滥用才能( prostitute的过去式和过去分词 ); 糟蹋自己; 卖淫; 出卖肉体
+palings|木栏, 围篱
+perfected|使…完美, 使…熟练（perfect的过去形式）
+pleiotropism|[医] 多向性(亲多种组织),[基因]多效性
+pomatomidae|蓝鱼科
+peptization|胶溶作用, 解胶(作用), 分散(作用), 塑解
+pauses|停顿( pause的名词复数 ); 暂停; 延长记号; 暂停键
+prewar|战前的
+puckish|顽皮的, 恶作剧的
+paternalize|[网络] 家长化
+predicated|断言, 断定( predicate的过去式和过去分词 ); 表明, 阐明, 断言
+pamplegia|[医]全麻痹,全瘫
+persister|[电] 冷持管
+pucker|使起皱
+paler|(Paler)人名；(罗)帕勒尔
+preying|捕食性的；掠夺的
+predefine|预先确定
+pennatulidae|[网络] Penn科
+practicalism|求实主义, 实际主义
+potentiate|赋与力量, 加强
+parnassus|(希腊)帕纳塞斯山, 诗人们, 诗坛
+peccadillo|轻罪, 小过, 小瑕疵
+picotah|(=picottah, piccotah)[印]一种从井里提水的装置
+porket|乳猪, 小猪
+priesthood|神职人员, 祭司职
+peppertree|<美>[植]胡椒树(亦作pepper shrub)
+precentorial|precentor的变形
+pachalic|pasha的领地[管辖权]
+poundage|以一英镑收取的佣金, 以磅计费数, 以磅计数的重量
+palliated|减轻( palliate的过去式和过去分词 ); 缓和（痛苦、疾病等）; 辩解; 掩饰（罪过等）
+presentee|受赠者, 被推荐担任圣职者, 谒见者
+patinous|生有绿锈的
+prisoning|监禁, 关押（prison的现在分词形式）
+papal|罗马教皇的, 教皇制度的
+proscript|被排斥的人, 被放逐的人
+portals|[计]门户网站；入口；大门（portal的复数）
+pomiferous|[植]结梨果的, 结梨果状果实的
+pasigraphy|(万国)通用书写符号,同性符文字(如阿拉伯数字1、2、3等)
+phiz|脸, 容貌
+panes|窗格；窗格玻璃；长方格（pane的复数）
+pycnostyle|列柱式(柱边间距为1.5柱径)
+productus|长身贝属；长生蜿
+pellotin|[机] 佩落碱
+preglacial|冰川期前的, 冰河时代前的
+pennants|校旗( pennant的复数形式 ); 锦标旗; <海>长三角旗; 信号旗
+pilotage|领航, 驾驶, 领航技术, 领航费
+patterer|行话；轻快脚步声；急速拍打声 (patter的变形)
+protestant|新教徒
+pups|小狗；幼兽（pup复数）
+panzer|装甲的
+pitahaya|[网络] 火龙果；图片；红龙果
+poured|涌出( pour的过去式和过去分词 ); 倾, 倒; 涌流; 倾泻
+pajamas|睡衣, 宽松裤, 喇叭裤
+pentameters|五步格诗( pentameter的复数形式 )
+pogge|[鱼]八角鱼
+paresthetic|[医] 感觉异常的
+pratfall|屁股着地的摔倒, 丢脸的失误
+pinochle|一种纸牌游戏
+plumula|[医] 胚芽, 细沟(中脑水管上壁)
+pagandom|异教徒世界, 异教徒
+preferment|晋升, 升任, 优先权, 选择, 偏爱
+pulverescent|粉末状的
+propoxyphene|[药]丙氧芬
+pennoncel|小旗
+peplos|(古希腊的)女式长外衣,女式大披肩
+phthisic|肺结核, 肺结核病人
+prance|(马)腾跃, 昂首阔步
+pharyngotomy|[医]咽切开(术)
+pleated|打褶裥的, 起褶的
+philopena|双核坚果
+pitons|(piton 的复数) n. 峻峭的山顶, (登山用的)钢锥
+pyrexial|[医] 发热的
+parabiotic|[医] 联体生活的, 间生态的
+polybutene|[高分子] 聚丁烯；聚异丁烯（润滑油）
+papalize|(使)信奉天主教, (使)教皇制度化
+poleaxed|屠斧；战斧
+parrotlike|鹦鹉般的
+puristically|purism的变形
+predisposing|[医] 素因性的, 造成素因的
+peristylar|peristyle的变形
+polynemoid|马鲅类鱼
+ptelea|[医] 榆橘
+pochote|任何一种爪哇木棉属的乔木植物
+palatal|上腭音
+polyphemus|[希神]波吕斐摩斯(独眼巨人)
+pegmatophyre|伟斑岩
+pyjama|睡衣裤, 宽松裤
+ptilota|翼藻属
+paliform|铲状的; 栅栏状
+posited|假定, 设想, 假设( posit的过去式和过去分词 )
+ptyalism|[医]涎分泌过多, 流涎
+pontificator|教皇; 主教; 高僧
+polemic|争辩的, 好争论的
+presoaks|预浸( presoak的第三人称单数 )
+plating|电镀, 镀层, 金属外表的镀层, 装甲
+platting|制图, 测绘
+paisa|派萨(印度、巴基斯坦、卡塔尔、马斯喀特和阿曼的货币单位, 等于百分之一卢比)
+pluviometer|雨量计
+prohibiting|禁止, 阻止( prohibit的现在分词 )
+photogenic|发光的, 由于光而产生的, 适宜于拍照的, 拍照效果好的, 特别上镜的, 上照的
+potables|饮料( potable的名词复数 )
+plutei|长腕幼虫 (pluteus的变形)
+polyvalent|多价的
+puritanism|清教, 清教主义
+pruritic|痒的
+phytelephas|[网络] 象牙椰属
+perigone|花盖
+perturbation|不安, 扰乱, 紊乱, 烦扰
+pentothal|[药] 喷妥撒（一种麻醉剂）
+postentry|追加记入帐目的项目
+perturbing|使（某人）烦恼, 不安( perturb的现在分词 )
+proglottis|节片
+poignance|[网络] 恶心
+plodders|沉重行走的人, 辛勤工作的人( plodder的复数形式 )
+procellose|[化] 纤维三糖
+pinfeather|(鸟的)新生毛
+pyroscope|高温仪
+pino|正输入-负输出（Positive Input-Negative Output）
+prenasal|前鼻骨
+predominated|占支配地位( predominate的过去式和过去分词 ); 在…中占优势
+preelect|预选, 预先挑选(亦作pre-elect)
+progeria|[医]早衰, 早老, 儿童的早衰症
+prolotherapy|[医] ( 矫形术中的 ) 增生疗法
+playroom|游戏室, 娱乐室
+pudenda|[医] 阴部
+pyrobelonite|钒锰铅矿
+prideful|自傲的
+prerational|前理性的, 在智力发展以前的
+postneuritic|[医] 神经炎后的
+parklike|公园般的
+purfling|镶边; 环饰
+perhapses|或许( perhaps的名词复数 )；（表示不确定）也许；（用于粗略的估计）或许；（表示勉强同意或其实不赞成）也许
+puddles|水坑, （尤指道路上的）雨水坑( puddle的名词复数 )
+perforation|穿孔, 孔眼, 贯穿, 贯通
+proclamatory|公告的, 宣言的, 布告的
+plexure|编织
+parsonsite|斜磷铅铀矿
+peskier|讨厌的；麻烦的 (pesky的变形)
+piaster|比索（埃及、西班牙、墨西哥之硬币单位）
+pinworms|[医]蛲虫
+pirouettes|（芭蕾）皮鲁埃特旋转（竖趾旋转）( pirouette的名词复数 )
+pizzeria|匹萨饼店, 意大利肉饼店
+poisoner|放毒人, 毒死他人者
+postdiluvian|大洪水后的
+pushers|贩毒者( pusher的复数形式 ); 有干劲的人, 咄咄逼人的人
+peignoir|妇女之浴袍
+prosateur|散文作家
+polytype|多种类型的, 多型的
+peculator|挪用公款者, 盗用公款者
+pocketed|[体]运动员被挤在人群里
+pemoline|[化] 匹莫林; 苯异妥英
+pastorali|pastorale的复数形
+pkt|packet 小包; pocket （衣）袋; 套; 袖珍的
+propagandize|宣传, 对...进行宣传
+pistillode|退化雌蕊
+predentary|前齿骨的
+puranic|purana的变形
+prio|奥斯陆国际和平研究所（Peace Research Institute Oslo）；主席单元优先按键
+pelargonidin|天竺葵色素, 花葵素
+pennales|[植]羽纹亚纲
+prowess|英勇, 勇敢, 超凡技术
+pessimum|劣性(指刺激过强或过频)
+puborectalis|[医] 耻骨直肠肌
+pleat|褶, 褶状物
+payee|收款人, 领款人
+parablepsia|[医] 错视
+potentilla|[植]委陵菜
+preconceived|预想的, 先入为主的
+powdery|粉的, 粉状的
+purblind|半盲的, 愚钝的
+polluting|污染；玷污（pollute的ing形式）
+prerenal|[医] 肾前的
+paddleboat|明轮船（等于paddle steamer）
+pamiri|帕米尔人(主要指居住在帕米尔高原的各游牧民族)
+ploughmen|农夫, 犁田者( ploughman的复数形式 )
+peremption|[法] 诉讼驳回
+pathonomia|[医] 疾病规律学, 病律论
+pawnbrokers|当铺老板( pawnbroker的复数形式 )
+pinkoes|有左倾政治思想的人, 左倾分子( pinko的名词复数 )
+polocyte|极体
+pigsney|小眼睛
+polonia|[复]n.波兰裔侨民
+premiership|总理职位, 首相职权, 首相职位, 总理职权
+protozoic|原生动物的
+plateresque|带复杂花叶形装饰的
+plopping|扑通地坠落( plop的现在分词 )
+periscian|(=periscii)四周投影
+pockmark|痘疮, 麻子
+phantoms|鬼怪, 幽灵( phantom的复数形式 )
+palimpsests|(palimpsest 的复数) n. 重写本, 覆画
+pillowing|搁于枕上（pillow的现在分词形式）
+peckhamite|陨紫苏辉石
+preataxic|[医] 共济失调前的
+pantatrophia|全身营养不良, 全身萎 缩
+preheats|预热( preheat的第三人称单数 )
+phyllocyst|[动](无脊椎)叶泡
+pavilions|（公园中的）亭( pavilion的复数形式 ); （公共活动或展览用的）临时建筑物; 临时展出馆; 大型文体馆
+profiteers|投机, 牟求暴利( profiteer的名词复数 )
+palaeobotany|古植物学
+pilea|冷水花属
+phototherapy|光线疗法, 光照疗法
+painterish|[网络] 画家
+plumbagine|石墨
+periungual|[医] 甲周的
+periostitic|[医] 骨膜炎的
+propped|支撑, 支持, 维持( prop的过去式和过去分词 )
+pseudonymity|使用假名, 使用笔名
+pieridine|[昆]粉蝶科的
+pearlstone|珍珠岩
+porringer|小汤碗
+pushover|容易做的工作, 易被劝服的人, 易被击败的人
+pacesetter|定速度者, 榜样, 标兵, 模范
+photodiodes|(photodiode 的第三人称 -s形式) n. 光电二极管
+phosphorite|磷灰石, 磷钙土
+perpetuity|永久, 不朽, 终身职位, 终身任期, 永久使用权
+pinkroot|[植]浅赤根(原产美国东南部)
+prurient|好色的, 渴望的
+planter|种植者, 耕作者, 种植机, 花盆
+periodontic|[医] 牙周的, 牙周膜的
+prevising|预知；预先警告
+pfund|[人名] 芬德
+pithier|简练的, 精辟的, 简洁扼要的( pithy的比较级 )
+paltriest|paltry（微小的）的最高级形式
+pailoo|(=pailou)牌楼
+provinciate|建省
+pigsticker|(用长矛)猎野猪的人, 屠夫, 长刃折刀
+prioress|大女修道院副院长, 小女修道院院长
+polyaxon|多轴突神经细胞
+parvulus|(处方用语)婴儿
+pecked|啄, 啄食, 小口地吃( peck的过去式和过去分词 ); 匆匆地吻
+percentum|百分比
+pugilists|(pugilist 的复数) n. 拳击手
+possesses|有( possess的第三人称单数 ); 具有; 占据; 感觉
+pavia|帕维亚（意大利西北部村镇, 濒提契诺河）
+pial|[解]软膜的
+postcolonial|殖民地时期之后的
+pilleus|[医] 冠, 帽
+plasterboard|石膏灰泥板
+picketboat|雷达哨艇
+paratriptic|[医] 防止耗损的, 防衰的; 防衰剂
+panplegia|[医]全麻痹,全瘫
+plimsol|<英>橡皮底帆布鞋[缘此鞋橡皮底线形似Plimsoll line]
+politick|进行政治活动, 谈论政治
+pygalgia|[医] 臀痛
+plagioclase|斜长岩
+paranuclein|核仁素, 拟核蛋白
+pyronyxis|火针术
+proceeder|proceed的变形
+postnate|[古]后起的, 后发展的
+pebblier|pebbly（多卵石的）的变形
+pentahalide|五卤化物
+presternum|(哺乳动物的)胸骨柄
+poisonings|中毒
+puppetlike|puppet的变形
+perruquier|[法]假发师, 理发师
+pulpitry|布道,说教
+preinfection|感染前期
+postparietal|[动]后顶骨
+penalising|(penalise 的现在分词) vt. 对...处以刑罚/刑事惩罚, 惩罚, 处罚, 使处于严重不利地位
+pullicat|大手帕
+parkland|公用场地；有树丛的开阔草地
+pipage|以管输送, 输送管, 输送费, 管道网
+phototaxis|趋光性
+playlets|小戏；短剧
+precipitance|急促, 轻率
+proportioner|配合加料器[漏斗], 比例调节器, 定量器
+pleurostict|上气门式
+promulging|发布
+primulales|报春花目
+panneuritis|多神经炎, 全身神经炎
+platonesque|[网络] 柏拉图克斯
+pinkey|带淡红色的
+putatively|推定地
+providential|天意的, 根据神意的, 天佑的, 幸运的
+peristomium|围口节(环节动物)
+podetium|柄形隆起, 柱体, 子囊果柄
+polyhidrosis|[医]多汗(症)
+prongbuck|[动物]南非小羚羊
+paramedian|正中旁的,靠近中央的
+playacted|做作, 演戏, 假装( playact的过去式和过去分词 )
+pun|双关语, 俏皮话
+pleasureless|不快乐的,无乐趣的
+pendentive|穹隅
+peopler|移居者；居民；殖民者
+palmistry|手相术
+padres|教士, <俚>随军牧师( padre的复数形式 )
+preterminal|死亡前发生的
+puncturation|[医]穿刺（术）
+puckerer|pucker的变形
+periwigged|戴假发的
+pegged|用夹子或钉子固定( peg的过去式和过去分词 ); 使固定在某水平
+pericementum|[解]牙周膜
+psychoid|心理活力
+peony|牡丹(花), 芍药(花)
+peeks|偷看, 窥视( peek的名词复数 )
+plicated|[医] 有襞的, 折襞的
+peptonize|使胨化
+planetal|[网络] 普拉内塔尔
+pigeons|杂波；鸽子（pigeon的复数）
+patricio|(Patricio)人名；(西、葡)帕特里西奥
+photoproduct|[化]光生产物,光化产品
+polystichum|[植]耳蕨
+propane|丙烷
+pocking|(=pitting, blister)点蚀, 局部腐蚀,蚀斑,锈蚀, 蚀孔, 蚀痕
+planosol|[地]黏盘土
+pfd|程序流程图（Process Flow Diagram）；主飞行显示（Primary Flight Display）；个人漂浮设备（Personal Flotation Device）
+phyllotaxy|(=phyllotaxis)[植]叶序
+pharmacol|pharmacology 药物学
+prates|（古时用语）唠叨, 啰唆( prate的第三人称单数 )
+puppylike|puppy的变形
+pygopodidae|鳞脚蜥科
+presbyterate|长老的职位, 长老的职权
+presexual|性发育或成熟以前的
+pule|呜咽, 低声啜泣, 低声哭泣
+pneumaticity|[生]有气腔
+patriciate|贵族身份, 贵族阶级, 贵族地位
+poulp|章鱼
+perishingly|厉害地, 讨厌地
+psithyrus|[网络] 拟熊蜂属；拟熊蜂亚属；拟熊蜂种
+pannel|鞍垫；鹰胃
+pyrogallol|[化]焦棓酸,焦酚(亦作pyrogallol acid)
+palpably|摸得出, 可触知, 明显可知, 容易感觉到, 易用感官感知
+proboscidian|长鼻类的
+provocant|激怒, 挑拨, 煽动, 惹起, 驱使
+postbags|邮袋( postbag的复数形式 )
+pistachios|(pistachio 的复数) n. 阿月浑子树, 阿月浑子果实, 淡草绿色
+pepsi|百事可乐（一种饮料的商标名称）
+petronel|(15-17世纪的)手枪, 火枪(一种枪筒粗的、卡宾枪似的武器)
+purveyor|承办伙食者, 承办商人, 征发官员
+podagra|足痛风, 痛风
+pulsatory|能脉动的, 跳动的, 能跳动的
+prelacies|高级教士之职, 主教( prelacy的名词复数 )
+pansies|三色紫罗兰, <俚>脂粉气男子, 同性恋男子( pansy的名词复数 )
+punkier|(punky 的比较级) adj. 含火绒（或朽木）的; 松软的; 有弹性的; 闷烧的
+pejoration|恶化, 堕落, 语义的转贬
+prediluvian|洪积前的
+pimento|西班牙甘椒, 甘椒树
+peritrochoid|外摆线圆
+pettifogging|讼棍的, 骗人的, 诡计多端的, 挑剔的, 诡辩的, 琐碎的, 微不足道的
+prohibitor|禁止者, 阻止者
+piedmontese|(意大利一行政区)皮埃蒙特[人,语]的
+pyritic|硫化铁矿的
+pagoda|宝塔
+psilotaceae|[网络] 松叶蕨科；松叶兰科
+proconsular|总督的
+pythogenesis|腐生
+pontoon|浮舟, 浮筒, 浮码头
+pseudosalt|[化]假盐
+pocosin|(美国东南部干草原中的)浅沼泽
+paramyotonia|肌强直症
+pyroxenoid|似辉石
+pinckneya|[医] 苦疟树属
+phosphoreted|含磷的
+positrons|(positron 的复数) n. 正电子
+phoenicite|红铬铅矿
+participles|<语>分词( participle的复数形式 )
+philtres|(philtre 的复数) n. 春药, 灵丹妙药
+pulsed|脉冲的；跳动的；脉冲调制的
+psychrophyte|高山寒土植物
+puerpera|产妇
+pageant|盛会, 游行, 虚饰, 露天表演
+prized|被看作最有价值的
+pointiest|有尖头的, 尖的( pointy的最高级 )
+potstone|[矿](古时用以制作家用器皿的)粗皂石,不纯块滑石
+prochoos|洗手瓶
+punched|穿孔, 无孔的
+possibilism|可能派信条( 或观点) , 可能主义
+presbyope|老光者, 远视者, 老光眼者
+pushbutton|按钮
+proofer|印校样的人, 发面工人, 发面机
+protophloem|[植]原生韧皮部
+phylloidal|叶状的
+perfectas|<美><加>（赛马或跑狗中的）正序连赢( perfecta的名词复数 )
+processable|适合加工(或处理)的, 可加工(或处理) 的
+pneumococcus|肺炎球菌
+paramitome|丝间质, 透明质, 副原生质网
+popish|天主教的
+petalite|[地]透锂长石
+prattle|小孩般说话, 闲聊, 胡说
+photechy|[医] 辐射感应性
+plowed|耕( plow的过去式和过去分词 ); 犁耕; 费力穿过
+psychosexual|[医] 精神性欲的
+paddled|涉水( paddle的过去式和过去分词 ); 趟水; 用桨划船; 用戒尺打（孩子）
+parleyed|谈判；会谈
+pneumothorax|气胸
+pikeblenny|[医]梭？
+pteridosperm|[植]种子蕨
+panicky|恐慌的, 惊慌失措的
+prosit|int. <拉> 恭喜, 祝成功, 祝健康
+perimorph|[矿](包裹另一种矿物的)被壳矿物,包被矿物
+pitied|同情, 怜悯( pity的过去式和过去分词 ); 觉得…可鄙
+periportal|[医] 门静脉周的
+phooey|interj. 呸、啐(表示轻视、厌恶)
+psilotum|[网络] 松叶蕨属；松叶蕨的标本馆；裸蕨属
+preexamine|预试[考], 预先检查
+pigman|[人名] 皮格曼
+polythelia|[医] 多乳头[畸形]
+profundity|深度, 深奥, 深刻, 深厚
+polypeptidic|polypeptide的变形
+perula|[医]芽鳞
+pelodytidae|钻泥蟾科
+propjet|涡轮螺旋桨发动机, 涡轮螺旋桨式飞机
+postnotum|后背板
+prototrophy|原养型
+pulmonaria|有肺类
+pantalettes|宽松长裤, 灯笼裤
+plumy|有羽毛的, 羽毛似的, 用羽毛装饰的
+proroguing|使（议会）休会( prorogue的现在分词 )
+pillowy|枕头般的, 柔软的
+pectins|(pectin 的复数) n. 果胶
+promittor|许愿星
+pyrosmalite|[矿]热臭石
+pandemics|（全国或全球性）流行病, 大流行病( pandemic的复数形式 )
+presets|预先布置( preset的第三人称单数 ); 事先调整; 预先决定; 事先安排
+pottiest|傻气的；微不足道的；着迷的；势利的 (potty的变形)
+pacemaker|带步人, 标兵, 起搏器
+persorption|[机] 吸混作用
+pimped|拉皮条( pimp的过去式和过去分词 )
+pelecypoda|[医] 斧足类
+porc|Peralta Oaks Research Center 佩拉尔塔橡木研究中心; porcelain 陶瓷，瓷（的）
+peewit|(=pewit)田凫, 田凫的鸣声
+phytomer|[植]植物繁殖单位(如植物茎上的节等)
+pozzuolana|火山灰(可用作水泥原料)
+pikes|（昔日士兵用的）矛( pike的复数形式 ); 梭鱼, 狗鱼
+preachily|preachy的变形
+parcels|包裹( parcel的名词复数 ); 一块地
+pursuits|追赶( pursuit的复数形式 ); 工作; 消遣; 嗜好
+peregrinism|外来(词语), 模仿外语的表达法
+pirozhki|[复]n.=piroshki
+pugilism|拳击
+palank|[人名] 帕兰克
+pensived|哀思的；沉思的；忧郁的；令人伤感的
+paniculate|有圆锥花序的
+parkinsonism|震颤(性)麻痹, 帕金森神经机能障碍症
+peneplane|准平原
+proal|[医] 向前运动的
+pencilled|用铅笔写的, 用画笔画的, 有彩色细纹的, 成束的
+progeniture|子孙, 后裔
+pentavalency|五价
+pornography|色情描写, 黄色书刊, 色情画, 色情照片, 色情文学
+pluggers|(plugger 的复数) n. 填塞物, 苦干的人, 宣传员
+prosecutes|检举、告发某人( prosecute的第三人称单数 ); 对某人提起公诉; 继续从事（某事物）; 担任控方律师
+pentathlete|参加五项运动的运动员
+palindromes|回文（指顺读和倒读都一样的词语）( palindrome的复数形式 )
+peases|豌豆
+playbills|戏单（playbill的复数）
+pilobolus|[医]水玉霉属
+playmates|一起玩耍的朋友, 游戏的伙伴( playmate的复数形式 )
+psychotoxic|(药等)对心理(或个性)有害的, 能引起精神病的
+pudginess|pudgy的变形
+pitanga|[地名] [巴西] 皮坦加
+pseudoangina|[医]=pseudangina
+pinky|带淡红色的, 比较激进的
+pebbliest|多卵石的；有卵石花纹的 (pebbly的变形)
+petaliform|花瓣状的
+pupilarity|[律]童年期
+porphyrine|紫菜碱
+preessential|最本质的, 首要的
+pulmonic|肺的, 肺炎的
+prolificness|prolific的变形
+pegbox|(弦乐器的)弦轴箱,栓斗
+pronumber|累进数
+philanthropy|慈善, 仁慈, 博爱, 慈善事业, 慈善机构(团体)
+polyvalency|[医]多价（性）
+propionyl|[化] 丙酰
+prefectural|县的
+phototonus|感光性, 光敏性, 光(性)紧张
+phthalein|[化]酞(亦作phthaleine)
+powerhouses|强大的集团[组织]( powerhouse的复数形式 ); 精力充沛的人, 身强力壮的人
+pilch|尿布垫
+physiatrics|物理疗法
+photologist|光学家
+pholad|海笋
+pargana|=pergunnah[变体]
+perihernial|[医] 疝周的
+pyrrhotine|[化] 磁黄铁矿
+patrilineal|父系的, 父子相传的
+pinchfist|吝啬鬼, 守财奴
+prescore|[电影]将(对话、音乐及音响效果等)作先期录音
+peroxide|过氧化物
+prorating|比例分配, 分派( prorate的现在分词 )
+penalised|惩罚, 处罚；使…处于严重不利地位
+premiate|<罕>给…授奖,奖励
+pleometrosis|多蚁后
+pyramidally|渐增地, 金字塔形地
+poaceae|[网络] 禾本科；早熟禾科；早熟禾本科
+pillaged|抢劫, 掠夺( pillage的过去式和过去分词 )
+phantoscope|万花筒
+prolabium|唇缘, 唇红缘
+procedendo|[法] 强制判决令, 发还再审令
+panegyrist|撰述赞词的人, 致颂词者
+pyroligneous|焦木的, 干馏木材而得
+patria|[法] 陪审团, 邻人, 近邻
+procreating|生（儿、女）, 生育, 生殖( procreate的现在分词 )
+pedipalps|(pedipalp 的复数) [医] 脚须(昆虫)
+proctoptoma|[医] 直肠脱垂, 脱肛
+pavis|(中世纪的防护全身的)大盾
+plaisters|(plaister 的复数) n.& vt.<废>=plaster
+penury|贫困, 贫穷, 拮据, 馈乏
+postotic|听泡后方的
+pyrethroid|[化]拟除虫菊酯,合成除虫菊酯
+phytomonad|植鞭目的鞭毛虫
+paronomasia|双关语, 俏皮话, 文字游戏
+potamic|河流的, 江河的
+petroleur|<法> n.用火油纵火的男子
+param|[化] 氰胍
+prognathism|[解]凸颌,凸颚
+pathosis|病态
+pinger|声脉冲发送器, 铃声定时器
+pneumatogram|呼吸描记图
+proavis|先鸟
+polysepalous|[植]离萼(片)的,多萼(片)的
+palleting|扁平木具(尤指瓦工用的抹子、刮铲等)；= palette (1.)
+piragua|独木舟, 双桅平底船
+palliator|掩饰罪过的人
+plowback|<主美> = ploughback
+poetical|诗的, 用诗写成的, 韵文的, 理想化了的
+pampangan|[网络] 邦板牙语；卡片片甘语；邦板牙人
+plancier|楼梯底面
+practicalize|使实用；使可行
+pugilist|拳击手
+potbelly|大肚子, 大肚子的人, 圆火炉
+perfidies|背信弃义, 背叛, 出卖( perfidy的名词复数 )
+prowled|小心翼翼地移动( prowl的过去式和过去分词 ); 徘徊; （动物）潜行（为捕猎等）; 潜行（图谋不轨等）
+punctatim|<拉>adv.逐点地
+pugil|[医] 一撮, 一把
+plasmoquin|[化] 帕马喹; 扑疟喹啉
+princelings|(princeling 的复数) n. 小诸侯, 小公子
+pedality|[网络] 结构性
+punishing|令人精疲力竭的, 消耗体力的
+pyongyang|平壤(朝鲜民主主义人民共和国首都)
+puffier|膨胀的, 肿胀的( puffy的比较级 )
+petasites|[网络] 蜂斗菜属；款冬属；蜂斗叶属
+pigeongram|传书鸽传送的信
+pacesetters|(pacesetter 的复数) n. 定速度者, 榜样, 标兵, 模范
+parablast|副胚层
+periodontium|[解]牙周组织(尤指牙周膜)
+perimetry|[医]视野测量
+phoning|打电话给（phone的ing形式）
+planarian|涡虫, 真涡虫
+preserver|保护者, 保存者, 防腐物, 防护物
+pertussis|百日咳
+peiping|北平
+pericarp|果皮
+phosphatide|[生化]磷脂
+parrying|挡开, 避开, 闪开（打击、武器）( parry的现在分词 )
+pasteurian|[网络] 巴斯德人
+plantling|幼植物, 植物苗, 籽苗
+pyrogenetic|[医] 热发生的
+preadult|成年前的
+pastille|香锭, 润喉糖锭
+prospering|畅茂
+pedaller|[网络] 左手专用瑞士军刀
+pillorying|使受公众嘲笑( pillory的现在分词 ); 将…示众; <史>给…上颈手枷; 处…以枷刑
+perpetuates|使永存（ perpetuate的第三人称 ）; 使持续
+patas|Publications Automated Task Analysis System 出版物自动工作分析系统
+productid|[网络] 产品编号；产品号；取得软件序列号
+pikeperch|[鱼]鰤鲈, 梭鲈
+prolicidal|[法] 杀婴的, 堕胎的
+pyracene|匹拉省
+photolyze|[化]vt.用光分解
+palynologist|孢粉学家
+pendragon|古代不列颠或威尔士的王侯,首领
+protestants|新教徒（指16世纪脱离罗马天主教之基督教团体或后来由其形成的教派成员）( Protestant的复数形式 )
+pseudopodium|假足, 虚足
+peronate|被厚绒毛的
+planished|压平；打平；（金属等的）精轧
+popgun|玩具枪
+pooler|[人名] 普勒
+parasiticide|杀寄生物药, 驱虫剂
+phlorol|[化] 邻乙基苯酚
+paramorphia|[医] 形态异常
+passerines|(passerine 的复数) a. 雀形目的
+pinhook|针钩
+plie|<法>下蹲，屈膝
+primmer|循规蹈矩的( prim的比较级 ); 整洁的; （人）一本正经
+piracies|海上抢劫( piracy的名词复数 ); 盗版行为, 非法复制
+pilfered|偷窃（小东西）, 小偷( pilfer的过去式和过去分词 ); 偷窃（一般指小偷小摸）
+piacular|赎罪的, 补过的, 有罪的, 邪恶的
+praedium|[法] 土地, 不动产
+pieridae|粉蝶科
+pasteurise|用巴氏法对...消毒/灭菌, 用加热法将...消毒, 对...进行消毒/灭菌
+poroscopy|毛孔印记检查
+perfused|灌注( perfuse的过去式和过去分词 )
+paraboloid|抛物面
+papoose|(北美土人的)幼儿, 婴儿
+planetoidal|planetoid的变形
+pekoe|香红茶, 白毫茶
+pascal|[计] PASCAL语言
+phasmids|(phasmid 的复数) 尾觉器
+procacity|鲁莽；急躁；易怒, 好动肝火
+paraphonia|[医]声音复调, 声音异变
+prominences|织物中凸起部分
+protozoon|-zoa 原生动物
+portrayals|画像( portrayal的复数形式 ); 描述; 描写; 描摹
+palatogram|腭位图
+pogonotrophy|蓄须
+piastres|(piastre 的复数) [经] 披亚士特
+proleptic|预期的, 预辩(法)的
+partake|参与, 分担, 分享
+polygenous|有许多种类或成分组成的
+postpositive|置于词后的, 后缀的, 与前词结合的, 附加于另一词的
+polianite|黝锰矿; 软锰矿
+presbytery|长老住宅, 长老, 区会, 教区, 司祭席
+permute|变更, 交换, 置换, 重新排列
+protocercal|原尾
+palmiped|蹼足的
+psammophyte|[植]沙生植物
+pretensions|自称( pretension的复数形式 ); 自命不凡; 要求; 权力
+psilosis|脱发症
+popover|膨松饼
+principi|(Principi)人名；(意)普林奇皮
+philtred|[药] 春药；催情药（等于philter）
+preemptor|获优先购买权者,先取者
+porraceous|葱绿的
+postnuptial|结婚后的
+paralogia|[医]论理倒错
+popularising|(popularise 的现在分词) vt.vi. 使通俗化, 使受欢迎, 使大众化, 使普及, 宣传, 推广
+peavy|钩棍
+pinhold|孔
+pygidium|[动]尾板, 臀板
+partis|[医]（拉）部分，局部
+postponed|& vi. 延期, 缓办, （使）延迟
+pretended|假装的；虚假的
+probes|探针( probe的名词复数 ); 探索; 探头; 探测仪
+protease|朊酶, 蛋白酶
+pentactinal|五放的
+parabola|抛物线
+prevails|获胜( prevail的第三人称单数 ); 盛行; 说服; （ 思想、观点等）被接受
+paroxazine|[化] 对┭嗪; 1,4-氧氮苯; 1,4-氧氮杂苯
+pleasurable|快乐的, 愉快的, 舒适的, 心情舒畅的
+profiteering|谋取暴利, 投机倒把
+pelican|鹈鹕鸟, 伽蓝鸟
+peridiole|[植]小包
+premundane|创世前的
+precondemn|预定...有罪
+penpusher|公务员; 办公室工作人员; 做笔头工作的人
+patrolman|巡视者, 巡逻者, 巡警
+ponton|平底船, 浮筒
+prickling|针刺痛；针扎似的痛
+planont|[生]活动孢子
+phytotomy|植物解剖学
+pachinko|弹球盘(日本一种类似于弹球的赌博游戏)
+pentahedra|pentahedron的复数
+preinvasive|[医](病变细胞等)侵袭前的,蔓延前的
+pelmatic|[医] 足底的
+poinciana|黄蝴蝶属 (Poinciana)植物
+pimply|有丘疹的, 多脓疱的
+presphenoid|[医] 蝶骨前部
+piously|虔诚地
+prothrombin|凝血酶原
+prickleback|[医]剑齿？
+pluriaxial|多轴的,[植]在次生枝上开花的
+pileous|有毛的, 多毛的
+paunches|腹, 瘤胃, 大肚子( paunch的复数形式 )
+primigenial|原始型的
+pythiaceae|[网络] 腐霉科；腐霉菌科；草苗立炫f菌科
+pelted|（连续地）投掷( pelt的过去式和过去分词 ); 连续抨击; 攻击; 剥去…的皮
+pediatrist|儿科医师
+paleography|古文书, 古文书学
+prolapse|脱出, 脱垂
+physopoda|【昆虫】缨翅目[亦作 Thysanoptera]
+picromerite|[矿]软钾镁矾
+periacinal|[医] 腺泡周的
+pertusion|穿孔
+princock|<废> 花花公子, 纨袴子弟, 自高自大的人
+pouffes|大坐垫
+pyroxenes|(pyroxene 的复数) n.[矿]辉石
+parataxis|并列, 并列结构
+parcae|[复]n.[罗神]命运三女神
+participable|可参与的,可分享的
+pursiness|肥胖, 喘气
+psychiater|精神病医师, 研究精神病之学者
+pepperbox|胡椒粉盒, 急性子(的人)
+preluder|前奏；序幕；前奏曲 (prelude的变形)
+potbellied|大腹便便的, 大肚子的
+polyisoprene|[化]聚异戊二烯
+poshest|精美的( posh的最高级 ); 豪华的; 漂亮的; 时髦的
+patrioteer|打着爱国的幌子而谋私利者
+polka|波尔卡舞, 女用紧身短上衣
+preservable|可保存的, 可保护的, 可保藏的
+preggers|<英俚>怀孕的,怀胎的
+prologize|作序言, 作开场白, 作序诗
+parabomb|伞投炸弹,自动开伞空投器,带伞空投容器
+pirouette|脚尖旋转, 快速旋转
+pica|异食癖, 鹊, 12点活字
+preamble|引言, 序文, 前言
+pickaninny|黑人小孩, 澳大利亚土著小孩
+preinform|预先通知,预先告知,使预先了解
+peleus|[希神]珀琉斯(色萨利地方密尔弥冬人的国王,Achilles之父)
+phantasmic|幻影的, 玄虚的, 幽灵的
+parochialize|使地方化, 使眼界狭小
+prickles|（动植物的）刺, 棘( prickle的名词复数 ); 刺痛感
+predigesting|预先消化, 简化( predigest的现在分词 )
+potawatomi|帕塔瓦米语；美国帕塔瓦米族印第安人
+piazzas|广场, 市场( piazza的名词复数 )
+panhellenism|泛希腊主义
+primely|很好地
+pand|panderazo (Spanish=blow struck with a tambourine) （西班牙语）用铃鼓打出节奏; panderetero (Spanish=tambourine maker or player) （西班牙语）铃鼓制造者; pandero (Spanish=tambourine) （西班牙语）小手鼓; 帐沿
+pantomimical|pantomime的变形
+picturephone|电视电话,可视电话[商标名]
+pomaded|涂以润发油( pomade的过去式和过去分词 )
+porphyrize|把…粉碎,把…研细
+polygonia|[网络] 钩蛱蝶属
+platycnemia|扁胫骨
+prorogues|使（议会）休会( prorogue的第三人称单数 )
+protean|千变万化的, 变化不定的, (海神)普罗透斯的
+punchers|(puncher 的复数) n. 电报凿孔机, 冲床工, 钻床工, (非正式)报务员, 牧人
+pufferies|吹捧, 鼓吹, 吹捧的广告( puffery的名词复数 )
+provoking|令人生气的, 使人愤怒的, 难熬的
+psychoneural|[医]精神神经的, 心理神经的
+puzzlingly|使迷惑地, 莫明其妙地
+prewash|预洗
+perfuses|灌注；洒遍；散布
+prewarming|预热, 预加温
+plegaphonia|叩喉听诊法
+parentage|出身, 血统, 门第, 起源
+parroted|机械地重复( parrot的过去式和过去分词 ); 鹦鹉学舌
+priors|（大修道院）副院长( prior的复数形式 ); （隐修院）会长; （小隐修院）上司; （中世纪佛罗伦萨及其他意大利共和国的）最高执政官
+pelobatidae|锄足蟾科
+pouf|蒲团, 厚坐垫
+phyllium|[网络] 如叶
+pinnigrade|& n.用鳍(或鳍状肢)行走的(动物)
+pileum|鸟冠(指鸟类头顶)
+posturer|装腔作势的人, 擅长作出怪样的卖艺人
+physicals|[经] 实际货物, 现货
+polyphylly|畸形叶态
+peacocky|孔雀似的, 炫耀的, 虚荣的, 色彩艳丽的
+paloma|百乐满（全球最大气体热水炉生产商）；帕洛玛（女子名）
+phenose|酚糖
+pussycat|猫
+provenances|(provenance 的复数) n. 起源, 出处
+postillion|左马驭者
+psychometry|心理测量学, 触物占卜术
+persistency|坚持, 固执, 持续, 持久性, 存留, 余辉的保留时间
+pithing|脑脊髓剌毁法
+propulsive|推进的, 有推进力的
+plenipotence|全权,全部权力
+phenicate|用酚处理
+provokes|激起( provoke的第三人称单数 ); 惹怒; 引起; 引发
+pederast|[法] 鸡奸者
+paillasse|草铺, 草褥
+previse|预知, 预先警告
+psammosere|海滨演替系列, 沙生演替系列
+parcook|煮成半熟的, 预煮的, 烫煮的
+paramylum|[机] 副淀粉
+polyergus|多职蚁属
+palliums|大披肩, 大脑皮层( pallium的名词复数 )
+pterygium|[医]翼状胬肉
+peribulbar|[医] 眼球周的
+pentacontane|五十烷
+prothyl|玄质, 始质
+puna|山间高原
+palped|（昆虫等的）触须（等于palpus）
+photopia|光适应
+pulseless|无脉动的, 无生气的
+poseur|装模作样的人；装腔作势的人
+pseudoacacia|刺槐
+pitprop|坑木, 坑道支柱
+paradisaic|天堂的,天堂似的,乐园的
+ployment|由横队变为纵队
+phalanstery|空想的共产村庄, 共同居住之团体或其共居之房屋
+priding|以…而自豪, 得意于…( pride的现在分词 ); 自豪, 骄傲, 得意
+polycystic|[医] 多囊的
+parametrical|[数][物][晶]参(变) 数的,参(变)量的
+pediococcus|[微]足球菌,小球菌
+prototroch|前毛轮
+paraprotein|[生化]异常蛋白,病变蛋白,副蛋白
+prodentine|前牙本质
+pompeii|庞培(意大利古城)
+pingos|(pingo 的复数) n. 冰核丘
+parentheses|pl. 圆括号, 插入语, 插曲
+polygenic|[医] 多基因的(遗传特征)
+pericarpic|果皮的
+pachymeter|[医] 厚度测量器
+pelitic|[地质]泥质岩的
+plastering|涂抹灰泥, 石膏工艺, 灰泥墙面, 惨败
+passers|过路人；旅客；考试合格者
+pacifical|<古>=pacific
+prognosis|预测, 预后
+propupa|前蛹
+packsack|背包
+piffling|琐碎的, 不足道的
+pedagogics|教育学, 教师职业, 教学法
+presswork|印刷作业, 印刷品
+pistillody|心皮化, 雌蕊化
+patronesses|(patroness 的复数) n. 女性保护人, 女资助人, 女主顾
+pogo|弹簧单高跷
+pretracheal|[医] 气管前的

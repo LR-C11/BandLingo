@@ -1,0 +1,1375 @@
+world|世界
+water|水
+want|想要
+work|工作
+write|写
+week|星期
+winter|冬天
+white|白色
+word|单词
+website|网站
+window|窗户
+weak|弱的
+wrong|错误的
+wish|愿望
+worried|担心的
+wise|明智的
+wavelength|波长
+weather|天气
+wetland|湿地
+washing|洗衣机
+warranty|保修
+wait|等待
+wake|醒来
+walk|行走
+warn|警告
+wash|清洗
+waste|浪费
+wear|穿戴
+weigh|称重
+welcome|欢迎
+win|获胜
+withdraw|撤回
+worry|担心
+warm|温暖的
+wealthy|富有的
+weekly|每周的
+weighed|称重的
+whole|整个的
+wide|宽的
+willing|愿意的
+wonderful|精彩的
+wooden|木制的
+worth|值得的
+worthy|有价值的
+waiter|服务员
+writer|作家
+wolf|狼
+waterfall|瀑布
+wood|树林
+watch|手表
+wife|妻子
+weekend|周末
+wealth|财富
+wisdom|智慧
+wade|跋涉
+wag|摇摆
+wander|漫游
+wave|挥手
+weave|编织
+wed|结婚
+weep|哭泣
+whisper|低语
+whistle|吹口哨
+whiten|使变白
+wind|缠绕
+wipe|擦
+wire|接线
+withstand|经受
+wobble|摇摆
+wonder|想知道
+worship|崇拜
+wound|受伤
+wrap|包裹
+wreck|破坏
+wrestle|摔跤
+wring|拧
+working|工作中的
+well|好
+warmth|温暖
+warmly|温暖地
+width|宽度
+widen|加宽
+widely|广泛地
+wisely|明智地
+waitingly|等待地
+walkably|可行走地
+wantedly|想要地
+warningly|警告地
+washably|可洗地
+winningly|获胜地
+wishedly|希望地
+wonderfully|精彩地
+workingly|工作地
+worriedly|担心地
+writtenly|书面地
+waiting|等待
+walkable|可行走的
+wanted|被通缉的
+warning|警告
+washable|可洗的
+winning|获胜的
+wished|希望的
+writing|写作
+written|书面的
+witnessable|可见证的
+witnessably|可见证地
+weatherwise|天气方面地
+witness|见证
+weathered|风化的
+warsaw|华沙
+warsaws|华沙
+warsawly|华沙地
+washington|华盛顿
+washingtons|华盛顿
+washingtonly|华盛顿地
+wellington|惠灵顿
+wellingtons|惠灵顿
+wellingtonly|惠灵顿地
+winner|获胜者
+wrestling|摔跤
+weightlifting|举重
+wellness|健康
+workforce|劳动力
+worker|工人
+wifi|无线网络
+wage|工资
+warehouse|仓库
+workshop|车间
+weapon|武器
+wool|羊毛
+wink|使眼色
+weight|重量
+weaken|削弱
+way|道路
+wax|蜡
+wardrobe|衣柜
+wallet|皮夹
+warrant|令状
+welfare|福利
+whereas|然而
+wheat|小麦
+wicked|邪恶的
+widespread|广泛的
+widow|寡妇
+wit|机智
+worthwhile|值得的
+workplace|工作场所
+wants|想要
+was|是
+worked|工作
+wild|野生的
+why|为什么
+would|将
+whatever|无论什么
+while|当…的时候
+woman|成年女子
+within|在……之内
+won|赢得；获得
+were|是
+what|什么
+which|哪一个
+where|在哪里
+with|和…在一起
+weeks|星期
+websites|网站
+without|没有
+walking|散步
+who|谁
+workers|工人
+women|女人
+whether|是否
+when|什么时候
+words|单词
+we|我们
+ways|方式
+went|去
+will|将
+wildfire|野火
+workload|工作量
+worldwide|世界范围地
+wildlife|野生动物
+wishful|一厢情愿的
+worldly|世间的
+woodpecker|啄木鸟
+watchful|注意的
+wrinkle|皱纹 vt. 使起皱纹
+weaver|织布工
+warfare|战争
+waver|犹豫不决
+wedge|楔 v. 楔入
+web|网
+watt|瓦（特）
+whilst|同时
+watery|充满水的
+wholesome|对健康有益的
+whitewash|石灰水 v. 粉饰
+ware|物品
+whisker|髯
+waitress|女侍者
+wrench|拧
+wharf|码头
+willow|柳树
+wasteful|浪费的
+wither|枯萎
+whereby|靠什么
+winding|蜿蜒曲折的路径 adj. 蜿蜒曲折的
+whoever|究竟是谁
+whale|鲸
+witty|机智的
+wield|挥（剑）
+wasp|黄蜂
+walnut|核桃
+workpiece|工（作）件
+windmill|风车
+windy|多风的
+waggon|敞蓬车厢
+wretched|不幸的
+watertight|不漏水的
+ward|病房
+woe|悲哀
+wrath|暴怒
+willful|故意的
+withhold|vt. 拒绝
+weary|vi. 厌烦
+weird|古怪的
+whirl|vi. 旋转
+waterproof|防水的
+worm|虫
+wall|墙壁
+worst|最差的
+west|西
+western|西方的
+wholly|完全地
+worse|更坏的
+whatsoever|无论什么
+wagon|货车
+wedding|婚礼
+whichever|任何一个
+wine|酒
+weed|除草
+waist|腰
+witch|巫婆
+whisky|威士忌酒 adj. 威士忌酒的
+wet|[气象][物] 潮湿的
+wheel|车轮
+wreath|花冠
+weld|焊接
+wrist|手腕
+whip|抽打
+weekday|平日
+waken|醒
+whiskey|威士忌酒
+whose|谁的
+whig|辉格党
+warmer|使热的人
+wildebeest|羚羊(其中一种)
+wing|翅膀 v. 飞过
+warren|养兔场
+watercolor|水彩颜料
+whom|谁
+warbler|鸣鸟
+workweek|一星期工作时间
+westward|西方a&ad西方的
+wherever|无论在哪里 adv. 无论什么地方
+wartime|战时
+wilderness|荒野
+woodcut|木刻
+worksheet|工作记录表
+wale|条痕
+waterway|水路
+woody|多树木的
+warrior|勇士
+weakness|虚弱
+whenever|无论何时
+watercraft|船只
+waterpower|水力(水力发电)
+wallpaper|墙纸
+warp|弯曲
+woolen|毛线的 n. 毛制品
+woodworker|木工
+workday|工作日
+withdrawal|收回
+westerner|美国之西部的人
+wholesale|批发 adj. 大规模的
+worshipper|礼拜者
+watercourses|水流
+wary|机警的
+worsen|恶化
+waterfront|水边地码头区
+wispy|纤细的
+whittle|切
+wingspan|[空]翼展
+walrus|[动]海象
+weightlessness|无重状态
+welland|韦兰（加拿大东南部港口城市）
+weft|[纺]织物
+wren|[动] 鹪鹩
+weldon|韦尔登（男子名）
+wan|苍白的
+waterfowl|水鸟
+walker|徒步者
+wireless|无线的 n. 无线
+watershed|分水岭
+woodwind|木管乐器
+whence|从何处
+willingness|乐意
+wad|填料 vt填塞
+weakly|虚弱地
+wand|魔杖
+welt|鞭痕
+wintertime|冬
+waling|横撑
+windswept|风刮的
+workmanship|手艺
+woad|[植]菘蓝
+watcher|监票员
+waster|挥霍者
+wildcatter|投机份子
+waxes|蜡
+wick|蜡烛心
+wicker|柳条 a柳条制的
+wildflower|野花
+womanhood|女人
+writhe|翻滚
+willingly|自动地
+weightily|沉重地
+weedy|杂草多的
+wee|很少的
+worthiness|价值
+workable|可经营的
+wirephoto|有线传真
+wok|锅
+wingless|无翼的
+wrapper|包装材料
+woodblock|木板 〈印〉木版
+waterworks|自来水厂
+washingtonian|/a(美国)华盛顿市(或州)人
+waxy|象蜡的
+wearer|穿用者
+waterborne|水上的
+wearability|耐磨性
+wholesaler|批发商
+woodcarving|木雕
+woodlot|植林地(尤指附属林场地)
+woodworking|木工艺
+wavy|波状的
+waterside|n& adj. 水边(的)
+woodcutting|木雕的 n. 伐木
+wanderer|流浪者
+wold|无树木的山地
+whim|一时的兴致
+wretch|不幸的人
+wanna|想要
+wintry|冬天的
+waggle|摆动
+well-heeled|富有的
+wane|衰退
+weathering|侵蚀
+watercourse|水道
+wedge-shaped|楔形的
+w|[计] 等待, 写, 字
+windows|微软公司生产的“视窗”操作系统
+war|战争, 战争状态, 战术, 军事, 冲突, 斗争, 竞争
+works|工程, 工厂, 工事, 活动部件, 机件, 著作, 作品, 善行, 德行
+wednesday|星期三
+william|威廉（男子名）；[常作W-][美俚]钞票, 纸币
+wrote|write的过去式
+watches|手表（watch的复数）
+www|[计] 全球信息网, WWW浏览器
+williams|威廉姆斯（男子名）
+wa|华盛顿州（Washington State）；担保单独海损（with average）
+wi|熟铁（Wrought Iron）；妇女协会（Women 's Institute）；西印度群岛（West Indies）
+wisconsin|威斯康星
+wales|威尔士
+wars|战争（war的复数形式）
+webmaster|网络管理员
+wilson|威尔逊（姓氏）
+weblog|网络日志
+weapons|武装切换；斗争工具；武器（weapon的复数）
+watching|观看, 守望；监视, 注意（watch现在分词）
+wikipedia|维基百科（一个基于wiki技术的多语言的百科全书协作计划, 也是一部用不同语言写成的网络百科全书, 其目标及宗旨是为全人类提供自由的百科全书）；开放性的百科全书
+wow|interj. (非正式)哇
+writers|作家；作者（writer的复数）
+wheels|旋转；车轮（wheel的复数）
+womens|woman的变形；woman 的复数
+wyoming|怀俄明
+workshops|专题讨论会( workshop的名词复数 ); 车间; 工作坊; 研究会
+wayne|韦恩（男子名）
+wings|舞台两侧, 侧景
+waters|大片的水, 领海, 近海, 海域, 江水, 湖水, 河水, 矿泉水
+wallpapers|壁纸, 墙纸( wallpaper的名词复数 )
+winners|成功者（winner的复数）
+wiki|维基百科（网站名）
+walls|墙壁；墙体（wall的复数）
+woods|森林, 树林
+wins|视窗网际网路名称服务（Windows Internet Name Server）
+writes|写( write的第三人称单数 ); 写信
+wells|威尔斯（姓氏）
+wishlist|意愿清单
+wv|工作电压（Working Voltage）；西弗吉尼亚（West Virginia）
+wright|制作者, 工人
+webcam|网络摄像头
+winds|风( wind的名词复数 ); 呼吸; （随食物或饮料）吞下的气; （管弦乐团的）管乐器
+wearing|穿用的, 使疲惫的, 磨损的
+walter|沃尔特（男子名）
+warner|警告者, 告诫者, 预告者
+wizard|男巫, 术士, 奇才
+weddings|婚礼（wedding的复数形式）
+waves|波（wave的复数形式）
+walked|走路；散步（walk的过去分词）
+worlds|世界( world的复数形式 ); 人世; 世间; 尘世
+watched|注视, 注意（watch的过去式与过去分词形式）
+wishes|（书信或贺卡等中的）祝愿( wish的名词复数 ); 渴望; 希望的事; 许愿
+weekends|在每周末
+wondering|觉得奇怪的, 疑惑的
+ws|[计] 工作区, 工作存储器, 工作站
+wordpress|博客系统（软件名）
+wines|葡萄酒；令人沉醉的东西（wine的复数）
+wages|工资, 报酬, 薪金, 工钱, 报应, 报答, 年产额
+wallace|华莱士（男子名）
+widescreen|宽银幕
+webster|韦伯斯特（姓氏或男子名）
+warnings|发出警告( warning的复数形式 ); 征候; <古>（解雇、辞职等的）预先通知; 可引以为戒的事（或人）
+wired|以金属丝加强的, 接有电线的, 以铁丝围起的
+wy|美国怀俄明州邮递区号（Wyoming）
+watson|[计] 沃森
+wider|宽的；广阔的（wide的比较级形式）
+wal|预写式日志（Write-Ahead Logging）
+windsor|温莎（地名, 伦敦西方的城市）
+warranties|担保；特约条款（warranty的复数）
+walks|搭板, 跳板
+wichita|威奇托（美国堪萨斯州城市）
+wanting|欠缺的, 不足的, 不够格的
+watts|瓦特（功率单位）
+witnesses|目击者( witness的名词复数 ); 证词; 见证（以言行证实信仰）; 见证人
+welsh|威尔士的
+wp|[计] 字处理, 工作区指示字
+worn|用旧的, 穿旧的
+warming|暖和, 加温, 暖热, 温暖, (非正式)打, 鞭打
+wrapping|用于包裹的材料
+wav|声音资源文件；音频文件格式
+winston|温斯顿（姓氏, 男子名）
+wang|王（姓氏）；王安电脑公司
+weights|重量；砝码（weight的复数）
+webcams|网络摄像机，网络摄影机( webcam的名词复数 )
+webmasters|网站管理员
+walt|沃尔特（人名）
+warriors|武士, 勇士, 战士( warrior的复数形式 )
+wm|水表（water flowmeter）；威廉（William）
+warcraft|军用飞机, 军舰, 战略和战术, 兵法
+weighted|偏向的, 偏重的, 有利的
+wb|世界银行
+wives|妻
+wn|绞盘（winch）；营养良好的（well nourished）；西尼罗河（West Nile）；波数（wave number）
+wiring|线路, 接线
+webpage|网页
+wendy|温迪（女子名）
+wrapped|有包装的
+wt|[计] 字终端, 预查
+writings|作品, 篇章（writing的复数形式）
+workstation|工作站
+wto|[计] 给操作员送信息
+ww|栈单（Warehouse Warrant）
+waiver|放弃, 弃权, 弃权声明书
+wesley|韦斯利（男子名）
+wc|厕所
+worcester|伍斯特(①姓氏 ②英国城市 ③美国城市)
+washer|洗衣人, 垫圈, 洗衣机
+workout|试验, 试用, 锻炼
+welding|焊的
+wr|[计] 写入
+wires|电线；线变形器（wire的复数）；小五金；网格
+wx|女式特大号（women's extra large size）
+wma|美国威廉·莫里斯经纪公司（William Morris Agency）；世界医学协会（World Medical Association）；美国专精于野外急救的教育机构（Wilderness Medical Associates）；音频媒体（Window Media Audio）
+westminster|威斯敏斯特
+warned|已警告的
+workflow|工作流程
+wu|西联（Western Union）；工作单位（Work Unit）；武汉航空公司
+whore|娼妓
+webcast|网路广播；网络广播；网络直播
+wiley|威利（姓氏）
+wagner|[电] 瓦格纳接地法
+wishing|期盼着, 希望；愿望
+wiggery|[集合词]假发
+wadder|填充物（wad的变体）
+woolliness|棉性, 羊毛性
+wantonly|嬉闹地；放纵地；繁茂地
+watchmakers|(watchmaker 的复数) n. 钟表匠
+whiteness|白, 苍白, 洁白
+whitens|（使某物）变白或更白( whiten的第三人称单数 )
+woodsmen|护林者, 伐木者( woodsman的名词复数 )
+wept|weep的过去式和过去分词
+whiffing|些微的气味、空气或烟( whiff的现在分词 ); （呼吸时）吸入的少量的某物; <口>难闻的气味
+whiting|白粉, 白垩
+wonna|<英方> = will not
+winnie|维尼（迪斯尼卡通角色名）；温妮（人名）
+wallowed|<喻>沉迷( wallow的过去式和过去分词 ); 热中于; 在海浪中颠簸; 快活地在泥沼中打滚
+wayland|韦兰（日耳曼和英国民间传说中的隐身铁匠）；卫兰德
+wapiti|美洲赤鹿, 马鹿
+wobblies|(wobbly 的复数) a. 摆动的, 不稳定的
+williwaws|(williwaw 的第三人称 -s形式) 威利瓦飑
+washery|洗涤处
+weensy|微小的, 细小的
+workbenches|工作台, 作业台( workbench的复数形式 )
+woolgrower|牧羊业者
+wrested|（用力）拧( wrest的过去式和过去分词 ); <文>费力取得; （从…）攫取; （ 从… ） 强行取去…
+winsome|引人注目的, 迷人的, 可爱的
+wistfulness|惆怅; 渴望; 思念
+wonting|使习惯于( wont的现在分词 ); 习惯, 惯常
+watermanship|水上职业, 划船技术, 水性
+wriggled|扭动, 蠕动, 蜿蜒行进( wriggle的过去式和过去分词 ); （使身体某一部位）扭动; 耍滑不做, 逃避（应做的事等）
+wyte|[主苏格兰英语] ＝wite
+woodwinds|木管乐器( woodwind的复数形式 )
+waspy|似黄蜂的
+washland|泛滥地,河漫滩
+whirly|回旋的, 旋转的
+webwork|网络系统
+windbag|空话连篇的人, 风囊
+whipt|vbl.whip的过去式及过去分词
+wedgelike|楔形的
+wertherism|少年维特式的性格, 多愁善感
+widowhood|寡妇身分, 守寡
+warison|报酬；奖赏; 呐喊, 冲锋的信号声
+wastes|废物, 废料
+weaving|[机] 织动
+whets|（在石头上）磨（刀、斧等）( whet的第三人称单数 ); 引起, 刺激（食欲、欲望、兴趣等）
+werewolves|（故事中）变成狼的人, 狼人( werewolf的名词复数 )
+woodie|斑尾林鸽（等于wood pigeon）
+widened|放宽, 加宽, （使）变宽( widen的过去式和过去分词 )
+wedgewise|呈楔形地
+waff|(作为信号的)挥动, 流浪汉, 没有价值的
+waistcoated|waistcoat的变形
+weening|(ween 的现在分词) vt. 料想, 以为
+worshipped|☉对神的崇拜(或崇敬)；礼拜；礼拜仪式
+waterproofer|防水层[布, 材料]
+wentletrap|[动]梯螺
+weatherhead|(Weatherhead)人名；(英)韦瑟黑德
+witless|无才智的, 不机敏的, 愚蠢的, 糊涂的, 无知的
+whinchats|(whinchat 的第三人称 -s形式) n.[鸟]野翁之类
+weariest|weary（疲倦的）的最高级形式
+wrongs|罪过( wrong的名词复数 ); 不义的行为; 不义行为; 犯罪
+wherefore|为此, 因此
+wrathy|盛怒的, 激怒的
+wrings|绞( wring的第三人称单数 ); 握紧（尤指别人的手）; 把（湿衣服）拧干; 绞掉（水）
+whiles|当……的时间；尽管
+waterbuck|非洲大羚羊
+wadna|<苏格兰> = would not
+widows|寡妇, 遗孀( widow的名词复数 )
+weatherworn|风雨侵蚀的
+whirred|呼呼声( whirr的过去式和过去分词 )
+wawa|瓦瓦（多哥省份名）
+whitter|[人名] 惠特
+waggishly|waggish（滑稽的, 诙谐的）的变形
+wank|手淫
+wiggler|摇摆的人, 蠕动的东西, 孑孓
+whiffet|小狗, 无名小卒, 轻轻一吹
+wicketwork|(=widework)房柱式采煤法
+wheelless|无轮的
+wali|[人名] 瓦利
+watercart|卖水车, 洒水车
+whalehead|[鸟]鲸头鹳
+wobbler|摇摇晃晃的人, 思想动摇的人
+wormholes|虫洞（wormhole 的复数形式）
+wrangled|争吵, 争论, 口角( wrangle的过去式和过去分词 )
+wir|War Information Report 战争信息报告; weekly intelligence review 每周情报评论; West Indian Regiment 西印度群岛军团; Weekly Intelligence Report <情报周报>
+wintriness|寒冷, 冷淡
+waking|醒着的
+waggonage|<主英> = wagonage
+wheeziness|气喘状
+weans|使断奶( wean的第三人称单数 ); （从早年）了解; 经历过; （使）逐渐戒除恶习（或避免依赖…）
+whalery|鲸鱼加工站, 鲸鱼加工船
+worldlet|小世界
+wensleydale|(英国 Yorkshire 产的)温斯利代干酪, 英国产的一种长毛羊
+witchetty|grub [昆]木蠹蛾幼虫( 澳大利亚土著居民作食用)
+wealthiness|wealthy的变形
+whirs|呼呼作声地飞（或转）, 作呼呼声( whir的第三人称单数 ); 使呼呼地飞（或转）, 呼地一声把…带走
+weepiness|[网络] 。iness
+wheelchair|轮椅
+waveoff|[空](信号或指令用语)禁止着陆,复飞
+wagga|[亦作 w-]<澳俚>(把麻袋拆开后缝制而成的)麻袋毯子, 麻袋地毯, 麻袋床罩
+whoosis|不知其名的或一时想不起名字的人或物
+whistleable|可用口哨吹的,适合于用口哨吹的
+willowing|(willow 的现在分词) n. 柳树, 柳木制品
+wist|wit的过去式和过去分词
+waterdog|na. 会游水的狗；熟习水性的人；【动】(美洲)大蝾螈；〈俚〉老练的水手
+wheelbarrow|手推车, 独轮车
+wallful|一墙面的量；墙面面积
+washbasin|脸盆
+wreaker|wreak的变形
+webber|韦伯（姓氏）
+whoredom|卖淫
+wheres|地方, 场所（where的复数形式）
+wrangle|争论, 口角
+waught|<苏格兰> n.大口的吞饮
+weatherology|气象学, 气象状态
+wisplike|wisp的变形
+whipcrack|抽响鞭
+widders|威德斯
+waxings|(waxing 的复数) [医] 上蜡, 蜡膜形成
+weimaraner|[动](德国产)魏玛(猎)狗
+welter|翻滚, 滚动, 沉溺, 浸湿, 起伏
+widgeon|[鸟]野鸭,赤颈凫, 水凫
+wrathless|没有怒气的, 不动怒的
+woodenness|粗鲁的人
+wicky|山月桂, 美国产的桂树(叶有粗长毛, 开粉红色小花)
+welsbach|burner韦耳斯拔煤气喷嘴
+wafture|飘荡[浮], 飘送
+weanling|断奶婴儿
+whitest|苍白的；白的（white的最高级）
+whiggish|辉格党主义的
+worktable|工作台
+wuchereria|[医] 吴策线虫属
+warmongers|战争贩子( warmonger的复数形式 )
+worldlier|(worldly 的比较级) a. 世间的, 世俗的, 世上的
+wielders|(wielder 的复数) n. 行使者
+wellhole|井道; 井底水仓; 垂直大炮眼; 井筒
+windbound|因逆风不能航行的
+wettish|有点湿的, 潮湿的, 有湿气的
+whereat|在那里, 为何
+wirephotos|有线传真( wirephoto的名词复数 )
+wight|人类,人
+whiteheart|白色尖果樱桃
+wyke|(Wyke)人名；(英、瑞典)威克
+wirehair|粗毛狐梗
+wordsmanship|写作艺术(或技巧)
+whitechapel|白教堂；白教堂血案（电视剧名）；怀特查佩尔（英国伦敦斯特普尼市区）
+whooshing|（使）飞快移动( whoosh的现在分词 )
+weighings|(weighing 的复数) [化] 称量
+whereness|就地, 此地；位置
+wides|大口径肠衣；广阔的土地；[板球]坏球（wide的复数）
+wilton|威尔顿机织绒头地毯
+wainable|<废>(土地等)可耕种的,可耕作的
+whitewing|道路清洁工, 清道夫
+waxing|[医] 上蜡, 蜡膜形成
+wergild|[法] 赎罪金, 恤金, 被杀赔偿金
+wifeliness|wifely的变形
+whacky|怪诞的, 发狂的
+wavelengths|<物>波长( wavelength的复数形式 ); 具有相同的/不同的思路; 合拍; 不合拍
+worksheets|(worksheet 的复数) [计] 工作表
+worshippers|崇拜者；礼拜者；爱慕者
+wistful|渴望的, 想望的
+weepers|(weeper 的复数) n. 哭泣者
+waistcoats|马甲, 西装背心( waistcoat的复数形式 )
+workingman|劳动者, 工人
+weaseling|[俗]狡猾, 诡计, 模棱两可的话, 狡猾的, 诡诈的
+worldward|& adj.面向世界(的),朝着世界(的)
+whoosy|不知其名的或一时想不起名字的人或物
+wanigan|贮物箱
+wheatland|小麦地, 适宜种小麦的地
+whiner|哀呜者, 哀诉者, 嘀咕者
+wreaked|诉诸（武力）, 施行（暴力）, 发（脾气）( wreak的过去式和过去分词 )
+whomever|（作动词或介词的宾语时, 有时候用来替代whoever）
+wonderwork|奇迹, 惊人的东西, 奇异的事物
+witney|威特尼厚绒毛毯
+waferer|压片机, 切片机
+widthwise|横着, 纬向地
+wiseman|怀斯曼(姓氏)
+wraf|（英国）皇家空军女子服务队（Woman's Royal Air Force）
+wonted|习惯的, 平常的, 惯例的
+whiskered|有须的
+whinge|喋喋不休地抱怨; 哭诉
+wallonian|& adj.瓦龙语(的),瓦龙人(的)
+wop|(美国)意大利移民
+wordy|罗唆的, 口头的, 多言的
+wonderberry|[网络] 奇迹
+warders|监狱看守( warder的复数形式 ); 法警; 狱吏; 杖
+womenkind|妇女们, 女性
+whitefish|白鲑, 白鲸
+whinnying|发出轻微的嘶声( whinny的现在分词 )
+warrantor|保证人
+woolman|羊毛商
+wienerwurst|维也纳香肠
+wardroom|军官公共生活室, 全体军官
+whoremonger|拉皮条者, 嫖客
+wipes|抹布( wipe的名词复数 ); （湿）纸巾
+weevilly|为象鼻虫蛀的
+wenonah|威诺娜(亦作Wenona)(f.)
+worriment|烦恼, 焦虑
+wavenumber|[化] 波数
+waterflood|洪水
+wallaroo|岩大袋鼠
+woundable|会受伤的, 易受伤的
+whimbrel|杓鹬
+witcher|[人名] 威彻
+wasteland|荒地, 未开垦地
+wirepuller|幕后之操纵者,背后牵线者
+wakeful|觉醒的, 警觉的, 戒备的, 不能入睡的, 失眠的, 不眠的
+wister|威斯特(姓氏)
+weller|美国威乐（公司名）；韦勒（姓氏）
+wei|魏（姓氏）；魏（朝代）；渭河
+worthies|应得某事物( worthy的名词复数 ); 值得做某事; 可尊敬的; 有（某人或事物）的典型特征
+witched|女巫, 巫婆( witch的过去式和过去分词 ); <贬>讨人嫌的丑女人
+whinny|马嘶声
+wyclifite|(英国神学家)威克里夫的信徒
+whitewall|白胎壁轮胎
+wilted|枯萎的；萎蔫的
+wrangles|（尤指长时间的）激烈争吵, 口角, 吵嘴( wrangle的名词复数 )
+whitecap|白帽队队员, 浪端的白泡沫
+waxwork|蜡制品, 蜡像
+whistly|似口哨(或哨子、汽笛)声的,似哨子(或汽笛)的
+winers|(winer 的复数) n. 维纳（姓氏）
+workableness|可行; 可使用
+whelping|下崽( whelp的现在分词 )
+warehoused|仓库；货栈；大商店
+wots|(wot 的复数) vbl.wit的第1、3人称单数现在式
+wraparounds|面罩型太阳眼镜
+wristdrop|[医](因铅毒而生的)腕垂症,手垂症
+woodnotes|(woodnote 的第三人称 -s形式) n. 林中鸟叫声
+woodland|林区, 林地
+wicket|小门, 腰门, 售票窗
+waggly|摇摇晃晃的
+winnow|簸, 扬(谷), 吹掉, 把挑出来, 精选
+wolver|猎狼者
+windlasses|卷扬机, 辘轳, 绞盘( windlass的复数形式 ); 用绞盘吊起
+wany|不等径的；缺棱的；不齐的（等于waney）
+woodwardia|[医] 狗脊蕨属
+wronger|不确实的( wrong的比较级 ); 不道德的; 出错; 不合要求的
+womanist|<美>妇女权利支持者
+whitehead|怀特黑德(①姓氏 ②Alfred North, 1861-1947, 1924年移居美国的英国哲学家、数学家)
+winkelman|[人名] 温克尔曼; [地名] [美国] 温克尔曼
+woodcarver|木雕艺人,木雕家
+wanderers|游荡、漫游的人, 各处走动的动物( wanderer的复数形式 )
+wineglassful|一酒杯的量
+wolfhound|猎狼狗
+wending|行( wend的现在分词 ); 走; 往; 回（家）
+withes|藤条, 细枝( withe的名词复数 )
+wringers|(wringer 的复数) n. 绞扭的人, 绞拧机, 勒索者
+welf|韦尔夫（姓氏）
+weedicide|除草剂
+wingback|[美橄]助攻边卫
+waveringly|摇摆着, 摇动着, 犹豫着
+wellnigh|adv 几乎
+whirlicote|豪华型大马车
+whaleboat|捕鲸小艇, 尖尾长艇
+waxplant|[植]球兰
+wiry|金属线制的, 瘦长结实的
+whines|悲嗥声( whine的名词复数 ); 哀鸣者
+wigglers|(wiggler 的复数) n. 摇摆的人, 蠕动的东西, 孑孓
+wellsite|[矿]钡钙十字石,钙交沸石
+wryness|扭曲（wry的名词）
+weaker|[经] 下跌
+weakhearted|胆怯的, 怯懦的; 好心的, 心软的
+wheelchairs|轮椅( wheelchair的复数形式 )
+willows|柳树( willow的复数形式 ); 柳木
+writs|书面命令, 令状( writ的复数形式 )
+wreak|发泄(怒火), 报仇
+widthways|横向地,横着
+wineless|无酒的
+writhen|纠缠的, 扭转的
+willfully|故意地；任性固执地
+waler|新南威尔士(New South Wales)产的马, 澳洲马
+willes|(wille 的复数)  [人名] 威尔
+wapato|[地名] [美国] 沃帕托
+withdrawment|<罕>= withdrawal
+wannigan|贮物箱
+wagoned|用运货马车运输货物（wagon的过去式与过去分词形式）
+wahabi|（伊斯兰教）瓦哈比教派的教徒
+woomera|澳洲土人用以发射矛箭或标枪的一种器具
+whiteware|[总称]白色陶瓷(器),卫生陶瓷(器)(如抽水马桶、 餐具和绝缘陶瓷)
+waviest|波状的, 有波纹的, 起伏的( wavy的最高级 )
+weaners|(weaner 的复数)  断奶的幼畜, 断奶器
+workaholic|工作迷, 醉心于工作的人
+wauling|痛哭；哇哇叫
+wristbands|(wristband 的复数) n. 袖口
+woolded|卷缠
+winnings|赢得的钱
+womanfolk|妇女们, 女子们
+wayang|哇扬戏(印度尼西亚爪哇的一种古典木偶戏)
+windship|帆船
+worming|[化] 龟裂
+woolpack|卷毛云
+whanging|鞭打, 重击, 重击声( whang的现在分词 )
+wadsetter|抵押人, 典当人; 承受抵押者, 受押权人
+washability|[化] 可洗性
+waterfinder|探测水源的人
+whispery|轻声的
+woodbines|(Woodbine 的复数) n.忍冬属植物,<澳俚>英国人
+wot|vbl.wit的第1、3人称单数现在式
+witted|有...智能的, 有...才智的
+wireways|[电] 线路
+wreaths|花环( wreath的名词复数 ); 花圈; （烟、云等的）圈状物; 环状物
+whisperously|whisperous的变形
+waterily|水的；淡的；湿的；松软的；有雨意的 (watery的变形)
+warlike|准备战斗的, 好战的, 尚武的, 勇于作战的, 军事的
+wristband|袖口
+wilkinson|威尔金森（姓氏）
+weftwise|[纺]纬向地,横向地
+wardmote|[英史](尤指伦敦等地由高级市政官主持的)区市民会议
+warpath|征途, 敌对行动, 敌对情绪
+whetters|磨刀人, 刺激物, 增强物( whetter的名词复数 )
+wolfers|沃尔弗斯
+wellaway|int. 呜呼, 哀哉
+westwardly|向西的, 自西的
+windflaw|(突如其来的)一阵狂风
+watchfully|警惕地, 留心地
+whiptails|(whiptail 的复数)  鞭尾症
+wigless|无假发的, 不戴假发(套)的
+worries|忧虑, 担心；烦恼
+wayside|路旁
+warrantless|warrant的变形；无保证的；未经授权的；无法辩解的；不正当的
+wicks|蜡烛芯( wick的复数形式 ); （油灯的）灯芯; <英俚>不断烦扰某人; 激怒某人
+wimbled|锥；钻孔器；从钻孔中清除碎石的工具
+wanned|（使）变苍白, （使）呈病态( wan的过去式和过去分词 )
+wahlenbergia|[医] 兰花参属(桔梗科)
+womanlike|象女人的, 女子似的, 有女子气质的
+waggoner|御夫（星）座
+wolfish|狼似的, 贪得无厌的, 残暴的
+whelk|酒刺, 峨螺
+walkers|步行者（walker的复数）
+womenswear|妇女服装
+whitetip|白尾尖蜂鸟
+wooler|毛用动物
+wyandotte|怀恩多特鸡(美国卵肉兼用品种鸡)
+withinside|在…之内
+wadi|干河床, 河道, 干谷, 流经干谷的溪流
+wifely|妻的, 像妻的, 适于妻子的
+woos|（向女子）求爱, 求婚( woo的第三人称单数 ); （尤用于报纸）争取得到…的支持
+whangs|皮鞭( whang的名词复数 )
+wooziness|woozy的变形
+waits|等候( wait的第三人称单数 ); 等待; （尤指长期地）希望; 盼望
+warts|疣( wart的复数形式 ); 肉赘; <植>树瘤; 缺点
+weathertight|防风雨的
+wardship|监护
+wormiest|有虫的, 虫蛀的；似虫的；卑躬屈膝的 (wormy的变形)
+wrying|& vi. 歪曲, 扭曲（wry的现在分词形式）
+wooing|（向女子）求爱, 求婚( woo的现在分词 ); （尤用于报纸）争取得到…的支持
+waveless|无波的, 平静的
+woks|锅, 炒菜锅( wok的复数形式 )
+whereinto|进入什么地方, 进入那个地方
+wainer|wain（马车，四轮运货马车）的变形
+wildwoods|(wildwood 的复数) n. 天然林
+whickers|马嘶声
+whimpers|啜泣声, 呜咽声( whimper的名词复数 ); 啜泣者
+wirebird|[鸟]圣赫勒拿鸻
+welcher|骗人, 诈欺者；哪个
+wheezily|气喘地
+windowpane|窗玻璃
+willy|阴茎；阳物；柳树（等于willow）
+walloped|猛击, 击败( wallop的过去式和过去分词 ); 冲过去; 打滚; 颠簸
+waucht|<苏格兰> n.大口的吞饮
+wakamba|[医] 瓦坎巴(一种非洲箭毒)
+watchable|值得注意的, 值得注视的
+weevily|生满象甲的
+warhorses|(warhorse 的复数) n. 军马, <口>老兵, 老练的人
+wielding|手持着使用（武器、工具等）( wield的现在分词 ); 具有; 运用（权力）; 施加（影响）
+windier|有风的( windy的比较级 ); 受风吹的; 废话连篇; 心情紧张的
+woollies|羊毛制的( woolly的复数形式 ); 像羊毛的; <贬>（人或其思想）糊涂的; 不清楚的
+wads|一卷( wad的名词复数 ); 一叠; 小块软物; <美><口>大量（尤指金钱）
+wheatgrass|麦草, 冰草
+wisped|把…卷成小把（wisp的过去式与过去分词形式）
+wac|（美）陆军妇女军团（Women's Army Corps）
+wrongest|不确实的( wrong的最高级 )；不道德的；出错；不合要求的
+wittiness|机智, 临机应变
+wort|草, 植物, 麦芽汁
+workingwomen|妇女运动者, 女工( workingwoman的名词复数 )
+wabi|Windows application binary interface Windows （操作系统）应用程序二进制接口
+wenched|通奸( wench的过去式和过去分词 )
+wishers|(wisher 的复数) n. 祝愿者, 希望者
+wafd|华夫脱党,埃及国民党
+worral|[人名] [英格兰人姓氏] 沃勒尔 Worrall的变体
+wob|washed overboard （保险业用语）浪击落海的; 浪击落水（指被浪冲出舷外）; washing overboard （货物被）浪击落海; 冲失
+woodlarks|(woodlark 的第三人称 -s形式) n.[鸟](欧洲产)森林云雀
+wuzzy|<罕> = woozy
+weel|& adj.<苏格兰>=well
+washup|洗净
+wertherian|(德国诗人歌德)
+wintle|[人名] [英格兰人姓氏] 温特尔 Windle的变体
+wainwright|四轮运货马车修造工
+wondered|对…感到好奇（wonder的过去式与过去分词形式）
+wasted|浪费的
+whitestone|玻璃假宝石
+wharfman|码头带缆工人
+workaday|工作日的, 平常日子的, 普通的
+waxberry|[植]杨梅, 杨梅果
+waterage|水路运输, 水运费
+wench|少妇, 乡下姑娘, 女仆
+wagerer|赌注；赌博；赌物 (wager的变形)
+waw|希伯来语的第六个字母(亦作waw)
+wickiup|椭圆形草棚
+waled|(wale 的过去时) n. 隆起的伤痕, 鞭痕, 凸条纹, 精华, 选择
+wynds|(wynd 的复数) n. 狭巷
+wager|赌注, 赌博, 赌物
+whetted|（在石头上）磨（刀、斧等）( whet的过去式和过去分词 ); 引起, 刺激（食欲、欲望、兴趣等）
+willie|威利（男子名, William的昵称）
+winemaking|葡萄酒酿制
+wristlock|扭曲对方手腕的一招
+wharfie|<澳新口>码头工人,(码头)装卸工人
+wounder|wind的变形
+woofer|低音扬声器
+wearisome|使疲倦的, 使厌倦的, 乏味的
+weightometer|自动称重仪; 称重计
+wooshed|飞快的移动
+welkin|苍穹, 天空
+welshmen|威尔士男子( Welshman的名词复数 )
+washings|(washing 的复数) n. 洗涤, 浸, 洗涤物
+watersheds|分水岭( watershed的复数形式 ); 分水线; 转折点; 流域
+wretchedly|可怜地, 鄙劣地, 差劲地
+wrathful|愤怒的, 愤慨的
+wordsmith|擅长文字的人, 舞文弄墨者；作家
+wrapup|[计] 隐蔽, 收卷
+wearingly|wearing的变形
+wasat|[地名] [缅甸] 瓦萨
+warrantors|(warrantor 的复数) n. 保证人
+wesselton|威塞尔顿钻石
+wye|Y字形物
+widdle|& vi.<口>撒尿,小便
+wrights|(wright 的复数) n. 制作者, 工人
+webwheel|(钟表等的)板轮,盘式轮
+wapperjaw|<口>突出的下巴
+whiplashes|(whiplash 的第三人称 -s形式) n. 鞭子的顶端, 鞭绳
+warlord|军阀, 军阀式领袖
+washbasins|盥洗池, 洗脸池, 洗脸盆( washbasin的复数形式 )
+whipsaw|狭边钩齿粗木锯,双重不利的事物
+wriggly|蠕动的, 回避的
+whammies|(whammy 的复数) n. 吉祥物, 晦气
+winker|使眼色的人, 马眼罩
+wap|无线应用协议（Wireless Application Protocol）；工作分配计划（Work Assignment Plan）
+woodchat|百舌鸟
+whooped|叫喊( whoop的过去式和过去分词 ); 高声说; 唤起
+wildered|（使）迷失, （使）困惑( wilder的过去式和过去分词 )
+waveband|（无线电的）波段
+warrin|[人名] 沃林
+wolfhounds|猎狼犬( wolfhound的复数形式 )
+wowed|<俚>使惊叹, 使佩服( wow的过去式和过去分词 )
+woodworms|木蛀虫( woodworm的复数形式 )
+wainscotting|(wainscot 的现在分词) n. 护壁板, 墙裙
+wayward|任性的, 难以捉摸的, 不稳定的, 刚愎的
+workhouses|囚犯工厂, 贫民习艺所( workhouse的名词复数 )
+wilfulness|任性；倔强
+wrecked|失事的（船）；迷幻的, 兴奋的
+welch|韦尔奇（姓氏）
+willpower|毅力, 意志力
+woodwork|木制品, 木制家具, 木工手艺, 木工活, 房屋内的木建部分
+withdraws|取[收]回( withdraw的第三人称单数 ); （使）撤退[出]; 提; 收回
+whimsy|怪念头, 离奇的东西, 反复无常, 绞盘
+wizened|干枯的, 枯萎的, 干瘪的, 消瘦的
+wherethrough|经其处, 经此
+wheelman|舵手, 骑自行车的男子
+wittol|[古]知道妻子不贞而予以容忍的丈夫
+wrinkles|皱纹；皱褶（wrinkle的复数形式）
+womanpower|妇女力量
+wende|[人名] 温德
+worshipful|崇拜的, 尊敬的, 尊贵的
+woodbox|木柴箱
+womby|有子宫形室的；空洞的
+wittily|机智地, 机敏地, 俏皮地
+weaves|编, 织, 织成( weave的第三人称单数 ); 编排; 杜撰; （把…）编成
+wolfishness|wolfish的变形
+woollen|毛织品
+wandy|<英方>(乐队指挥棒似)长而易弯曲的
+wettability|可湿性
+wising|意识到, 觉察（令人不愉快的实情）( wise的现在分词 )
+whyfor|理由,原因[方言：why]
+weatherstrip|(门、窗的)挡风雨条
+weariness|疲倦, 厌倦, 疲劳
+wariness|谨慎, 注意, 小心
+weaknesses|虚弱( weakness的复数形式 ); 软弱; 弱点; 偏好
+witchcraft|巫术, 魔法, 魔力
+wase|[人名] [苏格兰人、英格兰人姓氏] 韦斯 Wace的变体; [地名] [尼日利亚] 瓦塞
+waifs|无家可归的人( waif的复数形式 ); 流浪儿; 无主的东西或动物; （海上）漂流物
+wholesomely|卫生地, 有益健康地
+wino|醉鬼, 酒鬼
+waverers|(waverer 的复数) n. 摇晃的人, 犹豫不决的人, 动摇不定的人
+waring|华林（一数学问题, 自定义记录中删除将不会付诸循环）；华陵（姓氏）
+whiney|好发牢骚的, 嘀咕不停的,烦躁的
+watermen|船夫, 桨手, 运水人( waterman的名词复数 )
+wheelhouse|舵手室, 驾驶室
+withered|枯萎了的, 雕谢了的
+wartwort|泽漆
+wos|(wo 的复数) abbr. 准尉军官（warrant officer）；陆军部（war office）
+winnock|<苏格兰> = window
+wasteweir|退水堰,弃水堰
+whirring|呼呼作声地飞（或转）, 作呼呼声( whir的现在分词 ); 使呼呼地飞（或转）, 呼地一声把…带走; 呼呼声( whirr的现在分词 )
+wis|知道；以为
+wolverine|[动]狼獾,豹熊,狼獾皮
+weirdos|古怪的人, 奇怪的人( weirdo的复数形式 )
+warns|警告( warn的第三人称单数 ); 提醒; 告诫; 预先通知
+witcheries|巫术, 魅力( witchery的名词复数 )
+willowy|柳树多的, 易弯的, 苗条的, 优雅的
+whimseys|奇想；怪念头
+wayless|无路的
+waylay|伏击, 埋伏
+woodchopper|伐木者
+warring|交战的, 敌对的, 冲突的
+wifie|<口>=wife
+wagonette|(有两排面对面座位的)四轮游览轻便马车
+wounding|[法] 伤害
+whitened|（使某物）变白或更白( whiten的过去式和过去分词 )
+wiriest|(wiry 的最高级) a. 金属线制的, 瘦长结实的
+waldensian|韦尔多教派的人
+womp|(电视荧光屏上突然出现的)白色闪光[拟灯泡等的爆裂声]
+wilders|摆动( wigwag的第三人称单数 )
+whiffled|徐缓地吹, 摇动( whiffle的过去式和过去分词 )
+welted|(welt 的过去时) n. 贴边, 鞭痕, 殴打
+withershins|逆时针方向地, 左向转动地
+wangan|湾岸高速
+wastery|<苏格兰>浪费,挥霍(亦作 wastrie)
+workwise|就工作而言
+wintertide|冬, 冬季
+whalebone|鲸须, 鲸须制品
+whereafter|然后, 随后
+whiggishly|Whiggish的变形
+wavers|匀墨辊；挥动者；烫发师；卷发器；波段开关（waver的复数）
+whangee|紫竹
+whensoever|(=whenever)无论何时
+warks|[方言]痛, 疼痛
+witing|（苏）责难；罚金
+wally|好的, 第一流的, 大的
+woodcarvings|(woodcarving 的复数) n. 木雕
+whitely|产生白色地；发白光地
+worldbeater|举世无双的人, 巨大的成功
+womanliness|女性气质
+whiners|(whiner 的复数) n. 哀呜者, 哀诉者, 嘀咕者
+waterbrain|[兽医]眩倒病
+witnessing|[法] 作证, 证明, 确认
+weldless|无焊缝的
+wainscoted|用护墙板装饰( wainscot的过去式和过去分词 )
+whiling|消磨, 打发（时间）( while的现在分词 ); （愉快而懒散地）度过（时间）（常与 away 连用）
+withstood|withstand的过去式和过去分词
+watter|瓦消耗量, 瓦消耗者
+wapped|包装,卷,缠绕<br />vbl. 包装,卷,缠绕
+wheedle|以甜言蜜语诱惑, 用甜言蜜语骗
+wilder|(使)迷失
+woodsy|树林的
+waldorf|华德福教育；华尔道夫酒店；华道夫（男子名）
+winrow|深沟
+wotteth|<古>wit的第三人称单数现在式
+wayleave|通行权
+wourali|[植]箭毒马鞍子,箭毒(箭毒马鞍子的毒素,南美印地安人用以浸制毒箭)
+warpwise|[纺]经向地
+wesleyism|[网络] 卫浴
+workhorse|载重马, 做重活的人
+wrongheaded|判断错误的, 顽固的, 固执的, 坚持错误的
+wildfowling|& adj. 捕猎野禽的
+withstands|经受, 承受( withstand的第三人称单数 )
+withies|柳树, 柳条绳索( withy的名词复数 )
+whisperings|(whispering 的复数) n. 低语, 私语, 耳语, 流言, 谣言, 沙沙声, 飒飒声
+wisent|欧洲野牛
+waxhaw|[地名] [美国] 瓦克斯霍
+watermark|水位标志, 水印
+withdrawals|收回, 取回, 撤回( withdrawal的复数形式 ); 撤退, 撤走; 收回[取回, 撤回, 撤退, 撤走]的实例; 推出（组织）, 提走（存款）, 戒除毒瘾, 对说过的话收回, 孤僻
+workup|病情的检查, 整理, 引起, 印刷物表面的污迹
+waterproofed|使防水, 使不透水( waterproof的过去式和过去分词 )
+woofers|(woofer 的复数) n. 低音扬声器
+waxbill|梅花雀
+wych|[人名] [英格兰人姓氏] 威奇 Wich的变体
+woodshed|柴间
+witchman|巫医
+wadable|可涉水过的
+warhorse|军马, <口>老兵, 老练的人
+wights|(Wight 的第三人称 -s形式) n.人类,人
+wobbles|<使>晃动( wobble的名词复数 ); <使>摇摆不定; 抖动; 颤动
+windstorm|暴风
+wadeable|可涉水过的
+wirecutters|(wirecutter 的复数)  钢丝钳
+wallman|[人名] [英格兰人姓氏] 沃尔曼 Wall的变体
+wipers|擦拭者( wiper的复数形式 ); 手帕; 雨刷; 接帚
+whatnot|放古董的架子
+waterdrop|滴水, 水滴
+wineberry|悬钩子
+wheeze|喘气
+walsh|沃尔什（姓氏）
+wormier|有虫的, 虫蛀的；似虫的；卑躬屈膝的 (wormy的变形)
+whetting|（在石头上）磨（刀、斧等）( whet的现在分词 ); 引起, 刺激（食欲、欲望、兴趣等）
+wholesales|商品批发；批发（wholesale的复数）
+wieners|[电影]法兰克福香肠
+windburned|饱经风霜的[亦作 windburnt]
+wapentake|小邑
+washers|洗涤者( washer的复数形式 ); 洗涤器; 洗碗机; 洗衣机
+whiteface|[地名] [美国] 怀特费斯
+womanishness|女人气, 女人腔
+wrenches|一拧( wrench的名词复数 ); （身体关节的）扭伤; 扳手; （尤指离别的）悲痛
+warsle|<苏格兰> v.& n.= wrestle
+workbench|工作台
+wettings|(wetting 的复数) n. 变湿
+whalemen|捕鲸者；捕鲸船员
+writhes|（因极度痛苦而）扭动或翻滚( writhe的第三人称单数 )
+waldgrave|[法] 王室管林官
+winged|有翼的, 高速的, 迅速的, 飞行的, 翼受伤的
+waterspouts|海龙卷；排水口
+wisp|小把, 小物体, 纤细的东西
+wakens|醒来, 睡醒( waken的第三人称单数 ); 唤醒, 弄醒; （使）觉醒, （使）振奋, 激发
+workfolks|劳动者
+wresting|摔跤
+witen|wit的复数现在式
+watercolour|水彩画
+waitings|(waiting 的复数) n. 等候
+whittled|切, 削（木头）, 使逐渐变小( whittle的过去式和过去分词 )
+waddles|（像鸭子一样）摇摇摆摆地走( waddle的第三人称单数 )
+waggery|开玩笑, 玩弄恶作剧, 诙谐, 笑话
+woebegone|愁眉苦脸的
+wranglers|争执人( wrangler的复数形式 ); 在争吵的人; （尤指放马的）牧人; 牛仔
+weepingly|weeping的变形
+whirlwind|旋风
+windchest|(管风琴的)风箱
+wadmal|(旧时不列颠诸岛和北欧乡下人穿的) 瓦德麦尔呢
+woodsia|岩蕨属
+weaponless|无武器的, 没有武装的
+wunderkind|(pl. Wunderkinder)[德]神童
+waistband|腰带, 束腰带
+wiredancer|走钢丝演员
+wondrous|令人惊奇的
+wisehead|自以为万事通的人
+washtub|洗衣盆
+whyever|无论任何理由
+wels|[鱼]六须鲇(产于中欧和东欧的淡水鱼,重者可达180克)
+winterberry|[植]美洲冬青
+wetness|湿润, 下雨
+woundless|没有受伤的
+wetproof|防潮的,防水的
+warpage|[机] 翘曲
+wingbeat|飞行时翅膀的拍击
+walapai|[网络] 拉帕人
+weigela|[植]锦带花
+wetly|潮湿地, 有湿气
+whisperingly|whispering的变形
+wrathily|wrathy的变形
+woolward|[人名] 伍尔沃德
+westernizing|（使）西化( westernize的现在分词 )
+wainscoting|壁板料, 壁板
+wonderer|惊奇；奇迹；惊愕 (wonder的变形)
+woolpacks|(woolpack 的第三人称 -s形式) n. 卷毛云
+wrynecked|斜颈的, 脖子歪的
+wellhead|水源, 泉源
+waterbury|沃特伯里（美国康涅狄格州中西部城市）
+wailers|(wailer 的复数)  哀悼者, 恸哭者
+windsock|风向袋, 风向标
+worrisome|令人烦恼的, 麻烦的, 劳碌命的
+whiffer|whiff（吹送, 吹起；喷）的变形
+windbreaks|防风林( windbreak的复数形式 ); 防风物; 防风墙; 防风设备
+weeting|(weet 的现在分词) v.<古>=know
+wrapt|vbl.wrap的过去式及过去分词
+wiretaps|窃听或偷录, 窃听情报, 窃听装置( wiretap的名词复数 )
+whiptail|鞭尾症
+worriless|无忧虑的
+wineglasses|(wineglass 的复数) n. 玻璃酒杯
+wooded|树木繁茂的
+wolly|[英国方言]腌制的黄瓜(或油橄榄)
+wafered|（用封信条）封（信封等）( wafer的过去式 )
+wobbled|<使>晃动( wobble的过去式和过去分词 ); <使>摇摆不定; 抖动; 颤动
+windowpanes|(windowpane 的复数) n. 窗玻璃
+weirdie|<口>古怪的人,怪物,怪事
+wears|穿着( wear的第三人称单数 ); 磨成; 使疲乏; 同意
+womanishly|女人气地, 女人腔地
+warmness|温暖；亲切
+wig|假发, 斥责
+washy|稀薄的, 水分多的, 多水的, 淡的, 退色的, 乏味的, 脆弱的
+wronskian|朗斯基矩阵
+woodhewer|[医]砍林鸟
+warworn|疲于战争的, 饱受战争创伤的
+wavering|摇摆的, 抖动的, 摇曳的, 犹豫不决的, 动摇的
+whoresons|(whoreson 的复数) n. 私生子, 下贱人
+wonton|馄饨
+wasty|浪废的, 废料[物]多的
+windward|向风, 上风
+woolworth|伍尔沃斯（姓氏）
+waffle|胡扯, 闲聊
+wisteria|柴藤
+wireway|电线管道, 电缆
+wispiness|wispy的变形
+walling|砌墙；墙壁
+wristwatches|手表( wristwatch的复数形式 )
+windsail|帆布通风筒, 风车之叶片
+windrowing|干草列, 被风吹集于一处之落叶, 狭长的一行( windrow的现在分词 )
+wrackful|毁坏(性)的,破坏(性)的
+windhover|[动]茶隼
+worthless|无价值的, 无益的, 无足轻重的
+worsened|（使）变得更坏, （使）恶化( worsen的过去式和过去分词 )
+wiretapper|(对电话等)搭线窃听者, 窃听器
+wawled|, n. [主苏格兰英语]=waul
+wallflower|[植]桂足香,桂香香水, 局外人
+whosis|不知其名的或一时想不起名字的人或物
+wareroom|商品陈列室, 商品储藏室
+washerwomen|（旧时的）洗衣女工( washerwoman的名词复数 )
+woolenette|<美>= woollenette
+whinnies|（轻微的）嘶声( whinny的名词复数 )
+wofully|woful的变形
+winder|络纱工, 络筒机, 络纱机, 开发条的钥匙
+whittler|削木者
+winsomeness|winsome的变形
+whop|打, 抽出, 打败, 征服
+whit|些微, 一点点
+whistler|吹口哨的人, 发啸声的东西
+weaning|[医] 断奶
+weekender|外出度周末的人
+whimsies|怪念头( whimsy的名词复数 ); 异想天开; 怪脾气; 与众不同的幽默感
+woolskin|羊毛皮
+wolframium|[化]钨
+woodranger|<美>森林警备队队员
+wherein|在哪方面, 在那方面
+wichtisite|玄武玻璃
+wader|涉水者, 涉禽, 高统防水长靴
+woefulness|忧愁, 可怜
+worklessness|workless的变形
+wantoning|任性( wanton的现在分词 ); 反复无常; 生活奢侈; 挥霍（钱财）
+weeps|（通常因悲伤）哭泣( weep的第三人称单数 ); 流泪; 悲哀; 哀悼
+wrenching|苗木铲根；修截苗根
+whippets|（赛跑用的）小灵狗, 轻型战车( whippet的复数形式 )
+whenabouts|(事件发生的)大约时间
+whippoorwill|[鸟]北美夜鹰
+wracked|失事船只；破坏；[植] 漂积海草
+wolframinium|锑钨耐蚀铝合金
+wheeled|有轮的；轮式的
+willying|, vt. -lied,-lying = willow [亦作 willey]
+wriest|(wry 的最高级) a. 扭歪的, 歪曲的, 歪斜的
+waterbeds|水床；电热充水床垫
+wields|手持着使用（武器、工具等）( wield的第三人称单数 ); 具有; 运用（权力）; 施加（影响）
+wharfage|码头费
+wolffian|body[生](胚胎学用语)沃尔弗体,中肾
+waterskin|(储水或运水用的)革制水袋
+windiest|有风的( windy的最高级 ); 受风吹的; 废话连篇; 心情紧张的
+wrester|夺取
+weirdly|古怪地
+writhing|（因极度痛苦而）扭动或翻滚( writhe的现在分词 )
+wanderjahr|<德> n.(手艺工人在外流动干活学习的)漫游年
+whores|妓女, 男妓( whore的名词复数 ); 性关系不道德的女子
+windlass|绞盘, 辘轳
+witnessed|作证( witness的过去式和过去分词 ); 表示; （摆证据）…就是证据; 是…的迹象
+whitethorn|英国山楂
+wantless|无所需求的
+wincey|上等绒布, 棉绒
+waterless|无水的, 干的, 不用水的
+winifred|威妮弗蕾德(f.)
+whelps|幼兽, 小狗( whelp的名词复数 )
+waterfronts|海[湖]滨, 江边( waterfront的复数形式 )
+woodlark|[鸟](欧洲产)森林云雀
+widgets|窗体小部件；小工具（widget的复数）
+weighter|衡器
+wanger|[人名] 万格
+waxers|(waxer 的复数) 上蜡工, 打蜡工, 上蜡机操作工, 涂蜡机, 上蜡机 waxer man 涂蜡机操作工
+weir|堰, 鱼梁
+wallower|打滚者；沉溺者；纵乐者
+wisps|一缕( wisp的复数形式 ); 一绺; 一小捆; （烟、蒸汽的）一缕
+wesleyans|(wesleyan 的复数) adj. 卫斯理公会派的；约翰卫斯理的
+withamite|[矿]黄红帘石
+winches|绞车起货机; 卷扬机, 绞车, 辘轳( winch的名词复数 )
+webbed|网状的, 有网的
+whin|荆豆
+westmost|最西的, 极西的
+wheresoever|在其上
+wassailed|痛饮, 为…干杯( wassail的过去式和过去分词 )
+wednesdays|每星期三, 在任何星期三
+wardress|监狱女看守, 女典狱官
+widgie|<澳俚>女流氓,女无赖
+whiffs|些微的气味、空气或烟( whiff的名词复数 ); （呼吸时）吸入的少量的某物; <口>难闻的气味
+winery|葡萄酒厂
+weeklong|为时一周的,持续一星期的
+wigwagged|摆动( wigwag的过去式和过去分词 )
+wirespun|抽成铁丝的, 太琐碎的
+wiener|<美>=frankfurter
+winked|使眼色( wink的过去式和过去分词 ); 递眼色（表示友好或高兴等）; （指光）闪烁; 闪亮
+wamp|Wire Antenna Modelling Program 有线天线建模程序
+welcoming|欢迎( welcome的现在分词 ); 迎接; 乐于接受; 希望有
+wraiths|幽灵( wraith的复数形式 ); （传说中人在将死或死后不久的）显形阴魂
+whipstock|鞭杆
+winching|用卷扬机移动…( winch的现在分词 )
+wormwood|苦艾, 苦恼
+wrecks|沉船( wreck的名词复数 ); （事故中）遭严重毁坏的汽车（或飞机等）; （身体或精神上）受到严重损伤的人; 状况非常糟糕的车辆（或建筑物等）
+winnipeg|温尼伯（加拿大城市）
+wawls|号叫；痛哭
+wearifully|weariful的变形
+wittichenite|脆硫铜铋矿, 硫铋铜矿
+woodenware|木制用具
+winceyette|色织棉法兰绒
+whoops|interj. 哎哟
+wintered|过冬（winter的过去式与过去分词形式）
+wilhelm|威廉（William的德语形式, 男子名）
+wacky|古怪的
+warred|进行战斗, 作战（war的过去式与过去分词形式）
+whigmaleerie|胡思乱想, 幻想, 怪想
+whereupon|因此, 于是
+whiplash|鞭子的顶端, 鞭绳
+wiretap|搭线窃听
+wordings|(wording 的复数) n. 用词, 措词
+wallah|要人, 经办业务人
+wrang|wrangler 辩论者, 争吵者
+wonga|[鸟]澳洲大白面鸽[土著语]
+wigwagging|摆动( wigwag的现在分词 )
+woodbin|木柴箱
+waur|& adj.<苏格兰> = war
+whidah|长尾鸟的一种
+wrists|腕, 腕关节( wrist的复数形式 )
+wartweed|[植物]泽漆
+wharfs|码头, 停泊处
+windage|风力影响, 游隙, 风力修正量
+wyomingite|金云斑白榴岩
+wonk|[俚]书呆子, 死用功的学生
+weevil|象甲
+wastages|(wastage 的复数) n. 浪费, 浪费量, 废物
+waif|无家可归者, 无主物, 飘流物, 流浪者, 信号旗
+woold|[航海]卷缠
+wimble|锥, 钻孔器, 钻孔清除器
+washleather|揩拭用（麂）皮, 软革
+wandered|漫游( wander的过去式和过去分词 ); 走神; 神志恍惚; （思想）开小差
+workpeople|工人们, 劳工们
+wernerite|[矿]方柱石
+waterward|向水,朝水
+wrongdoers|做坏事的人, 违法犯罪者, 作恶者( wrongdoer的复数形式 )
+wholism|〈哲〉整体论
+wrastle|, vt.& n.<方>= wrestle
+whished|呼呼作声, 以呼呼声催促( whish的过去式和过去分词 )
+withing|用细枝条捆( withe的现在分词 )
+whitewashing|粉饰, 美化, 掩饰( whitewash的现在分词 ); 喷浆
+woodier|瘦弱的
+wedging|[医] 楔分, 楔开, 楔紧
+washman|男洗衣工
+whydah|[鸟]维达鸟,寡妇鸟(暗色长尾的非洲鸟)
+wackiest|古怪的, 反常的, 疯疯癫癫的( wacky的最高级 )
+wrongdoing|干坏事, 坏事
+wolfgang|沃尔夫冈（男子名）
+warrener|养兔场主, 养兔场管理员
+woundwort|治伤草(如药用水苏、疗伤绒毛花、聚合草、西门肺草等)
+whitmanesque|(美国诗人)惠特曼风格的；惠特曼诗歌风格的
+wildfowl|猎鸟
+whitey|白人社会
+wildwood|天然林
+whoopla|喧哗, 狂欢
+writative|想写作的, 爱写作的
+wurst|香肠
+wolfskin|狼皮
+wasting|造成浪费的, 消耗性的
+winer|维纳（姓氏）
+weakish|有些弱的, 略淡的
+whaleback|鲸背状物, 鲸背甲板船
+warlords|军阀( warlord的复数形式 )
+whare|(新西兰毛利人的)棚屋,房屋
+ween|料想, 以为
+wearers|(wearer 的复数) n. 穿用者
+whittret|<主苏格兰>=weasel
+wristlet|腕套, 护腕
+wordage|文字, 一篇故事中的词汇量, 用词, 措词
+wreathy|花环的, 花圈的, 花冠的
+wrawl|[网络] 挥舞着
+waterwheel|水轮, 水车, 辘轳
+waxer|上蜡工, 打蜡工, 上蜡机操作工, 涂蜡机, 上蜡机 waxer man 涂蜡机操作工
+whereabout|行踪；下落
+waller|石垛工；煤矿井下充填工
+wateriness|多水, 稀薄, 平淡
+warless|无战争的, 不参加战争的
+withholdment|withhold的变形
+wheelbases|前后轮之车轮轴距离, 轴距( wheelbase的复数形式 )
+woodless|无木头的, 无森林的
+warty|有疣的, 多疣的, 似疣的
+wrestled|（与某人）搏斗( wrestle的过去式和过去分词 ); 扭成一团; 扭打; <体>（与…）摔跤
+watchdog|看门狗, 监察人
+washouts|<非正>失败, 惨败( washout的复数形式 )
+weathermost|[海]最上风的,最迎风的
+wops|<方>[昆](大)黄蜂,(大)胡蜂
+woodcutters|伐木者( woodcutter的复数形式 )
+wheatworm|小麦线虫
+winos|(wino 的复数) n. 醉鬼, 酒鬼
+woggle|童子军领带的皮环
+washdown|彻底冲洗
+whiz|飕飕声, 精明的人, 专家
+wkly|weekly 每星期的; 一周的; 周刊; 周报
+walpurgis|Walpurgis Night 沃普尔吉斯之夜（芬兰和瑞典的4月30日）
+wimbling|锥；钻孔器；从钻孔中清除碎石的工具
+whoppers|特大的（或硕大的）东西( whopper的复数形式 ); 谎言; 瞎话; 弥天大谎
+wasteless|用不尽的, 无穷的
+winnowing|扬( winnow的现在分词 ); 辨别; 选择; 除去
+whiffler|经常改变主意的人, 无定见者, 使用遁辞的人, 诡辩者
+withholds|扣留( withhold的第三人称单数 ); 拒绝给予; 抑制（某事物）; 制止
+warf|威斯康星校友研究基金（Wisconsin Alumni Research Foundation）
+worthier|应得某事物( worthy的比较级 ); 值得做某事; 可尊敬的; 有（某人或事物）的典型特征
+walachian|瓦拉几亚[人,语]的
+winking|[医] 瞬目
+witchy|像巫师的；与巫师有关的
+wherry|浅水客货船, 单人双浆小赛艇
+woolf|伍尔夫（英国作家）；伍尔夫（姓氏）
+wisenheimer|<美><俚>自作聪明的人, 自以为无所不知的人
+wynd|狭巷
+willies|焦虑不安；心惊肉跳；小鸡鸡（儿童用语, willy的复数）
+whirlpool|漩涡, 涡流
+waited|等候( wait的过去式和过去分词 ); 等待; （尤指长期地）希望; 盼望
+wyes|字母Y；Y字形物
