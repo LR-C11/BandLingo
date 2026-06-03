@@ -6,11 +6,11 @@ BandLingo是一款专为小米vela穿戴设备（手环/手表快应用）打造
 如果您是普通用户，想使用BandLingo，请去表盘自定义/AstroBox/米坛社区自行搜索下载RPK包安装。
 但如果您是开发者，您可以克隆该仓库到您的设备上，打开 AIoT-IDE 运行 npm -i 即可开始构建的微型语言学习与词汇辅助工具。
 
-#收费与更新
+# 收费与更新
 BandLingo将采取永久免费+开源的形式进行更新，BandLingo不主动向用户收取一分钱
 （不包括BandLingo Pro）
 
-#联系和反馈
+# 联系和反馈
 @LR.C
 QQ：3590283241
 米坛账号链接：[https://www.bandbbs.cn/members/1397083/]
