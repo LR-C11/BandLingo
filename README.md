@@ -9,7 +9,7 @@ BandLingo是一款专为小米vela穿戴设备（手环/手表快应用）打造
 
 # 收费与更新
 BandLingo将采取永久免费+开源的形式进行更新，BandLingo不主动向用户收取一分钱
-（不包括BandLingo Pro）
+（不包括BandLingo Neo及Pro）
 
 # 联系和反馈
 @LR.C
